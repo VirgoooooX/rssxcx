@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jan 2026 16:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 17:21:54 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行一图 207期：一图看懂小米改款 SU7/现款 SU7/YU7 配置差异]]></title>
+            <description><![CDATA[前段时间改款小米 SU7 正式亮相，作为小米首款改款车型，其带来的升级配置同样丰富；既有传承也兼顾了创新，接下来我们就通过这张一图，看看目前小米的三款核心车型有<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/14/cba8c202601140059115433.png">]]></description>
+            <link>https://www.xchuxing.com/article/165326</link>
+            <guid isPermaLink="false">xchuxing:1:165326</guid>
+            <pubDate>Tue, 13 Jan 2026 17:02:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[推出 4 款全新车型 小鹏汽车 2026 年产品规划曝光]]></title>
             <description><![CDATA[日前，我们从 36 氪汽车获悉，2026 款小鹏将会推出 4 款全新车型。推出的 4 款全新车型为小鹏 G01 、小鹏 G02、小鹏 MONA D02 和小鹏<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/13/fca4a20260113211124292.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/165275</link>
             <guid isPermaLink="false">xchuxing:1:165275</guid>
             <pubDate>Mon, 12 Jan 2026 12:38:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[firefly 萤火虫累计交付 4 万台]]></title>
-            <description><![CDATA[1 月 10 日，我们从官方渠道获悉，firefly 萤火虫 4 万台交付达成。...<br><img src="http://s3.xchuxing.com/xchuxing/article/2026/01/12/922be202601122028222263.jpg">]]></description>
-            <link>https://www.xchuxing.com/number-power/25599</link>
-            <guid isPermaLink="false">xchuxing:12:25599</guid>
-            <pubDate>Mon, 12 Jan 2026 12:28:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
