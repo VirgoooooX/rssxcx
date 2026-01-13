@@ -76,6 +76,33 @@ function toDateFromArticle(article) {
     return new Date();
 }
 
+function buildItemUrl(article) {
+    const primaryId = article && (article.object_id ?? article.id);
+    if (!primaryId) return SOURCE_URL;
+
+    const type = Number(article && article.type);
+    if (type === 12) return `https://www.xchuxing.com/number-power/${primaryId}`;
+    if (type === 13) return `https://www.xchuxing.com/short-news/${primaryId}`;
+    return `https://www.xchuxing.com/article/${primaryId}`;
+}
+
+function shouldIncludeArticle(article, nonBriefUrls) {
+    if (!article) return false;
+
+    const type = Number(article.type);
+    if (type !== 13) return true;
+
+    const shortContent = article.short_content;
+    if (!Array.isArray(shortContent) || shortContent.length === 0) return true;
+
+    const urls = shortContent
+        .map((entry) => (entry && typeof entry.url === 'string' ? entry.url.trim() : ''))
+        .filter(Boolean);
+
+    if (urls.length === 0) return true;
+    return !urls.every((u) => nonBriefUrls.has(u));
+}
+
 function extractDescription(article) {
     const summary = article && article.summary;
     if (typeof summary === 'string' && summary.trim()) return summary.trim();
@@ -173,6 +200,19 @@ async function generateRSS() {
             .sort((a, b) => Number(b.created_at || 0) - Number(a.created_at || 0))
             .slice(0, Number.isFinite(MAX_ITEMS) ? Math.max(1, MAX_ITEMS) : 50);
 
+        const itemsWithUrl = sorted.map((article) => ({
+            article,
+            url: buildItemUrl(article),
+        }));
+
+        const nonBriefUrls = new Set(
+            itemsWithUrl
+                .filter(({ article }) => Number(article && article.type) !== 13)
+                .map(({ url }) => url),
+        );
+
+        const filtered = itemsWithUrl.filter(({ article }) => shouldIncludeArticle(article, nonBriefUrls));
+
         const feed = new RSS({
             title: '新出行 - 官方频道',
             description: '新出行官方频道最新资讯',
@@ -182,10 +222,10 @@ async function generateRSS() {
             ttl: 60,
         });
 
-        sorted.forEach((article) => {
+        filtered.forEach(({ article, url }) => {
             const primaryId = article.object_id ?? article.id;
-            const url = primaryId ? `https://www.xchuxing.com/article/${primaryId}` : SOURCE_URL;
-            const guid = primaryId ? `xchuxing:article:${primaryId}` : url;
+            const type = Number(article.type) || 0;
+            const guid = primaryId ? `xchuxing:${type}:${primaryId}` : url;
             const title = typeof article.title === 'string' ? article.title : String(article.title || '');
             const description = extractDescription(article);
             const imageUrl = normalizeImageUrl(article.cover_path || article.cover);

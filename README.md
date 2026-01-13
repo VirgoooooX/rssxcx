@@ -26,9 +26,9 @@ npm run generate
    - Branch 选择 `main`（或你的默认分支），Folder 选择 `/ (root)`
 2. 你将得到一个 Pages 地址，例如：
    - `https://<username>.github.io/<repo>/feed.xml`
-3. 在仓库 Settings → Secrets and variables → Actions → Variables 里添加：
-   - `FEED_URL`：填你的 RSS 地址（上面的 Pages feed.xml 链接）
-   - `SITE_URL`（可选）：不填就默认使用源站 `https://www.xchuxing.com/official`
+3. 在仓库 **Settings** -> **Secrets and variables** -> **Actions** -> **Variables** 选项卡下（注意不是 Secrets），点击 **New repository variable**：
+    - `FEED_URL`：填你的 RSS 地址（上面的 Pages feed.xml 链接）
+    - `SITE_URL`（可选）：默认源站地址 `https://www.xchuxing.com/official`
 
 之后你的订阅地址就是 GitHub Pages 上的 `feed.xml`。
 
