@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jan 2026 15:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 16:21:38 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -84,13 +84,6 @@
             <link>https://www.xchuxing.com/number-power/25599</link>
             <guid isPermaLink="false">xchuxing:12:25599</guid>
             <pubDate>Mon, 12 Jan 2026 12:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[开启合作 2.0 阶段 小马智行与北汽新能源全面深化战略合作]]></title>
-            <description><![CDATA[日前，小马智行与北汽新能源宣布，双方正式达成“五位一体”的全面深化战略合作，开启合作 2.0 阶段。 双方将基于 L4 级 Robotaxi 规模化量产和运营的<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/12/8c2b5202601122016167068.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165274</link>
-            <guid isPermaLink="false">xchuxing:1:165274</guid>
-            <pubDate>Mon, 12 Jan 2026 12:22:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
