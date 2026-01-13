@@ -4,9 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jan 2026 02:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 03:23:31 GMT</lastBuildDate>
+        <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预计 2026 上半年上市 尚界 Z7 官方预告图曝光]]></title>
+            <description><![CDATA[近日，我们从官方渠道获得一组关于尚界 Z7 的官方预告图； 新车基于星云 E1 纯电架构打造， 定位中大型纯电轿跑，售价区间 25-30 万元， 预计将于 20<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/13/39389202601131025493016.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165286</link>
+            <guid isPermaLink="false">xchuxing:1:165286</guid>
+            <pubDate>Tue, 13 Jan 2026 02:39:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[售价 29.98/31.98 万元 问界 M7 增程长续航版正式上市]]></title>
+            <description><![CDATA[1 月 13 日，全新问界 M7 增程长续航版正式上市，五座版和六座版售价分别为 29.98/31.98 万元。动力部分，新车为单电机版本，搭载 1.5T 发动<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/13/b9f37202601131018443999.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165284</link>
+            <guid isPermaLink="false">xchuxing:1:165284</guid>
+            <pubDate>Tue, 13 Jan 2026 02:19:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[不追“车海” 乐道如何打赢 2026「保卫战」？]]></title>
             <description><![CDATA[蔚来 2025 年交出了历史最佳成绩单，三品牌协同发力交付 326,028 台，同比增长 46.9%，重回高速增长通道。但就在 1 月 2 日，CEO 李斌的全<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/12/61f76202601122359102646.jpg">]]></description>
@@ -69,20 +84,6 @@
             <link>https://www.xchuxing.com/article/164900</link>
             <guid isPermaLink="false">xchuxing:1:164900</guid>
             <pubDate>Sun, 11 Jan 2026 16:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[已投放 6150 块全新电池 乐道换电站电池翻倍计划进度达 76.88%]]></title>
-            <description><![CDATA[日前，乐道官方发布消息，截至 1 月 10 日乐道已经增投 6150 块全新电池，电池翻倍计划进度达 76.88%。至 1 月中旬，乐道将会完成换电站电池翻倍计<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/11/ff64e202601112214367466.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/165245</link>
-            <guid isPermaLink="false">xchuxing:1:165245</guid>
-            <pubDate>Sun, 11 Jan 2026 14:18:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推进自动驾驶规模化落地 速腾聚创与希迪智驾达成战略合作]]></title>
-            <description><![CDATA[日前，速腾聚创与希迪智驾宣布达成战略合作，共同推动更安全、更高效、更智能的自动驾驶解决方案的规模化落地，提升无人矿卡、无人物流车等商用车辆的运输效率与作业稳定性<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/11/e10ef202601112046211085.png">]]></description>
-            <link>https://www.xchuxing.com/article/165243</link>
-            <guid isPermaLink="false">xchuxing:1:165243</guid>
-            <pubDate>Sun, 11 Jan 2026 12:48:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
