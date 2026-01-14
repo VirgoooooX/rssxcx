@@ -4,10 +4,19 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Jan 2026 01:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 03:18:38 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 229期：基金狂飙！10万级智能小车淘金挑战赛]]></title>
+            <description><![CDATA[金价现在真的越来越离谱，都飙到1000多一克了！
+这次不搞虚的，来一场10万级智能小车淘金挑战赛
+老铁和多肉分别选择比亚迪海豚和全新MG4来参加挑战，总奖池6000元，看看谁的“战车”能赢得黄金！<br><img src="https://s1.xchuxing.com/video/2026/01/14/d2fb7202601141001167764.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/21151</link>
+            <guid isPermaLink="false">xchuxing:2:21151</guid>
+            <pubDate>Wed, 14 Jan 2026 02:03:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图 207期：一图看懂小米改款 SU7/现款 SU7/YU7 配置差异]]></title>
             <description><![CDATA[前段时间改款小米 SU7 正式亮相，作为小米首款改款车型，其带来的升级配置同样丰富；既有传承也兼顾了创新，接下来我们就通过这张一图，看看目前小米的三款核心车型有<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/14/cba8c202601140059115433.png">]]></description>
@@ -77,13 +86,6 @@
             <link>https://www.xchuxing.com/article/165276</link>
             <guid isPermaLink="false">xchuxing:1:165276</guid>
             <pubDate>Mon, 12 Jan 2026 12:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售区间 29.98-31.98 万元 问界 M7 增程长续航版开启预订]]></title>
-            <description><![CDATA[日前，问界 M7 增程长续航版开启预订，其中五座版预售价 29.98 万元，六座版预售价 31.98 万元。权益方面，下订用户可享 2000 元抵 5000 元<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/12/6af00202601122031189524.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165275</link>
-            <guid isPermaLink="false">xchuxing:1:165275</guid>
-            <pubDate>Mon, 12 Jan 2026 12:38:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
