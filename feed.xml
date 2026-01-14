@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Jan 2026 15:43:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 16:20:23 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -85,13 +85,6 @@
             <link>https://www.xchuxing.com/article/165317</link>
             <guid isPermaLink="false">xchuxing:1:165317</guid>
             <pubDate>Tue, 13 Jan 2026 13:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[共计推出 17 款重点车型 奇瑞集团 2026 年产品规划公布]]></title>
-            <description><![CDATA[近日，我们从官方渠道获取到奇瑞集团 2026 年产品规划。奇瑞集团 2026 年将共计推出 17 款重点车型，包含混动、增程、纯电等能源模式。此外，2026 年<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/13/652ee202601132050032038.png">]]></description>
-            <link>https://www.xchuxing.com/article/165316</link>
-            <guid isPermaLink="false">xchuxing:1:165316</guid>
-            <pubDate>Tue, 13 Jan 2026 12:52:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
