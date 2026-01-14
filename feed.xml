@@ -4,10 +4,16 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Jan 2026 03:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 04:31:48 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[选乐道L80你会必加什么配置？]]></title>
+            <link>https://www.xchuxing.com/article/1374</link>
+            <guid isPermaLink="false">xchuxing:7:1374</guid>
+            <pubDate>Wed, 14 Jan 2026 03:44:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 229期：基金狂飙！10万级智能小车淘金挑战赛]]></title>
             <description><![CDATA[金价现在真的越来越离谱，都飙到1000多一克了！
@@ -79,13 +85,6 @@
             <link>https://www.xchuxing.com/article/165037</link>
             <guid isPermaLink="false">xchuxing:1:165037</guid>
             <pubDate>Mon, 12 Jan 2026 15:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智能驾驶/智能座舱多方面合作 岚图与引望正式签署深化战略合作协议]]></title>
-            <description><![CDATA[1 月 10 日，岚图汽车与引望正式签署深化战略合作协议，双方将在智能驾驶、智能座舱联合开发、To C 软件联合运营等方面深化战略合作。此外，在营销推广、品牌规<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/12/4d98220260112204125901.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165276</link>
-            <guid isPermaLink="false">xchuxing:1:165276</guid>
-            <pubDate>Mon, 12 Jan 2026 12:45:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
