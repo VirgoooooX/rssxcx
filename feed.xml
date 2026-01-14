@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Jan 2026 07:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 08:20:17 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[将于 2 月 14 号实施 特斯拉 FSD 买断方案即将停售]]></title>
+            <description><![CDATA[近日，我们从海外社交媒体获悉，马斯克宣布，将于今年 2 月 14 日后，停售 FSD 买断方案；后续将会采用月度订阅的方式提供。目前国内市场的 FSD 一次性买<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/14/b12ae202601141550402308.jpeg">]]></description>
+            <link>https://www.xchuxing.com/article/165350</link>
+            <guid isPermaLink="false">xchuxing:1:165350</guid>
+            <pubDate>Wed, 14 Jan 2026 07:56:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[乐道成为上海申花足球俱乐部官方合作伙伴]]></title>
             <description><![CDATA[目前，乐道品牌正式成为上海申花足球俱乐部官方合作伙伴。此外，根据官方此前介绍，乐道将会在 2026 年上半年推出乐道 L80 和 L90 激光雷达智驾版。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/14/495c5202601141530399826.jpg">]]></description>
@@ -78,13 +85,6 @@
             <link>https://www.xchuxing.com/article/165286</link>
             <guid isPermaLink="false">xchuxing:1:165286</guid>
             <pubDate>Tue, 13 Jan 2026 02:39:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 29.98/31.98 万元 问界 M7 增程长续航版正式上市]]></title>
-            <description><![CDATA[1 月 13 日，全新问界 M7 增程长续航版正式上市，五座版和六座版售价分别为 29.98/31.98 万元。动力部分，新车为单电机版本，搭载 1.5T 发动<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/13/b9f37202601131018443999.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165284</link>
-            <guid isPermaLink="false">xchuxing:1:165284</guid>
-            <pubDate>Tue, 13 Jan 2026 02:19:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
