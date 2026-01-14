@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Jan 2026 05:46:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 06:23:26 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[四电机/模拟换档 宝马首款纯电 M3 更多技术曝光]]></title>
+            <description><![CDATA[1 月 14 日，官方公布全新 M3 纯电版最新信息，宝马称该车将驾驶体验提升到前所未有的新高度，将赛道的动态表现融入到日常使用中。动力方面，新车将搭载 800<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/14/7dc82202601141405346836.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165342</link>
+            <guid isPermaLink="false">xchuxing:1:165342</guid>
+            <pubDate>Wed, 14 Jan 2026 06:06:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[选乐道L80你会必加什么配置？]]></title>
             <link>https://www.xchuxing.com/article/1374</link>
@@ -78,13 +85,6 @@
             <link>https://www.xchuxing.com/short-news/2177</link>
             <guid isPermaLink="false">xchuxing:13:2177</guid>
             <pubDate>Mon, 12 Jan 2026 16:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[不追“车海” 乐道如何打赢 2026「保卫战」？]]></title>
-            <description><![CDATA[蔚来 2025 年交出了历史最佳成绩单，三品牌协同发力交付 326,028 台，同比增长 46.9%，重回高速增长通道。但就在 1 月 2 日，CEO 李斌的全<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/12/61f76202601122359102646.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165037</link>
-            <guid isPermaLink="false">xchuxing:1:165037</guid>
-            <pubDate>Mon, 12 Jan 2026 15:59:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
