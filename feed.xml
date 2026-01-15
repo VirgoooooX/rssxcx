@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Jan 2026 05:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jan 2026 06:22:03 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[涵盖所有车型 本田将从 2027 年开始使用新 LOGO]]></title>
+            <description><![CDATA[近日，我们从官方渠道获悉，本田将于 2027 年开始在旗下所有车型上使用全新品牌 LOGO，包含新能源车、混动车、赛车等。本田全新品牌 LOGO 最早在 0 S<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/15/77b84202601151410333473.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165372</link>
+            <guid isPermaLink="false">xchuxing:1:165372</guid>
+            <pubDate>Thu, 15 Jan 2026 06:16:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[限量 99 台 萤火虫推出「天马狂想曲」特别版]]></title>
             <description><![CDATA[日前，萤火虫官方宣布将推出萤火虫「天马狂想曲」特别版，该版本联合荷堂当代芝ボ家 JordyvandenNieuwendiik 共同打造，主要区别在于特殊车身拉花<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/15/d4c9e202601150918095160.jpeg">]]></description>
@@ -77,12 +84,6 @@
             <link>https://www.xchuxing.com/article/165342</link>
             <guid isPermaLink="false">xchuxing:1:165342</guid>
             <pubDate>Wed, 14 Jan 2026 06:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[选乐道L80你会必加什么配置？]]></title>
-            <link>https://www.xchuxing.com/article/1374</link>
-            <guid isPermaLink="false">xchuxing:7:1374</guid>
-            <pubDate>Wed, 14 Jan 2026 03:44:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
