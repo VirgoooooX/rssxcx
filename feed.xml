@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Jan 2026 13:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jan 2026 13:55:21 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预计 4 月正式上市 新一代小米 SU7 更多信息公布]]></title>
+            <description><![CDATA[1 月 15 日，小米官方发布更多有关于新一代 SU7 的信息。新车将推出 3 款车型配置，预售区间 22.99-30.99 万元起，预计将于 4 月迎来上市。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/15/b31ae202601152136075576.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165386</link>
+            <guid isPermaLink="false">xchuxing:1:165386</guid>
+            <pubDate>Thu, 15 Jan 2026 13:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 年低息/全系赠送双零重力座椅 小米 YU7 推出限时购车政策]]></title>
+            <description><![CDATA[1 月 15 日，小米官方针对  YU7 推出限时限时购车政策。小米 YU7 限时可享「7 年低息」以及全系赠送双零重力座椅权益。「7 年低息」首付 4.99<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/15/e017e202601152125574064.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165385</link>
+            <guid isPermaLink="false">xchuxing:1:165385</guid>
+            <pubDate>Thu, 15 Jan 2026 13:28:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新能源车型售价 9.18-9.88 万元 五菱星光 560 上市]]></title>
             <description><![CDATA[1 月 15 日，五菱星光 560 正式上市。新车共燃油、插混以及纯电三种动力，其中插混版售价 9.18 万元，置换补贴价 8.88 万元，纯电版售价 9.88<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/15/598a1202601151959231080.jpg">]]></description>
@@ -77,20 +91,6 @@
             <link>https://www.xchuxing.com/short-news/2179</link>
             <guid isPermaLink="false">xchuxing:13:2179</guid>
             <pubDate>Wed, 14 Jan 2026 16:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[或为首款 L3 级量产 SUV 岚图泰山 Ultra 版测试车曝光]]></title>
-            <description><![CDATA[日前，岚图汽车董事长卢放社交媒体上发布了一段岚图泰山进行 L3 级辅助驾驶的视频。有消息称，岚图泰山 Ultra 版或将成为首款 L3 级量产 SUV。早前在岚<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/14/2c219202601141952291527.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/165358</link>
-            <guid isPermaLink="false">xchuxing:1:165358</guid>
-            <pubDate>Wed, 14 Jan 2026 12:04:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[问界第 100 万辆整车下线]]></title>
-            <description><![CDATA[1 月 13 日，“AITO 问界第 100 万辆整车下线”活动在赛力斯超级工厂...<br><img src="http://s3.xchuxing.com/xchuxing/article/2026/01/14/922d7202601141950175782.jpg">]]></description>
-            <link>https://www.xchuxing.com/number-power/25600</link>
-            <guid isPermaLink="false">xchuxing:12:25600</guid>
-            <pubDate>Wed, 14 Jan 2026 11:53:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
