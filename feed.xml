@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Jan 2026 17:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jan 2026 17:55:40 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行一图 209期：一图看懂各家车企 2025 年年度销量目标达成率]]></title>
+            <description><![CDATA[2026 年已然到来，纵观各家车企 2025 年年度销量，有喜有悲。回看车企们年初给自己定下的“KPI”，现如今有多少个达成？我们通过一图形式一起来看看吧！<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/16/bb43a202601160113195470.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165392</link>
+            <guid isPermaLink="false">xchuxing:1:165392</guid>
+            <pubDate>Thu, 15 Jan 2026 17:13:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预计 4 月正式上市 新一代小米 SU7 更多信息公布]]></title>
             <description><![CDATA[1 月 15 日，小米官方发布更多有关于新一代 SU7 的信息。新车将推出 3 款车型配置，预售区间 22.99-30.99 万元起，预计将于 4 月迎来上市。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/15/b31ae202601152136075576.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/165270</link>
             <guid isPermaLink="false">xchuxing:1:165270</guid>
             <pubDate>Wed, 14 Jan 2026 16:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 153期：将于年内正式上市 提前看懂吉利银河战舰]]></title>
-            <description><![CDATA[作为吉利银河旗下首款方盒子越野 SUV——银河战舰，近日在海外已经正式迎来了媒体实拍，新车定位“科技硬核 SUV”。接下来我们就通过这次的文章，带大家快速去了解<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/15/a6033202601150938266145.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165361</link>
-            <guid isPermaLink="false">xchuxing:1:165361</guid>
-            <pubDate>Wed, 14 Jan 2026 16:21:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
