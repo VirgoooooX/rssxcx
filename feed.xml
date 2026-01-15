@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Jan 2026 11:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jan 2026 12:28:56 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新能源车型售价 9.18-9.88 万元 五菱星光 560 上市]]></title>
+            <description><![CDATA[1 月 15 日，五菱星光 560 正式上市。新车共燃油、插混以及纯电三种动力，其中插混版售价 9.18 万元，置换补贴价 8.88 万元，纯电版售价 9.88<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/15/598a1202601151959231080.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165384</link>
+            <guid isPermaLink="false">xchuxing:1:165384</guid>
+            <pubDate>Thu, 15 Jan 2026 12:03:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[宁德时代与中国长安汽车签署五年深化战略合作备忘录]]></title>
             <description><![CDATA[目前，中国长安汽车与宁德时代在重庆签署为期五年的全面深化战略伙伴关系备忘录，围绕技术应用、市场拓展、模式创新、海外布局及品牌传播等方向开展合作。根据介绍，中国长<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/15/09fc5202601151740014521.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/number-power/25600</link>
             <guid isPermaLink="false">xchuxing:12:25600</guid>
             <pubDate>Wed, 14 Jan 2026 11:53:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[引入超 15 款全新和改款产品 奔驰发布 2026 年业务展望]]></title>
-            <description><![CDATA[近日，梅赛德斯 - 奔驰发布 2025 年中国市场表现及 2026 年业务展望。2026 年，梅赛德斯-奔驰将引入超 15 款全新和改款产品，覆盖新生代豪华、核<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/14/625da202601141946322677.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165357</link>
-            <guid isPermaLink="false">xchuxing:1:165357</guid>
-            <pubDate>Wed, 14 Jan 2026 11:47:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
