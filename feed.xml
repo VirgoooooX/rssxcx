@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Jan 2026 09:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jan 2026 09:47:43 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[宁德时代与中国长安汽车签署五年深化战略合作备忘录]]></title>
+            <description><![CDATA[目前，中国长安汽车与宁德时代在重庆签署为期五年的全面深化战略伙伴关系备忘录，围绕技术应用、市场拓展、模式创新、海外布局及品牌传播等方向开展合作。根据介绍，中国长<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/15/09fc5202601151740014521.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165380</link>
+            <guid isPermaLink="false">xchuxing:1:165380</guid>
+            <pubDate>Thu, 15 Jan 2026 09:40:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[计划 3 月在韩国上市 雷诺 Filante 首发亮相]]></title>
             <description><![CDATA[近日，雷诺 Filante 正式首发亮相。新车基于吉利星越 L 打造，配备 1.5T 插混系统。在上市节奏方面，新车将于 3 月在韩国率先上市，然后逐步推广至美<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/15/392d0202601151601185416.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/165357</link>
             <guid isPermaLink="false">xchuxing:1:165357</guid>
             <pubDate>Wed, 14 Jan 2026 11:47:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[将于 2 月 14 号实施 特斯拉 FSD 买断方案即将停售]]></title>
-            <description><![CDATA[近日，我们从海外社交媒体获悉，马斯克宣布，将于今年 2 月 14 日后，停售 FSD 买断方案；后续将会采用月度订阅的方式提供。目前国内市场的 FSD 一次性买<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/14/b12ae202601141550402308.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/165350</link>
-            <guid isPermaLink="false">xchuxing:1:165350</guid>
-            <pubDate>Wed, 14 Jan 2026 07:56:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
