@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jan 2026 15:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 16:18:58 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -84,13 +84,6 @@
             <link>https://www.xchuxing.com/article/165380</link>
             <guid isPermaLink="false">xchuxing:1:165380</guid>
             <pubDate>Thu, 15 Jan 2026 09:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[计划 3 月在韩国上市 雷诺 Filante 首发亮相]]></title>
-            <description><![CDATA[近日，雷诺 Filante 正式首发亮相。新车基于吉利星越 L 打造，配备 1.5T 插混系统。在上市节奏方面，新车将于 3 月在韩国率先上市，然后逐步推广至美<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/15/392d0202601151601185416.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165376</link>
-            <guid isPermaLink="false">xchuxing:1:165376</guid>
-            <pubDate>Thu, 15 Jan 2026 08:19:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
