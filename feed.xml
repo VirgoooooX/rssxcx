@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jan 2026 15:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jan 2026 16:14:45 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -77,13 +77,6 @@
             <link>https://www.xchuxing.com/article/165427</link>
             <guid isPermaLink="false">xchuxing:1:165427</guid>
             <pubDate>Fri, 16 Jan 2026 09:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行一图 209期：一图看懂各家车企 2025 年年度销量目标达成率]]></title>
-            <description><![CDATA[2026 年已然到来，纵观各家车企 2025 年年度销量，有喜有悲。回看车企们年初给自己定下的“KPI”，现如今有多少个达成？我们通过一图形式一起来看看吧！<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/16/bb43a202601160113195470.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165392</link>
-            <guid isPermaLink="false">xchuxing:1:165392</guid>
-            <pubDate>Thu, 15 Jan 2026 17:13:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
