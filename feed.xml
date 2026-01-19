@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jan 2026 12:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 13:39:46 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 231期：全新问界 M7 ADS 4 增强版体验]]></title>
+            <description><![CDATA[全新问界 M7 舱内激光，也就是 ADS 4 增强版表现到底如何？这个视频就来和大家聊一聊。<br><img src="https://s1.xchuxing.com/video/2026/01/19/a6d40202601192045176833.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/21249</link>
+            <guid isPermaLink="false">xchuxing:2:21249</guid>
+            <pubDate>Mon, 19 Jan 2026 12:50:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[将于第一季度正式发布 别克至境 E7 内饰谍照曝光]]></title>
             <description><![CDATA[近日，我们从相关媒体渠道获得一组关于别克至境 E7 的内饰谍照曝光图，该车基于别克“逍遥”超级融合架构打造。预计将在一季度发布并于年内上市。 从谍照可以看到，该<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/19/078ef202601192007518287.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/165461</link>
             <guid isPermaLink="false">xchuxing:1:165461</guid>
             <pubDate>Sun, 18 Jan 2026 02:47:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[定位旗舰车型 长城归元平台全新 SUV 预告图发布]]></title>
-            <description><![CDATA[日前，我们从长城汽车魏牌 CEO 赵永坡社交媒体处获取到一张长城归元平台首款旗舰 SUV 的预告图。根据现有消息来看，魏牌旗舰 SUV 或命名“琥爵”，车身长度<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/18/d3cc8202601181026421410.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165460</link>
-            <guid isPermaLink="false">xchuxing:1:165460</guid>
-            <pubDate>Sun, 18 Jan 2026 02:38:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
