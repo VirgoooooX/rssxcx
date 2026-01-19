@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jan 2026 14:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 14:52:05 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 232期：“天生玩家，全能开场”——iCAR V27动态试驾]]></title>
+            <description><![CDATA[天生玩家！全能开场！作为iCAR 的全新车型，V27依旧保留了家族化的复古未来风格，但是带来了更大的尺寸更多的玩法。这期视频跟着小北在丽江一起体验这台好看！好开！好玩的天生玩家吧！<br><img src="https://s1.xchuxing.com/video/2026/01/19/a7fd4202601192228153688.png">]]></description>
+            <link>https://www.xchuxing.com/article/21254</link>
+            <guid isPermaLink="false">xchuxing:2:21254</guid>
+            <pubDate>Mon, 19 Jan 2026 14:42:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 231期：全新问界 M7 ADS 4 增强版体验]]></title>
             <description><![CDATA[全新问界 M7 舱内激光，也就是 ADS 4 增强版表现到底如何？这个视频就来和大家聊一聊。<br><img src="https://s1.xchuxing.com/video/2026/01/19/a6d40202601192045176833.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/165469</link>
             <guid isPermaLink="false">xchuxing:1:165469</guid>
             <pubDate>Sun, 18 Jan 2026 07:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全系可享至高 1.2 万元购置税补贴 智界推出新春购置税补贴]]></title>
-            <description><![CDATA[日前，智界品牌推出新春购置税补贴。2 月 2 日前智界全系限时可享至高 12,000 元购置税补贴。下定智界 R7 至高可享 49,000 元购车权益，智界新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/18/08d2a202601181047247738.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165461</link>
-            <guid isPermaLink="false">xchuxing:1:165461</guid>
-            <pubDate>Sun, 18 Jan 2026 02:47:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
