@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jan 2026 01:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 03:20:22 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预售区间 31.98-38.38 万元 吉利银河 V900 将于 1 月 20 日上市]]></title>
+            <description><![CDATA[近日，我们从官方渠道获悉，吉利银河 V900 将于 1 月 20 日正式上市。新车此前已开启预售，共推出 3 款配置，预售价区间 31.98-38.38 万元。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/19/f80cb202601191018022478.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165486</link>
+            <guid isPermaLink="false">xchuxing:1:165486</guid>
+            <pubDate>Mon, 19 Jan 2026 02:18:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 154期：逐帧分析尚界 Z7]]></title>
             <description><![CDATA[逐帧深挖尚界 Z7 曝光的谍照与官方细节图，这款鸿蒙智行首款轿跑的每一处设计都藏着突围同级差异化野心。从伪装路试的动态姿态到无伪装细节的静态呈现，它试图以鸿蒙家<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/18/a74ee202601181611489505.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/165452</link>
             <guid isPermaLink="false">xchuxing:1:165452</guid>
             <pubDate>Sun, 18 Jan 2026 01:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[999 元可参与 风云 A9 开启全民众筹计划]]></title>
-            <description><![CDATA[日前，我们从官方渠道获悉，奇瑞风云 A9 开启全民众筹计划，目标 5000 人，用户可 999 元参与众筹，享价值 8000 元专属功能配置。外观方面，奇瑞风云<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/17/c72ec202601172353405419.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165454</link>
-            <guid isPermaLink="false">xchuxing:1:165454</guid>
-            <pubDate>Sun, 18 Jan 2026 01:58:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
