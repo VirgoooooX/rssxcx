@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jan 2026 11:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 12:31:37 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 26.98~32.98 万元 吉利银河 V900 正式上市]]></title>
+            <description><![CDATA[1 月 20 日，吉利银河 V900 正式上市，新车共推出 3 款车型配置，限时售价 26.98~32.98 万元。吉利银河 V900 定位吉利银河 V 系列旗<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/20/9fb87202601201709334469.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165545</link>
+            <guid isPermaLink="false">xchuxing:1:165545</guid>
+            <pubDate>Tue, 20 Jan 2026 12:30:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[深化“代步+主流”矩阵 上汽通用五菱 2026 年产品节奏曝光]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉上汽通用五菱 2026 年的产品节奏曝光；2026年中五菱将继续深化“代步+主流”矩阵推出更多车型。其中新能源车型将会推出五菱宏光 MI<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/20/6d4c9202601201926146492.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/21254</link>
             <guid isPermaLink="false">xchuxing:2:21254</guid>
             <pubDate>Mon, 19 Jan 2026 14:42:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 231期：全新问界 M7 ADS 4 增强版体验]]></title>
-            <description><![CDATA[全新问界 M7 舱内激光，也就是 ADS 4 增强版表现到底如何？这个视频就来和大家聊一聊。<br><img src="https://s1.xchuxing.com/video/2026/01/19/a6d40202601192045176833.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/21249</link>
-            <guid isPermaLink="false">xchuxing:2:21249</guid>
-            <pubDate>Mon, 19 Jan 2026 12:50:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
