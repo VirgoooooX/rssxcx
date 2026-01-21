@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jan 2026 08:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 08:54:17 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[首发理想 AD Pro 车型 轻舟智航地平线单征程 6M 城市 NOA 方案量产上车]]></title>
+            <description><![CDATA[日前，轻舟智航宣布，行业首个基于地平线单征程 6M 的城市 NOA 方案实现量产上车，首发搭载车型为理想 L 系列AD Pro 智能焕新版车型。该方案由理想汽车<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/21/8fc4b202601211616206000.png">]]></description>
+            <link>https://www.xchuxing.com/article/165574</link>
+            <guid isPermaLink="false">xchuxing:1:165574</guid>
+            <pubDate>Wed, 21 Jan 2026 08:27:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[40 项新增功能 25 项体验优化 理想迎来 OTA 8.2 升级]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，理想汽车正式迎来 OTA 8.2 升级，这次升级涉及 40 项新增功能和 25 项体验优化，新增VLA 司机大模型行为强化学习，并且座<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/21/81bca202601211515161416.png">]]></description>
@@ -95,13 +102,6 @@ heart of joy，这个原本是要用一个晦涩的名词，因为它解释的�
             <link>https://www.xchuxing.com/article/165536</link>
             <guid isPermaLink="false">xchuxing:1:165536</guid>
             <pubDate>Tue, 20 Jan 2026 06:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[直播回放 | 新出行 贺磊&小白同学 独家爆料尚界Z7]]></title>
-            <description><![CDATA[由新出行 贺磊&最懂鸿蒙智行的新出行 小白同学 为你带来独家爆料，本期内容干货满满，值得点赞收藏。<br><img src="https://s1.xchuxing.com/video/2026/01/20/97a02202601201032039425.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/21259</link>
-            <guid isPermaLink="false">xchuxing:2:21259</guid>
-            <pubDate>Tue, 20 Jan 2026 02:40:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
