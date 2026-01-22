@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jan 2026 14:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 14:54:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[首款基于“归元”平台打造车型 魏牌旗舰 SUV 谍照曝光]]></title>
+            <description><![CDATA[近日，我们从相关渠道获得一组长城魏牌旗下旗舰 SUV 的谍照曝光图，该车是首款基于“归元”平台打造的车型。长城汽车 1 月 16 日发布的全球首个原生 AI 全<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/22/e8f46202601222234563092.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165628</link>
+            <guid isPermaLink="false">xchuxing:1:165628</guid>
+            <pubDate>Thu, 22 Jan 2026 14:35:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[全栈 900V 高压架构 极氪 8X 动力信息曝光]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉极氪 8X 的动力相关参数，该车为极氪品牌 2026 年全新巅峰之作；定位插混 5/6 座 SUV 车型。从曝光的消息可以看到，新车采用<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/22/b6490202601221710174474.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/165579</link>
             <guid isPermaLink="false">xchuxing:1:165579</guid>
             <pubDate>Wed, 21 Jan 2026 09:42:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[首发理想 AD Pro 车型 轻舟智航地平线单征程 6M 城市 NOA 方案量产上车]]></title>
-            <description><![CDATA[日前，轻舟智航宣布，行业首个基于地平线单征程 6M 的城市 NOA 方案实现量产上车，首发搭载车型为理想 L 系列AD Pro 智能焕新版车型。该方案由理想汽车<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/21/8fc4b202601211616206000.png">]]></description>
-            <link>https://www.xchuxing.com/article/165574</link>
-            <guid isPermaLink="false">xchuxing:1:165574</guid>
-            <pubDate>Wed, 21 Jan 2026 08:27:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
