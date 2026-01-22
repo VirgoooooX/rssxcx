@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jan 2026 01:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 03:19:19 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 237期：理想 8.2 版本体验 辅助驾驶体验升级]]></title>
+            <description><![CDATA[理想汽车正式推送了 OTA8.2 版本，本次升级内容同样丰富，辅助驾驶、智能座舱和智能电动都有升级，升级后体验如何？这期视频就和大家聊一聊。<br><img src="https://s1.xchuxing.com/video/2026/01/22/d576e202601221004053785.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/21328</link>
+            <guid isPermaLink="false">xchuxing:2:21328</guid>
+            <pubDate>Thu, 22 Jan 2026 02:06:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图 210期：一图看懂小鹏D03]]></title>
             <description><![CDATA[小鹏 D03 车型是小鹏 MONA 系列推出的第二款新车，新车定位为中型 SUV，预计在今年第二季度正式上市。这一次我们结合网络上的信息，以新出行一图的方式带大<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/22/047d0202601220854156776.png">]]></description>
@@ -95,13 +102,6 @@ heart of joy，这个原本是要用一个晦涩的名词，因为它解释的�
             <link>https://www.xchuxing.com/article/21290</link>
             <guid isPermaLink="false">xchuxing:2:21290</guid>
             <pubDate>Wed, 21 Jan 2026 02:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自主品牌强势领跑 点评 2025 中国新能源乘用车市场]]></title>
-            <description><![CDATA[在政策切换、成本波动与技术革新交织等多方面因素的影响下，2025 年全国乘用车市场正式迈入“新能源主导”的新阶段，纯电反超插混与自主强势领跑成为全年最亮眼的标签<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/14/d1182202601141420494433.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165299</link>
-            <guid isPermaLink="false">xchuxing:1:165299</guid>
-            <pubDate>Tue, 20 Jan 2026 15:53:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
