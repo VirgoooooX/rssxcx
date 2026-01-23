@@ -4,10 +4,23 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jan 2026 08:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 09:22:21 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 29.68/31.68 万元 乐道 L90 马到成功版上市]]></title>
+            <description><![CDATA[1 月 23 日，乐道 L90 马到成功版上市，共推出 Max、Ultra 两款配置车型：其中，乐道 L90 Ultra 马到成功版整车购买 31.68 万元、<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/bc520202601231709115447.png">]]></description>
+            <link>https://www.xchuxing.com/article/165659</link>
+            <guid isPermaLink="false">xchuxing:1:165659</guid>
+            <pubDate>Fri, 23 Jan 2026 09:10:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乐道L90马到成功版的座椅是单色，而乐道L60座椅是拼色设计，你更喜欢哪种？]]></title>
+            <link>https://www.xchuxing.com/article/1378</link>
+            <guid isPermaLink="false">xchuxing:7:1378</guid>
+            <pubDate>Fri, 23 Jan 2026 08:54:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[多线并进 一文看懂 2026 轻舟智航 QCRAFT DAY]]></title>
             <description><![CDATA[在 2026 轻舟智航 QCRAFT DAY ，轻舟智航为我们带来了量产城市 NOA 辅助驾驶最新成绩，全新轻舟乘风解决方案公布，L4 自动驾驶开放平台、L4<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/c5222202601231530122581.jpg">]]></description>
@@ -78,20 +91,6 @@
             <link>https://www.xchuxing.com/article/165606</link>
             <guid isPermaLink="false">xchuxing:1:165606</guid>
             <pubDate>Thu, 22 Jan 2026 04:54:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 237期：理想 8.2 版本体验 辅助驾驶体验升级]]></title>
-            <description><![CDATA[理想汽车正式推送了 OTA8.2 版本，本次升级内容同样丰富，辅助驾驶、智能座舱和智能电动都有升级，升级后体验如何？这期视频就和大家聊一聊。<br><img src="https://s1.xchuxing.com/video/2026/01/22/d576e202601221004053785.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/21328</link>
-            <guid isPermaLink="false">xchuxing:2:21328</guid>
-            <pubDate>Thu, 22 Jan 2026 02:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行一图 210期：一图看懂小鹏D03]]></title>
-            <description><![CDATA[小鹏 D03 车型是小鹏 MONA 系列推出的第二款新车，新车定位为中型 SUV，预计在今年第二季度正式上市。这一次我们结合网络上的信息，以新出行一图的方式带大<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/22/047d0202601220854156776.png">]]></description>
-            <link>https://www.xchuxing.com/article/165597</link>
-            <guid isPermaLink="false">xchuxing:1:165597</guid>
-            <pubDate>Thu, 22 Jan 2026 00:56:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
