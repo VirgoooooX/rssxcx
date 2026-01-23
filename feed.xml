@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jan 2026 01:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 03:14:34 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[【投票】你最喜欢新一代SU7的哪款轮毂？]]></title>
+            <description><![CDATA[新一代 SU7有6款轮毂可选，有大家喜欢的梅花轮毂，也有新款的锋刃轮毂。你最喜欢哪一款呢？]]></description>
+            <link>https://www.xchuxing.com/article/1377</link>
+            <guid isPermaLink="false">xchuxing:7:1377</guid>
+            <pubDate>Fri, 23 Jan 2026 02:17:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX-Test续航实测 71期：荣威 M7 纯电续航、油耗及充电测试]]></title>
             <description><![CDATA[10 万左右，你就能够买到一台车长接近 5 米的大轿车，并且还有着较为不错的动力和纯电续航。那么这一次，就让我们一起来看看，荣威 M7 DMH 在纯电续航、油耗<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/22/9c1d2202601221816126894.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/short-news/2186</link>
             <guid isPermaLink="false">xchuxing:13:2186</guid>
             <pubDate>Wed, 21 Jan 2026 16:25:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深蓝汽车累计交付达成 70 万台]]></title>
-            <description><![CDATA[近日我们从官方渠道获悉，深蓝汽车累计交付达成 70 万，2025 年全球销量 3...<br><img src="http://s3.xchuxing.com/xchuxing/article/2026/01/21/b29fe202601212339474139.webp">]]></description>
-            <link>https://www.xchuxing.com/number-power/25601</link>
-            <guid isPermaLink="false">xchuxing:12:25601</guid>
-            <pubDate>Wed, 21 Jan 2026 15:39:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
