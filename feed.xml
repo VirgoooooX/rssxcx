@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jan 2026 13:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 14:18:27 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预计将于北京车展亮相 奕境新车测试谍照图曝光]]></title>
+            <description><![CDATA[近日，我们从官方渠道获得一组关于奕境新车寒测谍照曝光图，该车型由东风与华为乾崑以“平等共创”模式联合打造的品牌，预计将于 4 月北京车展正式亮相，将于年内正式上<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/a666920260123214422111.png">]]></description>
+            <link>https://www.xchuxing.com/article/165675</link>
+            <guid isPermaLink="false">xchuxing:1:165675</guid>
+            <pubDate>Fri, 23 Jan 2026 13:45:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[累计自建站超 2000 座 smart 正式接入浩瀚能源充电网络]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，smart 正式接入浩瀚能源充电网络。据了解，目前浩瀚能源全国累计自建充电站超 2000座，其中充电桩超 1 万根，覆盖全国 216<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/1ee97202601232110484708.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/number-power/25602</link>
             <guid isPermaLink="false">xchuxing:12:25602</guid>
             <pubDate>Thu, 22 Jan 2026 15:56:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[首款基于“归元”平台打造车型 魏牌旗舰 SUV 谍照曝光]]></title>
-            <description><![CDATA[近日，我们从相关渠道获得一组长城魏牌旗下旗舰 SUV 的谍照曝光图，该车是首款基于“归元”平台打造的车型。长城汽车 1 月 16 日发布的全球首个原生 AI 全<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/22/e8f46202601222234563092.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165628</link>
-            <guid isPermaLink="false">xchuxing:1:165628</guid>
-            <pubDate>Thu, 22 Jan 2026 14:35:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
