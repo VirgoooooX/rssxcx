@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jan 2026 07:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 07:45:00 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[多线并进 一文看懂 2026 轻舟智航 QCRAFT DAY]]></title>
+            <description><![CDATA[在 2026 轻舟智航 QCRAFT DAY ，轻舟智航为我们带来了量产城市 NOA 辅助驾驶最新成绩，全新轻舟乘风解决方案公布，L4 自动驾驶开放平台、L4<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/c5222202601231530122581.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165653</link>
+            <guid isPermaLink="false">xchuxing:1:165653</guid>
+            <pubDate>Fri, 23 Jan 2026 07:30:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 238期：华为乾崑、FSD车主S级难度路线挑战：方程豹钛7“天神之眼B”竟然这么强了！]]></title>
             <description><![CDATA[方程豹钛7上市以来，硬核产品力霸屏各大销量榜单！
@@ -85,13 +92,6 @@
             <link>https://www.xchuxing.com/article/165597</link>
             <guid isPermaLink="false">xchuxing:1:165597</guid>
             <pubDate>Thu, 22 Jan 2026 00:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 236期：从从容容还是连滚带爬？冰雪试驾昊铂 A800]]></title>
-            <description><![CDATA[告诉你一个秘密，一台车最容易做到的，是把账面数据做得漂亮；但最难的是把这份漂亮，稳稳扛过最极端的环境......<br><img src="https://s1.xchuxing.com/video/2026/01/22/098c1202601220359503413.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/21324</link>
-            <guid isPermaLink="false">xchuxing:2:21324</guid>
-            <pubDate>Wed, 21 Jan 2026 20:04:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
