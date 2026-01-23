@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jan 2026 11:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 11:41:09 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[或于 2 月份上线 FSD 有望于在中国正式获批]]></title>
+            <description><![CDATA[近日，我们从海外媒体渠道获悉，马斯克在会场表示 FSD 有望于下个月在中国正式获批。 此前，马斯克宣布，将于今年 2 月 14 日后，停售 FSD 买断方案；后<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/35134202601231940447508.jpeg">]]></description>
+            <link>https://www.xchuxing.com/article/165668</link>
+            <guid isPermaLink="false">xchuxing:1:165668</guid>
+            <pubDate>Fri, 23 Jan 2026 11:41:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 29.68/31.68 万元 乐道 L90 马到成功版上市]]></title>
             <description><![CDATA[1 月 23 日，乐道 L90 马到成功版上市，共推出 Max、Ultra 两款配置车型：其中，乐道 L90 Ultra 马到成功版整车购买 31.68 万元、<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/bc520202601231709115447.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/165607</link>
             <guid isPermaLink="false">xchuxing:1:165607</guid>
             <pubDate>Thu, 22 Jan 2026 05:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[搭载双图灵芯片 大众与众 08 配置曝光]]></title>
-            <description><![CDATA[近日，我们从相关渠道获得一组关于大众与众 08 的配置曝光图，从图中可以看到该车将采用小鹏的图灵芯片，并且搭载了两块，总算力 1500TOPS。此前安徽大众正式<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/22/25abd202601221254139128.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165606</link>
-            <guid isPermaLink="false">xchuxing:1:165606</guid>
-            <pubDate>Thu, 22 Jan 2026 04:54:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
