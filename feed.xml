@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jan 2026 11:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 12:30:13 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[将于 2026 年亮相 奇瑞与捷豹路虎首款 Freelander 合作车型谍照曝光]]></title>
+            <description><![CDATA[近日，我们从相关渠道获悉，奇瑞与捷豹路虎联合打造的全新电动车品牌 Freelander 首款车型预计将于 2026 年率先在中东市场亮相。该车是首款基于奇瑞 E<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/be111202601231950421703.png">]]></description>
+            <link>https://www.xchuxing.com/article/165669</link>
+            <guid isPermaLink="false">xchuxing:1:165669</guid>
+            <pubDate>Fri, 23 Jan 2026 11:52:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[或于 2 月份上线 FSD 有望于在中国正式获批]]></title>
             <description><![CDATA[近日，我们从海外媒体渠道获悉，马斯克在会场表示 FSD 有望于下个月在中国正式获批。 此前，马斯克宣布，将于今年 2 月 14 日后，停售 FSD 买断方案；后<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/35134202601231940447508.jpeg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/165621</link>
             <guid isPermaLink="false">xchuxing:1:165621</guid>
             <pubDate>Thu, 22 Jan 2026 09:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[采用 SPA3 纯电平台 沃尔沃 EX60 正式发布]]></title>
-            <description><![CDATA[近日，我们官方渠道获悉，沃尔沃旗下 EX60 正式发布， 新车基于 SPA3 纯电平台开发，预计将于年内正式上市。造型方面，从最新的官图可以看到该车采用了家族式<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/22/b79e1202601221305574779.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165607</link>
-            <guid isPermaLink="false">xchuxing:1:165607</guid>
-            <pubDate>Thu, 22 Jan 2026 05:06:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
