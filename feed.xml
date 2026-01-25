@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jan 2026 15:40:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 16:16:24 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 239期：冰雪试驾问界 M9]]></title>
+            <description><![CDATA[这一次冰雪试驾，我们来到了大东北，来体验问界的全系车型，看看在极寒情况下，问界能有怎样的体验。<br><img src="https://s1.xchuxing.com/video/2026/01/22/a2006202601222219512580.png">]]></description>
+            <link>https://www.xchuxing.com/article/21354</link>
+            <guid isPermaLink="false">xchuxing:2:21354</guid>
+            <pubDate>Sun, 25 Jan 2026 16:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[XCX-Test深度实测 32期：深度体验问界 M7 增程]]></title>
+            <description><![CDATA[原本我是想试试舱内激光雷达的城市 NOA 功能，结果没仔细了解，原来城市 NOA 功能还没推送。（因为真没在街上看到过 Pro+ 版的问界 M7，路上看到的基本<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/459c0202601232058184779.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165559</link>
+            <guid isPermaLink="false">xchuxing:1:165559</guid>
+            <pubDate>Sun, 25 Jan 2026 16:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 240期：日产大沙发真有那么舒服？]]></title>
             <description><![CDATA[这是《新出行显微镜》栏目的第一期内容！显微镜这档栏目是通过我们的视角，放大值得被关注，或者说被大家埋没的一些好的功能和设计点。第一期的主角就是日产 N6，来看看我们经常说的“日产大沙发”是否真有那么强？<br><img src="https://s1.xchuxing.com/video/2026/01/25/51209202601252328188261.jpg">]]></description>
@@ -77,20 +91,6 @@
             <link>https://www.xchuxing.com/article/165675</link>
             <guid isPermaLink="false">xchuxing:1:165675</guid>
             <pubDate>Fri, 23 Jan 2026 13:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[累计自建站超 2000 座 smart 正式接入浩瀚能源充电网络]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，smart 正式接入浩瀚能源充电网络。据了解，目前浩瀚能源全国累计自建充电站超 2000座，其中充电桩超 1 万根，覆盖全国 216<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/1ee97202601232110484708.png">]]></description>
-            <link>https://www.xchuxing.com/article/165672</link>
-            <guid isPermaLink="false">xchuxing:1:165672</guid>
-            <pubDate>Fri, 23 Jan 2026 13:11:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[将于 2026 年亮相 奇瑞与捷豹路虎首款 Freelander 合作车型谍照曝光]]></title>
-            <description><![CDATA[近日，我们从相关渠道获悉，奇瑞与捷豹路虎联合打造的全新电动车品牌 Freelander 首款车型预计将于 2026 年率先在中东市场亮相。该车是首款基于奇瑞 E<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/be111202601231950421703.png">]]></description>
-            <link>https://www.xchuxing.com/article/165669</link>
-            <guid isPermaLink="false">xchuxing:1:165669</guid>
-            <pubDate>Fri, 23 Jan 2026 11:52:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
