@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jan 2026 15:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 15:40:06 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 240期：日产大沙发真有那么舒服？]]></title>
+            <description><![CDATA[这是《新出行显微镜》栏目的第一期内容！显微镜这档栏目是通过我们的视角，放大值得被关注，或者说被大家埋没的一些好的功能和设计点。第一期的主角就是日产 N6，来看看我们经常说的“日产大沙发”是否真有那么强？<br><img src="https://s1.xchuxing.com/video/2026/01/25/51209202601252328188261.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/21454</link>
+            <guid isPermaLink="false">xchuxing:2:21454</guid>
+            <pubDate>Sun, 25 Jan 2026 15:36:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[将于北京车展亮相 smart 精灵#2 原型车节奏曝光]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，smart 旗下经典双门双座小车 smart 精灵 #2 原型概念车将于 4 月北京车展正式亮相。新车定位为 A00 级经典小车，并且<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/25/284b8202601251332153765.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/165669</link>
             <guid isPermaLink="false">xchuxing:1:165669</guid>
             <pubDate>Fri, 23 Jan 2026 11:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[或于 2 月份上线 FSD 有望于在中国正式获批]]></title>
-            <description><![CDATA[近日，我们从海外媒体渠道获悉，马斯克在会场表示 FSD 有望于下个月在中国正式获批。 此前，马斯克宣布，将于今年 2 月 14 日后，停售 FSD 买断方案；后<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/35134202601231940447508.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/165668</link>
-            <guid isPermaLink="false">xchuxing:1:165668</guid>
-            <pubDate>Fri, 23 Jan 2026 11:41:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
