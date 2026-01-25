@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jan 2026 16:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 17:11:39 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行一图 211期：盘点各品牌 2025 年度现象级爆款车型]]></title>
+            <description><![CDATA[回顾 2025 年度，这一年的新能源汽车江湖可谓风起云涌。每个品牌都带来了自己的杰出作品。那些脱颖而出的“现象级爆款”，绝不仅仅是销量的数字游戏——它们更是一个<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/26/14f18202601260047162486.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165716</link>
+            <guid isPermaLink="false">xchuxing:1:165716</guid>
+            <pubDate>Sun, 25 Jan 2026 16:55:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 239期：冰雪试驾问界 M9]]></title>
             <description><![CDATA[这一次冰雪试驾，我们来到了大东北，来体验问界的全系车型，看看在极寒情况下，问界能有怎样的体验。<br><img src="https://s1.xchuxing.com/video/2026/01/22/a2006202601222219512580.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/short-news/2188</link>
             <guid isPermaLink="false">xchuxing:13:2188</guid>
             <pubDate>Fri, 23 Jan 2026 16:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预计将于北京车展亮相 奕境新车测试谍照图曝光]]></title>
-            <description><![CDATA[近日，我们从官方渠道获得一组关于奕境新车寒测谍照曝光图，该车型由东风与华为乾崑以“平等共创”模式联合打造的品牌，预计将于 4 月北京车展正式亮相，将于年内正式上<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/23/a666920260123214422111.png">]]></description>
-            <link>https://www.xchuxing.com/article/165675</link>
-            <guid isPermaLink="false">xchuxing:1:165675</guid>
-            <pubDate>Fri, 23 Jan 2026 13:45:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
