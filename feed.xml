@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jan 2026 13:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jan 2026 14:21:12 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[特斯拉 Cybertruck 在中东地区开启交付]]></title>
+            <description><![CDATA[据外媒报道，特斯拉于本月在阿联酋正式启动 Cybertruck 交付，这是该车型首次在北美以外的地区实现正式交付。首批 63 台车辆于迪拜阿尔马尔穆姆沙漠区域举<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/26/a237a202601262157095681.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165749</link>
+            <guid isPermaLink="false">xchuxing:1:165749</guid>
+            <pubDate>Mon, 26 Jan 2026 13:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[尚界 H5 累计交付突破 3 万辆]]></title>
+            <description><![CDATA[1 月 26 日，鸿蒙智行官方宣布，旗下的尚界 H5 车型累计交付已突破 3 万...<br><img src="http://s3.xchuxing.com/xchuxing/article/2026/01/26/3eedd202601262140087597.jpg">]]></description>
+            <link>https://www.xchuxing.com/number-power/25604</link>
+            <guid isPermaLink="false">xchuxing:12:25604</guid>
+            <pubDate>Mon, 26 Jan 2026 13:40:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[你觉得问界M6竞品车型是哪些]]></title>
             <description><![CDATA[看看大家都是怎么选择问界M6竞品车型的吧]]></description>
@@ -77,20 +91,6 @@
             <link>https://www.xchuxing.com/article/165559</link>
             <guid isPermaLink="false">xchuxing:1:165559</guid>
             <pubDate>Sun, 25 Jan 2026 16:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 240期：日产大沙发真有那么舒服？]]></title>
-            <description><![CDATA[这是《新出行显微镜》栏目的第一期内容！显微镜这档栏目是通过我们的视角，放大值得被关注，或者说被大家埋没的一些好的功能和设计点。第一期的主角就是日产 N6，来看看我们经常说的“日产大沙发”是否真有那么强？<br><img src="https://s1.xchuxing.com/video/2026/01/25/51209202601252328188261.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/21454</link>
-            <guid isPermaLink="false">xchuxing:2:21454</guid>
-            <pubDate>Sun, 25 Jan 2026 15:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[将于北京车展亮相 smart 精灵#2 原型车节奏曝光]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，smart 旗下经典双门双座小车 smart 精灵 #2 原型概念车将于 4 月北京车展正式亮相。新车定位为 A00 级经典小车，并且<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/25/284b8202601251332153765.png">]]></description>
-            <link>https://www.xchuxing.com/article/165701</link>
-            <guid isPermaLink="false">xchuxing:1:165701</guid>
-            <pubDate>Sun, 25 Jan 2026 05:33:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
