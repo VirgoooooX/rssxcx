@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jan 2026 09:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jan 2026 09:55:58 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[你觉得问界M6竞品车型是哪些]]></title>
+            <description><![CDATA[看看大家都是怎么选择问界M6竞品车型的吧]]></description>
+            <link>https://www.xchuxing.com/article/1379</link>
+            <guid isPermaLink="false">xchuxing:7:1379</guid>
+            <pubDate>Mon, 26 Jan 2026 09:28:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[鸿蒙座舱体验提升 深蓝 S09 迎来 OTA 升级]]></title>
             <description><![CDATA[1 月 26 日，根据官方获悉，深蓝 S09 迎来新一轮 OTA，版本升级至 V5.1.0。据了解，此次升级鸿蒙座舱HarmonySpace 5 及生态应用再度<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/26/b7363202601261049213400.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/165701</link>
             <guid isPermaLink="false">xchuxing:1:165701</guid>
             <pubDate>Sun, 25 Jan 2026 05:33:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预计春节前到店 全新小米 SU7 产品节奏曝光]]></title>
-            <description><![CDATA[近日，雷军就社交媒体发文称：新款 SU7 将争取春节前部分样车进店，以方便用户感受实车。 1 月 7 日，新一代小米 SU7 已经正式开启预售，新车共推出 3<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/25/7aa85202601251308508287.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165700</link>
-            <guid isPermaLink="false">xchuxing:1:165700</guid>
-            <pubDate>Sun, 25 Jan 2026 05:09:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
