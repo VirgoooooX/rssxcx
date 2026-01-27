@@ -4,10 +4,19 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jan 2026 03:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 04:30:07 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 241期：捷途山海T1带我看世界]]></title>
+            <description><![CDATA[2026年的第一次出行
+我从深圳跨越了3000km去到了中国最北端的小城——牙克石
+在牙克石的24小时里，捷途山海T1带我领略了这座小城的美丽<br><img src="https://s1.xchuxing.com/video/2026/01/27/fc6e9202601271128048783.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/21490</link>
+            <guid isPermaLink="false">xchuxing:2:21490</guid>
+            <pubDate>Tue, 27 Jan 2026 03:32:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[上半年上市 宝骏华境 S 体验车下线]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，宝骏华境 S 体验车迎来正式下线。根据现有消息来看，新车将于上半年上市。宝骏华境 S 前脸采用“Z”字形日行灯搭配梯形进气格栅的设计，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/27/a4444202601270938589351.jpg">]]></description>
@@ -77,13 +86,6 @@
             <link>https://www.xchuxing.com/short-news/2190</link>
             <guid isPermaLink="false">xchuxing:13:2190</guid>
             <pubDate>Sun, 25 Jan 2026 17:21:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[折合 15.97~17.98 万人民币 Geely EX2（吉利星愿）在印尼上市]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，Geely EX2（吉利星愿）在印尼正式上市， 售价 11.99-13.51 万雷亚尔，折合 15.97-17.98 万人民币。该车自<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/26/21df3202601260108094527.png">]]></description>
-            <link>https://www.xchuxing.com/article/165717</link>
-            <guid isPermaLink="false">xchuxing:1:165717</guid>
-            <pubDate>Sun, 25 Jan 2026 17:15:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
