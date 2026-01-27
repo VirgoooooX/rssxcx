@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jan 2026 01:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 03:19:53 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[上半年上市 宝骏华境 S 体验车下线]]></title>
+            <description><![CDATA[近日，我们从官方渠道获悉，宝骏华境 S 体验车迎来正式下线。根据现有消息来看，新车将于上半年上市。宝骏华境 S 前脸采用“Z”字形日行灯搭配梯形进气格栅的设计，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/27/a4444202601270938589351.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165757</link>
+            <guid isPermaLink="false">xchuxing:1:165757</guid>
+            <pubDate>Tue, 27 Jan 2026 01:44:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX-Test车机实测 4期：深度体验荣威 M7 DMH 车机]]></title>
             <description><![CDATA[XCX-Test 车机实测来到了第 4 期，这一期我们迎来一位全新选手-荣威 M7 DMH ，看看其在 10 万级别的家用轿车市场，能为我们交出怎样的智能座舱体<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/26/7ce4c20260126235601658.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/165717</link>
             <guid isPermaLink="false">xchuxing:1:165717</guid>
             <pubDate>Sun, 25 Jan 2026 17:15:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行一图 211期：盘点各品牌 2025 年度现象级爆款车型]]></title>
-            <description><![CDATA[回顾 2025 年度，这一年的新能源汽车江湖可谓风起云涌。每个品牌都带来了自己的杰出作品。那些脱颖而出的“现象级爆款”，绝不仅仅是销量的数字游戏——它们更是一个<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/26/14f18202601260047162486.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165716</link>
-            <guid isPermaLink="false">xchuxing:1:165716</guid>
-            <pubDate>Sun, 25 Jan 2026 16:55:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
