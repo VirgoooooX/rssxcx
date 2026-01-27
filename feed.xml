@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jan 2026 15:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 16:20:36 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行一图 212期：一图看懂华为合作体系]]></title>
+            <description><![CDATA[华为智能汽车合作体系构建起分层清晰、权责明晰的多元合作矩阵，精准适配不同车企的发展节奏与合作诉求。本期新出行一图就让阿迪带大家厘清三大合作模式的核心区别。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/27/b2701202601272356535700.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165799</link>
+            <guid isPermaLink="false">xchuxing:1:165799</guid>
+            <pubDate>Tue, 27 Jan 2026 15:57:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[奇瑞 QQ 3 将于 2 月 6 日开启预订]]></title>
             <description><![CDATA[从奇瑞品牌官方获悉，奇瑞 QQ 3 将于 2 月 6 日开启预订。新车已于此前完成工信部申报，并配备 AI 灵犀智舱以及猎鹰 500 辅助驾驶系统等。动力方面，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/27/97b65202601272224003934.jpg">]]></description>
@@ -81,20 +88,6 @@
             <link>https://www.xchuxing.com/article/165749</link>
             <guid isPermaLink="false">xchuxing:1:165749</guid>
             <pubDate>Mon, 26 Jan 2026 13:58:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尚界 H5 累计交付突破 3 万辆]]></title>
-            <description><![CDATA[1 月 26 日，鸿蒙智行官方宣布，旗下的尚界 H5 车型累计交付已突破 3 万...<br><img src="http://s3.xchuxing.com/xchuxing/article/2026/01/26/3eedd202601262140087597.jpg">]]></description>
-            <link>https://www.xchuxing.com/number-power/25604</link>
-            <guid isPermaLink="false">xchuxing:12:25604</guid>
-            <pubDate>Mon, 26 Jan 2026 13:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[你觉得问界M6竞品车型是哪些]]></title>
-            <description><![CDATA[看看大家都是怎么选择问界M6竞品车型的吧]]></description>
-            <link>https://www.xchuxing.com/article/1379</link>
-            <guid isPermaLink="false">xchuxing:7:1379</guid>
-            <pubDate>Mon, 26 Jan 2026 09:28:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
