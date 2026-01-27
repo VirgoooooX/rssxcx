@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jan 2026 14:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 14:55:47 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[奇瑞 QQ 3 将于 2 月 6 日开启预订]]></title>
+            <description><![CDATA[从奇瑞品牌官方获悉，奇瑞 QQ 3 将于 2 月 6 日开启预订。新车已于此前完成工信部申报，并配备 AI 灵犀智舱以及猎鹰 500 辅助驾驶系统等。动力方面，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/27/97b65202601272224003934.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165795</link>
+            <guid isPermaLink="false">xchuxing:1:165795</guid>
+            <pubDate>Tue, 27 Jan 2026 14:25:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MG 发布全新纯电车型预告图]]></title>
             <description><![CDATA[日前，我们从相关渠道获取到了一张 MG 发布的新车预告图。从图中来看，新车定位轿车，采用了较为运动的设计风格。车顶配有激光雷达，门把手采用了半隐藏式设计。虽然目<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/27/8e069202601272136353636.jpg">]]></description>
@@ -88,13 +95,6 @@
             <link>https://www.xchuxing.com/article/1379</link>
             <guid isPermaLink="false">xchuxing:7:1379</guid>
             <pubDate>Mon, 26 Jan 2026 09:28:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鸿蒙座舱体验提升 深蓝 S09 迎来 OTA 升级]]></title>
-            <description><![CDATA[1 月 26 日，根据官方获悉，深蓝 S09 迎来新一轮 OTA，版本升级至 V5.1.0。据了解，此次升级鸿蒙座舱HarmonySpace 5 及生态应用再度<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/26/b7363202601261049213400.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165726</link>
-            <guid isPermaLink="false">xchuxing:1:165726</guid>
-            <pubDate>Mon, 26 Jan 2026 02:50:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
