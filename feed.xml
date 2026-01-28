@@ -4,10 +4,31 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jan 2026 01:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jan 2026 03:16:59 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 244期：维圈圈实测蔚来 NWM 2.0]]></title>
+            <description><![CDATA[蔚来世界模型 NWM 2.0 终于到来，让我们一起看看实车表现如何吧！<br><img src="https://s1.xchuxing.com/video/2026/01/28/fb763202601280937574100.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/21522</link>
+            <guid isPermaLink="false">xchuxing:2:21522</guid>
+            <pubDate>Wed, 28 Jan 2026 03:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[XCX-Test辅助驾驶 12期：蔚来 NWM 世界模型 2.0 测试（Banyan 3.3.0）]]></title>
+            <description><![CDATA[蔚来 NWM 世界模型 2.0 终于随着 Banyan 3.3.0 版本到来了，后续 Cedar、Cedar S 版本车型也将迎来更新，实现了 4*Orin-X<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/28/d72c7202601281002019773.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165762</link>
+            <guid isPermaLink="false">xchuxing:1:165762</guid>
+            <pubDate>Wed, 28 Jan 2026 02:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 243期：蔚来智驾迎来新的技术重构？一个视频带你看懂蔚来NWM 2.0]]></title>
+            <description><![CDATA[因为我们体验时间是在12月份，因为保密时间，今天迎来解密基本上和大家拿到版本的时间已经很接近，这次我们用另一个视角，也就是从蔚来技术重构的角度出发来看看蔚来NWM 2.0有哪些体验升级地方？蔚来所说的世界模型和闭环的强化学习到底带来什么？<br><img src="https://s1.xchuxing.com/video/2026/01/28/24d0e20260128091550290.png">]]></description>
+            <link>https://www.xchuxing.com/article/21521</link>
+            <guid isPermaLink="false">xchuxing:2:21521</guid>
+            <pubDate>Wed, 28 Jan 2026 02:00:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图 212期：一图看懂华为合作体系]]></title>
             <description><![CDATA[华为智能汽车合作体系构建起分层清晰、权责明晰的多元合作矩阵，精准适配不同车企的发展节奏与合作诉求。本期新出行一图就让阿迪带大家厘清三大合作模式的核心区别。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/27/b2701202601272356535700.jpg">]]></description>
@@ -67,27 +88,6 @@
             <link>https://www.xchuxing.com/article/165757</link>
             <guid isPermaLink="false">xchuxing:1:165757</guid>
             <pubDate>Tue, 27 Jan 2026 01:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[过去成功和失败的经验教训都会是 FF 迈向成功的宝贵财富，我绝不会重复过去的错误。放弃和逃避从来也永远不会是我人生的选项。]]></title>
-            <description><![CDATA[问界 M6 最新谍照曝光：日前，我们从相关渠道获取到了一组问界 M6 的最新谍照。从图中的伪装车来看，问界 M6 的车头整体设计还是鸿蒙智行的鲲鹏展翼设计，不过 M6 的保险杠下半部分似乎用了更有细节的设计。<br>新世代 BMW iX3 长轴距版将于 4 月首发：近日，我们从官方渠道获悉，新世代 BMW iX3 长轴距版将于 4 月开幕的 2026 北京车展迎来全球首发亮相，随后于下半年正式上市。<br>深蓝 S05 迎来 OTA 升级：1 月 26 日，根据官方获悉，深蓝 S05 迎来新一轮 OTA 升级，此次版本号为 DEEPAL OS 3.1.2。据了解，此次升级主要包含辅助驾驶与座舱。<br>特斯拉 Cybertruck 在中东地区开启交付：据外媒报道，特斯拉于本月在阿联酋正式启动 Cybertruck 交付，这是该车型首次在北美以外的地区实现正式交付。首批 63 台车辆于迪拜阿尔马尔穆姆沙漠区域举行的交车活动中交付用户，现场同步举办了灯光与焰火展示活动。<br>尚界 H5 累计交付突破 3 万辆：1 月 26 日，鸿蒙智行官方宣布，旗下的尚界 H5 车型累计交付已突破 3 万辆。<br><img src="http://s3.xchuxing.com/xchuxing/article/2026/01/26/c2e70202601262212275770.jpg">]]></description>
-            <link>https://www.xchuxing.com/short-news/2191</link>
-            <guid isPermaLink="false">xchuxing:13:2191</guid>
-            <pubDate>Mon, 26 Jan 2026 16:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCX-Test车机实测 4期：深度体验荣威 M7 DMH 车机]]></title>
-            <description><![CDATA[XCX-Test 车机实测来到了第 4 期，这一期我们迎来一位全新选手-荣威 M7 DMH ，看看其在 10 万级别的家用轿车市场，能为我们交出怎样的智能座舱体<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/26/7ce4c20260126235601658.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165368</link>
-            <guid isPermaLink="false">xchuxing:1:165368</guid>
-            <pubDate>Mon, 26 Jan 2026 16:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉 Cybertruck 在中东地区开启交付]]></title>
-            <description><![CDATA[据外媒报道，特斯拉于本月在阿联酋正式启动 Cybertruck 交付，这是该车型首次在北美以外的地区实现正式交付。首批 63 台车辆于迪拜阿尔马尔穆姆沙漠区域举<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/26/a237a202601262157095681.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165749</link>
-            <guid isPermaLink="false">xchuxing:1:165749</guid>
-            <pubDate>Mon, 26 Jan 2026 13:58:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
