@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jan 2026 12:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 13:54:11 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[定位旗舰轿车 比亚迪海豹 08 谍照曝光]]></title>
+            <description><![CDATA[日前，比亚迪除了发布海豹 08 的谍照外，还发布了海狮 08 的谍照，新车定位旗舰轿车，尺寸方面也将超过五米。车头能够看到，海豹 08 的车灯设计可以说是与 O<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/29/eedd7202601292041323894.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165862</link>
+            <guid isPermaLink="false">xchuxing:1:165862</guid>
+            <pubDate>Thu, 29 Jan 2026 12:46:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预计 2026 年上半年上市 东风日产 NX8 量产下线]]></title>
             <description><![CDATA[日前，我们从官方渠道获悉，东风日产 NX8 在花都工厂正式量产下线。新车此前已登录工信部申报目录，预计将于今年上半年迎来上市。外观方面，东风日产 NX8 前脸整<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/29/f0b75202601291438589618.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/21522</link>
             <guid isPermaLink="false">xchuxing:2:21522</guid>
             <pubDate>Wed, 28 Jan 2026 03:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCX-Test辅助驾驶 12期：蔚来 NWM 世界模型 2.0 测试（Banyan 3.3.0）]]></title>
-            <description><![CDATA[蔚来 NWM 世界模型 2.0 终于随着 Banyan 3.3.0 版本到来了，后续 Cedar、Cedar S 版本车型也将迎来更新，实现了 4*Orin-X<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/28/d72c7202601281002019773.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165762</link>
-            <guid isPermaLink="false">xchuxing:1:165762</guid>
-            <pubDate>Wed, 28 Jan 2026 02:02:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
