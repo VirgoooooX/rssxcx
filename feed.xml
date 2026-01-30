@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jan 2026 07:57:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 08:35:42 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 155期：解读全新改款奔驰 S 细节亮点]]></title>
+            <description><![CDATA[2026 年 1 月 29 日，梅赛德斯-奔驰迎来了 140 周年典庆，期间正式发布了奔驰旗下豪华期间车型——全新中期改款 S 级轿车（底盘代号 W223）。在<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/30/b212c202601301557046023.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165871</link>
+            <guid isPermaLink="false">xchuxing:1:165871</guid>
+            <pubDate>Fri, 30 Jan 2026 07:57:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[智界全系迎来新年首次OTA，刘亦菲独家语音包成智慧出行专属陪伴]]></title>
             <description><![CDATA[春节前夕，智界汽车重磅推出全系车型“OTA开门红”版本升级，30余项功能一次性焕新上车，覆盖智驾、智趣、安全三大核心维度。新春购车旺季来袭，智界汽车新春购车权益<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/30/09737202601301050289894.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/short-news/2193</link>
             <guid isPermaLink="false">xchuxing:13:2193</guid>
             <pubDate>Wed, 28 Jan 2026 16:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[将有四款全新车型 岚图公布 2026 年产品规划]]></title>
-            <description><![CDATA[日前，岚图汽车官方公布了新车规划，其将在年内推出四款全新车型，包括首款量产 L3 级 SUV 岚图泰山 Ultra、全新大 5 座 SUV 岚图泰山 X8、代号<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/28/2d57c202601282320264578.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165838</link>
-            <guid isPermaLink="false">xchuxing:1:165838</guid>
-            <pubDate>Wed, 28 Jan 2026 15:23:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
