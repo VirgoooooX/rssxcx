@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jan 2026 01:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 03:38:53 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[智界全系迎来新年首次OTA，刘亦菲独家语音包成智慧出行专属陪伴]]></title>
+            <description><![CDATA[春节前夕，智界汽车重磅推出全系车型“OTA开门红”版本升级，30余项功能一次性焕新上车，覆盖智驾、智趣、安全三大核心维度。新春购车旺季来袭，智界汽车新春购车权益<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/30/09737202601301050289894.png">]]></description>
+            <link>https://www.xchuxing.com/article/165874</link>
+            <guid isPermaLink="false">xchuxing:1:165874</guid>
+            <pubDate>Fri, 30 Jan 2026 02:50:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图 213期：一图看懂各车企超长期贷款政策]]></title>
             <description><![CDATA[在 2026 年 1 月以来，国内乘用车市场零售量同比下滑约 28%，新能源车销量同比也下降 16%，很多车企在政策补贴退坡、消费者观望的背景下，推出了各种超长<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/30/3b46a202601300105045289.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/165838</link>
             <guid isPermaLink="false">xchuxing:1:165838</guid>
             <pubDate>Wed, 28 Jan 2026 15:23:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[搭载三电机 智己发布 LS9 HYPER 官图]]></title>
-            <description><![CDATA[日前，智己发布了 LS9 HYPER 版的官图，该车型将是智己 LS9 的三电机版本，新车将配备首个四轮全线控转向以及三电机矢量四驱，将成为智己 9 系新的旗舰<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/28/93282202601282301087594.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165837</link>
-            <guid isPermaLink="false">xchuxing:1:165837</guid>
-            <pubDate>Wed, 28 Jan 2026 15:03:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
