@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Feb 2026 14:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Feb 2026 15:17:04 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行一图 214期：2026小鹏产品架构图]]></title>
+            <description><![CDATA[2026年小鹏汽车会推出 4 款全新车型，有 G 平台的 2 款以及 D 平台 2 款车型，这次伟健通过新出行一图带大家一图看懂2026小鹏产品架构图，看看哪台<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/01/7f2aa202602012251311043.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165923</link>
+            <guid isPermaLink="false">xchuxing:1:165923</guid>
+            <pubDate>Sun, 01 Feb 2026 14:54:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[数据汇总 | 2026 年 1 月及全年交付/销量汇总（持续更新）]]></title>
             <description><![CDATA[2026 年 2 月 1 日，各大品牌都开始公布其在 2026 年 1 月的交付量及销量。新出行将为您带来最新的数据信息汇总。-极石 2026 年 1 月交付<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/01/542b4202602011401032692.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/165895</link>
             <guid isPermaLink="false">xchuxing:1:165895</guid>
             <pubDate>Fri, 30 Jan 2026 15:08:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[有望年内亮相 劳斯莱斯纯电 SUV 谍照曝光]]></title>
-            <description><![CDATA[日前，外媒拍摄到了一组劳斯莱斯纯电 SUV 车型谍照。作为品牌旗下的第二款纯电车型，同时也是首款出纯电SUV车型，车辆相比库里南来说整体外观造型有很大变化，预计<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/30/409ea20260130225315859.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165894</link>
-            <guid isPermaLink="false">xchuxing:1:165894</guid>
-            <pubDate>Fri, 30 Jan 2026 14:58:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
