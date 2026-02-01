@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Feb 2026 15:45:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Feb 2026 16:19:05 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行情报局 82期：一文了解宝骏华境 S 现有信息]]></title>
+            <description><![CDATA[随着新能源市场不断的变化，细分赛道竞争愈发激烈，中大型插混 SUV 凭借着家用与节能的优势，成为市场新增长点。作为上汽通用五菱与华为合作的首款旗舰车型，宝骏华境<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/30/bda67202601301031423317.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165737</link>
+            <guid isPermaLink="false">xchuxing:1:165737</guid>
+            <pubDate>Sun, 01 Feb 2026 15:49:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图 214期：2026小鹏产品架构图]]></title>
             <description><![CDATA[2026年小鹏汽车会推出 4 款全新车型，有 G 平台的 2 款以及 D 平台 2 款车型，这次伟健通过新出行一图带大家一图看懂2026小鹏产品架构图，看看哪台<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/01/7f2aa202602012251311043.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/165896</link>
             <guid isPermaLink="false">xchuxing:1:165896</guid>
             <pubDate>Fri, 30 Jan 2026 15:15:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[搭载 V8 混动系统 宾利发布新款欧陆 GT S 官图]]></title>
-            <description><![CDATA[日前，宾利发布了新款欧陆 GT S 的官图，新车将采用由 V8 发动机组成的混合动力系统，性能将优于 W12 发动机，可提供纯电续航里程 80km。外观方面，欧<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/30/e2601202601302304479056.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165895</link>
-            <guid isPermaLink="false">xchuxing:1:165895</guid>
-            <pubDate>Fri, 30 Jan 2026 15:08:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
