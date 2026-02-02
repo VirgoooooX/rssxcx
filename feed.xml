@@ -4,10 +4,21 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Feb 2026 14:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 15:31:02 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 246期：大个静态体验丰田铂智 7]]></title>
+            <description><![CDATA[丰田铂智 7 作为一款大轿车，在空间上有着不错的体验，并且实拍的这款车型配置上也比较顶。
+
+智能化方面也是体验拉满，智驾用的是 MMT 的方案，座舱用的是华为鸿蒙座舱，后排娱乐拓展是用的小米，算是集各家之所长。
+
+下面就让我们通过本期视频，看看铂智 7 在静态方面的表现如何。<br><img src="https://s1.xchuxing.com/video/2026/02/02/302a0202602022302277475.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/21683</link>
+            <guid isPermaLink="false">xchuxing:2:21683</guid>
+            <pubDate>Mon, 02 Feb 2026 15:06:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[探店 130期：全系享购置税补贴？探店沃尔沃 XC70]]></title>
             <description><![CDATA[提到沃尔沃新能源，你是不是第一时间想到 EX30？这款小车在欧洲以及其他地区非常畅销！曾一度位居销量榜榜首，但在国内新能源市场中，由于用车需求的不同，反而 EX<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/26/caf92202601261628528430.png">]]></description>
@@ -86,13 +97,6 @@
             <link>https://www.xchuxing.com/article/165923</link>
             <guid isPermaLink="false">xchuxing:1:165923</guid>
             <pubDate>Sun, 01 Feb 2026 14:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据汇总 | 2026 年 1 月及全年交付/销量汇总（持续更新）]]></title>
-            <description><![CDATA[2026 年 2 月 1 日，各大品牌都开始公布其在 2026 年 1 月的交付量及销量。新出行将为您带来最新的数据信息汇总。-极石 2026 年 1 月交付<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/01/542b4202602011401032692.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165914</link>
-            <guid isPermaLink="false">xchuxing:1:165914</guid>
-            <pubDate>Sun, 01 Feb 2026 06:10:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
