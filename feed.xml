@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Feb 2026 06:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 07:14:29 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[归元 S 平台首款车型 魏牌 V9X 最新预告图曝光]]></title>
+            <description><![CDATA[日前，魏牌发布了旗下全新 SUV——V9X 的最新预告图。据了解，新车基于归元 S 平台搭载，定位豪华六座旗舰，将于上半年正式发布。外观方面，新车整体轮廓非常魁<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/03/fde25202602031449094189.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165985</link>
+            <guid isPermaLink="false">xchuxing:1:165985</guid>
+            <pubDate>Tue, 03 Feb 2026 06:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[看完问界M6外观图，你觉得这车最适合哪个年龄阶段？]]></title>
             <link>https://www.xchuxing.com/article/1381</link>
@@ -89,13 +96,6 @@
             <link>https://www.xchuxing.com/article/165966</link>
             <guid isPermaLink="false">xchuxing:1:165966</guid>
             <pubDate>Mon, 02 Feb 2026 14:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预计上半年发布 捷豹纯电四门 GT 谍照曝光]]></title>
-            <description><![CDATA[目前，捷豹官方正式发布了一组旗下全新四门 GT 原型车的冬测谍照。据了解，新车正在北极圈进行冬季测试和低温标定工作，量产版本将于 2026 年夏季末发布。外观方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/02/86549202602021850184495.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165957</link>
-            <guid isPermaLink="false">xchuxing:1:165957</guid>
-            <pubDate>Mon, 02 Feb 2026 10:50:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
