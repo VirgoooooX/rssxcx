@@ -24,9 +24,13 @@ jobs:
       RETRY_BASE_DELAY_MS: "800"
       FEED_URL: ${{ vars.FEED_URL }}
       SITE_URL: ${{ vars.SITE_URL }}
+      BRANCH: ${{ github.ref_name }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -50,7 +54,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add feed.xml
-          git commit -m "chore(rss): update feed"
-          git pull --rebase origin main git push
-          git push
+          git commit -m "chore(rss): update feed" || true
 
+          # 将远端最新提交变基到当前更改之下（避免 push 被拒绝）
+          git pull --rebase --autostash origin "$BRANCH"
+          git push
