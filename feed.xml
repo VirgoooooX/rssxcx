@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Feb 2026 14:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 15:41:10 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[宁德时代与云南签署全面战略协议]]></title>
+            <description><![CDATA[近日，宁德时代与云南省人民政府在昆明签署《全面战略合作协议》，并与昆明市、滇中新区及省能源集团、省交投集团、中石化云南公司等分别签署系列专项合作协议，标志着双方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/03/267fe2026020323060783.jpeg">]]></description>
+            <link>https://www.xchuxing.com/article/166006</link>
+            <guid isPermaLink="false">xchuxing:1:166006</guid>
+            <pubDate>Tue, 03 Feb 2026 15:06:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 248期：乐道L90的前备箱有多能装？]]></title>
             <description><![CDATA[这是《新出行显微镜》栏目的第二期内容，我们给到乐道L90的前备厢，看看到底有多能装！<br><img src="https://s1.xchuxing.com/video/2026/02/03/dcaf8202602032222313632.jpg">]]></description>
@@ -89,13 +96,6 @@
             <link>https://www.xchuxing.com/article/21683</link>
             <guid isPermaLink="false">xchuxing:2:21683</guid>
             <pubDate>Mon, 02 Feb 2026 15:06:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[探店 130期：全系享购置税补贴？探店沃尔沃 XC70]]></title>
-            <description><![CDATA[提到沃尔沃新能源，你是不是第一时间想到 EX30？这款小车在欧洲以及其他地区非常畅销！曾一度位居销量榜榜首，但在国内新能源市场中，由于用车需求的不同，反而 EX<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/01/26/caf92202601261628528430.png">]]></description>
-            <link>https://www.xchuxing.com/article/165543</link>
-            <guid isPermaLink="false">xchuxing:1:165543</guid>
-            <pubDate>Mon, 02 Feb 2026 14:30:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
