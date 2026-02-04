@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Feb 2026 15:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 16:36:49 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -83,13 +83,6 @@
             <link>https://www.xchuxing.com/short-news/2198</link>
             <guid isPermaLink="false">xchuxing:13:2198</guid>
             <pubDate>Tue, 03 Feb 2026 17:03:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宁德时代与云南签署全面战略协议]]></title>
-            <description><![CDATA[近日，宁德时代与云南省人民政府在昆明签署《全面战略合作协议》，并与昆明市、滇中新区及省能源集团、省交投集团、中石化云南公司等分别签署系列专项合作协议，标志着双方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/03/267fe2026020323060783.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/166006</link>
-            <guid isPermaLink="false">xchuxing:1:166006</guid>
-            <pubDate>Tue, 03 Feb 2026 15:06:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
