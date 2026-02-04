@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Feb 2026 14:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 15:34:24 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 249期：伟健体验2026款小鹏X9纯电版]]></title>
+            <description><![CDATA[2026款小鹏X9纯电版也来了！新车会在春节后正式上市，从外观、内饰设计上看几乎和增程版一致，至于还有哪些亮点呢？请看视频！<br><img src="https://s1.xchuxing.com/video/2026/02/04/a8f61202602042243047066.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/21720</link>
+            <guid isPermaLink="false">xchuxing:2:21720</guid>
+            <pubDate>Wed, 04 Feb 2026 14:45:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[销售权限下放 小米 SU7 Ultra 专属销售团队或解散]]></title>
             <description><![CDATA[日前，根据国内媒体获悉，小米汽车销售团队架构迎来调整，此后不再设立单独的 SU7 Ultra 销售团队。据了解，专为小米 SU7 Ultra 设立的 Ultra<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/04/b9bfd20260204212336925.jpg">]]></description>
@@ -83,13 +90,6 @@
             <link>https://www.xchuxing.com/article/166006</link>
             <guid isPermaLink="false">xchuxing:1:166006</guid>
             <pubDate>Tue, 03 Feb 2026 15:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 248期：乐道L90的前备箱有多能装？]]></title>
-            <description><![CDATA[这是《新出行显微镜》栏目的第二期内容，我们给到乐道L90的前备厢，看看到底有多能装！<br><img src="https://s1.xchuxing.com/video/2026/02/03/dcaf8202602032222313632.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/21700</link>
-            <guid isPermaLink="false">xchuxing:2:21700</guid>
-            <pubDate>Tue, 03 Feb 2026 14:22:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
