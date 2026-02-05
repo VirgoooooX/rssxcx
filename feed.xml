@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 14:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 15:08:00 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[计划一季度上市 与众 08 公布更多车身颜色]]></title>
+            <description><![CDATA[日前，根据官方发布，与众 08 公布车身颜色，将提供 8 种选择，分别为暮汐蓝、暮光紫、旷野灰、晨光白、煦日米、净空蓝、素月白和耀夜黑。据了解，新车此前已登录工<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/05/a0742202602052207002607.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166082</link>
+            <guid isPermaLink="false">xchuxing:1:166082</guid>
+            <pubDate>Thu, 05 Feb 2026 14:07:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[蔚来 ET9/全新 ES8 迎来 Cedar雪松 1.4.0 OTA 升级]]></title>
             <description><![CDATA[2 月 5 日，蔚来 ET9/全新 ES8 迎来 Cedar 雪松 1.4.0 版本 OTA。据了解，此次为蔚来模型 NWM 升级新版本，升级包括智能辅助驾驶、<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/05/2d95c202602052201324513.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/166025</link>
             <guid isPermaLink="false">xchuxing:1:166025</guid>
             <pubDate>Wed, 04 Feb 2026 11:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比亚迪宋 Ultra EV 预告图发布]]></title>
-            <description><![CDATA[2 月 4 日，比亚迪宋 Ultra EV 预告图发布。据了解，新车此前完成工信部申报，整体尺寸相比宋 L DM-i 更大，预计有着更加亮眼的乘坐空间。外观方面<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/04/09b71202602041912143220.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166024</link>
-            <guid isPermaLink="false">xchuxing:1:166024</guid>
-            <pubDate>Wed, 04 Feb 2026 11:12:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
