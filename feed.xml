@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 12:57:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 14:05:07 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[蔚来 ET9/全新 ES8 迎来 Cedar雪松 1.4.0 OTA 升级]]></title>
+            <description><![CDATA[2 月 5 日，蔚来 ET9/全新 ES8 迎来 Cedar 雪松 1.4.0 版本 OTA。据了解，此次为蔚来模型 NWM 升级新版本，升级包括智能辅助驾驶、<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/05/2d95c202602052201324513.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166081</link>
+            <guid isPermaLink="false">xchuxing:1:166081</guid>
+            <pubDate>Thu, 05 Feb 2026 14:01:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 250期：新年开“新车” 看鸿蒙智行新年开门红版本如何满足用户需求]]></title>
             <description><![CDATA[过新年不买新车也能开上“新车”，春节前鸿蒙智行推送了新年 OTA 开门红版本，这个大版本体验如何？百万鸿蒙智行车主春节出行正确打开方式是什么？这期视频就带大家感受一波。<br><img src="https://s1.xchuxing.com/video/2026/02/05/086ff202602051529061551.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/166024</link>
             <guid isPermaLink="false">xchuxing:1:166024</guid>
             <pubDate>Wed, 04 Feb 2026 11:12:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[问界 M7 增程长续航版开启交付]]></title>
-            <description><![CDATA[2 月 4 日，问界 M7 增程长续航版在重庆赛力斯超级工厂开启交付。此前，问界品牌推出“用户在工厂验收交付”模式，并实现常态化落地。据了解，截止今年 1 月，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/04/48f61202602041906175609.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166023</link>
-            <guid isPermaLink="false">xchuxing:1:166023</guid>
-            <pubDate>Wed, 04 Feb 2026 11:06:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
