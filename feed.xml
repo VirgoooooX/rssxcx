@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 07:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 08:33:37 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[旗下多品牌将陆续搭载 长安汽车携手宁德时代发布钠电战略]]></title>
+            <description><![CDATA[2 月 5 日，长安汽车携手宁德时代在牙克石举办“长安汽车天枢智能新安全成果发布暨钠电战略全球发布会”，长安汽车正式发布全球钠电战略，全球首款钠电量产乘用车也正<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/05/6521f202602051527106294.png">]]></description>
+            <link>https://www.xchuxing.com/article/166058</link>
+            <guid isPermaLink="false">xchuxing:1:166058</guid>
+            <pubDate>Thu, 05 Feb 2026 07:35:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 猎装轿跑的标准答案，藏在启境的基因里]]></title>
             <description><![CDATA[当呼伦贝尔的气温跌至 -30℃ 以下，一片冰雪苍茫中，华为乾崑 | 启境首款猎装轿跑的轻伪装身影划破寂静。这场持续 3 个月、投入数十台测试车的极寒淬炼，不仅让<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/05/e6a34202602051509479055.jpeg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/166022</link>
             <guid isPermaLink="false">xchuxing:1:166022</guid>
             <pubDate>Wed, 04 Feb 2026 11:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行一图 214期：一图“预测”第404批工信部目录重磅新车]]></title>
-            <description><![CDATA[随着时间来到 2 月，我们即将迎来第 404 批工信部申报目录，根据现有的消息来预测，这次申报目录中将会出现很多重磅新车的身影，就让我们一起来汇总一下！<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/04/5f471202602041141419947.png">]]></description>
-            <link>https://www.xchuxing.com/article/166010</link>
-            <guid isPermaLink="false">xchuxing:1:166010</guid>
-            <pubDate>Wed, 04 Feb 2026 03:44:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
