@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Feb 2026 15:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 16:34:36 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[申报目录｜工信部第 404 批新能源车申报汇总]]></title>
+            <description><![CDATA[第 404 批工信部申报目录正式更新，本次又为我们带来了新的一批即将亮相的新能源车，让我们一起来看。-小米 YU7 GT外观方面，YU7 GT采用了更为激进运动<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/06/ca488202602061734307195.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166116</link>
+            <guid isPermaLink="false">xchuxing:1:166116</guid>
+            <pubDate>Fri, 06 Feb 2026 15:52:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图 217期：一图看懂小米 YU7 GT 细节亮点]]></title>
             <description><![CDATA[小米首款高性能SUV YU7 GT正式登录工信部目录，新车采用了全新的造型设计，加以宽体处理，颜值更高。参数上拥有上千匹马力，搭载了更多性能配置，例如碳陶刹车盘<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/06/3790b202602062054513903.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/166083</link>
             <guid isPermaLink="false">xchuxing:1:166083</guid>
             <pubDate>Thu, 05 Feb 2026 16:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球首款钠电池乘用车将出｜速看长安x宁德钠电战略全球发布会]]></title>
-            <description><![CDATA[2025年，新能源汽车持续高速增长，国内市场销量达1387.5万辆，同比增长19.8%，在国内汽车总销量中的占比来到50.8%（数据来自：中国汽车工业协会）。但<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/05/0b697202602052253395451.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/166068</link>
-            <guid isPermaLink="false">xchuxing:1:166068</guid>
-            <pubDate>Thu, 05 Feb 2026 16:01:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
