@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Feb 2026 16:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 17:35:39 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[补齐家族产品 问界 M6 信息汇总]]></title>
+            <description><![CDATA[问界第五款车型，问界 M6 终于是上工信部了，此次公布的数据中，除了纯电版的电池容量和续航没有公布外，其余参数均已公布。下面让我们通过本篇文章，一起来看看问界<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/07/c75ff20260207001616306.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166131</link>
+            <guid isPermaLink="false">xchuxing:1:166131</guid>
+            <pubDate>Fri, 06 Feb 2026 16:53:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[申报目录｜工信部第 404 批新能源车申报汇总]]></title>
             <description><![CDATA[第 404 批工信部申报目录正式更新，本次又为我们带来了新的一批即将亮相的新能源车，让我们一起来看。-小米 YU7 GT外观方面，YU7 GT采用了更为激进运动<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/06/ca488202602061734307195.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/short-news/2200</link>
             <guid isPermaLink="false">xchuxing:13:2200</guid>
             <pubDate>Thu, 05 Feb 2026 16:35:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行一图 215期：七年超长贷是坑吗？一图看懂所有“雷”点]]></title>
-            <description><![CDATA[前段时间我们为大家整理了当下热门品牌的各种超长贷款政策；但有不少用户怀疑其中的细节，质疑当中是否有“坑”有“雷”？因此我们近日走访了各大门店，为大家整理了这类贷<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/05/a425b202602052221053612.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166083</link>
-            <guid isPermaLink="false">xchuxing:1:166083</guid>
-            <pubDate>Thu, 05 Feb 2026 16:13:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
