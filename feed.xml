@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Feb 2026 13:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 13:58:01 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[VLA 进化/路口通行记忆上线 理想汽车 OTA 8.3 推送]]></title>
+            <description><![CDATA[2 月 7 日，理想汽车今日正式向用户推送 OTA 8.3 版本更新。此次升级主要针对即将到来的春节假期出行场景及日常用车便利性，共涉及 23 项新增功能与12<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/07/4411d202602072147142982.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166157</link>
+            <guid isPermaLink="false">xchuxing:1:166157</guid>
+            <pubDate>Sat, 07 Feb 2026 13:47:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[涵盖智驾/座舱/动态 岚图推送新春 OTA 升级]]></title>
             <description><![CDATA[目前，根据官方获悉，岚图汽车推送向岚图泰山、知音以及搭载华为乾崑车型推送 OTA 升级。此次升级以华为乾崑智驾 ADS 4.1 为核心，涵盖智能座舱、辅助驾驶、<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/07/84727202602070325463014.jpg">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/21760</link>
             <guid isPermaLink="false">xchuxing:2:21760</guid>
             <pubDate>Fri, 06 Feb 2026 11:29:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[支付剩余承担金额 6.08 亿元 欣旺达宣布与威睿动力达成和解声明]]></title>
-            <description><![CDATA[2 月 6 日，欣旺达动力官方发布公告，表示威睿电动汽车技术（宁波）有限公司与欣旺达动力科技股份有限公司已就此前因买卖合同执行产生的纠纷达成最终和解。本着对客户<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/06/b0a7d202602061859063993.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166120</link>
-            <guid isPermaLink="false">xchuxing:1:166120</guid>
-            <pubDate>Fri, 06 Feb 2026 10:59:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
