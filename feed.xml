@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Feb 2026 16:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 16:54:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -86,13 +86,6 @@
             <link>https://www.xchuxing.com/article/166097</link>
             <guid isPermaLink="false">xchuxing:1:166097</guid>
             <pubDate>Fri, 06 Feb 2026 12:12:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 251期：小白同学解读问界 M6 申报信息]]></title>
-            <description><![CDATA[终于，问界 M6 的申报信息来了，小白同学第一时间和大家先来聊一聊问界 M6 这款产品。补充一个信息，纯电版四驱版搭载的是前 160kW 和 后 180kW 的电机。<br><img src="https://s1.xchuxing.com/video/2026/02/06/f75c6202602061740258404.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/21760</link>
-            <guid isPermaLink="false">xchuxing:2:21760</guid>
-            <pubDate>Fri, 06 Feb 2026 11:29:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
