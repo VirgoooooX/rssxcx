@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Feb 2026 07:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Feb 2026 08:22:55 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.xchuxing.com/article/166158</link>
             <guid isPermaLink="false">xchuxing:1:166158</guid>
             <pubDate>Sun, 08 Feb 2026 06:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[蔚来 1 亿次换电正式达成]]></title>
+            <description><![CDATA[目前，根据官方获悉，蔚来 1 亿次换电正式达成！第 1 亿次换电用户是来自浙江省...<br><img src="http://s3.xchuxing.com/xchuxing/article/2026/02/07/23a35202602072302314853.jpg">]]></description>
+            <link>https://www.xchuxing.com/number-power/25605</link>
+            <guid isPermaLink="false">xchuxing:12:25605</guid>
+            <pubDate>Sat, 07 Feb 2026 15:02:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[VLA 进化/路口通行记忆上线 理想汽车 OTA 8.3 推送]]></title>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/short-news/2201</link>
             <guid isPermaLink="false">xchuxing:13:2201</guid>
             <pubDate>Fri, 06 Feb 2026 19:04:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[补齐家族产品 问界 M6 信息汇总]]></title>
-            <description><![CDATA[问界第五款车型，问界 M6 终于是上工信部了，此次公布的数据中，除了纯电版的电池容量和续航没有公布外，其余参数均已公布。下面让我们通过本篇文章，一起来看看问界<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/07/c75ff20260207001616306.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166131</link>
-            <guid isPermaLink="false">xchuxing:1:166131</guid>
-            <pubDate>Fri, 06 Feb 2026 16:53:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
