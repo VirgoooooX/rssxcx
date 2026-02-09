@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Feb 2026 12:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 14:09:40 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[存在中控黑屏隐患 蔚来宣布召回部分 ES8/ES6/EC6 车型]]></title>
+            <description><![CDATA[日前，上海蔚来汽车有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，受委托向国家市场监督管理总局备案了召回计划。召回编号S2<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/09/85bc8202602092108083473.png">]]></description>
+            <link>https://www.xchuxing.com/article/166214</link>
+            <guid isPermaLink="false">xchuxing:1:166214</guid>
+            <pubDate>Mon, 09 Feb 2026 13:08:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高压电池存在问题 极氪宣布召回部分 001 WE 版车型]]></title>
+            <description><![CDATA[日前，浙江极氪智能科技有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，受浙江吉利汽车有限公司委托向国家市场监督管理总局备案<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/09/23bbc202602092104423809.png">]]></description>
+            <link>https://www.xchuxing.com/article/166212</link>
+            <guid isPermaLink="false">xchuxing:1:166212</guid>
+            <pubDate>Mon, 09 Feb 2026 13:06:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[定位纯电小型方盒子 现代 HE1 路测谍照曝光]]></title>
             <description><![CDATA[日前，我们获取到一组现代-代号HE1车型的路测谍照，谍照拍摄地位于印度，预示着新车或将于印度生产。外观方面，新车采用方盒子的造型设计，日行灯细长并且带有原厂行李<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/09/f5c1d202602091859125061.png">]]></description>
@@ -79,20 +93,6 @@
             <link>https://www.xchuxing.com/short-news/2202</link>
             <guid isPermaLink="false">xchuxing:13:2202</guid>
             <pubDate>Sat, 07 Feb 2026 16:27:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来 1 亿次换电正式达成]]></title>
-            <description><![CDATA[目前，根据官方获悉，蔚来 1 亿次换电正式达成！第 1 亿次换电用户是来自浙江省...<br><img src="http://s3.xchuxing.com/xchuxing/article/2026/02/07/23a35202602072302314853.jpg">]]></description>
-            <link>https://www.xchuxing.com/number-power/25605</link>
-            <guid isPermaLink="false">xchuxing:12:25605</guid>
-            <pubDate>Sat, 07 Feb 2026 15:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VLA 进化/路口通行记忆上线 理想汽车 OTA 8.3 推送]]></title>
-            <description><![CDATA[2 月 7 日，理想汽车今日正式向用户推送 OTA 8.3 版本更新。此次升级主要针对即将到来的春节假期出行场景及日常用车便利性，共涉及 23 项新增功能与12<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/07/4411d202602072147142982.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166157</link>
-            <guid isPermaLink="false">xchuxing:1:166157</guid>
-            <pubDate>Sat, 07 Feb 2026 13:47:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
