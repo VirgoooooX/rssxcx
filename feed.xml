@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Feb 2026 14:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 15:28:34 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[整合底盘硬件与智驾系统 时代智能与地平线达成战略合作]]></title>
+            <description><![CDATA[2 月 9 日，宁德时代旗下智能科技公司时代智能与地平线正式签署战略合作协议。双方将围绕新能源汽车智能化升级需求，整合底盘硬件与智驾系统能力，为全球 OEM 客<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/09/a4a7420260209224118510.png">]]></description>
+            <link>https://www.xchuxing.com/article/166215</link>
+            <guid isPermaLink="false">xchuxing:1:166215</guid>
+            <pubDate>Mon, 09 Feb 2026 14:43:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[存在中控黑屏隐患 蔚来宣布召回部分 ES8/ES6/EC6 车型]]></title>
             <description><![CDATA[日前，上海蔚来汽车有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，受委托向国家市场监督管理总局备案了召回计划。召回编号S2<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/09/85bc8202602092108083473.png">]]></description>
@@ -84,15 +91,6 @@
             <link>https://www.xchuxing.com/article/166158</link>
             <guid isPermaLink="false">xchuxing:1:166158</guid>
             <pubDate>Sun, 08 Feb 2026 06:39:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[笑声如阳光，驱走人们脸上的冬天。]]></title>
-            <description><![CDATA[理想汽车 OTA 8.3 推送：2 月 7 日，理想汽车今日正式向用户推送 OTA 8.3 版本更新。此次升级主要针对即将到来的春节假期出行场景及日常用车便利性，共涉及 23 项新增功能与12项体验优化 。更新涵盖了智能驾驶、充电补能、车机交互及娱乐体验等多个维度，适用车型包括理想 MEGA、理想 L 系列及理想 i 系列。<br>岚图推送新春 OTA 升级：目前，根据官方获悉，岚图汽车推送向岚图泰山、知音以及搭载华为乾崑车型推送 OTA 升级。此次升级以华为乾崑智驾 ADS 4.1 为核心，涵盖智能座舱、辅助驾驶、越野性能三大维度。<br>沃尔沃召回部分 XC70：日前，浙江豪情汽车制造有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。
-
-召回编号 S2026M0016V：自即日起，召回 2025 年 5 月 7 日至 2025 年 12 月 22 日期间生产的部分国产四驱 XC70 汽车，共计 14768 辆。<br>丰田铂智 3X 推出新春限时优惠：日前，根据官方获悉，广汽丰田铂智 3X 推出新春限时价 9.98 万元起。同时，该车也还迎来 OTA 升级，即将推送 Momenta R6 强化学习大模型以及座舱的 AI 大模型智能体迭代。<br>魏牌 V9X 官图发布：目前，魏牌发布了魏牌 V9X 的官图。据了解，新车定位旗舰 SUV，已经登陆工信部目录。<br><img src="http://s3.xchuxing.com/xchuxing/article/2026/02/08/34ade202602080027525711.jpg">]]></description>
-            <link>https://www.xchuxing.com/short-news/2202</link>
-            <guid isPermaLink="false">xchuxing:13:2202</guid>
-            <pubDate>Sat, 07 Feb 2026 16:27:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
