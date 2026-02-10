@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Feb 2026 15:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 16:55:13 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行深度 | 一体压铸，是车企的大饼还是工业的革命？]]></title>
+            <description><![CDATA[此前在欧拉 5 发布会现场，长城汽车 CEO 魏建军再次扮演起“争议发起者”的角色。他当场解释了长城为何不采用一体压铸技术，这番表态不仅引发外界热议，还很快收到<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/11/bd2ff202602110002098870.png">]]></description>
+            <link>https://www.xchuxing.com/article/165742</link>
+            <guid isPermaLink="false">xchuxing:1:165742</guid>
+            <pubDate>Tue, 10 Feb 2026 16:02:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[加速扩张步伐 Waymo 在美 纳什维尔 正式开启完全无人驾驶运营]]></title>
             <description><![CDATA[日前，Waymo宣布，已在美国田纳西州纳什维尔（Nashville）正式开启完全无人驾驶运营。随着美国自动驾驶出租车竞赛日趋激烈，该公司正加速扩张步伐。Waym<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/10/50b6e202602102307267035.png">]]></description>
@@ -70,20 +77,6 @@
             <link>https://www.xchuxing.com/article/166212</link>
             <guid isPermaLink="false">xchuxing:1:166212</guid>
             <pubDate>Mon, 09 Feb 2026 13:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[定位纯电小型方盒子 现代 HE1 路测谍照曝光]]></title>
-            <description><![CDATA[日前，我们获取到一组现代-代号HE1车型的路测谍照，谍照拍摄地位于印度，预示着新车或将于印度生产。外观方面，新车采用方盒子的造型设计，日行灯细长并且带有原厂行李<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/09/f5c1d202602091859125061.png">]]></description>
-            <link>https://www.xchuxing.com/article/166210</link>
-            <guid isPermaLink="false">xchuxing:1:166210</guid>
-            <pubDate>Mon, 09 Feb 2026 11:03:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[已开启盲订 零跑 A10 将于一季度内上市]]></title>
-            <description><![CDATA[2 月 9 日，我们从官方渠道获悉，零跑 A10 将于一季度内完成正式上市。新车目前已开启盲订，99 元意向金可享多重专属限时权益。根据官网信息显示，零跑 A1<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/09/dc0d6202602091133058031.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166193</link>
-            <guid isPermaLink="false">xchuxing:1:166193</guid>
-            <pubDate>Mon, 09 Feb 2026 03:43:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
