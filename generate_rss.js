@@ -16,6 +16,11 @@ const USER_AGENT =
     process.env.USER_AGENT ||
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 
+const SKIP_TITLE_PREFIX_RE = /^\s*(每日简报|数字力系列)\b/;
+const VIDEO_TITLE_PREFIX_RE = /^\s*新出行视频\b/;
+const ONE_IMAGE_TITLE_PREFIX_RE = /^\s*新出行一图\b/;
+const VOTE_URL_RE = /\/vote\/\d+/i;
+
 function sleep(ms) {
     return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -67,6 +72,39 @@ function normalizeImageUrl(input) {
     return `https://s1.xchuxing.com/${cleaned}`;
 }
 
+function normalizePageUrl(input) {
+    if (!input) return '';
+    if (typeof input !== 'string') return '';
+    const value = input.trim();
+    if (!value) return '';
+    if (/^https?:\/\//i.test(value)) return value;
+    if (value.startsWith('/')) return `https://www.xchuxing.com${value}`;
+    return value;
+}
+
+function getArticleTitle(article) {
+    const t = article && article.title;
+    if (typeof t === 'string') return t.trim();
+    if (t === null || t === undefined) return '';
+    return String(t).trim();
+}
+
+function isVoteUrl(url) {
+    if (!url || typeof url !== 'string') return false;
+    return VOTE_URL_RE.test(url);
+}
+
+function isLikelyOneImageContentImage(src) {
+    if (!src || typeof src !== 'string') return false;
+    const value = src.trim();
+    if (!value) return false;
+    if (/^\/img\//i.test(value)) return false;
+    if (/\/xchuxing\/user\//i.test(value)) return false;
+    if (/\/xchuxing\/carousel\//i.test(value)) return false;
+    if (/^https?:\/\//i.test(value)) return /\/xchuxing\/article\//i.test(value);
+    return /^(?:\/)?(?:xchuxing\/)?article\//i.test(value) || /\/xchuxing\/article\//i.test(value);
+}
+
 function toDateFromArticle(article) {
     const tsRaw = article && (article.created_at ?? article.updated_at);
     const ts = Number(tsRaw);
@@ -78,29 +116,39 @@ function toDateFromArticle(article) {
 
 function buildItemUrl(article) {
     const primaryId = article && (article.object_id ?? article.id);
-    if (!primaryId) return SOURCE_URL;
-
+    const rawUrl = normalizePageUrl(article && typeof article.url === 'string' ? article.url : '');
+    const title = getArticleTitle(article);
     const type = Number(article && article.type);
+    if (type === 2 || VIDEO_TITLE_PREFIX_RE.test(title)) {
+        if (primaryId) return `https://www.xchuxing.com/video/${primaryId}`;
+        if (rawUrl) return rawUrl;
+        return SOURCE_URL;
+    }
     if (type === 12) return `https://www.xchuxing.com/number-power/${primaryId}`;
     if (type === 13) return `https://www.xchuxing.com/short-news/${primaryId}`;
+    if (rawUrl) return rawUrl;
+    if (!primaryId) return SOURCE_URL;
     return `https://www.xchuxing.com/article/${primaryId}`;
 }
 
-function shouldIncludeArticle(article, nonBriefUrls) {
+function shouldIncludeArticle(article, url) {
     if (!article) return false;
 
     const type = Number(article.type);
-    if (type !== 13) return true;
+    if (type === 12) return false;
+    if (type === 13) return false;
 
-    const shortContent = article.short_content;
-    if (!Array.isArray(shortContent) || shortContent.length === 0) return true;
+    const title = getArticleTitle(article);
+    if (SKIP_TITLE_PREFIX_RE.test(title)) return false;
 
-    const urls = shortContent
-        .map((entry) => (entry && typeof entry.url === 'string' ? entry.url.trim() : ''))
-        .filter(Boolean);
+    const normalizedUrl = normalizePageUrl(url);
+    const rawUrl = normalizePageUrl(article && typeof article.url === 'string' ? article.url : '');
+    if (isVoteUrl(normalizedUrl) || isVoteUrl(rawUrl)) return false;
+    if (/\/number-power\//i.test(normalizedUrl) || /\/short-news\//i.test(normalizedUrl)) return false;
+    if (/\/number-power\//i.test(rawUrl) || /\/short-news\//i.test(rawUrl)) return false;
+    if (title.includes('投票')) return false;
 
-    if (urls.length === 0) return true;
-    return !urls.every((u) => nonBriefUrls.has(u));
+    return true;
 }
 
 function extractDescription(article) {
@@ -121,6 +169,44 @@ function extractDescription(article) {
             if (lines.length >= 5) break;
         }
         if (lines.length) return lines.join('<br>');
+    }
+
+    return '';
+}
+
+async function extractOneImageMainImageUrl(pageUrl) {
+    const html = await fetchWithRetry(pageUrl);
+    const $ = cheerio.load(html);
+    const figureNodes = $('.content figure.image img[src], figure.image img[src]');
+    let bestSrc = '';
+    let bestScore = -1;
+
+    for (let i = 0; i < figureNodes.length; i++) {
+        const node = figureNodes[i];
+        const src = $(node).attr('src');
+        if (!isLikelyOneImageContentImage(src)) continue;
+
+        const wRaw = $(node).attr('data-width') ?? $(node).attr('width');
+        const hRaw = $(node).attr('data-height') ?? $(node).attr('height');
+        const w = Number(wRaw);
+        const h = Number(hRaw);
+        const score = Number.isFinite(w) && Number.isFinite(h) && w > 0 && h > 0 ? w * h : 0;
+
+        if (score > bestScore) {
+            bestScore = score;
+            bestSrc = src;
+        } else if (!bestSrc) {
+            bestSrc = src;
+        }
+    }
+
+    if (bestSrc) return normalizeImageUrl(bestSrc);
+
+    const contentNodes = $('.content img[src]');
+    for (let i = 0; i < contentNodes.length; i++) {
+        const src = $(contentNodes[i]).attr('src');
+        if (!isLikelyOneImageContentImage(src)) continue;
+        return normalizeImageUrl(src);
     }
 
     return '';
@@ -205,13 +291,7 @@ async function generateRSS() {
             url: buildItemUrl(article),
         }));
 
-        const nonBriefUrls = new Set(
-            itemsWithUrl
-                .filter(({ article }) => Number(article && article.type) !== 13)
-                .map(({ url }) => url),
-        );
-
-        const filtered = itemsWithUrl.filter(({ article }) => shouldIncludeArticle(article, nonBriefUrls));
+        const filtered = itemsWithUrl.filter(({ article, url }) => shouldIncludeArticle(article, url));
 
         const feed = new RSS({
             title: '新出行 - 官方频道',
@@ -222,23 +302,33 @@ async function generateRSS() {
             ttl: 60,
         });
 
-        filtered.forEach(({ article, url }) => {
+        for (const { article, url } of filtered) {
             const primaryId = article.object_id ?? article.id;
             const type = Number(article.type) || 0;
             const guid = primaryId ? `xchuxing:${type}:${primaryId}` : url;
-            const title = typeof article.title === 'string' ? article.title : String(article.title || '');
+            const title = getArticleTitle(article);
             const description = extractDescription(article);
             const imageUrl = normalizeImageUrl(article.cover_path || article.cover);
             const date = toDateFromArticle(article);
 
+            let contentImageUrl = imageUrl;
+            if (ONE_IMAGE_TITLE_PREFIX_RE.test(title)) {
+                try {
+                    const extracted = await extractOneImageMainImageUrl(url);
+                    if (extracted) contentImageUrl = extracted;
+                } catch (_) {
+                }
+            }
+
+            const withImage = contentImageUrl && !description.includes(contentImageUrl) ? `<br><img src="${contentImageUrl}">` : '';
             feed.item({
                 title: title,
-                description: description + (imageUrl ? `<br><img src="${imageUrl}">` : ''),
+                description: description + withImage,
                 url: url,
                 date: date,
                 guid: guid,
             });
-        });
+        }
 
         const xml = feed.xml({ indent: true });
         writeFileAtomic(OUTPUT_PATH, xml);
