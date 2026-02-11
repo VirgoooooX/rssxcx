@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Feb 2026 08:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 09:43:54 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[萝卜快跑计划一季度启动迪拜无人出租车商业化运营]]></title>
+            <description><![CDATA[日前，萝卜快跑与 Uber 联合官宣深化战略合作，计划于 2026 年第一季度在阿联酋迪拜推出全无人驾驶出行服务，这也是迪拜首次落地无人出租车服务。截至 202<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/11/a32e4202602111733165070.png">]]></description>
+            <link>https://www.xchuxing.com/article/166262</link>
+            <guid isPermaLink="false">xchuxing:1:166262</guid>
+            <pubDate>Wed, 11 Feb 2026 09:34:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[预计年内量产 丰田正式发布纯电汉兰达]]></title>
+            <description><![CDATA[日前，丰田于海外正式发布了全新纯电汉兰达，依旧沿用三排 7 座布局，预计将在年内量产上市。外观方面，可以看到新车型采用了丰田的全新设计语言，回旋镖日间行车灯依旧<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/11/33921202602111657176718.png">]]></description>
+            <link>https://www.xchuxing.com/article/166260</link>
+            <guid isPermaLink="false">xchuxing:1:166260</guid>
+            <pubDate>Wed, 11 Feb 2026 09:03:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[将推出四款车型配置 昊铂 A800 发布盲订选配指南]]></title>
             <description><![CDATA[日前，昊铂官方正式发布 A800 车型盲订指南，这次主要是公开了车型配置信息。我们可以看到，新车将推出四款车型配置，三款后驱车型以及一款三电机四驱车型，并全系标<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/11/126f1202602111533385262.png">]]></description>
@@ -63,20 +77,6 @@
             <link>https://www.xchuxing.com/article/166218</link>
             <guid isPermaLink="false">xchuxing:1:166218</guid>
             <pubDate>Tue, 10 Feb 2026 01:53:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCX-Test辅助驾驶 13期：华为乾崑 ADS 4.1 城区 NCA 实测]]></title>
-            <description><![CDATA[在 ADS 4.1 到来之后，我们也看到了不少其表现升级的案例，那么这次我们就按照 XCX TEST 的场景选择标准，看看最新版本下的城区 NCA 表现究竟如何<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/09/1d94c202602091857109485.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166199</link>
-            <guid isPermaLink="false">xchuxing:1:166199</guid>
-            <pubDate>Mon, 09 Feb 2026 16:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[整合底盘硬件与智驾系统 时代智能与地平线达成战略合作]]></title>
-            <description><![CDATA[2 月 9 日，宁德时代旗下智能科技公司时代智能与地平线正式签署战略合作协议。双方将围绕新能源汽车智能化升级需求，整合底盘硬件与智驾系统能力，为全球 OEM 客<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/09/a4a7420260209224118510.png">]]></description>
-            <link>https://www.xchuxing.com/article/166215</link>
-            <guid isPermaLink="false">xchuxing:1:166215</guid>
-            <pubDate>Mon, 09 Feb 2026 14:43:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
