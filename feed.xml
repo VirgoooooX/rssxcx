@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 14:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 15:12:13 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[加强电动化转型 加拿大政府计划新增 8000 个充电桩]]></title>
+            <description><![CDATA[日前，据外媒报道，加拿大政府计划投入超过 8,440 万加元，在加拿大现有超 3 万个充电桩的基础上，再新增 8,000 个充电端口。 此前据相关机构预估，到<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/12/4594520260212224137554.png">]]></description>
+            <link>https://www.xchuxing.com/article/166300</link>
+            <guid isPermaLink="false">xchuxing:1:166300</guid>
+            <pubDate>Thu, 12 Feb 2026 14:44:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[达成既定目标 福特汽车将员工奖金比例提高到 130%]]></title>
             <description><![CDATA[据外媒报道，福特汽车首席执行官吉姆·法利（Jim Farley）在 2 月 11 日的员工大会上宣布，公司全员奖金比例将设定为 130%，原因是福特达成了车辆质<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/12/fbb30202602121720584589.jpg">]]></description>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/article/166260</link>
             <guid isPermaLink="false">xchuxing:1:166260</guid>
             <pubDate>Wed, 11 Feb 2026 09:03:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[将推出四款车型配置 昊铂 A800 发布盲订选配指南]]></title>
-            <description><![CDATA[日前，昊铂官方正式发布 A800 车型盲订指南，这次主要是公开了车型配置信息。我们可以看到，新车将推出四款车型配置，三款后驱车型以及一款三电机四驱车型，并全系标<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/11/126f1202602111533385262.png">]]></description>
-            <link>https://www.xchuxing.com/article/166258</link>
-            <guid isPermaLink="false">xchuxing:1:166258</guid>
-            <pubDate>Wed, 11 Feb 2026 07:43:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
