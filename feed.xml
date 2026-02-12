@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 15:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 16:14:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX-Test续航实测 73期：享界 S9T 纯电续航及充电测试]]></title>
+            <description><![CDATA[此前我们实测的鸿蒙智行的车型基本都是增程，像问界 M7 测的就是 37kWh 的版本，问界 M8 测的是 53kWh 的版本，距离上一次测鸿蒙智行的纯电车型已经<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/11/bdad3202602111546445639.png">]]></description>
+            <link>https://www.xchuxing.com/article/166207</link>
+            <guid isPermaLink="false">xchuxing:1:166207</guid>
+            <pubDate>Thu, 12 Feb 2026 16:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[加强电动化转型 加拿大政府计划新增 8000 个充电桩]]></title>
             <description><![CDATA[日前，据外媒报道，加拿大政府计划投入超过 8,440 万加元，在加拿大现有超 3 万个充电桩的基础上，再新增 8,000 个充电端口。 此前据相关机构预估，到<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/12/4594520260212224137554.png">]]></description>
@@ -72,20 +79,6 @@
             <link>https://www.xchuxing.com/article/166273</link>
             <guid isPermaLink="false">xchuxing:1:166273</guid>
             <pubDate>Wed, 11 Feb 2026 14:38:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[萝卜快跑计划一季度启动迪拜无人出租车商业化运营]]></title>
-            <description><![CDATA[日前，萝卜快跑与 Uber 联合官宣深化战略合作，计划于 2026 年第一季度在阿联酋迪拜推出全无人驾驶出行服务，这也是迪拜首次落地无人出租车服务。截至 202<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/11/a32e4202602111733165070.png">]]></description>
-            <link>https://www.xchuxing.com/article/166262</link>
-            <guid isPermaLink="false">xchuxing:1:166262</guid>
-            <pubDate>Wed, 11 Feb 2026 09:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预计年内量产 丰田正式发布纯电汉兰达]]></title>
-            <description><![CDATA[日前，丰田于海外正式发布了全新纯电汉兰达，依旧沿用三排 7 座布局，预计将在年内量产上市。外观方面，可以看到新车型采用了丰田的全新设计语言，回旋镖日间行车灯依旧<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/11/33921202602111657176718.png">]]></description>
-            <link>https://www.xchuxing.com/article/166260</link>
-            <guid isPermaLink="false">xchuxing:1:166260</guid>
-            <pubDate>Wed, 11 Feb 2026 09:03:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
