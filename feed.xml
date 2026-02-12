@@ -4,10 +4,19 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 01:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 04:01:55 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[旅行车不旅行丨享界S9T]]></title>
+            <description><![CDATA[我喜欢周星驰老师，所以参考了一些片段。
+当然这条也不是个喜剧，纯粹分享一下我对旅行车的一些看法，春节将至，就当给大家贺岁吧
+愿你们在路上平平安安，顺利到家，对了，这是享界S9T<br><img src="https://s1.xchuxing.com/video/2026/02/12/ceb4c202602121152537362.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/21837</link>
+            <guid isPermaLink="false">xchuxing:2:21837</guid>
+            <pubDate>Thu, 12 Feb 2026 03:54:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX-Test深度实测 34期：深度体验零跑 Lafa5]]></title>
             <description><![CDATA[除了大 SUV 和旅行车外，我个人还格外中意两箱小钢炮。毕竟在城市道路穿梭的时候，想要更好的左右逢源，只有小车才能带给你这种快乐。与目前市面上大部分定位居家的两<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/10/e56b1202602101345522836.png">]]></description>
@@ -70,13 +79,6 @@
             <link>https://www.xchuxing.com/article/166243</link>
             <guid isPermaLink="false">xchuxing:1:166243</guid>
             <pubDate>Tue, 10 Feb 2026 15:08:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[五部门联合发文推进低空经济发展]]></title>
-            <description><![CDATA[日前，工业和信息化部等五部门办公厅联合发布关于加强信息通信业能力建设、支撑低空基础设施发展的实施意见，明确低空基础设施是低空经济发展的重要底座，从网络覆盖、技术<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/10/ba03820260210230019159.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166242</link>
-            <guid isPermaLink="false">xchuxing:1:166242</guid>
-            <pubDate>Tue, 10 Feb 2026 15:05:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
