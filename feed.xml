@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Feb 2026 16:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 17:35:01 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[收藏！春节自驾返乡的出行准备清单]]></title>
+            <description><![CDATA[“万物迎春送残腊，一年结局在今宵”一年一度的春季回乡潮又到了，带着大家的思念，即将出发回到故乡。有些人抢到了回家的车票，有些人则是自驾返乡，迎着人潮。对于自驾出<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/13/58334202602132116153842.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/165989</link>
+            <guid isPermaLink="false">xchuxing:1:165989</guid>
+            <pubDate>Fri, 13 Feb 2026 16:42:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[览锐光电完成数亿元 C 轮融资]]></title>
             <description><![CDATA[日前，览锐光电官方宣布已于近日完成数亿元 C 轮融资，由越秀产投领投，浙建产投、宁波海曙产投、常州政府投资基金共同出资，常金控继续追加投资。资金将主要用于常州生<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/14/1c9eb202602140031439423.jpg">]]></description>
@@ -70,20 +77,6 @@
             <link>https://www.xchuxing.com/article/166296</link>
             <guid isPermaLink="false">xchuxing:1:166296</guid>
             <pubDate>Thu, 12 Feb 2026 09:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[覆盖乘用车业务 Stellantis 与印度塔塔汽车签署新备忘录]]></title>
-            <description><![CDATA[日前，据外媒报道，塔塔汽车乘用车业务部门与 Stellantis 在印度签署一份谅解备忘录，探索双方在印度及海外市场的制造、工程和供应链领域进一步协作的可能性。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/12/293b3202602121628175159.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166294</link>
-            <guid isPermaLink="false">xchuxing:1:166294</guid>
-            <pubDate>Thu, 12 Feb 2026 08:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[文远知行启动阿布扎比市中心首个 Robotaxi 商业运营服务]]></title>
-            <description><![CDATA[日前，文远知行与 Uber 联合宣布，正式启动阿布扎比市中心首个 Robotaxi 商业运营服务，这是阿布扎比市中心首次部署自动驾驶运营车辆。至 2025 年<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/12/0882f202602121447535508.png">]]></description>
-            <link>https://www.xchuxing.com/article/166289</link>
-            <guid isPermaLink="false">xchuxing:1:166289</guid>
-            <pubDate>Thu, 12 Feb 2026 06:51:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
