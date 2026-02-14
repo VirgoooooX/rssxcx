@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 15:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 16:20:10 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -77,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166291</link>
             <guid isPermaLink="false">xchuxing:1:166291</guid>
             <pubDate>Fri, 13 Feb 2026 06:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[远景张雷获国际能源界顶级殊荣]]></title>
-            <description><![CDATA[日前，英国能源学会（Energy Institute）将 2026 年度主席奖（President's Award）授予远景科技集团董事长张雷，以表彰其在全球能<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/13/04e5e202602131332138564.png">]]></description>
-            <link>https://www.xchuxing.com/article/166311</link>
-            <guid isPermaLink="false">xchuxing:1:166311</guid>
-            <pubDate>Fri, 13 Feb 2026 05:33:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
