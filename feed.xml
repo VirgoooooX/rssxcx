@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 15:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 15:46:56 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[28 项新增功能 比亚迪唐L迎来第 4 次 OTA 升级]]></title>
+            <description><![CDATA[日前，比亚迪汽车官方正式开启唐L 车型的第 4 次 OTA 推送，本次共新增 28 项功能，9 项功能优化。功能将分批次推送，车主若急需使用可前往就近门店处理。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/14/d2e68202602142320292848.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166337</link>
+            <guid isPermaLink="false">xchuxing:1:166337</guid>
+            <pubDate>Sat, 14 Feb 2026 15:25:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[段建军离任 梅赛德斯-奔驰中国宣布重要人事任命]]></title>
             <description><![CDATA[2 月 14 日， 梅赛德斯-奔驰（中国）投资有限公司宣布一系列合资公司管理岗位的人事变动。北京梅赛德斯-奔驰销售服务有限公司(奔驰销售公司)总裁兼首席执行官段<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/14/4d0f4202602141601405558.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/166311</link>
             <guid isPermaLink="false">xchuxing:1:166311</guid>
             <pubDate>Fri, 13 Feb 2026 05:33:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[岚图汽车有望在 3 月 19 日挂牌港交所]]></title>
-            <description><![CDATA[日前，岚图汽车完成港股上市的全部前置监管审批流程并更新招股书，上市确定性全面落地，预计于 3 月 19 日在香港联交所主板正式挂牌，港股有望迎来“央国企高端新能<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/13/883cc202602131326077563.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166310</link>
-            <guid isPermaLink="false">xchuxing:1:166310</guid>
-            <pubDate>Fri, 13 Feb 2026 05:28:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
