@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 06:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 07:07:55 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[超 20 项功能深度优化 东风日产 N7 迎来 OTA 升级]]></title>
+            <description><![CDATA[近日，东风日产 N7 车型迎来 2026 年首次 OTA 升级，本次升级的版本为 NISSAN OS 1.4.0，超 20 项功能深度优化。主要新增的功能有推荐<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/14/94904202602141311526632.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166328</link>
+            <guid isPermaLink="false">xchuxing:1:166328</guid>
+            <pubDate>Sat, 14 Feb 2026 07:06:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[无界动力再获超 2 亿元天使+轮融资]]></title>
             <description><![CDATA[近日，通用具身智能机器人公司“无界动力”完成超 2 亿元的天使+轮融资，累计融资额将达 8 亿元。本次融资由老股东红杉中国、线性资本、高瓴创投、华业天成、中金资<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/14/449a0202602141236373662.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166310</link>
             <guid isPermaLink="false">xchuxing:1:166310</guid>
             <pubDate>Fri, 13 Feb 2026 05:28:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCX-Test续航实测 73期：享界 S9T 纯电续航及充电测试]]></title>
-            <description><![CDATA[此前我们实测的鸿蒙智行的车型基本都是增程，像问界 M7 测的就是 37kWh 的版本，问界 M8 测的是 53kWh 的版本，距离上一次测鸿蒙智行的纯电车型已经<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/11/bdad3202602111546445639.png">]]></description>
-            <link>https://www.xchuxing.com/article/166207</link>
-            <guid isPermaLink="false">xchuxing:1:166207</guid>
-            <pubDate>Thu, 12 Feb 2026 16:01:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
