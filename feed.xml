@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 15:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 16:19:55 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[总结2025｜新出行App十大热门原创内容]]></title>
+            <description><![CDATA[各位新年好！这篇文章我们梳理了 2025 年新出行 App 十大热门原创内容，里面涵盖了贺磊的小作文、行业独创的新出行一图、专业的多车横评视频以及超详细的新出行<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/12/683bc202602120959054249.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166225</link>
+            <guid isPermaLink="false">xchuxing:1:166225</guid>
+            <pubDate>Sun, 15 Feb 2026 16:02:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新建制造基地 宁德时代与江苏盐城市签约]]></title>
             <description><![CDATA[日前，宁德时代宣布，其与盐城市滨海县人民政府签署投资协议，双方将共同建设新型电力系统锂电池绿色智造基地。根据此次签署的投资协议，盐城市滨海县与宁德时代将建设宁德<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/15/a5100202602151821291630.png">]]></description>
@@ -70,20 +77,6 @@
             <link>https://www.xchuxing.com/article/166328</link>
             <guid isPermaLink="false">xchuxing:1:166328</guid>
             <pubDate>Sat, 14 Feb 2026 07:06:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[无界动力再获超 2 亿元天使+轮融资]]></title>
-            <description><![CDATA[近日，通用具身智能机器人公司“无界动力”完成超 2 亿元的天使+轮融资，累计融资额将达 8 亿元。本次融资由老股东红杉中国、线性资本、高瓴创投、华业天成、中金资<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/14/449a0202602141236373662.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166327</link>
-            <guid isPermaLink="false">xchuxing:1:166327</guid>
-            <pubDate>Sat, 14 Feb 2026 04:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米汽车累计交付突破 60 万台]]></title>
-            <description><![CDATA[近日，小米汽车官方宣布，自 2024 年 4 月 3 日以来，小米汽车累计交付已超过 60 万台。小米汽车共推出三款车型，小米 YU7 和小米 SU7 Ultr<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/14/ed535202602141222241100.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166325</link>
-            <guid isPermaLink="false">xchuxing:1:166325</guid>
-            <pubDate>Sat, 14 Feb 2026 04:22:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
