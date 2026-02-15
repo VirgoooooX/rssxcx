@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 04:00:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 05:21:18 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[美国对中国电池级石墨关税提升至 160% 以上]]></title>
+            <description><![CDATA[据外媒报道，美国商务部已最终决定，对来自中国的电池级石墨进口征收超过 160% 的综合关税 。美国方面的调查认定，中国企业在美国市场以低于公平价格销售石墨，并获<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/15/e85f3202602151217218110.png">]]></description>
+            <link>https://www.xchuxing.com/article/166342</link>
+            <guid isPermaLink="false">xchuxing:1:166342</guid>
+            <pubDate>Sun, 15 Feb 2026 04:20:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[重磅！获港交所原则性同意 岚图汽车或将于3月19日正式登陆港股]]></title>
             <description><![CDATA[【2026年2月13日，武汉】 2026年2月12日，岚图汽车（07489.HK）完成港股上市的全部前置监管审批流程并更新招股书，上市确定性全面落地，预计于3月<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/15/1a970202602151029599752.png">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166320</link>
             <guid isPermaLink="false">xchuxing:1:166320</guid>
             <pubDate>Fri, 13 Feb 2026 16:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[有望搭载三电机 奔驰 AMG GT SUV 量产版谍照曝光]]></title>
-            <description><![CDATA[日前，外媒拍摄到了 AMG GT SUV 的量产版谍照，这款车型将与 2027 年问世，新车有望配备三电机，实现 1000kW 的最大功率，基于 AMG.EA<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/13/1b048202602131745288277.png">]]></description>
-            <link>https://www.xchuxing.com/article/166318</link>
-            <guid isPermaLink="false">xchuxing:1:166318</guid>
-            <pubDate>Fri, 13 Feb 2026 09:49:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
