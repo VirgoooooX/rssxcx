@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 10:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 10:52:00 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新建制造基地 宁德时代与江苏盐城市签约]]></title>
+            <description><![CDATA[日前，宁德时代宣布，其与盐城市滨海县人民政府签署投资协议，双方将共同建设新型电力系统锂电池绿色智造基地。根据此次签署的投资协议，盐城市滨海县与宁德时代将建设宁德<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/15/a5100202602151821291630.png">]]></description>
+            <link>https://www.xchuxing.com/article/166346</link>
+            <guid isPermaLink="false">xchuxing:1:166346</guid>
+            <pubDate>Sun, 15 Feb 2026 10:22:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FF 提案发展智能机器人等业务拓展]]></title>
             <description><![CDATA[法拉第未来（Faraday Future，FF）宣布，近日召开的特别股东大会已完成相关议案审议并获得通过。据悉，FF 已推出首批具身智能机器人产品系列，并开启了<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/15/002b6202602151806519229.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/166325</link>
             <guid isPermaLink="false">xchuxing:1:166325</guid>
             <pubDate>Sat, 14 Feb 2026 04:22:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[收藏！春节自驾返乡的出行准备清单]]></title>
-            <description><![CDATA[“万物迎春送残腊，一年结局在今宵”一年一度的春季回乡潮又到了，带着大家的思念，即将出发回到故乡。有些人抢到了回家的车票，有些人则是自驾返乡，迎着人潮。对于自驾出<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/13/58334202602132116153842.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165989</link>
-            <guid isPermaLink="false">xchuxing:1:165989</guid>
-            <pubDate>Fri, 13 Feb 2026 16:42:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
