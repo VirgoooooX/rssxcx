@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 01:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 04:00:10 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[重磅！获港交所原则性同意 岚图汽车或将于3月19日正式登陆港股]]></title>
+            <description><![CDATA[【2026年2月13日，武汉】 2026年2月12日，岚图汽车（07489.HK）完成港股上市的全部前置监管审批流程并更新招股书，上市确定性全面落地，预计于3月<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/15/1a970202602151029599752.png">]]></description>
+            <link>https://www.xchuxing.com/article/166340</link>
+            <guid isPermaLink="false">xchuxing:1:166340</guid>
+            <pubDate>Sun, 15 Feb 2026 02:30:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[28 项新增功能 比亚迪唐L迎来第 4 次 OTA 升级]]></title>
             <description><![CDATA[日前，比亚迪汽车官方正式开启唐L 车型的第 4 次 OTA 推送，本次共新增 28 项功能，9 项功能优化。功能将分批次推送，车主若急需使用可前往就近门店处理。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/14/d2e68202602142320292848.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166318</link>
             <guid isPermaLink="false">xchuxing:1:166318</guid>
             <pubDate>Fri, 13 Feb 2026 09:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[探店 131期：单店上千订单 探店全新小米 SU7]]></title>
-            <description><![CDATA[全新小米 SU7 是小米汽车的首款改款车型，新车无论是外观内饰还是底盘三电部分都带来了一些全新的升级；此前新车也正式开启了预售以及外观的首次官图亮相。对于这款车<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/13/fbf42202602131419114796.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166291</link>
-            <guid isPermaLink="false">xchuxing:1:166291</guid>
-            <pubDate>Fri, 13 Feb 2026 06:19:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
