@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Feb 2026 04:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 05:48:15 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[电池存在起火隐患 北京奔驰再次扩大召回 EQA/EQB]]></title>
+            <description><![CDATA[日前，北京奔驰汽车有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。召回编号S2026<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/16/94faa20260216130834606.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166354</link>
+            <guid isPermaLink="false">xchuxing:1:166354</guid>
+            <pubDate>Mon, 16 Feb 2026 05:09:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[总结2025｜新出行App十大热门原创内容]]></title>
             <description><![CDATA[各位新年好！这篇文章我们梳理了 2025 年新出行 App 十大热门原创内容，里面涵盖了贺磊的小作文、行业独创的新出行一图、专业的多车横评视频以及超详细的新出行<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/12/683bc202602120959054249.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166332</link>
             <guid isPermaLink="false">xchuxing:1:166332</guid>
             <pubDate>Sat, 14 Feb 2026 08:02:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[超 20 项功能深度优化 东风日产 N7 迎来 OTA 升级]]></title>
-            <description><![CDATA[近日，东风日产 N7 车型迎来 2026 年首次 OTA 升级，本次升级的版本为 NISSAN OS 1.4.0，超 20 项功能深度优化。主要新增的功能有推荐<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/14/94904202602141311526632.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166328</link>
-            <guid isPermaLink="false">xchuxing:1:166328</guid>
-            <pubDate>Sat, 14 Feb 2026 07:06:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
