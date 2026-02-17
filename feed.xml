@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Feb 2026 14:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Feb 2026 15:11:00 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[一年一款新车 奕境发布2026第一期工作报告]]></title>
+            <description><![CDATA[近日， 华为乾崑和东风汽车合作的奕境汽车发布了 2026 第一期工作报告，报告提到了首款产品亮相时间以及接下来的产品规划。首先是旗下首款产品规划，目前奕境品牌首<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/17/3486f20260217221500464.png">]]></description>
+            <link>https://www.xchuxing.com/article/166373</link>
+            <guid isPermaLink="false">xchuxing:1:166373</guid>
+            <pubDate>Tue, 17 Feb 2026 14:15:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[造型方正 疑似尊界 MPV 谍照曝光]]></title>
             <description><![CDATA[近日，网上曝光一组疑似尊界 MPV 车型谍照图，从曝光的实拍图来看，新车还处于高度保密状态。不过，从谍照图还是能看到新车大致轮廓，整体造型依然是方正 MPV 造<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/17/c4657202602172149192096.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166346</link>
             <guid isPermaLink="false">xchuxing:1:166346</guid>
             <pubDate>Sun, 15 Feb 2026 10:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FF 提案发展智能机器人等业务拓展]]></title>
-            <description><![CDATA[法拉第未来（Faraday Future，FF）宣布，近日召开的特别股东大会已完成相关议案审议并获得通过。据悉，FF 已推出首批具身智能机器人产品系列，并开启了<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/15/002b6202602151806519229.png">]]></description>
-            <link>https://www.xchuxing.com/article/166345</link>
-            <guid isPermaLink="false">xchuxing:1:166345</guid>
-            <pubDate>Sun, 15 Feb 2026 10:10:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
