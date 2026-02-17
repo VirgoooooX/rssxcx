@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Feb 2026 12:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Feb 2026 14:01:48 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[造型方正 疑似尊界 MPV 谍照曝光]]></title>
+            <description><![CDATA[近日，网上曝光一组疑似尊界 MPV 车型谍照图，从曝光的实拍图来看，新车还处于高度保密状态。不过，从谍照图还是能看到新车大致轮廓，整体造型依然是方正 MPV 造<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/17/c4657202602172149192096.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166372</link>
+            <guid isPermaLink="false">xchuxing:1:166372</guid>
+            <pubDate>Tue, 17 Feb 2026 13:50:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[北京小客车指标配额公布 增发 8 万个新能源指标]]></title>
             <description><![CDATA[近日， 北京市发布 2026 年小客车指标配额和配置比例，2026 年北京市常规小客车指标配额为 10 万个，其中增发新能源指标 8 万个。 2026 年北京市<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/17/e1337202602171438537638.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166345</link>
             <guid isPermaLink="false">xchuxing:1:166345</guid>
             <pubDate>Sun, 15 Feb 2026 10:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一期项目建成投用 亿纬锂能荆门研究院龙泉实验室揭牌]]></title>
-            <description><![CDATA[日前，亿纬锂能荆门研究院零区入驻暨龙泉实验室建成揭牌仪式在湖北荆门举行。该实验室由亿纬锂能联合多所高校及产业链企业共同建设，规划用地252亩，分两期推进，目前一<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/15/deade20260215162021531.png">]]></description>
-            <link>https://www.xchuxing.com/article/166344</link>
-            <guid isPermaLink="false">xchuxing:1:166344</guid>
-            <pubDate>Sun, 15 Feb 2026 08:21:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
