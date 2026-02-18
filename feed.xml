@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Feb 2026 15:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Feb 2026 16:14:43 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[编辑部的故事（5）| 编辑们聊聊家乡新能源汽车发展状况]]></title>
+            <description><![CDATA[又是一年新春佳节，如今新能源汽车市场蓬勃发展，消费者对新能源车型的认可度也持续提升，街头巷尾的各品牌新能源车型愈发常见。新春期间，新出行的编辑们纷纷回到各自家乡<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/18/63b32202602182224101020.png">]]></description>
+            <link>https://www.xchuxing.com/article/166378</link>
+            <guid isPermaLink="false">xchuxing:1:166378</guid>
+            <pubDate>Wed, 18 Feb 2026 15:47:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2025 年国内新能源品牌补能网络变化汇总]]></title>
             <description><![CDATA[2025 年，对于自建自营的补能网络明显相比前几年有所降温，今年更多话题、新车均聚焦于增程车型上。但我认为在纯电领域，尤其是中高端，自建自营补能网络必不可少。那<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/13/6ef3c202602132117024856.png">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166354</link>
             <guid isPermaLink="false">xchuxing:1:166354</guid>
             <pubDate>Mon, 16 Feb 2026 05:09:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[总结2025｜新出行App十大热门原创内容]]></title>
-            <description><![CDATA[各位新年好！这篇文章我们梳理了 2025 年新出行 App 十大热门原创内容，里面涵盖了贺磊的小作文、行业独创的新出行一图、专业的多车横评视频以及超详细的新出行<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/12/683bc202602120959054249.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166225</link>
-            <guid isPermaLink="false">xchuxing:1:166225</guid>
-            <pubDate>Sun, 15 Feb 2026 16:02:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
