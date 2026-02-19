@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Feb 2026 15:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Feb 2026 16:09:52 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX-Test 续航实测 | 2025 年续航测试汇总]]></title>
+            <description><![CDATA[2025 年，800V 电压平台对于纯电车型来说，基本都是标配。当时间来到 2025 年下半年，车企也开始给 20 万价位以上的混动车型用 800V 电压平台，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/13/72c7e202602130923433768.png">]]></description>
+            <link>https://www.xchuxing.com/article/166309</link>
+            <guid isPermaLink="false">xchuxing:1:166309</guid>
+            <pubDate>Thu, 19 Feb 2026 16:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[编辑部的故事（5）| 编辑们聊聊家乡新能源汽车发展状况]]></title>
             <description><![CDATA[又是一年新春佳节，如今新能源汽车市场蓬勃发展，消费者对新能源车型的认可度也持续提升，街头巷尾的各品牌新能源车型愈发常见。新春期间，新出行的编辑们纷纷回到各自家乡<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/18/63b32202602182224101020.png">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166356</link>
             <guid isPermaLink="false">xchuxing:1:166356</guid>
             <pubDate>Mon, 16 Feb 2026 06:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[电池存在起火隐患 北京奔驰再次扩大召回 EQA/EQB]]></title>
-            <description><![CDATA[日前，北京奔驰汽车有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。召回编号S2026<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/16/94faa20260216130834606.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166354</link>
-            <guid isPermaLink="false">xchuxing:1:166354</guid>
-            <pubDate>Mon, 16 Feb 2026 05:09:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
