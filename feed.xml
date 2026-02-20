@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Feb 2026 11:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 12:38:27 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预计 2027 年首发 福特全新电动皮卡预告图曝光]]></title>
+            <description><![CDATA[近日，我们从官方渠道获悉，福特发布全新电动皮卡预告图，该车预计将于 2027 年首发，定价预估 3 万美元， 对标特斯拉 Cybertruck。从官方曝光的图片<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/20/92fba202602202030589498.png">]]></description>
+            <link>https://www.xchuxing.com/article/166391</link>
+            <guid isPermaLink="false">xchuxing:1:166391</guid>
+            <pubDate>Fri, 20 Feb 2026 12:31:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预计 2026 年三季度上市 比亚迪 Racco 内饰官图发布]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，比亚迪正式发布了 Racco 的内饰官图； 该车专供日本电动 K-Car 车型市场，其计划于2026 年第二或第三季度正式上市，售价<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/20/401cc20260220005244205.png">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166372</link>
             <guid isPermaLink="false">xchuxing:1:166372</guid>
             <pubDate>Tue, 17 Feb 2026 13:50:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京小客车指标配额公布 增发 8 万个新能源指标]]></title>
-            <description><![CDATA[近日， 北京市发布 2026 年小客车指标配额和配置比例，2026 年北京市常规小客车指标配额为 10 万个，其中增发新能源指标 8 万个。 2026 年北京市<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/17/e1337202602171438537638.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166370</link>
-            <guid isPermaLink="false">xchuxing:1:166370</guid>
-            <pubDate>Tue, 17 Feb 2026 06:39:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
