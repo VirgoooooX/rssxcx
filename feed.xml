@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Feb 2026 12:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 13:54:57 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预计 2026 年正式亮相 疑似尊界 SUV 谍照图曝光]]></title>
+            <description><![CDATA[近日，我们从相关渠道获得一组疑似尊界 SUV 的谍照曝光图，该车定位大型 SUV，预计将于 2026 年正式亮相。从图片可以看到，新车前脸采用了分体式大灯的设计<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/20/f1987202602202042364012.png">]]></description>
+            <link>https://www.xchuxing.com/article/166392</link>
+            <guid isPermaLink="false">xchuxing:1:166392</guid>
+            <pubDate>Fri, 20 Feb 2026 12:42:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预计 2027 年首发 福特全新电动皮卡预告图曝光]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，福特发布全新电动皮卡预告图，该车预计将于 2027 年首发，定价预估 3 万美元， 对标特斯拉 Cybertruck。从官方曝光的图片<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/20/92fba202602202030589498.png">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166373</link>
             <guid isPermaLink="false">xchuxing:1:166373</guid>
             <pubDate>Tue, 17 Feb 2026 14:15:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[造型方正 疑似尊界 MPV 谍照曝光]]></title>
-            <description><![CDATA[近日，网上曝光一组疑似尊界 MPV 车型谍照图，从曝光的实拍图来看，新车还处于高度保密状态。不过，从谍照图还是能看到新车大致轮廓，整体造型依然是方正 MPV 造<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/17/c4657202602172149192096.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166372</link>
-            <guid isPermaLink="false">xchuxing:1:166372</guid>
-            <pubDate>Tue, 17 Feb 2026 13:50:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
