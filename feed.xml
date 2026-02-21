@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Feb 2026 16:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 16:52:51 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 254期：实测领克900 2.2版全新智驾 G-ASD、D2D表现如何？]]></title>
+            <description><![CDATA[前阵子我们体验了领克900 2.2版全新智驾，这次升级了 D2D 等重磅功能，让领克的智驾能力跻身进入第一阵营！<br><img src="https://s1.xchuxing.com/video/2026/02/22/2356e202602220035461941.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/21941</link>
+            <guid isPermaLink="false">xchuxing:2:21941</guid>
+            <pubDate>Sat, 21 Feb 2026 16:39:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 253期：纯平空间你见过吗？体验吉利银河M9百变座椅！]]></title>
+            <description><![CDATA[这是第三期新出行显微镜的内容，今天的主角是吉利银河 M9 的百变座椅！<br><img src="https://s1.xchuxing.com/video/2026/02/22/775dc202602220033369853.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/21940</link>
+            <guid isPermaLink="false">xchuxing:2:21940</guid>
+            <pubDate>Sat, 21 Feb 2026 16:35:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[smart 精灵 #6 EHD 超级电混将于 2026 年年中上市]]></title>
             <description><![CDATA[日前，我们从官方渠道获悉，smart 精灵 #6 EHD 超级电混将于 2026 年年中上市。新车此前已登录工信部申报目录，采用 1.5T 插电混动系统。外观方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/21/e5fc2202602211550307019.jpg">]]></description>
@@ -63,20 +77,6 @@
             <link>https://www.xchuxing.com/article/166393</link>
             <guid isPermaLink="false">xchuxing:1:166393</guid>
             <pubDate>Fri, 20 Feb 2026 14:48:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预计 2026 年正式亮相 疑似尊界 SUV 谍照图曝光]]></title>
-            <description><![CDATA[近日，我们从相关渠道获得一组疑似尊界 SUV 的谍照曝光图，该车定位大型 SUV，预计将于 2026 年正式亮相。从图片可以看到，新车前脸采用了分体式大灯的设计<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/20/f1987202602202042364012.png">]]></description>
-            <link>https://www.xchuxing.com/article/166392</link>
-            <guid isPermaLink="false">xchuxing:1:166392</guid>
-            <pubDate>Fri, 20 Feb 2026 12:42:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预计 2027 年首发 福特全新电动皮卡预告图曝光]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，福特发布全新电动皮卡预告图，该车预计将于 2027 年首发，定价预估 3 万美元， 对标特斯拉 Cybertruck。从官方曝光的图片<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/20/92fba202602202030589498.png">]]></description>
-            <link>https://www.xchuxing.com/article/166391</link>
-            <guid isPermaLink="false">xchuxing:1:166391</guid>
-            <pubDate>Fri, 20 Feb 2026 12:31:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
