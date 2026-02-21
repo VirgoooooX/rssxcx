@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Feb 2026 07:04:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 07:49:17 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[提供纯电及增程双动力 小鹏 GX 预计 4-5 月上市]]></title>
+            <description><![CDATA[日前，我们从官方渠道获悉，小鹏 GX 预计在今年的 4-5 月上市。新车此前已登录工信部申报目录，将提供纯电以及增程双动力。外观方面，小鹏 GX 整体的造型非常<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/21/dbdec202602211537266847.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166399</link>
+            <guid isPermaLink="false">xchuxing:1:166399</guid>
+            <pubDate>Sat, 21 Feb 2026 07:48:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[基于丰田汉兰达 EV 平台打造 斯巴鲁将推出三排座纯电 SUV]]></title>
             <description><![CDATA[日前 ，我们从相关渠道获悉，斯巴鲁将于 2026 年在国际市场推出一款基于丰田 Highlander EV 所用的 e-TNGA 平台开发的全新三排座纯电 SU<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/21/f9ffc202602211133288905.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166386</link>
             <guid isPermaLink="false">xchuxing:1:166386</guid>
             <pubDate>Thu, 19 Feb 2026 16:52:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[受地图兼容性影响 特斯拉 CarPlay 功能延期]]></title>
-            <description><![CDATA[近日，我们从海外媒体渠道获悉，特斯拉欲新增的 CarPlay 功能计划再度遭遇延期。目前特斯拉与苹果的合作仍在继续，但受地图兼容性问题及 iOS 系统更新普及率<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/20/68c97202602200041379080.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166385</link>
-            <guid isPermaLink="false">xchuxing:1:166385</guid>
-            <pubDate>Thu, 19 Feb 2026 16:44:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
