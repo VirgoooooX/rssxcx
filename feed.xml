@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Feb 2026 15:46:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Feb 2026 16:19:46 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行一图 219期：一图看懂乾崑智驾 最新硬件规格]]></title>
+            <description><![CDATA[乾崑智驾是华为推出的智能汽车解决方案品牌“乾崑”旗下的核心产品，前段时间华为就该产品进行了更加清晰的定位划分，接下来我们就通过这张一图，带大家从硬件规格层面去理<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/23/5b6d5202602230004041646.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166410</link>
+            <guid isPermaLink="false">xchuxing:1:166410</guid>
+            <pubDate>Sun, 22 Feb 2026 16:01:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[聚焦 SUV 与轿车并布局衍生车型 沃尔沃终止旅行车产品线]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，沃尔沃汽车将不再规划推出传统旅行车的新车型，目前在售的旅行车车型未来也不再推出改款车型。沃尔沃汽车首席执行官表示，旅行车产品线的终止主<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/22/00763202602221725423709.jpg">]]></description>
@@ -70,20 +77,6 @@
             <link>https://www.xchuxing.com/article/166399</link>
             <guid isPermaLink="false">xchuxing:1:166399</guid>
             <pubDate>Sat, 21 Feb 2026 07:48:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[基于丰田汉兰达 EV 平台打造 斯巴鲁将推出三排座纯电 SUV]]></title>
-            <description><![CDATA[日前 ，我们从相关渠道获悉，斯巴鲁将于 2026 年在国际市场推出一款基于丰田 Highlander EV 所用的 e-TNGA 平台开发的全新三排座纯电 SU<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/21/f9ffc202602211133288905.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166398</link>
-            <guid isPermaLink="false">xchuxing:1:166398</guid>
-            <pubDate>Sat, 21 Feb 2026 03:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[涵盖智能座舱/辅助驾驶 荣威 M7 DMH 迎来 OTA 升级]]></title>
-            <description><![CDATA[2 月 21 日，我们从官方渠道获悉，荣威 M7 DMH 迎来 OTA 升级。此次 OTA 升级包含智能座舱以及辅助驾驶等领域。新增哨兵模式新增个性化车外语音新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/21/d798a202602211112521656.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166396</link>
-            <guid isPermaLink="false">xchuxing:1:166396</guid>
-            <pubDate>Sat, 21 Feb 2026 03:13:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
