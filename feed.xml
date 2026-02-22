@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Feb 2026 09:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Feb 2026 09:51:46 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[聚焦 SUV 与轿车并布局衍生车型 沃尔沃终止旅行车产品线]]></title>
+            <description><![CDATA[近日，我们从官方渠道获悉，沃尔沃汽车将不再规划推出传统旅行车的新车型，目前在售的旅行车车型未来也不再推出改款车型。沃尔沃汽车首席执行官表示，旅行车产品线的终止主<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/22/00763202602221725423709.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166406</link>
+            <guid isPermaLink="false">xchuxing:1:166406</guid>
+            <pubDate>Sun, 22 Feb 2026 09:26:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[提供纯电及增程双动力 全新极狐阿尔法 S5 官图发布]]></title>
             <description><![CDATA[近日，我们从官方渠道获取到一组全新极狐阿尔法 S5 官图。新车此前已登录工信部申报目录，有消息称新车将于 3 月正式上市。外观方面，全新极狐阿尔法 S5 换装全<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/22/5d18a202602221706347582.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/166396</link>
             <guid isPermaLink="false">xchuxing:1:166396</guid>
             <pubDate>Sat, 21 Feb 2026 03:13:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[为无人驾驶出租车服务 特斯拉 Cybercab 正式下线]]></title>
-            <description><![CDATA[日前，我们从官方渠道获悉，第一辆 Tesla Cybercab 在得州超级工厂正式下线。新车将会是特斯拉推出的无人驾驶出租车，预计新车成本将低于 30000 美<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/21/1f83b202602211057172333.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166395</link>
-            <guid isPermaLink="false">xchuxing:1:166395</guid>
-            <pubDate>Sat, 21 Feb 2026 03:04:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
