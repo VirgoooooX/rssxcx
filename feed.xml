@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Feb 2026 05:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 06:40:25 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[提供五种动力形式 宝马全新 X5 路试谍照曝光]]></title>
+            <description><![CDATA[目前，根据海外媒体报道，宝马全新一代 X5 路试谍照曝光。据了解，新车预计在 2026 年正式亮相，新车将提供 5 种动力总成，包括汽油、柴油、插电式混合动力、<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/23/6affc202602231345286946.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166414</link>
+            <guid isPermaLink="false">xchuxing:1:166414</guid>
+            <pubDate>Mon, 23 Feb 2026 05:46:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[荣威 M7 DMH 推送新一轮 OTA 升级]]></title>
             <description><![CDATA[目前，根据官方获悉，荣威 M7 DMH 推送新一轮 OTA 升级。据了解，此次 OTA 主要聚焦用户体验，带来哨兵模式、趣味性车外音效、AI 预瞄、DIY 泊车<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/23/8d2bd202602231316083617.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/video/21941</link>
             <guid isPermaLink="false">xchuxing:2:21941</guid>
             <pubDate>Sat, 21 Feb 2026 16:39:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 253期：纯平空间你见过吗？体验吉利银河M9百变座椅！]]></title>
-            <description><![CDATA[这是第三期新出行显微镜的内容，今天的主角是吉利银河 M9 的百变座椅！<br><img src="https://s1.xchuxing.com/video/2026/02/22/775dc202602220033369853.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/21940</link>
-            <guid isPermaLink="false">xchuxing:2:21940</guid>
-            <pubDate>Sat, 21 Feb 2026 16:35:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
