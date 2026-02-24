@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Feb 2026 23:52:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 01:18:36 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 255期：第一梯队辅助驾驶藏多少真相？特斯拉FSD和华为ADS实测来了！]]></title>
+            <description><![CDATA[我们的爆肝节目来了！春节前我们熬了一个节目，想用一个视频和大家国内第一梯队辅助驾驶藏多少真相？这次我们带着特斯拉FSD V13 和华为 ADS 4.1 来到汕头，做了一个深度评测，和大家详细聊聊！<br><img src="https://s1.xchuxing.com/video/2026/02/24/36e9a202602240754419223.png">]]></description>
+            <link>https://www.xchuxing.com/video/21960</link>
+            <guid isPermaLink="false">xchuxing:2:21960</guid>
+            <pubDate>Mon, 23 Feb 2026 23:57:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 159期：2025 年度主流大六座 SUV 车型空间横评]]></title>
             <description><![CDATA[2026 年是 SUV 井喷式爆发的一年，而在这其中，大六座 SUV，正迅速走向舞台中央。对于整个中国市场来说，它精准切中了当代人们对于“全员舒适”与“尊严出行<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/23/32c6c202602231450487776.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166404</link>
             <guid isPermaLink="false">xchuxing:1:166404</guid>
             <pubDate>Sun, 22 Feb 2026 09:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[内饰/外观升级迭代 新款传祺 E8 PHEV 谍照曝光]]></title>
-            <description><![CDATA[近日，我们从相关渠道获取到一组新款传祺 E8 PHEV 谍照。新车将作为中期改款车型，目前还暂无确切的上市时间。外观方面，虽然测试车辆还覆盖着厚重伪装，但从轮廓<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/22/8295b20260222112728372.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166402</link>
-            <guid isPermaLink="false">xchuxing:1:166402</guid>
-            <pubDate>Sun, 22 Feb 2026 03:38:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
