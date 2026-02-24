@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Feb 2026 15:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 16:34:16 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX-Test深度实测 35期：深度体验享界 S9T]]></title>
+            <description><![CDATA[截止 2025 年，国产旅行车市场的选择还是不多，尺寸稍小的车型有三款，尺寸稍大的车型也有三款。此次我们实测的就是尺寸稍大的三款车型中的享界 S9T。看看享界<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/12/fced4202602121639569531.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166253</link>
+            <guid isPermaLink="false">xchuxing:1:166253</guid>
+            <pubDate>Tue, 24 Feb 2026 16:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3 月初开启预售 极狐全新阿尔法 S5 将于 3 月中下旬上市]]></title>
             <description><![CDATA[2 月 24 日，我们从极狐品牌用户运营中心副总经理乔心昱社交媒体处获悉，极狐全新阿尔法 S5 将于 3 月初开启预售，3 月中下旬上市。外观方面，全新极狐阿尔<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/24/05507202602242021273637.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/video/21960</link>
             <guid isPermaLink="false">xchuxing:2:21960</guid>
             <pubDate>Mon, 23 Feb 2026 23:57:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 159期：2025 年度主流大六座 SUV 车型空间横评]]></title>
-            <description><![CDATA[2026 年是 SUV 井喷式爆发的一年，而在这其中，大六座 SUV，正迅速走向舞台中央。对于整个中国市场来说，它精准切中了当代人们对于“全员舒适”与“尊严出行<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/23/32c6c202602231450487776.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166220</link>
-            <guid isPermaLink="false">xchuxing:1:166220</guid>
-            <pubDate>Mon, 23 Feb 2026 16:30:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
