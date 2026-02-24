@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Feb 2026 08:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 09:42:47 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行｜「2026」 年度礼盒 限量发售100份]]></title>
+            <description><![CDATA[2026丙午马年，正是新能源汽车奔腾向前的奋进之年。乘马之势，逐电而行，智能电动汽车的新时代里，每一次续航突破、每一次智驾升级，都有你我的见证与同行<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/24/c4c6e202602241636367205.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166439</link>
+            <guid isPermaLink="false">xchuxing:1:166439</guid>
+            <pubDate>Tue, 24 Feb 2026 08:37:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 10.99-12.99 万元 日产 N7 青春版正式上市]]></title>
             <description><![CDATA[2 月 24 日，日产 N7 青春版正式上市，新款售价区间 10.99-13.99 万元，依旧保留了 5 款车型配置。外观方面，日产 N7 跟进了新时代简洁的设<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/24/9839d202602241541028343.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166413</link>
             <guid isPermaLink="false">xchuxing:1:166413</guid>
             <pubDate>Mon, 23 Feb 2026 05:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 5.999 万美元 特斯拉 Cybertruck 新增入门版双电机全驱车型]]></title>
-            <description><![CDATA[日前，特斯拉官方在社交平台发文称，全新的入门版双电机全驱车型于北美上市，售价 59990 美元（约合人民币 41.5 万元）。根据官方介绍，这是 Cybertr<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/23/467a3202602231307206484.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166412</link>
-            <guid isPermaLink="false">xchuxing:1:166412</guid>
-            <pubDate>Mon, 23 Feb 2026 05:07:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
