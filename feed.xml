@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Feb 2026 01:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 03:56:21 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -70,13 +70,6 @@
             <link>https://www.xchuxing.com/article/166405</link>
             <guid isPermaLink="false">xchuxing:1:166405</guid>
             <pubDate>Sun, 22 Feb 2026 09:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[基于中期改款 7 系和 X7 打造 宝马将于 2027 年发布全新 BMW ALPINA 车型]]></title>
-            <description><![CDATA[近日，我们从海外媒体处获悉，宝马将于 2027 年推出中期改款 7 系和 X7 的 ALPINA 版本。目前有消息称，中期改款 7 系将会推出纯电版车型，大概率<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/22/ab6db202602221700307586.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166404</link>
-            <guid isPermaLink="false">xchuxing:1:166404</guid>
-            <pubDate>Sun, 22 Feb 2026 09:03:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
