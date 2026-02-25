@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 01:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 03:57:05 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[比亚迪发布宋 Ultra 内饰图]]></title>
+            <description><![CDATA[日前，比亚迪发布了全新 B 级纯电 SUV 车型宋 Ultra 的内饰图。新车内饰设计采用了家族化的风格，仪表为内嵌式设计，中控大屏则是悬浮式设计。方向盘为全新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/25/1739d202602250935502969.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166460</link>
+            <guid isPermaLink="false">xchuxing:1:166460</guid>
+            <pubDate>Wed, 25 Feb 2026 01:44:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX-Test深度实测 35期：深度体验享界 S9T]]></title>
             <description><![CDATA[截止 2025 年，国产旅行车市场的选择还是不多，尺寸稍小的车型有三款，尺寸稍大的车型也有三款。此次我们实测的就是尺寸稍大的三款车型中的享界 S9T。看看享界<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/12/fced4202602121639569531.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166434</link>
             <guid isPermaLink="false">xchuxing:1:166434</guid>
             <pubDate>Tue, 24 Feb 2026 05:50:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 255期：第一梯队辅助驾驶藏多少真相？特斯拉FSD和华为ADS实测来了！]]></title>
-            <description><![CDATA[我们的爆肝节目来了！春节前我们熬了一个节目，想用一个视频和大家国内第一梯队辅助驾驶藏多少真相？这次我们带着特斯拉FSD V13 和华为 ADS 4.1 来到汕头，做了一个深度评测，和大家详细聊聊！<br><img src="https://s1.xchuxing.com/video/2026/02/24/36e9a202602240754419223.png">]]></description>
-            <link>https://www.xchuxing.com/video/21960</link>
-            <guid isPermaLink="false">xchuxing:2:21960</guid>
-            <pubDate>Mon, 23 Feb 2026 23:57:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
