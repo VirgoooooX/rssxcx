@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 15:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 16:42:24 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 257期：零跑D19车内竟然有制氧机！？]]></title>
+            <description><![CDATA[这是新出行显微镜栏目的第四期，这一次放大的功能是零跑D19的“森野氧舱”功能，竟然还能制氧？<br><img src="https://s1.xchuxing.com/video/2026/02/25/066e7202602252354116189.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/21990</link>
+            <guid isPermaLink="false">xchuxing:2:21990</guid>
+            <pubDate>Wed, 25 Feb 2026 15:56:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新增单电机版本 全新腾势 Z9 GT 有望 3 月开启预售]]></title>
             <description><![CDATA[2 月 25 日，我们从官方渠道获悉，全新腾势 Z9 GT 有望 3 月开启预售。新车此前已登录工信部申报目录，将新增单电机版本。外观方面，全新腾势 Z9 GT<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/25/5333b20260225183045570.jpg">]]></description>
@@ -70,20 +77,6 @@
             <link>https://www.xchuxing.com/article/166455</link>
             <guid isPermaLink="false">xchuxing:1:166455</guid>
             <pubDate>Tue, 24 Feb 2026 12:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[已开启预订 2026 款小鹏 X9 纯电版将于 3 月上市]]></title>
-            <description><![CDATA[2 月 24 日，我们从官方渠道获悉，2026 款小鹏 X9 纯电版将于 3 月上市。新车此前已开启预订，共推出 5 款车型配置。外观方面，2026 款小鹏 X<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/24/ce934202602242012084706.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166454</link>
-            <guid isPermaLink="false">xchuxing:1:166454</guid>
-            <pubDate>Tue, 24 Feb 2026 12:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行｜「2026」 年度礼盒 限量发售100份]]></title>
-            <description><![CDATA[2026丙午马年，正是新能源汽车奔腾向前的奋进之年。乘马之势，逐电而行，智能电动汽车的新时代里，每一次续航突破、每一次智驾升级，都有你我的见证与同行<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/24/c4c6e202602241636367205.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166439</link>
-            <guid isPermaLink="false">xchuxing:1:166439</guid>
-            <pubDate>Tue, 24 Feb 2026 08:37:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
