@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 16:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 17:33:22 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行一图 220期：一图看懂国内主流辅助驾驶 高阶方案硬件配置对比]]></title>
+            <description><![CDATA[近年来，各家车企都推出了自己的辅助驾驶方案；并且如今很多方案都在全新车型上得到了落实，接下来我们就通过这张一图，带大家看懂国内主流的辅助驾驶方案，看看其中高阶方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/27/bfbb1202602270056129378.png">]]></description>
+            <link>https://www.xchuxing.com/article/166508</link>
+            <guid isPermaLink="false">xchuxing:1:166508</guid>
+            <pubDate>Thu, 26 Feb 2026 16:57:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[阿维塔 07 右舵版在泰国开启交付]]></title>
             <description><![CDATA[2 月 25 日，我们从官方渠道获悉，阿维塔 07 右舵版在泰国正式开启交付。在产品规划方面，阿维塔计划在 2026 年推出 5 款车型，2030 年推出 17<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/26/2bedf202602262044239854.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166479</link>
             <guid isPermaLink="false">xchuxing:1:166479</guid>
             <pubDate>Wed, 25 Feb 2026 11:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智己 LS6 推出 7 年超长期金融方案]]></title>
-            <description><![CDATA[日前，根据官方获悉，智己 LS6 推出新年焕新价 19.49 万元起，并推出了 7 年 0 首付，3 年 0 息，5000 元置换补贴（品牌叠加政府置换补贴至高<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/25/d58d5202602251558362095.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166468</link>
-            <guid isPermaLink="false">xchuxing:1:166468</guid>
-            <pubDate>Wed, 25 Feb 2026 07:59:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
