@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 09:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 10:37:11 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[推动高端芯片发展 蔚来子公司首轮融资 22 亿元]]></title>
+            <description><![CDATA[2 月 26 日，蔚来宣布旗下芯片子公司安徽神玑技术有限公司完成首轮股权融资协议签署，融资金额超 22 亿元人民币，投后估值近百亿。此次融资将有利于神玑公司持续<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/26/a67e420260226174220332.png">]]></description>
+            <link>https://www.xchuxing.com/article/166501</link>
+            <guid isPermaLink="false">xchuxing:1:166501</guid>
+            <pubDate>Thu, 26 Feb 2026 09:43:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[第五代设计 全新宏光 MINIEV 官图发布]]></title>
             <description><![CDATA[目前，五菱品牌发布了全新宏光 MINIEV 官图。据了解，新车为 MINIEV 第五代设计车型，自 2020 年上市以来，宏光MINIEV 开拓新能源代步细分市<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/26/5c9b4202602261415472577.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166460</link>
             <guid isPermaLink="false">xchuxing:1:166460</guid>
             <pubDate>Wed, 25 Feb 2026 01:44:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCX-Test深度实测 35期：深度体验享界 S9T]]></title>
-            <description><![CDATA[截止 2025 年，国产旅行车市场的选择还是不多，尺寸稍小的车型有三款，尺寸稍大的车型也有三款。此次我们实测的就是尺寸稍大的三款车型中的享界 S9T。看看享界<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/12/fced4202602121639569531.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166253</link>
-            <guid isPermaLink="false">xchuxing:1:166253</guid>
-            <pubDate>Tue, 24 Feb 2026 16:01:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
