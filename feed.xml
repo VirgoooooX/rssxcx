@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Feb 2026 15:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 16:31:35 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 259期：理想为什么放弃学习华为？这几年发生了什么？]]></title>
+            <description><![CDATA[2022年开始到如今，理想的组织变革发生了什么？为什么理想从3年前的全面学习华为，到如今放弃且全面倒向了AI？一个视频和大家聊聊！<br><img src="https://s1.xchuxing.com/video/2026/02/28/1295b202602280021453366.png">]]></description>
+            <link>https://www.xchuxing.com/video/22012</link>
+            <guid isPermaLink="false">xchuxing:2:22012</guid>
+            <pubDate>Fri, 27 Feb 2026 16:26:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[第四季度收入 681 亿美元 英伟达发布 2026 财年第四季度及全年财务报告]]></title>
             <description><![CDATA[日前，英伟达发布 2026 财年第四季度及全年财务报告。截至 2026 年 1 月 25 日的第四季度收入为 681 亿美元，较上一季度增长 20%，较去年同期<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/27/fd083202602272108115260.jpg">]]></description>
@@ -67,20 +74,6 @@
             <link>https://www.xchuxing.com/article/166504</link>
             <guid isPermaLink="false">xchuxing:1:166504</guid>
             <pubDate>Thu, 26 Feb 2026 12:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[独立运营 广汽集团内部孵化具身智能机器人公司慧仑科技正式成立]]></title>
-            <description><![CDATA[2 月 26 日，广汽集团携第四代具身智能人形机器人 GoMate Mini 亮相广州开发区、黄埔区高质量发展大会，正式宣布孵化成立广东慧仑科技有限公司。作为广<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/26/74c9020260226203512421.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166503</link>
-            <guid isPermaLink="false">xchuxing:1:166503</guid>
-            <pubDate>Thu, 26 Feb 2026 12:36:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预计 4 月 20 日举办产品技术发布会 乐道 L80 将于 5 月中旬上市并交付]]></title>
-            <description><![CDATA[近日，我们从相关渠道获悉，乐道 L80 预计将于 4 月 20 日举行产品技术发布会，随后在 5 月中旬公布售价并开启交付。在此前的工信部申报目录当中，我们找到<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/26/5a418202602262028401510.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166502</link>
-            <guid isPermaLink="false">xchuxing:1:166502</guid>
-            <pubDate>Thu, 26 Feb 2026 12:30:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
