@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Feb 2026 05:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 06:09:41 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[极狐全新阿尔法 S5 将于 3 月 1 日开启预售]]></title>
+            <description><![CDATA[目前，极狐汽车发布全新阿尔法 S5 官图，并宣布新车将于 2026 年 3 月 1 日开启预售。外观方面，全新极狐阿尔法 S5 换装全新前保险杠造型以及日行灯组<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/27/4aa32202602271347182608.png">]]></description>
+            <link>https://www.xchuxing.com/article/166517</link>
+            <guid isPermaLink="false">xchuxing:1:166517</guid>
+            <pubDate>Fri, 27 Feb 2026 05:47:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[合作开发线控底盘等 蔚来与博世签署战略合作协议]]></title>
             <description><![CDATA[目前，根据官方获悉，蔚来公司与博世签署战略合作协议。双方合作将覆盖蔚来公司旗下三大品牌——蔚来、乐道与萤火虫，围绕智能电动汽车核心技术领域展开深度协作，合作领域<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/27/bf5db202602271057294830.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166476</link>
             <guid isPermaLink="false">xchuxing:1:166476</guid>
             <pubDate>Wed, 25 Feb 2026 11:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[已开启盲订 昊铂 A800 将于 3 月 4 日上市]]></title>
-            <description><![CDATA[2 月 25 日，我们从官方渠道获悉，昊铂 A800 将于 3 月 4 日上市。新车此前已开启盲订，将推出 4 款车型配置。外观方面，新车采用全新的设计风格，贯<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/25/b66a5202602251836088823.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166477</link>
-            <guid isPermaLink="false">xchuxing:1:166477</guid>
-            <pubDate>Wed, 25 Feb 2026 11:25:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
