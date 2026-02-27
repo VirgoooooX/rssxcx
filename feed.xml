@@ -4,10 +4,21 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Feb 2026 11:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 11:51:18 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 258期：春节行驶 3700km 后和大家聊一聊问界 M8]]></title>
+            <description><![CDATA[今天春节出行搭子是问界 M8 六座版，在行驶了 3700km 后，这期视频就和大家聊一聊。
+
+-春节出行为什么选择问界 M8？
+-问界 M8 高速/乡村辅助驾驶表现如何？
+-以燃油为主的情况下行驶 3700km 燃油花费要多少？<br><img src="https://s1.xchuxing.com/video/2026/02/27/0d4b4202602271742522620.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/22011</link>
+            <guid isPermaLink="false">xchuxing:2:22011</guid>
+            <pubDate>Fri, 27 Feb 2026 11:06:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[极狐全新阿尔法 S5 将于 3 月 1 日开启预售]]></title>
             <description><![CDATA[目前，极狐汽车发布全新阿尔法 S5 官图，并宣布新车将于 2026 年 3 月 1 日开启预售。外观方面，全新极狐阿尔法 S5 换装全新前保险杠造型以及日行灯组<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/27/4aa32202602271347182608.png">]]></description>
@@ -63,13 +74,6 @@
             <link>https://www.xchuxing.com/article/166493</link>
             <guid isPermaLink="false">xchuxing:1:166493</guid>
             <pubDate>Thu, 26 Feb 2026 06:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 257期：零跑D19车内竟然有制氧机！？]]></title>
-            <description><![CDATA[这是新出行显微镜栏目的第四期，这一次放大的功能是零跑D19的“森野氧舱”功能，竟然还能制氧？<br><img src="https://s1.xchuxing.com/video/2026/02/25/066e7202602252354116189.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/21990</link>
-            <guid isPermaLink="false">xchuxing:2:21990</guid>
-            <pubDate>Wed, 25 Feb 2026 15:56:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
