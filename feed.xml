@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Feb 2026 06:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 07:26:30 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -70,13 +70,6 @@
             <link>https://www.xchuxing.com/video/21990</link>
             <guid isPermaLink="false">xchuxing:2:21990</guid>
             <pubDate>Wed, 25 Feb 2026 15:56:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新增单电机版本 全新腾势 Z9 GT 有望 3 月开启预售]]></title>
-            <description><![CDATA[2 月 25 日，我们从官方渠道获悉，全新腾势 Z9 GT 有望 3 月开启预售。新车此前已登录工信部申报目录，将新增单电机版本。外观方面，全新腾势 Z9 GT<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/25/5333b20260225183045570.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166476</link>
-            <guid isPermaLink="false">xchuxing:1:166476</guid>
-            <pubDate>Wed, 25 Feb 2026 11:26:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
