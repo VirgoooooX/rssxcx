@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 08:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 08:52:27 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预售补贴价 11.28-17.38 万元 极狐全新阿尔法 S5 开启预售]]></title>
+            <description><![CDATA[3 月 1 日，极狐全新阿尔法 S5 正式开启预售。增程版共推出 2 款配置，预售补贴价 11.28-12.58 万元；纯电版共推出 4 款配置，预售补贴价 1<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/01/82fb3202603011620194790.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166589</link>
+            <guid isPermaLink="false">xchuxing:1:166589</guid>
+            <pubDate>Sun, 01 Mar 2026 08:29:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[数据汇总 | 2026 年 2 月及全年交付/销量汇总（持续更新）]]></title>
             <description><![CDATA[2026 年 3 月 1 日，各大品牌都开始公布其在 2026 年 2 月的交付量及销量。新出行将为您带来最新的数据信息汇总。-小鹏2026 年 2 月，小鹏汽<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/01/19390202603011603053220.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/166541</link>
             <guid isPermaLink="false">xchuxing:1:166541</guid>
             <pubDate>Sat, 28 Feb 2026 03:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 259期：理想为什么放弃学习华为？这几年发生了什么？]]></title>
-            <description><![CDATA[2022年开始到如今，理想的组织变革发生了什么？为什么理想从3年前的全面学习华为，到如今放弃且全面倒向了AI？一个视频和大家聊聊！<br><img src="https://s1.xchuxing.com/video/2026/02/28/1295b202602280021453366.png">]]></description>
-            <link>https://www.xchuxing.com/video/22012</link>
-            <guid isPermaLink="false">xchuxing:2:22012</guid>
-            <pubDate>Fri, 27 Feb 2026 16:26:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
