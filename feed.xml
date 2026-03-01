@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 16:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 17:16:00 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[高端智能标签？一文看懂全域线控技术细节]]></title>
+            <description><![CDATA[目前的新能源汽车领域也正在进行着全面的转型，电动化到智能化的变迁是时代的必然选择。如今各品牌也逐渐推出了智能车的全新概念。而支撑起这个概念的需要智能驾驶（大脑）<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/01/c16e3202603012320044948.png">]]></description>
+            <link>https://www.xchuxing.com/article/166554</link>
+            <guid isPermaLink="false">xchuxing:1:166554</guid>
+            <pubDate>Sun, 01 Mar 2026 17:03:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价 31.99 万元 岚图梦想家冠军版开启预售]]></title>
             <description><![CDATA[3 月 1 日，岚图梦想家冠军版开启预售，预售价 31.99 万元，将于 3 月内完成正式上市。此外，新车型将限量发售，即刻下订可享优先提车权益。外观方面，岚图<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/01/0f1b8202603011855072784.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166575</link>
             <guid isPermaLink="false">xchuxing:1:166575</guid>
             <pubDate>Sun, 01 Mar 2026 01:26:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价区间 15.39-16.19 万元 东风星海 T5 上市]]></title>
-            <description><![CDATA[近日，2026 款东风星海 T5 正式上市。新车共推出 2 款车型配置，售价分别为 15.39 万元和 16.19 万元。外观方面，2026 款东风星海 T5<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/28/a2495202602281518376704.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166557</link>
-            <guid isPermaLink="false">xchuxing:1:166557</guid>
-            <pubDate>Sat, 28 Feb 2026 13:01:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
