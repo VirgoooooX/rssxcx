@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 15:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 16:18:23 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -77,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166557</link>
             <guid isPermaLink="false">xchuxing:1:166557</guid>
             <pubDate>Sat, 28 Feb 2026 13:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[座舱优化及整车能源管理系统 福特智趣烈马迎来 OTA 升级]]></title>
-            <description><![CDATA[日前，我们从官方渠道获悉，福特智趣烈马迎来首次 OTA 升级。福特智趣烈马将优化中控屏幕显示及声音提醒、行车记录仪及 360 环视影像显示效果、座椅记忆及车窗一<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/28/db0b0202602281600542029.png">]]></description>
-            <link>https://www.xchuxing.com/article/166558</link>
-            <guid isPermaLink="false">xchuxing:1:166558</guid>
-            <pubDate>Sat, 28 Feb 2026 13:01:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
