@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 15:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 16:34:35 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX-Test续航实测 74期：2026 款小鹏 X9 纯电版续航及充电测试]]></title>
+            <description><![CDATA[前段时间我们测试了小鹏 X9 车型的纯电续航、亏电油耗测试，当时很多朋友都在期待 X9 的纯电版。那 2026 款小鹏 X9 纯电版也在今日正式上市，售价 30<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/28/ed92d202602281740551856.png">]]></description>
+            <link>https://www.xchuxing.com/article/166526</link>
+            <guid isPermaLink="false">xchuxing:1:166526</guid>
+            <pubDate>Mon, 02 Mar 2026 15:34:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[国轩高科 2GWh 全固态电池产线设计完成]]></title>
             <description><![CDATA[日前，国轩高科在互动平台回复投资者，2GWh 全固态电池量产线设计工作已基本完成。对于投资者关于“固态电池 GWh 级设备和材料何时开始招标”的提问，国轩高科表<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/02/3be8e202603022303137951.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/video/22033</link>
             <guid isPermaLink="false">xchuxing:2:22033</guid>
             <pubDate>Sun, 01 Mar 2026 09:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售补贴价 11.28-17.38 万元 极狐全新阿尔法 S5 开启预售]]></title>
-            <description><![CDATA[3 月 1 日，极狐全新阿尔法 S5 正式开启预售。增程版共推出 2 款配置，预售补贴价 11.28-12.58 万元；纯电版共推出 4 款配置，预售补贴价 1<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/01/82fb3202603011620194790.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166589</link>
-            <guid isPermaLink="false">xchuxing:1:166589</guid>
-            <pubDate>Sun, 01 Mar 2026 08:29:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
