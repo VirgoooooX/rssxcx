@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 07:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 08:34:24 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 30.98-36.98 万元 2026 款小鹏 X9 纯电版正式上市]]></title>
+            <description><![CDATA[3 月 2 日，2026 款小鹏 X9 纯电版正式上市，新款共推出 5 个车型配置，售价区间 30.98-36.98 万元。此外，新款 X9 纯电版赠送三电终身<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/02/380d7202603021558591215.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166631</link>
+            <guid isPermaLink="false">xchuxing:1:166631</guid>
+            <pubDate>Mon, 02 Mar 2026 07:59:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[专属配色 别克 GL8 家族「金辉版」正式上市]]></title>
             <description><![CDATA[日前，别克 GL8 「金辉版」正式推出，该版本车型主要给到用户 “岁月鎏金” 专属配色，并且「金辉版」车型将在 陆尊/陆尚 车型一同推出。此外，别克 GL8 首<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/02/c25dc202603021453356432.jpeg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/166578</link>
             <guid isPermaLink="false">xchuxing:1:166578</guid>
             <pubDate>Sun, 01 Mar 2026 02:55:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[限时售价区间 9.89-11.59 万元起 2026 款长安 UNI-Z PHEV 上市]]></title>
-            <description><![CDATA[日前，2026 款长安 UNI-Z PHEV 正式上市。新车推出 3 款配置，官方指导价区间 11.89-13.59 万元，叠加焕新礼等权益后售价区间 9.89<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/01/76fbd202603010941017495.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166577</link>
-            <guid isPermaLink="false">xchuxing:1:166577</guid>
-            <pubDate>Sun, 01 Mar 2026 01:53:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
