@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 14:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 15:33:33 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[国轩高科 2GWh 全固态电池产线设计完成]]></title>
+            <description><![CDATA[日前，国轩高科在互动平台回复投资者，2GWh 全固态电池量产线设计工作已基本完成。对于投资者关于“固态电池 GWh 级设备和材料何时开始招标”的提问，国轩高科表<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/02/3be8e202603022303137951.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166650</link>
+            <guid isPermaLink="false">xchuxing:1:166650</guid>
+            <pubDate>Mon, 02 Mar 2026 15:03:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 10.28 万 AION i60 210 马到成功版上市]]></title>
             <description><![CDATA[3 月 2 日，AION 给 i60 增程版推出了一个全新配置，210 马到成功版的售价为 10.28 万。此次上市新车为新增车型，在保留所有配置与体验的同时，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/02/3a28c202603022006236558.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/166589</link>
             <guid isPermaLink="false">xchuxing:1:166589</guid>
             <pubDate>Sun, 01 Mar 2026 08:29:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据汇总 | 2026 年 2 月及全年交付/销量汇总（持续更新）]]></title>
-            <description><![CDATA[2026 年 3 月 1 日，各大品牌都开始公布其在 2026 年 2 月的交付量及销量。新出行将为您带来最新的数据信息汇总。-小鹏2026 年 2 月，小鹏汽<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/01/19390202603011603053220.png">]]></description>
-            <link>https://www.xchuxing.com/article/166588</link>
-            <guid isPermaLink="false">xchuxing:1:166588</guid>
-            <pubDate>Sun, 01 Mar 2026 08:11:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
