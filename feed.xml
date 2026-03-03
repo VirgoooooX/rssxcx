@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 23:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 01:21:29 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[外观/内饰焕新  全新腾势 Z9 GT 将于 3 月 5 日开启预售]]></title>
+            <description><![CDATA[近日，我们从官方渠道获悉，全新腾势 Z9 GT 将于 3 月 5 日开启预售。作为中期改款车型，新车此前已登录工信部申报目录，首次推出单电机后驱版车型。外观方面<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/03/2b6ba2026030309141212.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166653</link>
+            <guid isPermaLink="false">xchuxing:1:166653</guid>
+            <pubDate>Tue, 03 Mar 2026 01:14:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX-Test续航实测 74期：2026 款小鹏 X9 纯电版续航及充电测试]]></title>
             <description><![CDATA[前段时间我们测试了小鹏 X9 车型的纯电续航、亏电油耗测试，当时很多朋友都在期待 X9 的纯电版。那 2026 款小鹏 X9 纯电版也在今日正式上市，售价 30<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/02/28/ed92d202602281740551856.png">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/166593</link>
             <guid isPermaLink="false">xchuxing:1:166593</guid>
             <pubDate>Sun, 01 Mar 2026 11:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 161期：动态体验极狐全新阿尔法 S5 增程版]]></title>
-            <description><![CDATA[20 万元内的轿车市场逐渐成为自主品牌必争的红海市场，技术深耕与产品升级成为各车型突围的核心关键。 极狐全新阿尔法 S5 紧抓市场趋势推出增程版车型，成为这款年<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/01/243b9202603011057476255.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166114</link>
-            <guid isPermaLink="false">xchuxing:1:166114</guid>
-            <pubDate>Sun, 01 Mar 2026 09:30:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
