@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 11:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 11:50:05 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[日产 NX8 将于 3 月 20 日发布]]></title>
+            <description><![CDATA[从官方获悉，日产将于 3 月 20 日举行发布会，将会在发布会上发布 NX8，新车定位 20 万级中大型 SUV。新车造型延续了日产的设计风格，标志性的贯穿式尾<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/04/c8ba9202603041909258044.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166714</link>
+            <guid isPermaLink="false">xchuxing:1:166714</guid>
+            <pubDate>Wed, 04 Mar 2026 11:15:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图 223期：一图速览 3 月重磅上市新车]]></title>
             <description><![CDATA[新春假期的余韵渐消，当人们重返工作与生活的正轨，国内车市也迎来了开年首个“上新热潮”。本期《新出行一图》为大家汇总了 3 月即将预售及上市的重磅新车，快来看看<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/04/37e39202603041713576646.jpg">]]></description>
@@ -75,13 +82,6 @@
             <link>https://www.xchuxing.com/article/166688</link>
             <guid isPermaLink="false">xchuxing:1:166688</guid>
             <pubDate>Wed, 04 Mar 2026 01:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行一图 222期：一图看懂比亚迪技术发布会重磅信息“预测”]]></title>
-            <description><![CDATA[比亚迪即将在 3 月 5 日举办技术发布会，技术鱼池将迎来最盛大的一次“收网”，届时究竟有哪些值得关注的重点信息，本期一图就让我们来一起“预测”一下。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/03/819d9202603032350291426.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/166684</link>
-            <guid isPermaLink="false">xchuxing:1:166684</guid>
-            <pubDate>Tue, 03 Mar 2026 16:00:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
