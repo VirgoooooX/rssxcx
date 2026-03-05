@@ -4,10 +4,30 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 01:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 03:40:47 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[小鹏几台增程车，你目前最可能选择]]></title>
+            <link>https://www.xchuxing.com/article/1410</link>
+            <guid isPermaLink="false">xchuxing:7:1410</guid>
+            <pubDate>Thu, 05 Mar 2026 02:40:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[搭载第二代VLA  小鹏 G6 超级增程将于 3 月 6 日上市]]></title>
+            <description><![CDATA[3 月 5 日，我们从官方渠道获悉，小鹏 G6 超级增程将于 3 月 6 日迎来正式上市。外观方面，小鹏 G6 超级增程整体的设计与纯电版车型保持一致的外观造型<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/05/b3694202603050941091078.png">]]></description>
+            <link>https://www.xchuxing.com/article/166729</link>
+            <guid isPermaLink="false">xchuxing:1:166729</guid>
+            <pubDate>Thu, 05 Mar 2026 01:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[搭载 896 线激光雷达 启境猎装轿跑将于 3 月 17 日首发亮相]]></title>
+            <description><![CDATA[3 月 5 日，我们从官方渠道获悉，启境猎装轿跑将于 3 月 17 日迎来首发亮相。官方信息显示，启境猎装轿跑将搭载 896 线激光雷达、数字引擎底盘、鸿蒙座舱<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/05/df10a202603050908503061.png">]]></description>
+            <link>https://www.xchuxing.com/article/166726</link>
+            <guid isPermaLink="false">xchuxing:1:166726</guid>
+            <pubDate>Thu, 05 Mar 2026 01:23:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 261期： 大个静态体验新款尊界 S800]]></title>
             <description><![CDATA[此次升级点为激光雷达，所以新款尊界 S800 在智驾方面的表现，还需要等到之后能试驾了才清楚。
@@ -64,27 +84,6 @@
             <link>https://www.xchuxing.com/article/166703</link>
             <guid isPermaLink="false">xchuxing:1:166703</guid>
             <pubDate>Wed, 04 Mar 2026 07:50:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尚界Z7和小米SU7你会选哪个？]]></title>
-            <description><![CDATA[评论区看对比图]]></description>
-            <link>https://www.xchuxing.com/article/1405</link>
-            <guid isPermaLink="false">xchuxing:7:1405</guid>
-            <pubDate>Wed, 04 Mar 2026 07:49:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 46.98- 47.98 万元起 新款问界 M9 上市]]></title>
-            <description><![CDATA[3 月 4 日，在鸿蒙智行技术发布会上，问界 M9 迎来了新款上市。其中 192 线激光雷达配置 46.98 万元起，896 线双光路图像级激光雷达配置售价 4<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/04/93379202603041300313378.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166698</link>
-            <guid isPermaLink="false">xchuxing:1:166698</guid>
-            <pubDate>Wed, 04 Mar 2026 07:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 70.8-72.8 万元起 新款尊界 S800 上市]]></title>
-            <description><![CDATA[3 月 4 日，在鸿蒙智行技术发布会上，尊界 S800 迎来了新款上市。其中 192 线激光雷达配置 70.8 万元起，896 线双光路图像级激光雷达配置售价<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/04/5a31020260304125413999.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166697</link>
-            <guid isPermaLink="false">xchuxing:1:166697</guid>
-            <pubDate>Wed, 04 Mar 2026 07:36:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
