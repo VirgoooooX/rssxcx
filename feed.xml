@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 07:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 08:43:41 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预售补贴权益价 15.68-20.98 万元 广汽丰田铂智 7 开启预售]]></title>
+            <description><![CDATA[3 月 5 日，广汽丰田铂智 7 正式开启预售。新车提供 5 款车型配置，预售补贴权益价 15.68-20.98 万元。其中 700 Max 以及 700 Ma<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/05/4b504202603051625296740.png">]]></description>
+            <link>https://www.xchuxing.com/article/166748</link>
+            <guid isPermaLink="false">xchuxing:1:166748</guid>
+            <pubDate>Thu, 05 Mar 2026 08:26:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[小鹏几台增程车，你目前最可能选择]]></title>
             <link>https://www.xchuxing.com/article/1410</link>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/166677</link>
             <guid isPermaLink="false">xchuxing:1:166677</guid>
             <pubDate>Wed, 04 Mar 2026 08:00:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 月底发布更多信息 尚界 Z7/Z7T 正式亮相]]></title>
-            <description><![CDATA[3 月 4 日，在鸿蒙智行焕新技术发布会上，尚界 Z7 及 Z7T 正式首发亮相。值得一提的是，新车将于 3 月底发布更多信息。外观方面，尚界 Z7 以都会美学<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/04/be58720260304155123533.png">]]></description>
-            <link>https://www.xchuxing.com/article/166703</link>
-            <guid isPermaLink="false">xchuxing:1:166703</guid>
-            <pubDate>Wed, 04 Mar 2026 07:50:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
