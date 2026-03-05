@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 13:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 14:41:12 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[增加闪充 仰望 U7/U8/U8L 26 款车型售价 65.8-130 万起]]></title>
+            <description><![CDATA[3 月 5 日，仰望发布了 U7/U8/U8L 的 26 款车型，仰望 U7 的价格为 65.8 万起，仰望 U8 的价格为 100.8 万起，仰望 U8L 的<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/05/81cf5202603052202385001.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166769</link>
+            <guid isPermaLink="false">xchuxing:1:166769</guid>
+            <pubDate>Thu, 05 Mar 2026 14:38:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 262期：充电 11 分续航近 800km！？ 比亚迪闪充2.0“卷疯”补能圈]]></title>
+            <description><![CDATA[零下二十多度，充电 11 分钟，续航尽然能到 800km！？<br><img src="https://s1.xchuxing.com/video/2026/03/05/845c1202603052118325024.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/22105</link>
+            <guid isPermaLink="false">xchuxing:2:22105</guid>
+            <pubDate>Thu, 05 Mar 2026 14:30:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 15.99-18.99 万 比亚迪海狮 06 EV/海豹 07 EV 上市]]></title>
             <description><![CDATA[3 月 5 日，比亚迪海洋网带来了两款车型的上市，分别是 26 款海狮 06 EV 和海豹 07 EV，售价区间为 15.99-17.99 万与 16.99-1<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/05/7d912202603052123265096.jpg">]]></description>
@@ -71,20 +85,6 @@
             <link>https://www.xchuxing.com/video/22088</link>
             <guid isPermaLink="false">xchuxing:2:22088</guid>
             <pubDate>Wed, 04 Mar 2026 23:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推出全球最高线束激光雷达 一文看懂鸿蒙智行技术焕新发布会]]></title>
-            <description><![CDATA[在发布会之前，华为的激光雷达线束给人的感觉算比较保守的，毕竟现在已经有了超过 500 线的激光雷达。所以我原本以为华为在今年也会推出超过 500 线的激光雷达，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/04/41775202603041906295395.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166715</link>
-            <guid isPermaLink="false">xchuxing:1:166715</guid>
-            <pubDate>Wed, 04 Mar 2026 14:08:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 18.98-29.98 万 昊铂 A800 上市]]></title>
-            <description><![CDATA[3 月 4 日，昊铂 A800 正式上市，新车共推出四款配置车型，售价区间为 18.98-29.98 万，置换补贴后的价格为 16.48-27.48 万。外观方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/04/21297202603042028551412.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166717</link>
-            <guid isPermaLink="false">xchuxing:1:166717</guid>
-            <pubDate>Wed, 04 Mar 2026 12:32:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
