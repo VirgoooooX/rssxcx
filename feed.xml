@@ -4,10 +4,31 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 23:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 01:21:44 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预计 4 月上市 新一代小米 SU7「砂陶米」内饰配色发布]]></title>
+            <description><![CDATA[3 月 6 日，小米官方发布新一代 SU7 的全新内饰配色——砂陶米。目前新一代小米 SU7 小订已开启，推出 3 款车型配置，预售区间 22.99-30.99<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/06/d0f2b202603060910453800.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166783</link>
+            <guid isPermaLink="false">xchuxing:1:166783</guid>
+            <pubDate>Fri, 06 Mar 2026 01:17:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行图文详解 163期：静态体验比亚迪海豹 08]]></title>
+            <description><![CDATA[海豹 08 是比亚迪海洋网推出的首款大型旗舰轿车，作为海洋网冲击高端市场的战略级产品，它肩负着推动海洋网实现高端领域跨越式发展的核心使命。比亚迪海洋网以海豹 0<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/04/af693202603041430403826.png">]]></description>
+            <link>https://www.xchuxing.com/article/166587</link>
+            <guid isPermaLink="false">xchuxing:1:166587</guid>
+            <pubDate>Fri, 06 Mar 2026 01:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 263期：静态体验比亚迪海豹 08]]></title>
+            <description><![CDATA[比亚迪海洋网 8 系旗舰——海豹 08，在昨天比亚迪第二代刀片电池暨闪充技术发布会上正式亮相，在亮相之前我们也是去看了实车，所以这期视频就来和大家聊一聊海豹08。<br><img src="https://s1.xchuxing.com/video/2026/03/05/bae24202603051121122441.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/22120</link>
+            <guid isPermaLink="false">xchuxing:2:22120</guid>
+            <pubDate>Fri, 06 Mar 2026 01:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图 224期：目前有哪些车搭载了华为 896 线激光雷达]]></title>
             <description><![CDATA[随着鸿蒙智行技术焕新发布会的举办，华为也正式为我们带来了 892 线激光雷达，那么本期一图就让我们一起看看，目前已知的有哪些车搭载了吧！<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/05/6ffd920260305191108256.png">]]></description>
@@ -70,26 +91,6 @@
             <link>https://www.xchuxing.com/article/166748</link>
             <guid isPermaLink="false">xchuxing:1:166748</guid>
             <pubDate>Thu, 05 Mar 2026 08:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏几台增程车，你目前最可能选择]]></title>
-            <link>https://www.xchuxing.com/article/1410</link>
-            <guid isPermaLink="false">xchuxing:7:1410</guid>
-            <pubDate>Thu, 05 Mar 2026 02:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[搭载第二代VLA  小鹏 G6 超级增程将于 3 月 6 日上市]]></title>
-            <description><![CDATA[3 月 5 日，我们从官方渠道获悉，小鹏 G6 超级增程将于 3 月 6 日迎来正式上市。外观方面，小鹏 G6 超级增程整体的设计与纯电版车型保持一致的外观造型<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/05/b3694202603050941091078.png">]]></description>
-            <link>https://www.xchuxing.com/article/166729</link>
-            <guid isPermaLink="false">xchuxing:1:166729</guid>
-            <pubDate>Thu, 05 Mar 2026 01:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[搭载 896 线激光雷达 启境猎装轿跑将于 3 月 17 日首发亮相]]></title>
-            <description><![CDATA[3 月 5 日，我们从官方渠道获悉，启境猎装轿跑将于 3 月 17 日迎来首发亮相。官方信息显示，启境猎装轿跑将搭载 896 线激光雷达、数字引擎底盘、鸿蒙座舱<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/05/df10a202603050908503061.png">]]></description>
-            <link>https://www.xchuxing.com/article/166726</link>
-            <guid isPermaLink="false">xchuxing:1:166726</guid>
-            <pubDate>Thu, 05 Mar 2026 01:23:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
