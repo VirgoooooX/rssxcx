@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 01:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 03:39:30 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 264期：伟健测试小鹏G6增程版亏电油耗]]></title>
+            <description><![CDATA[如果把小鹏G6增程当纯油车开，你们猜猜一公里需要花费多少？<br><img src="https://s1.xchuxing.com/video/2026/03/06/817ec202603060844172112.png">]]></description>
+            <link>https://www.xchuxing.com/video/22121</link>
+            <guid isPermaLink="false">xchuxing:2:22121</guid>
+            <pubDate>Fri, 06 Mar 2026 01:30:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预计 4 月上市 新一代小米 SU7「砂陶米」内饰配色发布]]></title>
             <description><![CDATA[3 月 6 日，小米官方发布新一代 SU7 的全新内饰配色——砂陶米。目前新一代小米 SU7 小订已开启，推出 3 款车型配置，预售区间 22.99-30.99<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/06/d0f2b202603060910453800.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/166761</link>
             <guid isPermaLink="false">xchuxing:1:166761</guid>
             <pubDate>Thu, 05 Mar 2026 12:48:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售补贴权益价 15.68-20.98 万元 广汽丰田铂智 7 开启预售]]></title>
-            <description><![CDATA[3 月 5 日，广汽丰田铂智 7 正式开启预售。新车提供 5 款车型配置，预售补贴权益价 15.68-20.98 万元。其中 700 Max 以及 700 Ma<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/05/4b504202603051625296740.png">]]></description>
-            <link>https://www.xchuxing.com/article/166748</link>
-            <guid isPermaLink="false">xchuxing:1:166748</guid>
-            <pubDate>Thu, 05 Mar 2026 08:26:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
