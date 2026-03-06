@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 07:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 07:55:53 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 18.68 万元 小鹏G6增程版正式上市]]></title>
+            <description><![CDATA[3 月 6 日，小鹏 G6 增程版正式上市，共推出 1704Max 一款车型，售价为 18.68 万元起。用户也可花费 12000 元选装双图灵芯片的 Ultr<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/06/98407202603061551202849.png">]]></description>
+            <link>https://www.xchuxing.com/article/166813</link>
+            <guid isPermaLink="false">xchuxing:1:166813</guid>
+            <pubDate>Fri, 06 Mar 2026 07:53:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 264期：伟健测试小鹏G6增程版亏电油耗]]></title>
             <description><![CDATA[如果把小鹏G6增程当纯油车开，你们猜猜一公里需要花费多少？<br><img src="https://s1.xchuxing.com/video/2026/03/06/817ec202603060844172112.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/166763</link>
             <guid isPermaLink="false">xchuxing:1:166763</guid>
             <pubDate>Thu, 05 Mar 2026 13:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 26.98-36.98 万 万 全新腾势 Z9GT 上市]]></title>
-            <description><![CDATA[3 月 5 日，全新腾势 Z9GT 上市，新车共推出五款配置车型。其中插混版有两款，售价为 30.98-33.98 万；纯电版有三款，售价为 26.98-36.<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/05/0511e202603052039174780.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166761</link>
-            <guid isPermaLink="false">xchuxing:1:166761</guid>
-            <pubDate>Thu, 05 Mar 2026 12:48:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
