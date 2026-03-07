@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 16:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 17:14:18 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[奔驰发布全新 AMG GT 高性能四门跑车内饰官图]]></title>
+            <description><![CDATA[日前，奔驰发布了全新 AMG GT 高性能四门跑车内饰官图发布。新车内饰通过大面积的碳纤维、翻毛皮装饰，红色氛围灯与缝线修饰，展现出赛道激情。车内配备三块屏幕，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/08/6950420260308004731833.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166881</link>
+            <guid isPermaLink="false">xchuxing:1:166881</guid>
+            <pubDate>Sat, 07 Mar 2026 16:50:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[凯迪拉克凯威德预计将于 4 月底上市]]></title>
             <description><![CDATA[日前，上汽通用表示，未来每年推十余款全新和焕新车型，未来 MPV 车型累计投资超 100 亿元。官方还表示，凯迪拉克凯威德将搭载 Momenta 高阶智能辅助驾<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/08/a2a10202603080043369573.png">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/video/22120</link>
             <guid isPermaLink="false">xchuxing:2:22120</guid>
             <pubDate>Fri, 06 Mar 2026 01:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行一图 224期：目前有哪些车搭载了华为 896 线激光雷达]]></title>
-            <description><![CDATA[随着鸿蒙智行技术焕新发布会的举办，华为也正式为我们带来了 896 线激光雷达，那么本期一图就让我们一起看看，目前已知的有哪些车搭载了吧！<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/05/6ffd920260305191108256.png">]]></description>
-            <link>https://www.xchuxing.com/article/166759</link>
-            <guid isPermaLink="false">xchuxing:1:166759</guid>
-            <pubDate>Thu, 05 Mar 2026 16:01:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
