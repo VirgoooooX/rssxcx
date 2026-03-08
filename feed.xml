@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 15:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 15:43:40 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[2026 年 3 月重磅新车上市规划汇总]]></title>
+            <description><![CDATA[春节假期的余温渐散，当人们重新投入工作与生活的节奏，国内汽车市场也迎来了开年以来最热闹的 “上新时刻”。作为传统的车市旺季，3 月历来是车企集中释放新品的关键节<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/04/4835320260304142822545.png">]]></description>
+            <link>https://www.xchuxing.com/article/166654</link>
+            <guid isPermaLink="false">xchuxing:1:166654</guid>
+            <pubDate>Sun, 08 Mar 2026 15:19:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[奔驰发布全新 AMG GT 高性能四门跑车内饰官图]]></title>
             <description><![CDATA[日前，奔驰发布了全新 AMG GT 高性能四门跑车内饰官图发布。新车内饰通过大面积的碳纤维、翻毛皮装饰，红色氛围灯与缝线修饰，展现出赛道激情。车内配备三块屏幕，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/08/6950420260308004731833.jpg">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/166587</link>
             <guid isPermaLink="false">xchuxing:1:166587</guid>
             <pubDate>Fri, 06 Mar 2026 01:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 263期：静态体验比亚迪海豹 08]]></title>
-            <description><![CDATA[比亚迪海洋网 8 系旗舰——海豹 08，在昨天比亚迪第二代刀片电池暨闪充技术发布会上正式亮相，在亮相之前我们也是去看了实车，所以这期视频就来和大家聊一聊海豹08。<br><img src="https://s1.xchuxing.com/video/2026/03/05/bae24202603051121122441.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/22120</link>
-            <guid isPermaLink="false">xchuxing:2:22120</guid>
-            <pubDate>Fri, 06 Mar 2026 01:00:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
