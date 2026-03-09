@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 01:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 03:54:21 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 163期：新一代公路之王 静态体验极氪 8X]]></title>
+            <description><![CDATA[在以往很多时候我们要选择一台车通常需要给自己很多理由，要有智能化？要有大空间？又要够舒适？对比之下失去了很多个性的突出点，而今天我们拍的这款车型定位非常明确：就<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/09/08d5d202603091016457646.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/166890</link>
+            <guid isPermaLink="false">xchuxing:1:166890</guid>
+            <pubDate>Mon, 09 Mar 2026 02:17:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行情报局 83期：方程豹镁 9 现有信息汇总]]></title>
             <description><![CDATA[方程豹的首款轿车究竟会是怎样，相信大家对于这台车是十分感兴趣的，毕竟从豹5 到 钛7 方程豹一直深耕在 SUV 领域，这也不免让人好奇，其首台轿车产品是否值得关<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/08/f8d8f202603081916159643.jpg">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/video/22121</link>
             <guid isPermaLink="false">xchuxing:2:22121</guid>
             <pubDate>Fri, 06 Mar 2026 01:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预计 4 月上市 新一代小米 SU7「砂陶米」内饰配色发布]]></title>
-            <description><![CDATA[3 月 6 日，小米官方发布新一代 SU7 的全新内饰配色——砂陶米。目前新一代小米 SU7 小订已开启，推出 3 款车型配置，预售区间 22.99-30.99<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/06/d0f2b202603060910453800.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166783</link>
-            <guid isPermaLink="false">xchuxing:1:166783</guid>
-            <pubDate>Fri, 06 Mar 2026 01:17:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
