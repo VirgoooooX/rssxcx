@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 07:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 08:34:53 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[历史首次单季盈利实锤在即，你最关心哪项数据？]]></title>
+            <description><![CDATA[明晚 20:00 ，一起蹲守蔚来 2025 Q4财报会议！]]></description>
+            <link>https://www.xchuxing.com/article/1428</link>
+            <guid isPermaLink="false">xchuxing:7:1428</guid>
+            <pubDate>Mon, 09 Mar 2026 08:00:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 163期：新一代公路之王 静态体验极氪 8X]]></title>
             <description><![CDATA[在以往很多时候我们要选择一台车通常需要给自己很多理由，要有智能化？要有大空间？又要够舒适？对比之下失去了很多个性的突出点，而今天我们拍的这款车型定位非常明确：就<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/09/08d5d202603091016457646.jpg">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/166813</link>
             <guid isPermaLink="false">xchuxing:1:166813</guid>
             <pubDate>Fri, 06 Mar 2026 07:53:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 264期：伟健测试小鹏G6增程版亏电油耗]]></title>
-            <description><![CDATA[如果把小鹏G6增程当纯油车开，你们猜猜一公里需要花费多少？<br><img src="https://s1.xchuxing.com/video/2026/03/06/817ec202603060844172112.png">]]></description>
-            <link>https://www.xchuxing.com/video/22121</link>
-            <guid isPermaLink="false">xchuxing:2:22121</guid>
-            <pubDate>Fri, 06 Mar 2026 01:30:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
