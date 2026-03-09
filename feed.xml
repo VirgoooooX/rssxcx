@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 15:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 16:49:46 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -84,13 +84,6 @@
             <link>https://www.xchuxing.com/article/166878</link>
             <guid isPermaLink="false">xchuxing:1:166878</guid>
             <pubDate>Sat, 07 Mar 2026 16:39:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 265期：开得比我猛！伟健体验小鹏第二代VLA]]></title>
-            <description><![CDATA[我们在广州体验小鹏第二代VLA整整一天，村道、窄路等复杂场景都有，总结一句，我觉得当下这个版本开得比我要猛！<br><img src="https://s1.xchuxing.com/video/2026/03/07/bffa020260307002458569.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/22154</link>
-            <guid isPermaLink="false">xchuxing:2:22154</guid>
-            <pubDate>Fri, 06 Mar 2026 16:35:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
