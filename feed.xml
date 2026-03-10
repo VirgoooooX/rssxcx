@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 10:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 11:26:22 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 268期：来自别克的新豪华MPV——至境世家纯电版动态试驾]]></title>
+            <description><![CDATA[别克至境世家纯电版终于来了，别克也成为了首家纯电、纯油、混动全能源动力的MPV布局。纯电版还带来了专属的全新车漆，一起来看一下这台纯电世家是不是你喜欢的呢！？<br><img src="https://s1.xchuxing.com/video/2026/03/10/c6c20202603101842133610.png">]]></description>
+            <link>https://www.xchuxing.com/video/22282</link>
+            <guid isPermaLink="false">xchuxing:2:22282</guid>
+            <pubDate>Tue, 10 Mar 2026 10:43:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[全新产品矩阵爆发 一文看懂上汽乘用车春季媒体沟通会]]></title>
             <description><![CDATA[今日，上汽乘用车销售公司正式举行 2026 年春季媒体沟通会，会上官方也为我们带来了上汽乘用车各个品牌在 2026 的发展规划，让我们一起来看下吧~- 荣威 A<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/10/ad19e2026031018043918.jpeg">]]></description>
@@ -83,13 +90,6 @@
             <link>https://www.xchuxing.com/article/166951</link>
             <guid isPermaLink="false">xchuxing:1:166951</guid>
             <pubDate>Mon, 09 Mar 2026 13:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[电动车市场缩水 韩国电池企业 SK On 美国工厂裁员近千人]]></title>
-            <description><![CDATA[据外媒报道，韩国 SK On 旗下电池部门正应对电动汽车销量放缓的冲击，其位于美国佐治亚州的工厂的裁员规模超国员工总数的三分之一。SK On 美国分公司 SK<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/09/1045c202603092146546751.png">]]></description>
-            <link>https://www.xchuxing.com/article/166950</link>
-            <guid isPermaLink="false">xchuxing:1:166950</guid>
-            <pubDate>Mon, 09 Mar 2026 13:48:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
