@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 07:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 07:58:32 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 267期：全网最全评测！小鹏VLA 2.0是跨越升级还是营销话术？]]></title>
+            <description><![CDATA[这次我们在广州狂奔12小时，从早到晚，从非铺装路、小路、乡路、社区小路、村路到主干道等，到底是跨越升级还是营销话术？带大家全面评测小鹏 VLA 2.0 ！<br><img src="https://s1.xchuxing.com/video/2026/03/10/3da5520260310154805559.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/22277</link>
+            <guid isPermaLink="false">xchuxing:2:22277</guid>
+            <pubDate>Tue, 10 Mar 2026 07:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[对车主来说，真正的补能自由是？]]></title>
             <link>https://www.xchuxing.com/article/1434</link>
@@ -83,13 +90,6 @@
             <link>https://www.xchuxing.com/article/1428</link>
             <guid isPermaLink="false">xchuxing:7:1428</guid>
             <pubDate>Mon, 09 Mar 2026 08:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 163期：新一代公路之王 静态体验极氪 8X]]></title>
-            <description><![CDATA[在以往很多时候我们要选择一台车通常需要给自己很多理由，要有智能化？要有大空间？又要够舒适？对比之下失去了很多个性的突出点，而今天我们拍的这款车型定位非常明确：就<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/09/08d5d202603091016457646.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166890</link>
-            <guid isPermaLink="false">xchuxing:1:166890</guid>
-            <pubDate>Mon, 09 Mar 2026 02:17:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
