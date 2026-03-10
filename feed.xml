@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 14:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 15:53:02 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行帮你选 18期：汇总 2026 年即将发布的猎装及旅行车]]></title>
+            <description><![CDATA[在新能源与智能出行的浪潮推动下，猎装及旅行车凭借兼顾实用空间与格调造型的优势，在 2026 年迎来全新爆发期。众多品牌纷纷聚焦这一细分赛道，推出专属新能源旅行车<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/09/b8fa4202603092015585561.png">]]></description>
+            <link>https://www.xchuxing.com/article/166701</link>
+            <guid isPermaLink="false">xchuxing:1:166701</guid>
+            <pubDate>Tue, 10 Mar 2026 15:45:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[神玑第二颗芯片量产，你最看重什么？]]></title>
             <link>https://www.xchuxing.com/article/1441</link>
@@ -88,13 +95,6 @@
             <link>https://www.xchuxing.com/article/166963</link>
             <guid isPermaLink="false">xchuxing:1:166963</guid>
             <pubDate>Tue, 10 Mar 2026 02:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 266期：静态体验比亚迪大唐]]></title>
-            <description><![CDATA[第二代刀片电池、252L 前备厢、3.9s 的 0-100km/h 加速成绩，比亚迪王朝网在大唐上的配置依然是拉满的状态，所以这期视频我们就先来静态体验一波。<br><img src="https://s1.xchuxing.com/video/2026/03/10/be1ae20260310045414496.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/22264</link>
-            <guid isPermaLink="false">xchuxing:2:22264</guid>
-            <pubDate>Tue, 10 Mar 2026 00:30:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
