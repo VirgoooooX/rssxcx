@@ -4,10 +4,16 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 06:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 07:11:26 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[对车主来说，真正的补能自由是？]]></title>
+            <link>https://www.xchuxing.com/article/1434</link>
+            <guid isPermaLink="false">xchuxing:7:1434</guid>
+            <pubDate>Tue, 10 Mar 2026 06:19:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[助力品牌进一步转型 李鹏程出任大众安徽CMO]]></title>
             <description><![CDATA[2026 年 3 月 10 日，大众汽车（安徽）数字化销售服务有限公司内部官宣，李鹏程正式出任公司首席营销官（CMO），该岗位为大众安徽经管会成员，前负责人陈竞<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/10/7688b202603101221381414.jpg">]]></description>
@@ -84,13 +90,6 @@
             <link>https://www.xchuxing.com/article/166890</link>
             <guid isPermaLink="false">xchuxing:1:166890</guid>
             <pubDate>Mon, 09 Mar 2026 02:17:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行情报局 83期：方程豹镁 9 现有信息汇总]]></title>
-            <description><![CDATA[方程豹的首款轿车究竟会是怎样，相信大家对于这台车是十分感兴趣的，毕竟从豹5 到 钛7 方程豹一直深耕在 SUV 领域，这也不免让人好奇，其首台轿车产品是否值得关<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/08/f8d8f202603081916159643.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166744</link>
-            <guid isPermaLink="false">xchuxing:1:166744</guid>
-            <pubDate>Sun, 08 Mar 2026 16:02:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
