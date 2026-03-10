@@ -4,10 +4,16 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 11:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 11:53:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[蔚来盈利了！后续你最关心什么？]]></title>
+            <link>https://www.xchuxing.com/article/1440</link>
+            <guid isPermaLink="false">xchuxing:7:1440</guid>
+            <pubDate>Tue, 10 Mar 2026 11:32:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 268期：来自别克的新豪华MPV——至境世家纯电版动态试驾]]></title>
             <description><![CDATA[别克至境世家纯电版终于来了，别克也成为了首家纯电、纯油、混动全能源动力的MPV布局。纯电版还带来了专属的全新车漆，一起来看一下这台纯电世家是不是你喜欢的呢！？<br><img src="https://s1.xchuxing.com/video/2026/03/10/c6c20202603101842133610.png">]]></description>
@@ -83,13 +89,6 @@
             <link>https://www.xchuxing.com/video/22264</link>
             <guid isPermaLink="false">xchuxing:2:22264</guid>
             <pubDate>Tue, 10 Mar 2026 00:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全年销售额 420 亿美元 麦格纳发布 2025 年全年财报]]></title>
-            <description><![CDATA[日前， 麦格纳正式公布 2025 年全年财务业绩，全年销售额达 420 亿美元，调整后息税前利润 24 亿美元，核心财务指标均达成甚至超出年初预期。 麦格纳CE<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/09/78037202603092154125406.png">]]></description>
-            <link>https://www.xchuxing.com/article/166951</link>
-            <guid isPermaLink="false">xchuxing:1:166951</guid>
-            <pubDate>Mon, 09 Mar 2026 13:54:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
