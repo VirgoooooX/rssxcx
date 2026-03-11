@@ -4,10 +4,19 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 23:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 01:14:16 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[试驾莲花ForMe｜平衡家庭与驾控的「驾驶机器」]]></title>
+            <description><![CDATA[对于莲花掏出一台插混车，新出行社区很多朋友比较关注。车子怎么样？是一如既往Louts莲花的驾驶感受吗？开起来怎么样？
+
+这次，跟极氪车主@本心自我 一同前去试驾新车莲花ForMe，本次内容涵盖场地试驾、道路试驾以及静态快速感受。希望能帮助大家在去探店的时候，提供一些参考视角。<br><img src="https://s1.xchuxing.com/video/2026/03/11/c634f202603110145159672.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/22305</link>
+            <guid isPermaLink="false">xchuxing:2:22305</guid>
+            <pubDate>Wed, 11 Mar 2026 01:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行帮你选 18期：汇总 2026 年即将发布的猎装及旅行车]]></title>
             <description><![CDATA[在新能源与智能出行的浪潮推动下，猎装及旅行车凭借兼顾实用空间与格调造型的优势，在 2026 年迎来全新爆发期。众多品牌纷纷聚焦这一细分赛道，推出专属新能源旅行车<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/09/b8fa4202603092015585561.png">]]></description>
@@ -81,13 +90,6 @@
             <link>https://www.xchuxing.com/video/22270</link>
             <guid isPermaLink="false">xchuxing:2:22270</guid>
             <pubDate>Tue, 10 Mar 2026 02:44:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[定位 AI 豪华六座旗舰 SUV 魏牌 V9X 正式亮相]]></title>
-            <description><![CDATA[近日，魏牌 V9X 正式亮相。新车基于「归元 S 平台」打造，定位“ AI 豪华六座旗舰”。外观方面，魏牌 V9X 前脸以悬浮立标为核心打造中轴对称设计，两侧“<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/10/902d7202603101000289114.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/166961</link>
-            <guid isPermaLink="false">xchuxing:1:166961</guid>
-            <pubDate>Tue, 10 Mar 2026 02:17:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
