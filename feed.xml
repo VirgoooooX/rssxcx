@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 13:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 14:51:44 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[保时捷公布 2025 年度市场表现和盈利状况]]></title>
+            <description><![CDATA[3 月 11 日，保时捷举行全球 2026 年度新闻发布会，公布了保时捷 2025 年度的市场表现和盈利状况。2025 年，保时捷共向客户交付了279,449辆<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/11/5d401202603112200306859.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/167034</link>
+            <guid isPermaLink="false">xchuxing:1:167034</guid>
+            <pubDate>Wed, 11 Mar 2026 14:01:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2026年下半年量产交付 禾赛激光雷达获北汽多款车型定点]]></title>
             <description><![CDATA[日前，禾赛科技宣布与北汽集团达成合作，其 ATX 焕新版激光雷达获得北汽集团多款车型定点。根据规划，该产品最早将于 2026 年下半年启动量产并陆续交付。禾赛科<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/11/99de3202603112155424209.png">]]></description>
@@ -80,12 +87,6 @@
             <link>https://www.xchuxing.com/article/166701</link>
             <guid isPermaLink="false">xchuxing:1:166701</guid>
             <pubDate>Tue, 10 Mar 2026 15:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[神玑第二颗芯片量产，你最看重什么？]]></title>
-            <link>https://www.xchuxing.com/article/1441</link>
-            <guid isPermaLink="false">xchuxing:7:1441</guid>
-            <pubDate>Tue, 10 Mar 2026 13:40:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
