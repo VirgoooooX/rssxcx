@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 09:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 10:04:05 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[小马体验全新腾势Z9 GT闪充技术]]></title>
+            <description><![CDATA[比亚迪集团发布第二代刀片电池和闪充技术，全新腾势Z9GT全球首批搭载，实现1036km续航等多项性能突破，是目前全球纯电续航里程最长的车型。有了1036公里的超长续航，加上“5分钟充好，9分钟充饱，零下30度只多充3分钟”的闪充技术，让我们看看到底如何！<br><img src="https://s1.xchuxing.com/video/2026/03/12/c4b36202603121724595390.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/22362</link>
+            <guid isPermaLink="false">xchuxing:2:22362</guid>
+            <pubDate>Thu, 12 Mar 2026 09:26:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[产品阵容集中亮相 一文看懂追觅「星空计划」战略发布会]]></title>
             <description><![CDATA[2026 年 3 月 12 日，2026 中国家电及消费电子博览会（AWE2026）在上海启幕，追觅星空计划首次以独立展位及豪华产品阵容亮相，全面展示前瞻设计、<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/11/1f379202603111940477993.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/22299</link>
             <guid isPermaLink="false">xchuxing:2:22299</guid>
             <pubDate>Wed, 11 Mar 2026 02:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 164期：大身材有小巧思 静态体验魏牌 V9X]]></title>
-            <description><![CDATA[归元是全球第⼀个原⽣ AI 全动⼒汽⻋平台，而魏牌 V9X 则是基于 归元S 平台打造而来的首款产品，作为品牌首款 AI 豪华六座旗舰 SUV ，这台车的表现究<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/08/66dc2202603081915416839.png">]]></description>
-            <link>https://www.xchuxing.com/article/166796</link>
-            <guid isPermaLink="false">xchuxing:1:166796</guid>
-            <pubDate>Wed, 11 Mar 2026 02:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
