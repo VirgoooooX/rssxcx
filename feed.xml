@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 03:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 05:12:13 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[产品阵容集中亮相 一文看懂追觅「星空计划」战略发布会]]></title>
+            <description><![CDATA[2026 年 3 月 12 日，2026 中国家电及消费电子博览会（AWE2026）在上海启幕，追觅星空计划首次以独立展位及豪华产品阵容亮相，全面展示前瞻设计、<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/11/1f379202603111940477993.png">]]></description>
+            <link>https://www.xchuxing.com/article/167028</link>
+            <guid isPermaLink="false">xchuxing:1:167028</guid>
+            <pubDate>Thu, 12 Mar 2026 04:00:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[全新 ES8 的 M42 星云红车色需加 1 万元选装，你的态度是？]]></title>
             <link>https://www.xchuxing.com/article/1448</link>
@@ -84,15 +91,6 @@
             <link>https://www.xchuxing.com/article/166796</link>
             <guid isPermaLink="false">xchuxing:1:166796</guid>
             <pubDate>Wed, 11 Mar 2026 02:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[试驾莲花ForMe｜平衡家庭与驾控的「驾驶机器」]]></title>
-            <description><![CDATA[对于莲花掏出一台插混车，新出行社区很多朋友比较关注。车子怎么样？是一如既往Louts莲花的驾驶感受吗？开起来怎么样？
-
-这次，跟极氪车主@本心自我 一同前去试驾新车莲花ForMe，本次内容涵盖场地试驾、道路试驾以及静态快速感受。希望能帮助大家在去探店的时候，提供一些参考视角。<br><img src="https://s1.xchuxing.com/video/2026/03/11/c634f202603110145159672.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/22305</link>
-            <guid isPermaLink="false">xchuxing:2:22305</guid>
-            <pubDate>Wed, 11 Mar 2026 01:01:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
