@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 11:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 11:50:53 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[申报目录｜工信部第 405 批新能源车申报汇总]]></title>
+            <description><![CDATA[第 405 批工信部申报目录正式更新，本次又为我们带来了新的一批即将亮相的新能源车，让我们一起来看。—2026 款 问界M9外观造型相比于老款在细节上做了升级，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/13/e4ded202603131909211197.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/167115</link>
+            <guid isPermaLink="false">xchuxing:1:167115</guid>
+            <pubDate>Fri, 13 Mar 2026 11:12:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[全新小鹏P7的轮毂，你会怎么选？]]></title>
             <link>https://www.xchuxing.com/article/1456</link>
@@ -75,13 +82,6 @@
             <link>https://www.xchuxing.com/article/167034</link>
             <guid isPermaLink="false">xchuxing:1:167034</guid>
             <pubDate>Wed, 11 Mar 2026 14:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026年下半年量产交付 禾赛激光雷达获北汽多款车型定点]]></title>
-            <description><![CDATA[日前，禾赛科技宣布与北汽集团达成合作，其 ATX 焕新版激光雷达获得北汽集团多款车型定点。根据规划，该产品最早将于 2026 年下半年启动量产并陆续交付。禾赛科<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/11/99de3202603112155424209.png">]]></description>
-            <link>https://www.xchuxing.com/article/167033</link>
-            <guid isPermaLink="false">xchuxing:1:167033</guid>
-            <pubDate>Wed, 11 Mar 2026 13:56:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
