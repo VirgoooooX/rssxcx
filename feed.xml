@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 12:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 13:39:28 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[三款车型焕新亮相 东风奕派发布用户共创版本车型]]></title>
+            <description><![CDATA[3 月 14 日，东风奕派旗下车型奕派 008 迎来上新，奕派 007 闪现版、纳米 01Cross 同期首发。奕派 008 推出“极光红”全新车色、以及专为家<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/14/f596d202603142105236499.jpeg">]]></description>
+            <link>https://www.xchuxing.com/article/167176</link>
+            <guid isPermaLink="false">xchuxing:1:167176</guid>
+            <pubDate>Sat, 14 Mar 2026 13:10:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2026 年 2 月全球电动车销量达 110 万辆]]></title>
             <description><![CDATA[据外媒报道，2026 年 2 月全球纯电动汽车销量为 110 万辆。该数字较去年同期下降 11%，亦较 2026 年 1 月下降11%；今年前两个月累计销量为<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/14/986d4202603141946101141.png">]]></description>
@@ -76,13 +83,6 @@
             <link>https://www.xchuxing.com/article/167084</link>
             <guid isPermaLink="false">xchuxing:1:167084</guid>
             <pubDate>Thu, 12 Mar 2026 14:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[搭载大电池包 全新坦克 700 Hi4-Z 正式亮相]]></title>
-            <description><![CDATA[日前，全新坦克 700 Hi4-Z 正式亮相，以东方美学传递守护家庭、传承文化的品牌温度。同时新款车型还推出了敦煌青全新配色。外观方面，可以看到新车继承了坦克家<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/12/449bb202603122200285421.png">]]></description>
-            <link>https://www.xchuxing.com/article/167082</link>
-            <guid isPermaLink="false">xchuxing:1:167082</guid>
-            <pubDate>Thu, 12 Mar 2026 14:10:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
