@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 11:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 11:43:50 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 168期：又一家用好手 静态实拍吉利银河 M7]]></title>
+            <description><![CDATA[吉利银河 M7 正式迎来技术首秀，作为吉利银河在家用 SUV 市场的又一力作，这台车究竟有哪些亮点值得我们发掘？在设计上又有哪些独特之处，本篇文章就让我们一起来<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/13/54027202603131718372887.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/167159</link>
+            <guid isPermaLink="false">xchuxing:1:167159</guid>
+            <pubDate>Sat, 14 Mar 2026 11:25:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 15.38-16.98 万元 方程豹钛3 闪充版正式上市]]></title>
             <description><![CDATA[3 月 13 日，方程豹钛3 正式上市，新款车型售价 15.38-16.98 万元，共推出两款车型版本。钛3闪充版首任车主在2026年4月13日（含）前下定可享<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/13/6e035202603132306559380.jpg">]]></description>
@@ -76,13 +83,6 @@
             <link>https://www.xchuxing.com/article/167080</link>
             <guid isPermaLink="false">xchuxing:1:167080</guid>
             <pubDate>Thu, 12 Mar 2026 13:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小马体验全新腾势Z9 GT闪充技术]]></title>
-            <description><![CDATA[比亚迪集团发布第二代刀片电池和闪充技术，全新腾势Z9GT全球首批搭载，实现1036km续航等多项性能突破，是目前全球纯电续航里程最长的车型。有了1036公里的超长续航，加上“5分钟充好，9分钟充饱，零下30度只多充3分钟”的闪充技术，让我们看看到底如何！<br><img src="https://s1.xchuxing.com/video/2026/03/12/c4b36202603121724595390.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/22362</link>
-            <guid isPermaLink="false">xchuxing:2:22362</guid>
-            <pubDate>Thu, 12 Mar 2026 09:26:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
