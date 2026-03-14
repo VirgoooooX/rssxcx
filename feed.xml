@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 11:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 12:32:06 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[2026 年 2 月全球电动车销量达 110 万辆]]></title>
+            <description><![CDATA[据外媒报道，2026 年 2 月全球纯电动汽车销量为 110 万辆。该数字较去年同期下降 11%，亦较 2026 年 1 月下降11%；今年前两个月累计销量为<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/14/986d4202603141946101141.png">]]></description>
+            <link>https://www.xchuxing.com/article/167173</link>
+            <guid isPermaLink="false">xchuxing:1:167173</guid>
+            <pubDate>Sat, 14 Mar 2026 11:46:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 168期：又一家用好手 静态实拍吉利银河 M7]]></title>
             <description><![CDATA[吉利银河 M7 正式迎来技术首秀，作为吉利银河在家用 SUV 市场的又一力作，这台车究竟有哪些亮点值得我们发掘？在设计上又有哪些独特之处，本篇文章就让我们一起来<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/13/54027202603131718372887.jpg">]]></description>
@@ -76,13 +83,6 @@
             <link>https://www.xchuxing.com/article/167082</link>
             <guid isPermaLink="false">xchuxing:1:167082</guid>
             <pubDate>Thu, 12 Mar 2026 14:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 年下半年投产 新世代宝马 i3 完成瑞典冬季测试]]></title>
-            <description><![CDATA[宝马正于瑞典阿杰普洛格开展全新纯电动i3轿车的冬季测试，为 3 月 18 日举行的设计发布会做准备。该车型计划于 2026 年下半年投产，是宝马 Neue Kl<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/12/a74da202603122144218342.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167080</link>
-            <guid isPermaLink="false">xchuxing:1:167080</guid>
-            <pubDate>Thu, 12 Mar 2026 13:46:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
