@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 16:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 17:20:21 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX-Test续航实测 74期：岚图泰山纯电续航、油耗及充电测试]]></title>
+            <description><![CDATA[泰山是岚图的旗舰 SUV，在泰山上，岚图给到了最新的技术，像 800V 电压平台、大电池和高倍率充电，这些都是目前旗舰 SUV 在卷的配置。下面就让我们来看看，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/06/d33ac202603062035131279.png">]]></description>
+            <link>https://www.xchuxing.com/article/166651</link>
+            <guid isPermaLink="false">xchuxing:1:166651</guid>
+            <pubDate>Sun, 15 Mar 2026 17:14:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[禾赛与九识再次签署 20 万颗激光雷达订单]]></title>
             <description><![CDATA[禾赛科技宣布与九识智能签订 20 万颗激光雷达独家定点。九识智能最新一代 RoboVan 将全系标配禾赛激光雷达，双方将共同推动车规级激光雷达在 L4 级自动驾<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/15/cce5f202603151655087967.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/167120</link>
             <guid isPermaLink="false">xchuxing:1:167120</guid>
             <pubDate>Fri, 13 Mar 2026 13:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[申报目录｜工信部第 405 批新能源车申报汇总]]></title>
-            <description><![CDATA[第 405 批工信部申报目录正式更新，本次又为我们带来了新的一批即将亮相的新能源车，让我们一起来看。—2026 款 问界M9外观造型相比于老款在细节上做了升级，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/13/e4ded202603131909211197.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167115</link>
-            <guid isPermaLink="false">xchuxing:1:167115</guid>
-            <pubDate>Fri, 13 Mar 2026 11:12:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
