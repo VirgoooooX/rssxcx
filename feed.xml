@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 06:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 07:39:05 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[吉利千里浩瀚 G-ASD 正式获欧盟认证]]></title>
+            <description><![CDATA[吉利汽车集团旗下智能辅助驾驶系统——千里浩瀚 G-ASD，正式获颁联合国欧盟 UN R171 国际认证证书。该认证由中汽中心与 IDIADA 联合颁发，标志着千<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/15/97460202603151457055428.png">]]></description>
+            <link>https://www.xchuxing.com/article/167191</link>
+            <guid isPermaLink="false">xchuxing:1:167191</guid>
+            <pubDate>Sun, 15 Mar 2026 06:59:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[三款车型焕新亮相 东风奕派发布用户共创版本车型]]></title>
             <description><![CDATA[3 月 14 日，东风奕派旗下车型奕派 008 迎来上新，奕派 007 闪现版、纳米 01Cross 同期首发。奕派 008 推出“极光红”全新车色、以及专为家<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/14/f596d202603142105236499.jpeg">]]></description>
@@ -76,13 +83,6 @@
             <link>https://www.xchuxing.com/article/167094</link>
             <guid isPermaLink="false">xchuxing:1:167094</guid>
             <pubDate>Fri, 13 Mar 2026 01:32:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[电动化发展不顺 本田迎来首次净利润亏损]]></title>
-            <description><![CDATA[据外媒报道，日本车企本田汽车宣布，将取消三款原计划在北美市场开发和推出的电动车型，并因重新评估电动汽车战略，预计将产生总计 2.5 万亿日元（约合 157 亿美<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/12/b289120260312221328536.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167084</link>
-            <guid isPermaLink="false">xchuxing:1:167084</guid>
-            <pubDate>Thu, 12 Mar 2026 14:14:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
