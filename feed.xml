@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 08:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 09:00:53 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[禾赛与九识再次签署 20 万颗激光雷达订单]]></title>
+            <description><![CDATA[禾赛科技宣布与九识智能签订 20 万颗激光雷达独家定点。九识智能最新一代 RoboVan 将全系标配禾赛激光雷达，双方将共同推动车规级激光雷达在 L4 级自动驾<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/15/cce5f202603151655087967.png">]]></description>
+            <link>https://www.xchuxing.com/article/167195</link>
+            <guid isPermaLink="false">xchuxing:1:167195</guid>
+            <pubDate>Sun, 15 Mar 2026 08:56:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[小马智行 Robotaxi 接入腾讯出行服务]]></title>
             <description><![CDATA[小马智行宣布旗下 Robotaxi 接入“腾讯出行服务”小程序，广州成为首个落地城市，当地用户即日起可通过该渠道呼叫自动驾驶车辆，相关服务也即将登陆腾讯地图 A<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/15/69c7c202603151551288105.png">]]></description>
@@ -84,12 +91,6 @@
             <link>https://www.xchuxing.com/article/167115</link>
             <guid isPermaLink="false">xchuxing:1:167115</guid>
             <pubDate>Fri, 13 Mar 2026 11:12:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全新小鹏P7的轮毂，你会怎么选？]]></title>
-            <link>https://www.xchuxing.com/article/1456</link>
-            <guid isPermaLink="false">xchuxing:7:1456</guid>
-            <pubDate>Fri, 13 Mar 2026 02:37:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
