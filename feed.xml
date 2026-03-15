@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 07:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 08:28:01 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[小马智行 Robotaxi 接入腾讯出行服务]]></title>
+            <description><![CDATA[小马智行宣布旗下 Robotaxi 接入“腾讯出行服务”小程序，广州成为首个落地城市，当地用户即日起可通过该渠道呼叫自动驾驶车辆，相关服务也即将登陆腾讯地图 A<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/15/69c7c202603151551288105.png">]]></description>
+            <link>https://www.xchuxing.com/article/167193</link>
+            <guid isPermaLink="false">xchuxing:1:167193</guid>
+            <pubDate>Sun, 15 Mar 2026 07:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交付车规级惯性测量模组 导远科技与银河通用达成合作]]></title>
+            <description><![CDATA[日前，导远科技宣布，其与银河通用机器人达成合作。导远科技将向银河通用交付车规级惯性测量（IMU）模组IMU5146，为其旗下具身智能机器人提供高精度的速度与姿态<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/15/a3385202603151541578065.png">]]></description>
+            <link>https://www.xchuxing.com/article/167192</link>
+            <guid isPermaLink="false">xchuxing:1:167192</guid>
+            <pubDate>Sun, 15 Mar 2026 07:43:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[吉利千里浩瀚 G-ASD 正式获欧盟认证]]></title>
             <description><![CDATA[吉利汽车集团旗下智能辅助驾驶系统——千里浩瀚 G-ASD，正式获颁联合国欧盟 UN R171 国际认证证书。该认证由中汽中心与 IDIADA 联合颁发，标志着千<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/15/97460202603151457055428.png">]]></description>
@@ -76,13 +90,6 @@
             <link>https://www.xchuxing.com/article/1456</link>
             <guid isPermaLink="false">xchuxing:7:1456</guid>
             <pubDate>Fri, 13 Mar 2026 02:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[发布即大规模交付 新一代小米 SU7 将于本月发布]]></title>
-            <description><![CDATA[今日，小米汽车官宣新一代小米 SU7 将于本月正式上市，更具体的上市时间并未公布，但雷总明确表示本次发布后将开启大规交付。做为小米汽车第一款产品，新车在 202<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/13/0c5e5202603130932357507.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167094</link>
-            <guid isPermaLink="false">xchuxing:1:167094</guid>
-            <pubDate>Fri, 13 Mar 2026 01:32:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
