@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 06:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 07:52:22 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[尚界Z7和问界M6你会更关注哪辆呢]]></title>
+            <description><![CDATA[3月23日，华为春季发布会，尚界Z7/Z7T 和问界M6 都会亮相。两款都是鸿蒙智行的“年轻人之车”。你更关注哪辆？]]></description>
+            <link>https://www.xchuxing.com/article/1473</link>
+            <guid isPermaLink="false">xchuxing:7:1473</guid>
+            <pubDate>Mon, 16 Mar 2026 06:35:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 270期：智驾惊喜不断！伟健试驾零跑A10]]></title>
             <description><![CDATA[本来这次试驾想给大家好好介绍这台车的一些功能亮点，但我在体验完零跑最新的这套智驾后，我发现智驾正是 A10 最大的亮点。<br><img src="https://s1.xchuxing.com/video/2026/03/16/d9482202603160649064361.png">]]></description>
@@ -83,13 +90,6 @@
             <link>https://www.xchuxing.com/article/167159</link>
             <guid isPermaLink="false">xchuxing:1:167159</guid>
             <pubDate>Sat, 14 Mar 2026 11:25:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 15.38-16.98 万元 方程豹钛3 闪充版正式上市]]></title>
-            <description><![CDATA[3 月 13 日，方程豹钛3 正式上市，新款车型售价 15.38-16.98 万元，共推出两款车型版本。钛3闪充版首任车主在2026年4月13日（含）前下定可享<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/13/6e035202603132306559380.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167132</link>
-            <guid isPermaLink="false">xchuxing:1:167132</guid>
-            <pubDate>Fri, 13 Mar 2026 15:19:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
