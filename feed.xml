@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 22:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 23:23:51 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行一图 224期：一图了解新一代小米 SU7 的已知信息]]></title>
+            <description><![CDATA[新一代小米 SU7 即将在 3 月 19 日上市，新车在外观、配色、轮毂、动力、胎宽和续航方面均有提升。下面就让我们先通过本次一图，先来了解下新一代小米 SU7<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/17/987e1202603170719229742.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/167278</link>
+            <guid isPermaLink="false">xchuxing:1:167278</guid>
+            <pubDate>Mon, 16 Mar 2026 23:19:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[定位中大型 SUV 问界 M6 将于 3 月 23 日开启预订]]></title>
             <description><![CDATA[3 月 16 日，我们从官方渠道获悉，问界 M6 将于 3 月 23 日的华为春季全场景新品发布会上正式开启预订。 外观方面，问界 M6 延续家族展翼设计基因，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/16/c60da202603162058171872.png">]]></description>
@@ -76,13 +83,6 @@
             <link>https://www.xchuxing.com/video/22437</link>
             <guid isPermaLink="false">xchuxing:2:22437</guid>
             <pubDate>Mon, 16 Mar 2026 09:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尚界Z7和问界M6你会更关注哪辆呢]]></title>
-            <description><![CDATA[3月23日，华为春季发布会，尚界Z7/Z7T 和问界M6 都会亮相。两款都是鸿蒙智行的“年轻人之车”。你更关注哪辆？]]></description>
-            <link>https://www.xchuxing.com/article/1473</link>
-            <guid isPermaLink="false">xchuxing:7:1473</guid>
-            <pubDate>Mon, 16 Mar 2026 06:35:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
