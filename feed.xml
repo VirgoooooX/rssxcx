@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 15:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 16:54:15 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -83,13 +83,6 @@
             <link>https://www.xchuxing.com/article/1473</link>
             <guid isPermaLink="false">xchuxing:7:1473</guid>
             <pubDate>Mon, 16 Mar 2026 06:35:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 270期：智驾惊喜不断！伟健试驾零跑A10]]></title>
-            <description><![CDATA[本来这次试驾想给大家好好介绍这台车的一些功能亮点，但我在体验完零跑最新的这套智驾后，我发现智驾正是 A10 最大的亮点。<br><img src="https://s1.xchuxing.com/video/2026/03/16/d9482202603160649064361.png">]]></description>
-            <link>https://www.xchuxing.com/video/22436</link>
-            <guid isPermaLink="false">xchuxing:2:22436</guid>
-            <pubDate>Mon, 16 Mar 2026 06:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
