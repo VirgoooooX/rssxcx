@@ -4,10 +4,16 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 01:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 04:20:24 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[今年买乐道L60，你会选激光雷达版吗？]]></title>
+            <link>https://www.xchuxing.com/article/1472</link>
+            <guid isPermaLink="false">xchuxing:7:1472</guid>
+            <pubDate>Mon, 16 Mar 2026 03:31:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX-Test续航实测 74期：岚图泰山纯电续航、油耗及充电测试]]></title>
             <description><![CDATA[泰山是岚图的旗舰 SUV，在泰山上，岚图给到了最新的技术，像 800V 电压平台、大电池和高倍率充电，这些都是目前旗舰 SUV 在卷的配置。下面就让我们来看看，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/06/d33ac202603062035131279.png">]]></description>
@@ -84,13 +90,6 @@
             <link>https://www.xchuxing.com/article/167119</link>
             <guid isPermaLink="false">xchuxing:1:167119</guid>
             <pubDate>Fri, 13 Mar 2026 14:29:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 16.98-19.68 万元 iCAR V27 正式上市]]></title>
-            <description><![CDATA[3 月 13 日，iCAR V27 正式上市，新车售价 16.98-19.68 万元，共推出三款车型配置。外观方面，较为方正的造型让 V27 看上去很有轮廓感，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/13/600e9202603132108272577.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/167120</link>
-            <guid isPermaLink="false">xchuxing:1:167120</guid>
-            <pubDate>Fri, 13 Mar 2026 13:08:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
