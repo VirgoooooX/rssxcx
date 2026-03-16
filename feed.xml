@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 04:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 06:02:07 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 270期：智驾惊喜不断！伟健试驾零跑A10]]></title>
+            <description><![CDATA[本来这次试驾想给大家好好介绍这台车的一些功能亮点，但我在体验完零跑最新的这套智驾后，我发现智驾正是 A10 最大的亮点。<br><img src="https://s1.xchuxing.com/video/2026/03/16/d9482202603160649064361.png">]]></description>
+            <link>https://www.xchuxing.com/video/22436</link>
+            <guid isPermaLink="false">xchuxing:2:22436</guid>
+            <pubDate>Mon, 16 Mar 2026 06:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[长城欧拉 5 在泰国发布]]></title>
+            <description><![CDATA[3 月 12 日，长城汽车欧拉品牌在曼谷潮流地标 EMSphere 举办长城欧拉 5 （ ORA 5 ）全球发布会。作为欧拉面向全球市场推出的战略级产品，长城欧<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/16/bd559202603161238251022.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/167236</link>
+            <guid isPermaLink="false">xchuxing:1:167236</guid>
+            <pubDate>Mon, 16 Mar 2026 04:47:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[今年买乐道L60，你会选激光雷达版吗？]]></title>
             <link>https://www.xchuxing.com/article/1472</link>
@@ -76,20 +90,6 @@
             <link>https://www.xchuxing.com/article/167132</link>
             <guid isPermaLink="false">xchuxing:1:167132</guid>
             <pubDate>Fri, 13 Mar 2026 15:19:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[搭载神盾金砖电池 吉利银河 M7 正式迎来首秀]]></title>
-            <description><![CDATA[3 月 13 日，吉利银河 M7 正式迎来技术首秀，其搭载吉利最新的神盾金砖电池，纯电续航突破 200km 大关。外观方面，吉利银河 M7 采用飞檐虎视的前脸设<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/13/d1d7d202603132242265791.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167128</link>
-            <guid isPermaLink="false">xchuxing:1:167128</guid>
-            <pubDate>Fri, 13 Mar 2026 15:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 167期：列文虎克式看懂 2026 款问界 M9 工信部申报信息]]></title>
-            <description><![CDATA[3 月 13 日，2026款问界 M9 正式登陆最新一批的工信部申报目录，从信息来看其在硬件上迎来了全面的焕新。本篇文章，我们就来根据工信部的申报信息，来为大家<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/13/78301202603132227444852.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167119</link>
-            <guid isPermaLink="false">xchuxing:1:167119</guid>
-            <pubDate>Fri, 13 Mar 2026 14:29:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
