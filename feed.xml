@@ -4,10 +4,16 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 01:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 04:00:52 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[蔚来 × 途虎合作，你最期待什么？]]></title>
+            <link>https://www.xchuxing.com/article/1490</link>
+            <guid isPermaLink="false">xchuxing:7:1490</guid>
+            <pubDate>Wed, 18 Mar 2026 02:22:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[意向金 999 元 启境 GT7 开启预订]]></title>
             <description><![CDATA[3 月 17 日，启境 GT7 正式开启预订，支付 999 元意向金可享 4 重权益。设计方面，启境 GT7 前脸采用俯冲式低趴设计，前机盖上的两条倾斜折线，不<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/17/bc7a0202603172109123449.jpg">]]></description>
@@ -85,13 +91,6 @@
             <link>https://www.xchuxing.com/article/1482</link>
             <guid isPermaLink="false">xchuxing:7:1482</guid>
             <pubDate>Tue, 17 Mar 2026 03:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 172期：静态体验日产 NX8]]></title>
-            <description><![CDATA[继 GLOCAL 模式理念打造的东风日产 N7 与 N6 为品牌新能源转向筑牢根基。依托这份市场沉淀，NX8 作为天演架构首款中大型新能源 SUV，正式成为 N<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/17/d765d202603171056437285.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/165598</link>
-            <guid isPermaLink="false">xchuxing:1:165598</guid>
-            <pubDate>Tue, 17 Mar 2026 03:01:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
