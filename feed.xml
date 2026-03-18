@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 11:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 12:51:07 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[上市补贴价 9.98-16.88 万元 极狐全新阿尔法 S5 上市]]></title>
+            <description><![CDATA[3 月 18 日，极狐全新阿尔法 S5 正式上市。 增程版共推出 3 款配置，上市补贴价 9.98-11.98 万元；纯电版共推出 4 款配置，上市补贴价 11<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/18/8de0b202603182037447525.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/167376</link>
+            <guid isPermaLink="false">xchuxing:1:167376</guid>
+            <pubDate>Wed, 18 Mar 2026 12:41:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[R6⼤模型上⻋ ⼴汽丰⽥铂智 3X 迎来 OTA 升级]]></title>
             <description><![CDATA[3 ⽉ 18 ⽇，⼴汽丰⽥铂智 3X 官宣进行重磅 OTA 升级，重点聚焦⽤⼾最关⼼的智驾、智舱、安全三个⽅⾯。智驾方面，⼴汽丰⽥铂智 3X 为用户全量推送 M<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/18/a7ced202603181442218723.jpg">]]></description>
@@ -85,13 +92,6 @@
             <link>https://www.xchuxing.com/article/1483</link>
             <guid isPermaLink="false">xchuxing:7:1483</guid>
             <pubDate>Tue, 17 Mar 2026 03:49:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 275期：伟健体验东风日产NX8]]></title>
-            <description><![CDATA[NX8 这是东风日产最新的一款新能源家用 SUV，体验完这台车后我对这台车最大印象是大空间和乘坐舒适性的体验。<br><img src="https://s1.xchuxing.com/video/2026/03/17/c959a202603171146024918.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/22470</link>
-            <guid isPermaLink="false">xchuxing:2:22470</guid>
-            <pubDate>Tue, 17 Mar 2026 03:47:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
