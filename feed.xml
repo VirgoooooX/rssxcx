@@ -4,10 +4,30 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 14:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 15:45:07 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 278期：Nissan OS 2.0来了！NX8再定义合资车企的蜕变]]></title>
+            <description><![CDATA[这次东风日产 NX8 带着 Nissan OS 2.0 来了，我们用一个和大家聊聊这次车机迎来哪些变化？能否再次定义合资车机的蜕变？<br><img src="https://s1.xchuxing.com/video/2026/03/18/982c7202603182337051601.png">]]></description>
+            <link>https://www.xchuxing.com/video/22511</link>
+            <guid isPermaLink="false">xchuxing:2:22511</guid>
+            <pubDate>Wed, 18 Mar 2026 15:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 277期：静态体验全新腾势Z9 GT]]></title>
+            <description><![CDATA[全新腾势 Z9 GT 都升级了什么？五个配置又该如何选择？这期视频就来和大家聊一聊。<br><img src="https://s1.xchuxing.com/video/2026/03/18/4a238202603182303525927.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/22510</link>
+            <guid isPermaLink="false">xchuxing:2:22510</guid>
+            <pubDate>Wed, 18 Mar 2026 15:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[如果买小鹏P7，你会选哪个图灵版本？]]></title>
+            <link>https://www.xchuxing.com/article/1499</link>
+            <guid isPermaLink="false">xchuxing:7:1499</guid>
+            <pubDate>Wed, 18 Mar 2026 15:03:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[长轴版将亮相 2026 北京车展 宝马新世代 i3 全球首发]]></title>
             <description><![CDATA[3 月 18 日，宝马新世代 i3 迎来全球首发亮相。新车会是宝马新世代平台打造的首款轿车，采用全新设计语言打造。值得一提的是，专为中国市场打造的新世代 BMW<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/18/c45cc202603182126264694.jpeg">]]></description>
@@ -69,30 +89,6 @@
             <link>https://www.xchuxing.com/article/167143</link>
             <guid isPermaLink="false">xchuxing:1:167143</guid>
             <pubDate>Tue, 17 Mar 2026 13:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 276期：大个静态体验启境 GT7]]></title>
-            <description><![CDATA[从 2026 年开始，旅行和猎装这个品类将有大量新车登场，并且有各种尺寸和动力的产品供大家选择。
-
-而今天，启境这个全新品牌，将是 2026 年首个推出这一品类中全新车型的品牌。
-
-下面让我们通过本期视频，先看看启境 GT7 的外观，看看这款车型的造型设计。<br><img src="https://s1.xchuxing.com/video/2026/03/17/fed47202603171856553654.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/22483</link>
-            <guid isPermaLink="false">xchuxing:2:22483</guid>
-            <pubDate>Tue, 17 Mar 2026 13:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 50.99 万元 岚图泰山黑武士正式上市]]></title>
-            <description><![CDATA[3 月 17 日，岚图泰山黑武士正式上市，售价 50.99 万元。岚图泰山黑武士版全面承袭泰山 Ultra 版的软硬件配置，配备华为乾崑 ADS 4 四激光方案<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/17/7515d202603171938225825.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167318</link>
-            <guid isPermaLink="false">xchuxing:1:167318</guid>
-            <pubDate>Tue, 17 Mar 2026 12:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[启境GT7的外观颜色，你会怎么选？]]></title>
-            <link>https://www.xchuxing.com/article/1489</link>
-            <guid isPermaLink="false">xchuxing:7:1489</guid>
-            <pubDate>Tue, 17 Mar 2026 12:28:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
