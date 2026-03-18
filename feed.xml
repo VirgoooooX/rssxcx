@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 05:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 06:52:55 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[R6⼤模型上⻋ ⼴汽丰⽥铂智 3X 迎来 OTA 升级]]></title>
+            <description><![CDATA[3 ⽉ 18 ⽇，⼴汽丰⽥铂智 3X 官宣进行重磅 OTA 升级，重点聚焦⽤⼾最关⼼的智驾、智舱、安全三个⽅⾯。智驾方面，⼴汽丰⽥铂智 3X 为用户全量推送 M<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/18/a7ced202603181442218723.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/167341</link>
+            <guid isPermaLink="false">xchuxing:1:167341</guid>
+            <pubDate>Wed, 18 Mar 2026 06:42:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[蔚来 × 途虎合作，你最期待什么？]]></title>
             <link>https://www.xchuxing.com/article/1490</link>
@@ -85,12 +92,6 @@
             <link>https://www.xchuxing.com/video/22470</link>
             <guid isPermaLink="false">xchuxing:2:22470</guid>
             <pubDate>Tue, 17 Mar 2026 03:47:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[启境 GT7 上市，会影响蔚来 ET5T 销量吗？]]></title>
-            <link>https://www.xchuxing.com/article/1482</link>
-            <guid isPermaLink="false">xchuxing:7:1482</guid>
-            <pubDate>Tue, 17 Mar 2026 03:45:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
