@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 08:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 09:34:50 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[申报目录 | 工信部 28 批免购置税车型续航汇总]]></title>
+            <description><![CDATA[工信部第二十八批减免车辆购置税新能源汽车车型目录发布，多款即将亮相的新车电池容量、纯电续航参数同步曝光，一起来看。-小米 YU7 GT小米 YU7 GT 将搭载<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/19/16e35202603191731446222.png">]]></description>
+            <link>https://www.xchuxing.com/article/167448</link>
+            <guid isPermaLink="false">xchuxing:1:167448</guid>
+            <pubDate>Thu, 19 Mar 2026 09:34:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[小米SU7请了代言人，那小米YU7/YU9这些也需要请么？]]></title>
             <link>https://www.xchuxing.com/article/1500</link>
@@ -68,13 +75,6 @@
             <link>https://www.xchuxing.com/article/167379</link>
             <guid isPermaLink="false">xchuxing:1:167379</guid>
             <pubDate>Wed, 18 Mar 2026 12:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上市补贴价 9.98-16.88 万元 极狐全新阿尔法 S5 上市]]></title>
-            <description><![CDATA[3 月 18 日，极狐全新阿尔法 S5 正式上市。 增程版共推出 3 款配置，上市补贴价 9.98-11.98 万元；纯电版共推出 4 款配置，上市补贴价 11<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/18/8de0b202603182037447525.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167376</link>
-            <guid isPermaLink="false">xchuxing:1:167376</guid>
-            <pubDate>Wed, 18 Mar 2026 12:41:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
