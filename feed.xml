@@ -4,10 +4,16 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 09:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 10:02:06 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[下一款萤火虫限量色，你希望是什么风格？]]></title>
+            <link>https://www.xchuxing.com/article/1509</link>
+            <guid isPermaLink="false">xchuxing:7:1509</guid>
+            <pubDate>Fri, 20 Mar 2026 09:58:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 281期：新出行视频 | iCAR V27智驾挑战深圳“移位左转”]]></title>
             <description><![CDATA[3月13日，iCAR V27正式上市，售价16.98万~19.68万。
@@ -82,13 +88,6 @@
             <link>https://www.xchuxing.com/article/167464</link>
             <guid isPermaLink="false">xchuxing:1:167464</guid>
             <pubDate>Thu, 19 Mar 2026 14:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售区间 15.5-18.5 万元 比亚迪宋 Ultra EV 将于 3 月 26 日上市]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，比亚迪宋 Ultra EV 将于 3 月 26 日上市。新车此前已正式预售，共推出 4 款配置，预售区间 15.5-18.5 万元。外<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/19/3d9462026031921472053.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167463</link>
-            <guid isPermaLink="false">xchuxing:1:167463</guid>
-            <pubDate>Thu, 19 Mar 2026 13:47:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
