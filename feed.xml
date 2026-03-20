@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 06:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 07:27:44 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新阿维塔 12 首搭 阿维塔发布太行智控 2.0 技术]]></title>
+            <description><![CDATA[3 月 20 日，阿维塔正式发布太行智控 2.0 技术。太行智控 2.0 技术，核心在于搭载太行分布式电驱、电磁避震两大硬核技术。太行分布式电驱独立驱动左右车轮<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/20/bee4e202603201413421061.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/167489</link>
+            <guid isPermaLink="false">xchuxing:1:167489</guid>
+            <pubDate>Fri, 20 Mar 2026 06:13:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[全新一代小米SU7和全新小鹏P7，你会怎么选？]]></title>
             <description><![CDATA[结合这两台车的配置和价格，二选一你会怎么选？以及会选择什么配置？]]></description>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/article/167461</link>
             <guid isPermaLink="false">xchuxing:1:167461</guid>
             <pubDate>Thu, 19 Mar 2026 13:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一文看懂新一代小米 SU7 上市发布会]]></title>
-            <description><![CDATA[2026 年 3 月 19 日，新一代小米 SU7 正式上市。关于此次新一代小米 SU7 上市发布会的全部信息，看这一篇就够了。- 小米 SU7 售价与权益新一<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/19/395d92026031920594625.png">]]></description>
-            <link>https://www.xchuxing.com/article/167306</link>
-            <guid isPermaLink="false">xchuxing:1:167306</guid>
-            <pubDate>Thu, 19 Mar 2026 13:01:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
