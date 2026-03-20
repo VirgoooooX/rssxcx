@@ -4,10 +4,20 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 07:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 08:00:40 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 281期：新出行视频 | iCAR V27智驾挑战深圳“移位左转”]]></title>
+            <description><![CDATA[3月13日，iCAR V27正式上市，售价16.98万~19.68万。
+不仅有吸睛的硬派方盒子造型，560TOPS算力、激光雷达和一段式端到端，更让V27的辅助驾驶能力打破传统硬派SUV的固有认知。
+在我们的多车横评实测中，V27在深圳移位左转、非铺装山道等难例场景中表现亮眼，媲美行业第一梯队水平。
+3分钟快速复盘，看看高阶智驾竞争如何“卷”进硬派方盒子<br><img src="https://s1.xchuxing.com/video/2026/03/20/05bbf202603201527504931.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/22554</link>
+            <guid isPermaLink="false">xchuxing:2:22554</guid>
+            <pubDate>Fri, 20 Mar 2026 07:33:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新阿维塔 12 首搭 阿维塔发布太行智控 2.0 技术]]></title>
             <description><![CDATA[3 月 20 日，阿维塔正式发布太行智控 2.0 技术。太行智控 2.0 技术，核心在于搭载太行分布式电驱、电磁避震两大硬核技术。太行分布式电驱独立驱动左右车轮<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/20/bee4e202603201413421061.jpg">]]></description>
@@ -79,13 +89,6 @@
             <link>https://www.xchuxing.com/article/167463</link>
             <guid isPermaLink="false">xchuxing:1:167463</guid>
             <pubDate>Thu, 19 Mar 2026 13:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行一图 225期：一图看懂新一代小米 SU7]]></title>
-            <description><![CDATA[新一代小米 SU7 正式上市，售价区间为 21.99-30.39 万元。此次上市发布会我们也将用新出行一图的形式带你了解清楚新一代小米 SU7，看看这台车有哪些<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/19/c6018202603192121448376.png">]]></description>
-            <link>https://www.xchuxing.com/article/167461</link>
-            <guid isPermaLink="false">xchuxing:1:167461</guid>
-            <pubDate>Thu, 19 Mar 2026 13:23:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
