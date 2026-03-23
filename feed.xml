@@ -4,10 +4,16 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 05:52:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 06:59:39 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[蔚来 ES9 官方预热视频中疑似没有二排吸顶屏，作为潜在车主，你能接受吗？]]></title>
+            <link>https://www.xchuxing.com/article/1539</link>
+            <guid isPermaLink="false">xchuxing:7:1539</guid>
+            <pubDate>Mon, 23 Mar 2026 05:55:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[小鹏MONA M03的紫色，你更喜欢哪个？]]></title>
             <link>https://www.xchuxing.com/article/1538</link>
@@ -83,13 +89,6 @@
             <link>https://www.xchuxing.com/article/167553</link>
             <guid isPermaLink="false">xchuxing:1:167553</guid>
             <pubDate>Sat, 21 Mar 2026 13:55:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[搭载 2 颗小鹏图灵 AI 芯片 大众与众 08 将于 3 月 26 日开启预售]]></title>
-            <description><![CDATA[日前，我们从官方渠道获悉，大众与众 08 将于 3 月 26 日正式开启预售。外观方面，大众与众 08 的设计遵循大胆的中轴线理念，线条收放有度，跳出了大众传<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/21/83561202603212141471410.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/167551</link>
-            <guid isPermaLink="false">xchuxing:1:167551</guid>
-            <pubDate>Sat, 21 Mar 2026 13:48:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
