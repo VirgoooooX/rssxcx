@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 12:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 14:09:14 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[华为春季发布会全场景炸场：鸿蒙智行多款新车焕新，数码新品拉满体验]]></title>
+            <description><![CDATA[2026 年 3 月 23 日，华为春季全场景新品发布会在长沙重磅启幕，这场发布会堪称华为全生态的实力秀场 —— 智慧出行领域鸿蒙智行多款新车开启预订、焕新上市<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/23/59a2c202603232159296164.png">]]></description>
+            <link>https://www.xchuxing.com/article/167634</link>
+            <guid isPermaLink="false">xchuxing:1:167634</guid>
+            <pubDate>Mon, 23 Mar 2026 14:00:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图 226期：新出行一图｜一图看懂 iCAR V27 上市发布]]></title>
             <description><![CDATA[iCAR V27 于 3 月 13 日正式上市，售价 16.98-19.68 万元。本期《新出行一图》聚焦新车核心爆款亮点，解锁硬核产品实力，并直观对比三款车型<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/23/7b271202603231749108742.png">]]></description>
@@ -81,13 +88,6 @@
             <link>https://www.xchuxing.com/article/1538</link>
             <guid isPermaLink="false">xchuxing:7:1538</guid>
             <pubDate>Mon, 23 Mar 2026 02:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行情报局 84期：精准打击家庭用户，2026 年乐道「三车」战略]]></title>
-            <description><![CDATA[过去一年，乐道品牌在新能源市场中逆势突围，实现了「量价齐升」的阶段性目标：全年累计交付新车 107,808 台，其中，乐道 L90 的表现尤为亮眼，5 个月实现<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/22/484d6202603222355124004.png">]]></description>
-            <link>https://www.xchuxing.com/article/167248</link>
-            <guid isPermaLink="false">xchuxing:1:167248</guid>
-            <pubDate>Sun, 22 Mar 2026 15:55:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
