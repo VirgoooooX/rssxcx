@@ -4,10 +4,16 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 01:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 04:03:56 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[小鹏MONA M03的紫色，你更喜欢哪个？]]></title>
+            <link>https://www.xchuxing.com/article/1538</link>
+            <guid isPermaLink="false">xchuxing:7:1538</guid>
+            <pubDate>Mon, 23 Mar 2026 02:00:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行情报局 84期：精准打击家庭用户，2026 年乐道「三车」战略]]></title>
             <description><![CDATA[过去一年，乐道品牌在新能源市场中逆势突围，实现了「量价齐升」的阶段性目标：全年累计交付新车 107,808 台，其中，乐道 L90 的表现尤为亮眼，5 个月实现<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/22/484d6202603222355124004.png">]]></description>
@@ -84,15 +90,6 @@
             <link>https://www.xchuxing.com/article/167551</link>
             <guid isPermaLink="false">xchuxing:1:167551</guid>
             <pubDate>Sat, 21 Mar 2026 13:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 282期：大个动态体验丰田铂智 7]]></title>
-            <description><![CDATA[舒适请雷克萨斯团队调，运动请 GR 团队调，丰田铂智 7 确实也是一款能够很好兼顾家庭与个人的一款车型。
-
-能够让你在自己驾驶的时候开的爽，也能够让你在带着家人出行的时候坐的足够舒适。<br><img src="https://s1.xchuxing.com/video/2026/03/20/f5cf020260320223741399.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/22564</link>
-            <guid isPermaLink="false">xchuxing:2:22564</guid>
-            <pubDate>Sat, 21 Mar 2026 06:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
