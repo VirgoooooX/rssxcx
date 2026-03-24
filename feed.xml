@@ -4,10 +4,23 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 06:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 07:49:15 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[神行者的销售渠道，你希望是独立渠道还是在奇瑞捷豹路虎渠道？]]></title>
+            <description><![CDATA[首家全球品牌体验中心落户苏州中心，已完成全国首批50城超过60家门店的签约。]]></description>
+            <link>https://www.xchuxing.com/article/1550</link>
+            <guid isPermaLink="false">xchuxing:7:1550</guid>
+            <pubDate>Tue, 24 Mar 2026 07:39:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乐道L80 你最看重的 3 个点是什么？（可多选）]]></title>
+            <link>https://www.xchuxing.com/article/1549</link>
+            <guid isPermaLink="false">xchuxing:7:1549</guid>
+            <pubDate>Tue, 24 Mar 2026 07:38:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[蔚来 ES9 你会更想要 7 座版吗？]]></title>
             <link>https://www.xchuxing.com/article/1548</link>
@@ -75,20 +88,6 @@
             <link>https://www.xchuxing.com/article/1540</link>
             <guid isPermaLink="false">xchuxing:7:1540</guid>
             <pubDate>Mon, 23 Mar 2026 08:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 176期：静态实拍智界 V9]]></title>
-            <description><![CDATA[终于，在 3 月 23 日的发布会上，我们看到了智界 V9 的实车，这也是鸿蒙智行的首款 MPV 车型。将有许多硬件首发，例如更好的零重力座椅，全新的前排三联屏<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/23/3a2e7202603231555191067.png">]]></description>
-            <link>https://www.xchuxing.com/article/167593</link>
-            <guid isPermaLink="false">xchuxing:1:167593</guid>
-            <pubDate>Mon, 23 Mar 2026 08:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 22.98/23.98 万元起 尚界 Z7/Z7T 开启预售]]></title>
-            <description><![CDATA[3 月 23 日，尚界 Z7 以及 Z7T 正式开启预售。尚界 Z7 预售价 22.98 万元起，尚界 Z7T 预售价 23.98 万元起。权益方面，尚界 Z7<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/23/27106202603231606578854.png">]]></description>
-            <link>https://www.xchuxing.com/article/167611</link>
-            <guid isPermaLink="false">xchuxing:1:167611</guid>
-            <pubDate>Mon, 23 Mar 2026 07:56:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
