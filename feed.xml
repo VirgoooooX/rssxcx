@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 14:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 15:38:27 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 177期：静态体验全新腾势 Z9 GT]]></title>
+            <description><![CDATA[定位“科技性能旗舰 GT”的全新腾势 Z9 GT 已正式上市，官方指导价定格 26.98—36.98万元，涵盖纯电与插混多版本配置，满足不同用户需求。全新腾势<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/19/44ee8202603191124075305.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/167298</link>
+            <guid isPermaLink="false">xchuxing:1:167298</guid>
+            <pubDate>Tue, 24 Mar 2026 15:35:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[蔚来 ES9 将采用集成式主动悬架]]></title>
             <description><![CDATA[蔚来 ES9，集十余年技术之大成，再次定义智能底盘新标杆。新车将于 4 月 9 日正式举行技术发布会，首支官方视频已上线，冬测花絮瞥见「SkyRide · 天行<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/24/1b9aa202603242021301659.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/167439</link>
             <guid isPermaLink="false">xchuxing:1:167439</guid>
             <pubDate>Mon, 23 Mar 2026 08:31:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 284期：小白同学动态试驾问界 M8 焕新版]]></title>
-            <description><![CDATA[问界 M8 焕新版来啦，本期视频就和大家聊一聊这一次问界 M8 焕新版都升级了什么？升级后表现又如何呢？<br><img src="https://s1.xchuxing.com/video/2026/03/23/aa6b3202603230215489239.png">]]></description>
-            <link>https://www.xchuxing.com/video/22595</link>
-            <guid isPermaLink="false">xchuxing:2:22595</guid>
-            <pubDate>Mon, 23 Mar 2026 08:30:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
