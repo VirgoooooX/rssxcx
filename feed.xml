@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 11:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 12:51:37 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[蔚来 ES9 将采用集成式主动悬架]]></title>
+            <description><![CDATA[蔚来 ES9，集十余年技术之大成，再次定义智能底盘新标杆。新车将于 4 月 9 日正式举行技术发布会，首支官方视频已上线，冬测花絮瞥见「SkyRide · 天行<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/24/1b9aa202603242021301659.png">]]></description>
+            <link>https://www.xchuxing.com/article/167683</link>
+            <guid isPermaLink="false">xchuxing:1:167683</guid>
+            <pubDate>Tue, 24 Mar 2026 12:27:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[比亚迪 2026 款夏首付仅需 8.98 万？]]></title>
             <description><![CDATA[节后，因为比较好奇比亚迪的辅助驾驶能力，所以我借了一台比亚迪 2026 款夏，看看天神之眼 5.0 有着怎样的表现。
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/22595</link>
             <guid isPermaLink="false">xchuxing:2:22595</guid>
             <pubDate>Mon, 23 Mar 2026 08:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 26.98-28.98 万起 问界 M6 开启预售]]></title>
-            <description><![CDATA[3 月 23 日，在华为春季全场景发布会上，问界 M6 公布了预售价并开启预售。增程版的预售价为 26.98 万起，纯电版的预售价为 28.98 万起。不论是否<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/23/fe7bc202603231602034367.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167613</link>
-            <guid isPermaLink="false">xchuxing:1:167613</guid>
-            <pubDate>Mon, 23 Mar 2026 08:05:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
