@@ -4,10 +4,16 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 07:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 08:39:37 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[尚界Z7预售价22.98万起，你觉得正常吗？]]></title>
+            <link>https://www.xchuxing.com/article/1558</link>
+            <guid isPermaLink="false">xchuxing:7:1558</guid>
+            <pubDate>Wed, 25 Mar 2026 08:25:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[在关注蔚来ES9的朋友，你更想它偏向商务还是家庭出行？]]></title>
             <link>https://www.xchuxing.com/article/1557</link>
@@ -85,13 +91,6 @@
             <link>https://www.xchuxing.com/article/1548</link>
             <guid isPermaLink="false">xchuxing:7:1548</guid>
             <pubDate>Tue, 24 Mar 2026 02:03:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行一图 227期：一图对比尚界 Z7 和新一代小米 SU7]]></title>
-            <description><![CDATA[尚界 Z7 已于 3 月 23 日正式开启预售，共推出三款配置车型，预售价区间 22.98-30.98 万元 。本期《新出行一图》，我们横向对比尚界 Z7 与新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/24/b812b202603240000038927.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167643</link>
-            <guid isPermaLink="false">xchuxing:1:167643</guid>
-            <pubDate>Mon, 23 Mar 2026 16:00:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
