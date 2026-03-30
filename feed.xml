@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 12:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 14:26:30 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 5.89-7.89 万元 奇瑞全新 QQ3 正式上市]]></title>
+            <description><![CDATA[3 月 30 日，奇瑞全新 QQ3 正式上市，新车共推出 4 款车型配置，售价 5.89-7.89 万元。外观方面，奇瑞 QQ3 EV 采用微笑前脸设计，配备<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/30/b08be202603302056491124.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/167985</link>
+            <guid isPermaLink="false">xchuxing:1:167985</guid>
+            <pubDate>Mon, 30 Mar 2026 13:00:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价 43.8-51.8 万元 全新坦克 700 开启预售]]></title>
             <description><![CDATA[3 月 30 日，全新坦克 700 开启预售，新车共推出两款 Hi4-Z 车型以及一款 Hi4-T 车型，预售价 43.8-51.8 万元。外观方面，可以看到新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/30/4a017202603302051126507.png">]]></description>
@@ -83,13 +90,6 @@
             <link>https://www.xchuxing.com/article/1562</link>
             <guid isPermaLink="false">xchuxing:7:1562</guid>
             <pubDate>Fri, 27 Mar 2026 08:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[配备电动尾翼 奔驰 AMG GLC 纯电版谍照曝光]]></title>
-            <description><![CDATA[日前，外媒拍摄到了一组奔驰 AMG GLC 纯电版的路试谍照。新车在车头和车尾还有伪装贴纸覆盖，说明在这两个位置与普通版车型会有设计上的不同。尾部能够看到，尾灯<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/27/f6762202603271110121967.png">]]></description>
-            <link>https://www.xchuxing.com/article/167836</link>
-            <guid isPermaLink="false">xchuxing:1:167836</guid>
-            <pubDate>Fri, 27 Mar 2026 03:18:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
