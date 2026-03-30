@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 15:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 16:48:12 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX-Test续航实测 75期：iCAR V27 纯电续航、油耗及充电测试]]></title>
+            <description><![CDATA[iCAR 的第二款车型 V27 是一款增程车型，相比纯电的 V23 来说，能够更好的满足长途出行的需求。下面就让我们一起来看看，iCAR V27 在续航、油耗和<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/25/d813a202603251933578791.png">]]></description>
+            <link>https://www.xchuxing.com/article/167669</link>
+            <guid isPermaLink="false">xchuxing:1:167669</guid>
+            <pubDate>Mon, 30 Mar 2026 16:01:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 5.89-7.89 万元 奇瑞全新 QQ3 正式上市]]></title>
             <description><![CDATA[3 月 30 日，奇瑞全新 QQ3 正式上市，新车共推出 4 款车型配置，售价 5.89-7.89 万元。外观方面，奇瑞 QQ3 EV 采用微笑前脸设计，配备<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/30/b08be202603302056491124.jpg">]]></description>
@@ -83,13 +90,6 @@
             <link>https://www.xchuxing.com/article/167893</link>
             <guid isPermaLink="false">xchuxing:1:167893</guid>
             <pubDate>Sat, 28 Mar 2026 10:14:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026款小鹏MONA M03的外观颜色，你会怎么选？]]></title>
-            <description><![CDATA[新增了罗兰紫和牛油果绿，你会怎么选？]]></description>
-            <link>https://www.xchuxing.com/article/1562</link>
-            <guid isPermaLink="false">xchuxing:7:1562</guid>
-            <pubDate>Fri, 27 Mar 2026 08:08:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
