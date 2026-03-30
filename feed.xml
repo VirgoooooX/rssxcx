@@ -4,10 +4,16 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 04:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 06:24:58 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[ES9 第二排你更倾向哪种？中央通道版 vs 二排中岛版]]></title>
+            <link>https://www.xchuxing.com/article/1573</link>
+            <guid isPermaLink="false">xchuxing:7:1573</guid>
+            <pubDate>Mon, 30 Mar 2026 06:09:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[探店 132期：到店体验高阶智驾 探店零跑A10]]></title>
             <description><![CDATA[零跑 A10 是零跑 A 系列的首款车型，同时也是决定零跑今年能否完成百万计划的重磅车型。新车在 3 月 26 日晚正式公布售价，6.58—8.68 万元，我个<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/27/a2113202603271648205976.jpg">]]></description>
@@ -83,15 +89,6 @@
             <link>https://www.xchuxing.com/article/1561</link>
             <guid isPermaLink="false">xchuxing:7:1561</guid>
             <pubDate>Fri, 27 Mar 2026 02:16:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 288期：2026款小鹏MONA M03都有哪些焕新点？]]></title>
-            <description><![CDATA[小鹏MONA M03自上市以来，销量一直非常不错
-那这次焕新之后，我个人觉得和之前相比，内饰升级了不少，并且舒适性有明显提升
-年轻人选择第一辆车，它依旧是很优秀的选择！<br><img src="https://s1.xchuxing.com/video/2026/03/26/fb331202603261707082832.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/22688</link>
-            <guid isPermaLink="false">xchuxing:2:22688</guid>
-            <pubDate>Fri, 27 Mar 2026 02:00:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
