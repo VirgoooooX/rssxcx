@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 10:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 11:49:57 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价区间 14.28-16.18 万元 吉利银河星耀 8 远航家正式上市]]></title>
+            <description><![CDATA[3 月 30 日，吉利银河星耀 8 远航家正式上市，新车共推出三款车型配置，售价区间 14.28-16.18 万元。外观方面，吉利银河星耀 8 远航家基本延续旧<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/30/2f2c5202603301945573932.png">]]></description>
+            <link>https://www.xchuxing.com/article/167976</link>
+            <guid isPermaLink="false">xchuxing:1:167976</guid>
+            <pubDate>Mon, 30 Mar 2026 11:49:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ES9 第二排你更倾向哪种？中央通道版 vs 二排中岛版]]></title>
             <link>https://www.xchuxing.com/article/1573</link>
@@ -83,12 +90,6 @@
             <link>https://www.xchuxing.com/article/167828</link>
             <guid isPermaLink="false">xchuxing:1:167828</guid>
             <pubDate>Fri, 27 Mar 2026 02:51:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乐道 L90 大冰柜确认夏天上市，到时你会安装吗？（参考 L60 冰柜价格）]]></title>
-            <link>https://www.xchuxing.com/article/1561</link>
-            <guid isPermaLink="false">xchuxing:7:1561</guid>
-            <pubDate>Fri, 27 Mar 2026 02:16:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
