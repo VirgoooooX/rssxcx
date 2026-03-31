@@ -4,10 +4,16 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 01:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 04:29:41 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[关于知名度的讨论，看到「蔚来乐道」后，你的记忆印象是？]]></title>
+            <link>https://www.xchuxing.com/article/1584</link>
+            <guid isPermaLink="false">xchuxing:7:1584</guid>
+            <pubDate>Tue, 31 Mar 2026 02:57:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX-Test续航实测 75期：iCAR V27 纯电续航、油耗及充电测试]]></title>
             <description><![CDATA[iCAR 的第二款车型 V27 是一款增程车型，相比纯电的 V23 来说，能够更好的满足长途出行的需求。下面就让我们一起来看看，iCAR V27 在续航、油耗和<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/25/d813a202603251933578791.png">]]></description>
@@ -83,13 +89,6 @@
             <link>https://www.xchuxing.com/article/167894</link>
             <guid isPermaLink="false">xchuxing:1:167894</guid>
             <pubDate>Sat, 28 Mar 2026 10:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉重庆高速服务区超级充电站正式启用]]></title>
-            <description><![CDATA[3 月 28 日，特斯拉重庆高速服务区超级充电站项目正式上线，首批启用 55 座。这是特斯拉在国内一次性投建数量最多、规模最大的高速服务区超级充电站项目。此次上<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/28/82dba202603281810409309.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167893</link>
-            <guid isPermaLink="false">xchuxing:1:167893</guid>
-            <pubDate>Sat, 28 Mar 2026 10:14:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
