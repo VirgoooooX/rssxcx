@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 12:59:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 14:42:14 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[分享必得｜2026款小鹏MONA M03 新出行专属限定提车礼包]]></title>
+            <description><![CDATA[AI智能纯电掀背轿跑2026款小鹏 MONA M03 于4月2日正式上市发布后将逐步开启交付，新出行与你共同开启「Let's MONA」的时刻。在你开启 202<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/01/0102620260401210219158.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/168115</link>
+            <guid isPermaLink="false">xchuxing:1:168115</guid>
+            <pubDate>Wed, 01 Apr 2026 13:25:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[蔚来新款“5566”三大升级：智驾小蓝灯、零重力座椅、特别版配色，你最看重哪个？]]></title>
             <link>https://www.xchuxing.com/article/1595</link>
@@ -75,13 +82,6 @@
             <link>https://www.xchuxing.com/article/167977</link>
             <guid isPermaLink="false">xchuxing:1:167977</guid>
             <pubDate>Mon, 30 Mar 2026 12:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 32.98-37.98 万元 上汽大众 ID. ERA 9X 开启预售]]></title>
-            <description><![CDATA[3 月 30 日，上汽大众 ID. ERA 9X 开启预售，新车共推出 3 款车型配置，预售价区间 32.98-37.98 万元。外观造型方面，新车采用封闭式前<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/30/e19d120260330200654755.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/167978</link>
-            <guid isPermaLink="false">xchuxing:1:167978</guid>
-            <pubDate>Mon, 30 Mar 2026 12:07:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
