@@ -19,7 +19,6 @@ const USER_AGENT =
 const SKIP_TITLE_PREFIX_RE = /^\s*(每日简报|数字力系列)\b/;
 const VIDEO_TITLE_PREFIX_RE = /^\s*新出行视频\b/;
 const ONE_IMAGE_TITLE_PREFIX_RE = /^\s*新出行一图\b/;
-const VOTE_URL_RE = /\/vote\/\d+/i;
 
 function sleep(ms) {
     return new Promise((resolve) => setTimeout(resolve, ms));
@@ -89,11 +88,6 @@ function getArticleTitle(article) {
     return String(t).trim();
 }
 
-function isVoteUrl(url) {
-    if (!url || typeof url !== 'string') return false;
-    return VOTE_URL_RE.test(url);
-}
-
 function isLikelyOneImageContentImage(src) {
     if (!src || typeof src !== 'string') return false;
     const value = src.trim();
@@ -124,6 +118,7 @@ function buildItemUrl(article) {
         if (rawUrl) return rawUrl;
         return SOURCE_URL;
     }
+    if (type === 7) return `https://www.xchuxing.com/vote/${article.vid ?? primaryId}`;
     if (type === 12) return `https://www.xchuxing.com/number-power/${primaryId}`;
     if (type === 13) return `https://www.xchuxing.com/short-news/${primaryId}`;
     if (rawUrl) return rawUrl;
@@ -143,35 +138,59 @@ function shouldIncludeArticle(article, url) {
 
     const normalizedUrl = normalizePageUrl(url);
     const rawUrl = normalizePageUrl(article && typeof article.url === 'string' ? article.url : '');
-    if (isVoteUrl(normalizedUrl) || isVoteUrl(rawUrl)) return false;
     if (/\/number-power\//i.test(normalizedUrl) || /\/short-news\//i.test(normalizedUrl)) return false;
     if (/\/number-power\//i.test(rawUrl) || /\/short-news\//i.test(rawUrl)) return false;
-    if (title.includes('投票')) return false;
 
     return true;
 }
 
 function extractDescription(article) {
+    let baseDesc = '';
     const summary = article && article.summary;
-    if (typeof summary === 'string' && summary.trim()) return summary.trim();
 
-    const short = article && article.short_content;
-    if (typeof short === 'string' && short.trim()) return short.trim();
-
-    if (Array.isArray(short)) {
-        const lines = [];
-        for (const entry of short) {
-            if (!entry || typeof entry !== 'object') continue;
-            const t = typeof entry.title === 'string' ? entry.title.trim() : '';
-            const c = typeof entry.content === 'string' ? entry.content.trim() : '';
-            const line = t && c ? `${t}：${c}` : c || t;
-            if (line) lines.push(line);
-            if (lines.length >= 5) break;
+    if (typeof summary === 'string' && summary.trim()) {
+        baseDesc = summary.trim();
+    } else {
+        const short = article && article.short_content;
+        if (typeof short === 'string' && short.trim()) {
+            baseDesc = short.trim();
+        } else if (Array.isArray(short)) {
+            const lines = [];
+            for (const entry of short) {
+                if (!entry || typeof entry !== 'object') continue;
+                const t = typeof entry.title === 'string' ? entry.title.trim() : '';
+                const c = typeof entry.content === 'string' ? entry.content.trim() : '';
+                const line = t && c ? `${t}：${c}` : c || t;
+                if (line) lines.push(line);
+                if (lines.length >= 5) break;
+            }
+            if (lines.length) baseDesc = lines.join('<br>');
         }
-        if (lines.length) return lines.join('<br>');
     }
 
-    return '';
+    const type = Number(article && article.type);
+    if (type === 7 && article && Array.isArray(article.options)) {
+        const optionsList = article.options.map(o => {
+            let optText = `[投票选项] ${o.name}`;
+            const optImg = o.img_url || o.path || '';
+            if (optImg && typeof optImg === 'string') {
+                let imgUrl = optImg;
+                if (!imgUrl.startsWith('http')) {
+                    while(imgUrl.startsWith('/')) { imgUrl = imgUrl.substring(1); }
+                    imgUrl = 'https://s1.xchuxing.com/' + imgUrl;
+                }
+                optText += '<br><img src="' + imgUrl + '">';
+            }
+            return optText;
+        }).join('<br><br>');
+        if (baseDesc) {
+            baseDesc += '<br><br>' + optionsList;
+        } else {
+            baseDesc = optionsList;
+        }
+    }
+
+    return baseDesc;
 }
 
 async function extractOneImageMainImageUrl(pageUrl) {
