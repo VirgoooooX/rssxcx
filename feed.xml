@@ -4,10 +4,16 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 09:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 10:43:23 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新款乐道 L90 新增激光雷达版，成本比纯视觉版高 1 万多，你怎么看？]]></title>
+            <link>https://www.xchuxing.com/article/1609</link>
+            <guid isPermaLink="false">xchuxing:7:1609</guid>
+            <pubDate>Thu, 02 Apr 2026 10:18:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[你最喜欢阿维塔 06T的哪个内饰颜色？]]></title>
             <description><![CDATA[阿维塔 06T 内饰配色和06一样，共有三种选择：「深紫」、「暮紫 /烟白」以及「岱红」三种配色。你最喜欢哪个内饰颜色？]]></description>
@@ -80,13 +86,6 @@
             <link>https://www.xchuxing.com/article/1595</link>
             <guid isPermaLink="false">xchuxing:7:1595</guid>
             <pubDate>Wed, 01 Apr 2026 03:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[可生产多种车型 长安汽车巴西工厂正式投产]]></title>
-            <description><![CDATA[日前，长安汽车位于巴西中部戈亚斯州阿纳波利斯市的合资工厂正式投产。该工厂由长安汽车与巴西 CAOA 集团合资建设，首期投产车型包括 UNI-T 等 3 款产品，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/31/0a597202603312307284500.png">]]></description>
-            <link>https://www.xchuxing.com/article/168049</link>
-            <guid isPermaLink="false">xchuxing:1:168049</guid>
-            <pubDate>Tue, 31 Mar 2026 15:09:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
