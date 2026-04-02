@@ -172,8 +172,14 @@ function extractDescription(article) {
     if (type === 7 && article && Array.isArray(article.options)) {
         const optionsList = article.options.map(o => {
             let optText = `[投票选项] ${o.name}`;
-            const optImg = o.img_url || o.path || '';
-            if (optImg && typeof optImg === 'string') {
+            let optImg = '';
+            if (typeof o.img_url === 'string' && o.img_url.trim()) {
+                optImg = o.img_url.trim();
+            } else if (typeof o.path === 'string' && o.path.trim()) {
+                optImg = o.path.trim();
+            }
+
+            if (optImg) {
                 let imgUrl = optImg;
                 if (!imgUrl.startsWith('http')) {
                     while(imgUrl.startsWith('/')) { imgUrl = imgUrl.substring(1); }
