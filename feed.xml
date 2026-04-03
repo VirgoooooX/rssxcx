@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 04:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 06:07:11 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 295期：NX8 NISSAN OS 2.0来了！能否再次定义合资车机的蜕变]]></title>
+            <description><![CDATA[东风日产 NX8 NISSAN OS 2.0来了！能否再次定义合资车机的蜕变？这次我们一个视频和大家聊聊！<br><img src="https://s1.xchuxing.com/video/2026/04/03/fae96202604031355284338.png">]]></description>
+            <link>https://www.xchuxing.com/video/22894</link>
+            <guid isPermaLink="false">xchuxing:2:22894</guid>
+            <pubDate>Fri, 03 Apr 2026 06:01:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 294期：体验FREELANDER神行者 这车真虎！]]></title>
             <description><![CDATA[在1997年9月的法兰克福车展上，路虎正式推出FREELANDER，这是一款具有全地形能力，满足城市多功能需求的SUV。在29年后，这款车型不仅成为路虎品牌的功勋车型，同时也带来了一台来自未来的更智能的产品，FREELANDER神行者的Concept 97.....<br><img src="https://s1.xchuxing.com/video/2026/04/03/67ed6202604031214159790.jpg">]]></description>
@@ -88,13 +95,6 @@
             <link>https://www.xchuxing.com/video/22796</link>
             <guid isPermaLink="false">xchuxing:2:22796</guid>
             <pubDate>Thu, 02 Apr 2026 03:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 292期：维圈圈实测 2026 款蔚来 ET5 世界模型 NWM 2.0]]></title>
-            <description><![CDATA[今年一月我们分别在上海和深圳体验了蔚来世界模型 NWM 2.0 ，表现还是相当惊艳的，这次我们借着试驾的契机，再次将 NWM 2.0 拉上考场。<br><img src="https://s1.xchuxing.com/video/2026/04/02/e8b6620260402101426585.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/22855</link>
-            <guid isPermaLink="false">xchuxing:2:22855</guid>
-            <pubDate>Thu, 02 Apr 2026 02:17:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
