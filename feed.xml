@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 08:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 09:45:28 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[特斯拉 2026 年一季度全球交付新车 358,023 辆]]></title>
+            <description><![CDATA[据官方公告显示，特斯拉一季度全球交付量为 358,023 辆。这已是特斯拉交付量连续第二个季度未达市场预期，并且本季度交付量创下 2022 年年中以来的最低水平<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/03/12fa2202604031712033149.png">]]></description>
+            <link>https://www.xchuxing.com/article/168214</link>
+            <guid isPermaLink="false">xchuxing:1:168214</guid>
+            <pubDate>Fri, 03 Apr 2026 09:21:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[高阶智驾+智变空间 埃安 N60 将于 4 月 16 日开启预售]]></title>
             <description><![CDATA[据官方消息，旗下全新车型埃安 N60 将于 4 月 16 日开启预售。埃安 N60 启动盲订，用户支付 99 元定金即可享受价值 5088 元的购车礼遇。N60<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/03/faac9202604031522027953.png">]]></description>
@@ -79,20 +86,6 @@
             <link>https://www.xchuxing.com/article/168165</link>
             <guid isPermaLink="false">xchuxing:1:168165</guid>
             <pubDate>Thu, 02 Apr 2026 13:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新款乐道 L90 新增激光雷达版，成本比纯视觉版高 1 万多，你怎么看？]]></title>
-            <description><![CDATA[[投票选项] 建议必冲激光雷达版！硬件拉满，智驾上限更高<br><br>[投票选项] 选纯视觉版！性价比够高，日常用完全足够<br><br>[投票选项] 实际试驾对比两个版本的体验差距再决定<br><br>[投票选项] 其他看法，评论区聊聊]]></description>
-            <link>https://www.xchuxing.com/vote/1609</link>
-            <guid isPermaLink="false">xchuxing:7:1609</guid>
-            <pubDate>Thu, 02 Apr 2026 10:18:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[你最喜欢阿维塔 06T的哪个内饰颜色？]]></title>
-            <description><![CDATA[阿维塔 06T 内饰配色和06一样，共有三种选择：「深紫」、「暮紫 /烟白」以及「岱红」三种配色。你最喜欢哪个内饰颜色？<br><br>[投票选项] 深紫<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/02/42fa3202604021132545896.jpg"><br><br>[投票选项] 暮紫 /烟白<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/02/1a79d202604021132586338.jpg"><br><br>[投票选项] 岱红<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/02/57a71202604021133013474.jpg">]]></description>
-            <link>https://www.xchuxing.com/vote/1603</link>
-            <guid isPermaLink="false">xchuxing:7:1603</guid>
-            <pubDate>Thu, 02 Apr 2026 03:33:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
