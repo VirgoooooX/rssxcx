@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 06:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 07:41:11 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新能源车市场遇冷 26 年一季度美国新能源车销量同比下滑 28%]]></title>
+            <description><![CDATA[据外媒报道，考克斯汽车（Cox Automotive）于 3 月 25 日发布的2026年第一季度行业洞察数据显示，美国新能源车市场正呈现明显分化：新售电动车销<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/03/89148202604031427267849.png">]]></description>
+            <link>https://www.xchuxing.com/article/168198</link>
+            <guid isPermaLink="false">xchuxing:1:168198</guid>
+            <pubDate>Fri, 03 Apr 2026 06:31:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 295期：NX8 NISSAN OS 2.0来了！能否再次定义合资车机的蜕变]]></title>
             <description><![CDATA[东风日产 NX8 NISSAN OS 2.0来了！能否再次定义合资车机的蜕变？这次我们一个视频和大家聊聊！<br><img src="https://s1.xchuxing.com/video/2026/04/03/fae96202604031355284338.png">]]></description>
@@ -86,15 +93,6 @@
             <link>https://www.xchuxing.com/vote/1602</link>
             <guid isPermaLink="false">xchuxing:7:1602</guid>
             <pubDate>Thu, 02 Apr 2026 03:29:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 289期：大个动态体验领克 900 五座版]]></title>
-            <description><![CDATA[五座版的领克 900 除了后排体验不同之外，在底盘体验上也变的更加符合领克品牌该有的体验。
-
-本期视频就让我们一起来看看，领克 900 五座版的驾乘体验如何。<br><img src="https://s1.xchuxing.com/video/2026/03/31/58f03202603310711326893.png">]]></description>
-            <link>https://www.xchuxing.com/video/22796</link>
-            <guid isPermaLink="false">xchuxing:2:22796</guid>
-            <pubDate>Thu, 02 Apr 2026 03:00:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
