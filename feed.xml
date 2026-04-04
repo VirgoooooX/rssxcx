@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 15:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 16:25:34 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -77,13 +77,6 @@
             <link>https://www.xchuxing.com/video/22893</link>
             <guid isPermaLink="false">xchuxing:2:22893</guid>
             <pubDate>Fri, 03 Apr 2026 04:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026款小鹏MonaM03，你推荐Max还是Ultra SE版]]></title>
-            <description><![CDATA[[投票选项] Max版<br><br>[投票选项] Ultra SE版]]></description>
-            <link>https://www.xchuxing.com/vote/1610</link>
-            <guid isPermaLink="false">xchuxing:7:1610</guid>
-            <pubDate>Fri, 03 Apr 2026 03:19:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
