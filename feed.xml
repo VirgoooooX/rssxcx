@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 11:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 12:35:44 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[官宣两地投资 亿纬锂能计划在扩建 120GWh 电池产能]]></title>
+            <description><![CDATA[据近期消息，亿纬锂能在湖北省荆门市投资建设 60GWh 动力储能电池项目相关事宜已签订合同书， 并拟与广东惠州 仲恺高新技术产业开发区建设 60GWh 动力储能<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/04/314fe202604041948154754.png">]]></description>
+            <link>https://www.xchuxing.com/article/168241</link>
+            <guid isPermaLink="false">xchuxing:1:168241</guid>
+            <pubDate>Sat, 04 Apr 2026 11:53:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[印度 3 月新能源车销量创新高]]></title>
             <description><![CDATA[据外媒报道，受车企大幅促销及消费者对下一财年燃油和车辆价格上涨的担忧推动，印度电动乘用车 3 月创下月度销量新高。3 月新能源乘用车注册量同比增长 49%，达<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/04/ac450202604041647349184.png">]]></description>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/video/22885</link>
             <guid isPermaLink="false">xchuxing:2:22885</guid>
             <pubDate>Fri, 03 Apr 2026 01:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 183期：静态体验尚界 Z7/Z7T]]></title>
-            <description><![CDATA[当下汽车消费需求正持续升级，用户选车不再局限于基础代步，愈发看重颜值格调、智能体验与专属出行质感。悦己化的用车追求，正推动车企打破传统产品定义，打造更贴合当代用<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/02/4081a202604022241051576.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168036</link>
-            <guid isPermaLink="false">xchuxing:1:168036</guid>
-            <pubDate>Fri, 03 Apr 2026 01:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
