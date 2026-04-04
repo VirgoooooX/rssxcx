@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 14:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 15:33:24 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[营收 464.76 亿元 江淮集团发布 2025 年度报告]]></title>
+            <description><![CDATA[日前，安徽江淮汽车集团股份有限公司发布 2025 年年度报告。其 2025 年全年实现营业收入 464.76 亿元，同比增长 10.35%。其中， 尊界 S80<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/04/7e946202604042330463514.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/168250</link>
+            <guid isPermaLink="false">xchuxing:1:168250</guid>
+            <pubDate>Sat, 04 Apr 2026 15:32:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[官宣两地投资 亿纬锂能计划在扩建 120GWh 电池产能]]></title>
             <description><![CDATA[据近期消息，亿纬锂能在湖北省荆门市投资建设 60GWh 动力储能电池项目相关事宜已签订合同书， 并拟与广东惠州 仲恺高新技术产业开发区建设 60GWh 动力储能<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/04/314fe202604041948154754.png">]]></description>
@@ -77,15 +84,6 @@
             <link>https://www.xchuxing.com/vote/1610</link>
             <guid isPermaLink="false">xchuxing:7:1610</guid>
             <pubDate>Fri, 03 Apr 2026 03:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 293期：大个静态体验尚界 Z7T]]></title>
-            <description><![CDATA[尚界 Z7T 无论是车外的姿态，还是车内的空间，都给到了一个很不错的体验。并且在后备箱内部还有着丰富的拓展能力。
-
-下面就让我们通过本期视频，一起先从静态来了解一下尚界 Z7T 这款车型。<br><img src="https://s1.xchuxing.com/video/2026/04/03/50d2d202604030853548919.png">]]></description>
-            <link>https://www.xchuxing.com/video/22885</link>
-            <guid isPermaLink="false">xchuxing:2:22885</guid>
-            <pubDate>Fri, 03 Apr 2026 01:03:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
