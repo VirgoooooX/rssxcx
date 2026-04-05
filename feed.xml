@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 07:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 08:34:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[特斯拉全球超级充电桩突破 8 万根]]></title>
+            <description><![CDATA[日前，特斯拉官方发布消息，其全球超级充电桩数量已突破 80000 根，中国内地已建成并开放超 2500 座特斯拉超级充电站、超 12000 根超级充电桩。据悉，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/05/77615202604051609466572.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/168262</link>
+            <guid isPermaLink="false">xchuxing:1:168262</guid>
+            <pubDate>Sun, 05 Apr 2026 08:12:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[营收 464.76 亿元 江淮集团发布 2025 年度报告]]></title>
             <description><![CDATA[日前，安徽江淮汽车集团股份有限公司发布 2025 年年度报告。其 2025 年全年实现营业收入 464.76 亿元，同比增长 10.35%。其中， 尊界 S80<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/04/7e946202604042330463514.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/video/22894</link>
             <guid isPermaLink="false">xchuxing:2:22894</guid>
             <pubDate>Fri, 03 Apr 2026 06:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 294期：体验FREELANDER神行者 这车真虎！]]></title>
-            <description><![CDATA[在1997年9月的法兰克福车展上，路虎正式推出FREELANDER，这是一款具有全地形能力，满足城市多功能需求的SUV。在29年后，这款车型不仅成为路虎品牌的功勋车型，同时也带来了一台来自未来的更智能的产品，FREELANDER神行者的Concept 97.....<br><img src="https://s1.xchuxing.com/video/2026/04/03/67ed6202604031214159790.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/22893</link>
-            <guid isPermaLink="false">xchuxing:2:22893</guid>
-            <pubDate>Fri, 03 Apr 2026 04:16:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
