@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 12:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 13:48:13 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[埃安 AION RT 换电版将于 4 月 8 日正式上市]]></title>
+            <description><![CDATA[日前，从官方获得消息，埃安 AION RT 换电版将于 4 月 8 日正式上市，据官方称换电版车型将可以实现 99 秒满电出发。外观方面，新车采用了全新的设计语<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/05/4ea8f202604052138539094.png">]]></description>
+            <link>https://www.xchuxing.com/article/168268</link>
+            <guid isPermaLink="false">xchuxing:1:168268</guid>
+            <pubDate>Sun, 05 Apr 2026 13:44:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[特斯拉全球超级充电桩突破 8 万根]]></title>
             <description><![CDATA[日前，特斯拉官方发布消息，其全球超级充电桩数量已突破 80000 根，中国内地已建成并开放超 2500 座特斯拉超级充电站、超 12000 根超级充电桩。据悉，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/05/77615202604051609466572.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/168198</link>
             <guid isPermaLink="false">xchuxing:1:168198</guid>
             <pubDate>Fri, 03 Apr 2026 06:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 295期：NX8 NISSAN OS 2.0来了！能否再次定义合资车机的蜕变]]></title>
-            <description><![CDATA[东风日产 NX8 NISSAN OS 2.0来了！能否再次定义合资车机的蜕变？这次我们一个视频和大家聊聊！<br><img src="https://s1.xchuxing.com/video/2026/04/03/fae96202604031355284338.png">]]></description>
-            <link>https://www.xchuxing.com/video/22894</link>
-            <guid isPermaLink="false">xchuxing:2:22894</guid>
-            <pubDate>Fri, 03 Apr 2026 06:01:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
