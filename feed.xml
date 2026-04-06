@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 15:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 16:05:40 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -77,13 +77,6 @@
             <link>https://www.xchuxing.com/article/168241</link>
             <guid isPermaLink="false">xchuxing:1:168241</guid>
             <pubDate>Sat, 04 Apr 2026 11:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度 3 月新能源车销量创新高]]></title>
-            <description><![CDATA[据外媒报道，受车企大幅促销及消费者对下一财年燃油和车辆价格上涨的担忧推动，印度电动乘用车 3 月创下月度销量新高。3 月新能源乘用车注册量同比增长 49%，达<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/04/ac450202604041647349184.png">]]></description>
-            <link>https://www.xchuxing.com/article/168236</link>
-            <guid isPermaLink="false">xchuxing:1:168236</guid>
-            <pubDate>Sat, 04 Apr 2026 08:47:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
