@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 07:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 08:53:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预售 45-50 万元 腾势 N9 闪充版预售开启]]></title>
+            <description><![CDATA[4 月 7 日，2026 款腾势 N9 闪充版正式开启预售，预售价 45-50 万元。外观方面，2026 款腾势 N9 闪充版依旧采用了豪华大气的双色车身设计。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/07/2c7ed202604071632386521.png">]]></description>
+            <link>https://www.xchuxing.com/article/168316</link>
+            <guid isPermaLink="false">xchuxing:1:168316</guid>
+            <pubDate>Tue, 07 Apr 2026 08:32:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[季度销量刷新 日本一季度新能源车销量同比增长 80 %]]></title>
             <description><![CDATA[据行业数据显示，今年第一季度日本新能源汽车累计销量达 26,959 辆，同比大涨 80 %。刷新了日本历史上第一季度的新能源汽车销量纪录，季度销量首次突破 2<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/07/98520202604071349572093.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/168272</link>
             <guid isPermaLink="false">xchuxing:1:168272</guid>
             <pubDate>Mon, 06 Apr 2026 03:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃安 AION RT 换电版将于 4 月 8 日正式上市]]></title>
-            <description><![CDATA[日前，从官方获得消息，埃安 AION RT 换电版将于 4 月 8 日正式上市，据官方称换电版车型将可以实现 99 秒满电出发。外观方面，新车采用了全新的设计语<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/05/4ea8f202604052138539094.png">]]></description>
-            <link>https://www.xchuxing.com/article/168268</link>
-            <guid isPermaLink="false">xchuxing:1:168268</guid>
-            <pubDate>Sun, 05 Apr 2026 13:44:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
