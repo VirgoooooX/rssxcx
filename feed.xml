@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 04:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 06:14:16 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[季度销量刷新 日本一季度新能源车销量同比增长 80 %]]></title>
+            <description><![CDATA[据行业数据显示，今年第一季度日本新能源汽车累计销量达 26,959 辆，同比大涨 80 %。刷新了日本历史上第一季度的新能源汽车销量纪录，季度销量首次突破 2<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/07/98520202604071349572093.png">]]></description>
+            <link>https://www.xchuxing.com/article/168303</link>
+            <guid isPermaLink="false">xchuxing:1:168303</guid>
+            <pubDate>Tue, 07 Apr 2026 05:51:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[看完 ES9 官方内饰剧透，你对这套设计打几分？]]></title>
             <description><![CDATA[[投票选项] 旗舰水准，设计、质感、布局都在线<br><br>[投票选项] 中规中矩，亮点有但不够惊艳<br><br>[投票选项] 偏保守，缺少旗舰冲击力<br><br>[投票选项] 等体验实车材质、做工再评价]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/168268</link>
             <guid isPermaLink="false">xchuxing:1:168268</guid>
             <pubDate>Sun, 05 Apr 2026 13:44:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉全球超级充电桩突破 8 万根]]></title>
-            <description><![CDATA[日前，特斯拉官方发布消息，其全球超级充电桩数量已突破 80000 根，中国内地已建成并开放超 2500 座特斯拉超级充电站、超 12000 根超级充电桩。据悉，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/05/77615202604051609466572.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168262</link>
-            <guid isPermaLink="false">xchuxing:1:168262</guid>
-            <pubDate>Sun, 05 Apr 2026 08:12:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
