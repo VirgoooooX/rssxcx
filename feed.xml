@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 09:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 10:49:46 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[持续增长 零跑 3 月意大利上牌 5513 台]]></title>
+            <description><![CDATA[据官方消息，今年 3 月，零跑汽车在意大利上牌量为 5513 台。第一季度，零跑在意大利累计上牌 11637 台，占当地纯电市场 33.5% 的份额；若仅看纯电<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/08/f0c23202604081743512951.png">]]></description>
+            <link>https://www.xchuxing.com/article/168393</link>
+            <guid isPermaLink="false">xchuxing:1:168393</guid>
+            <pubDate>Wed, 08 Apr 2026 09:43:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[上海交大、西安交大同庆百卅华诞 岚图汽车提供全程出行保障]]></title>
             <description><![CDATA[【2026年4月8日，武汉】4月8日，上海交通大学迎来建校130周年、西安交通大学迎来建校130周年暨西迁70周年纪念。两所同根同源的百年学府，分别在上海和西安<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/08/7eb22202604081614406935.png">]]></description>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/article/168323</link>
             <guid isPermaLink="false">xchuxing:1:168323</guid>
             <pubDate>Tue, 07 Apr 2026 11:53:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 296期：全网首发｜东风日产NX8城区智驾实测挑战]]></title>
-            <description><![CDATA[这次我们提前拿到了东风日产NX8，也给大家做了一个开箱内测，这次我们用一个视频和大家聊聊合资智驾如今表现如何？东风日产的第一个城区智驾车型表现怎么样？<br><img src="https://s1.xchuxing.com/video/2026/04/07/c9aaa202604071903485174.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/22976</link>
-            <guid isPermaLink="false">xchuxing:2:22976</guid>
-            <pubDate>Tue, 07 Apr 2026 11:27:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
