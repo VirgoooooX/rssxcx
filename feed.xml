@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 23:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 02:38:57 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 298期：最具性价比的华为乾崑？华境S来了]]></title>
+            <description><![CDATA[这次我们带大家静态体验华境S，来看看这台华为乾崑大六座，能带来哪些不一样的惊喜？<br><img src="https://s1.xchuxing.com/video/2026/04/08/907e4202604080853126573.png">]]></description>
+            <link>https://www.xchuxing.com/video/22989</link>
+            <guid isPermaLink="false">xchuxing:2:22989</guid>
+            <pubDate>Wed, 08 Apr 2026 00:55:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 297期：一个视频带你了解firefly萤火虫焕新版！]]></title>
             <description><![CDATA[这次我们到北京，一个视频带大家快速了解 firefly 萤火虫焕新版！<br><img src="https://s1.xchuxing.com/video/2026/04/07/fabc4202604072330349588.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/168195</link>
             <guid isPermaLink="false">xchuxing:1:168195</guid>
             <pubDate>Tue, 07 Apr 2026 03:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[扩容 21 款新车型 轻舟智航量产版图进一步更新]]></title>
-            <description><![CDATA[日前，据官方消息，轻舟智航 21 款智能辅助驾驶新车型稳步密集交付中，量产版图全面扩容，并为我们带来“轻舟乘风 2.0 ”三级产品矩阵。“轻舟乘风 2.0 ”三<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/07/a69b0202604070947193356.png">]]></description>
-            <link>https://www.xchuxing.com/article/168293</link>
-            <guid isPermaLink="false">xchuxing:1:168293</guid>
-            <pubDate>Tue, 07 Apr 2026 01:59:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
