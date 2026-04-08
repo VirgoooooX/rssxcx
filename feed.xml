@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 16:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 17:36:56 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -86,13 +86,6 @@
             <link>https://www.xchuxing.com/article/168360</link>
             <guid isPermaLink="false">xchuxing:1:168360</guid>
             <pubDate>Wed, 08 Apr 2026 03:16:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 298期：最具性价比的华为乾崑？华境S来了]]></title>
-            <description><![CDATA[这次我们带大家静态体验华境S，来看看这台华为乾崑大六座，能带来哪些不一样的惊喜？<br><img src="https://s1.xchuxing.com/video/2026/04/08/907e4202604080853126573.png">]]></description>
-            <link>https://www.xchuxing.com/video/22989</link>
-            <guid isPermaLink="false">xchuxing:2:22989</guid>
-            <pubDate>Wed, 08 Apr 2026 00:55:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
