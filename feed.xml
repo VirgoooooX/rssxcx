@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 14:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 16:09:46 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 301期：伟健试驾奥迪A6L e-tron]]></title>
+            <description><![CDATA[A6大家见得多了，那纯电A6你见过吗？今天伟健带你试驾奥迪A6L e-tron，看看豪华品牌奥迪旗下的纯电轿车有哪些亮点。<br><img src="https://s1.xchuxing.com/video/2026/04/09/9bfbc202604090004018023.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23022</link>
+            <guid isPermaLink="false">xchuxing:2:23022</guid>
+            <pubDate>Wed, 08 Apr 2026 16:09:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行图文详解 185期：动态体验日产 NX8]]></title>
+            <description><![CDATA[之前各位应该也通过静态了解了日产 NX8 的一个表现是怎么样的。那么这一次，就让我们通过本篇文章，一起来看看日产 NX8 开起来的表现如何。目录快速了解日产 N<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/08/cd36a202604081643006003.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/168355</link>
+            <guid isPermaLink="false">xchuxing:1:168355</guid>
+            <pubDate>Wed, 08 Apr 2026 16:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价区间 22.99-27.99 万元 阿维塔 06T 开启预售]]></title>
             <description><![CDATA[4 月 8 日，阿维塔 06T 正式开启预售。增程版共推出 1 款配置，预售价 24.99 万元；纯电版共推出 3 款配置，预售价区间 22.99-27.99<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/08/a4c43202604082125477185.jpg">]]></description>
@@ -79,13 +93,6 @@
             <link>https://www.xchuxing.com/video/22989</link>
             <guid isPermaLink="false">xchuxing:2:22989</guid>
             <pubDate>Wed, 08 Apr 2026 00:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 297期：一个视频带你了解firefly萤火虫焕新版！]]></title>
-            <description><![CDATA[这次我们到北京，一个视频带大家快速了解 firefly 萤火虫焕新版！<br><img src="https://s1.xchuxing.com/video/2026/04/07/fabc4202604072330349588.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/22985</link>
-            <guid isPermaLink="false">xchuxing:2:22985</guid>
-            <pubDate>Tue, 07 Apr 2026 15:31:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
