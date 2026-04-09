@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 16:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 17:54:23 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 306期：伟健体验ID.AURA T6]]></title>
+            <description><![CDATA[一汽大众ID.AURA序列的首款车型<br><img src="https://s1.xchuxing.com/video/2026/04/10/e99d1202604100128324090.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23056</link>
+            <guid isPermaLink="false">xchuxing:2:23056</guid>
+            <pubDate>Thu, 09 Apr 2026 17:29:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ES9 这套音响会成为你下单理由吗？]]></title>
             <description><![CDATA[[投票选项] 会，音响就是核心吸引力<br><br>[投票选项] 加分项，但不是决定项<br><br>[投票选项] 不会，我对音响没要求<br><br>[投票选项] 先看价格再说<br><br>[投票选项] 其他想法，评论区聊聊]]></description>
@@ -77,20 +84,6 @@
             <link>https://www.xchuxing.com/article/168458</link>
             <guid isPermaLink="false">xchuxing:1:168458</guid>
             <pubDate>Thu, 09 Apr 2026 09:51:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿维塔双车重磅发布 新阿维塔12上市、阿维塔06T开启预售]]></title>
-            <description><![CDATA[新阿维塔12正式上市、阿维塔06T同步开启预售，双车覆盖25-50万级价格区间，满足不同用户出行需求新阿维塔12全系标配12项百万豪车的顶配选装，凭借最美原创设<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/09/b2264202604091705554909.png">]]></description>
-            <link>https://www.xchuxing.com/article/168457</link>
-            <guid isPermaLink="false">xchuxing:1:168457</guid>
-            <pubDate>Thu, 09 Apr 2026 09:06:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[从ID. AURA T6开始，拉开一汽-大众智电2.0新篇章]]></title>
-            <description><![CDATA[过去我们在谈论合资新能源汽车的时候，往往会冠以产品竞争力不足、不够智能、技术不够领先等问题。但造车这种属于长周期产业，拼的不仅仅是单一周期表现，把周期拉长一定是<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/09/fe480202604091447061596.png">]]></description>
-            <link>https://www.xchuxing.com/article/168444</link>
-            <guid isPermaLink="false">xchuxing:1:168444</guid>
-            <pubDate>Thu, 09 Apr 2026 09:06:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
