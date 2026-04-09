@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 09:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 10:38:13 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预售价 13.98-15.68 万元 吉利银河 M7 正式开启预售]]></title>
+            <description><![CDATA[4 月 9 日，吉利银河 M7 正式开启预售，新车共推出三款车型版本，预售价区间 13.98-15.68 万元。外观方面，吉利银河 M7 采用飞檐虎视的前脸设计<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/09/d8dfe202604091751086306.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/168458</link>
+            <guid isPermaLink="false">xchuxing:1:168458</guid>
+            <pubDate>Thu, 09 Apr 2026 09:51:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[阿维塔双车重磅发布 新阿维塔12上市、阿维塔06T开启预售]]></title>
             <description><![CDATA[新阿维塔12正式上市、阿维塔06T同步开启预售，双车覆盖25-50万级价格区间，满足不同用户出行需求新阿维塔12全系标配12项百万豪车的顶配选装，凭借最美原创设<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/09/b2264202604091705554909.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/168355</link>
             <guid isPermaLink="false">xchuxing:1:168355</guid>
             <pubDate>Wed, 08 Apr 2026 16:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价区间 22.99-27.99 万元 阿维塔 06T 开启预售]]></title>
-            <description><![CDATA[4 月 8 日，阿维塔 06T 正式开启预售。增程版共推出 1 款配置，预售价 24.99 万元；纯电版共推出 3 款配置，预售价区间 22.99-27.99<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/08/a4c43202604082125477185.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168403</link>
-            <guid isPermaLink="false">xchuxing:1:168403</guid>
-            <pubDate>Wed, 08 Apr 2026 13:27:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
