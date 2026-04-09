@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 06:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 07:59:02 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 304期：首发华为乾崑ADS Pro！华境S挑战汕头复杂城区]]></title>
+            <description><![CDATA[这次我们实测将近1000公里，也把华境S开到了汕头复杂城区！这一次我们用一个视频带大家全面解读华为 ADS Pro，作为舱内激光雷达并且是首发开通城区 NCA 的车型，ADS Pro的城区表现相信也是大家最关心的！<br><img src="https://s1.xchuxing.com/video/2026/04/09/1428a202604091421129105.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23036</link>
+            <guid isPermaLink="false">xchuxing:2:23036</guid>
+            <pubDate>Thu, 09 Apr 2026 06:27:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 303期：伟健试驾零跑D19]]></title>
             <description><![CDATA[这一次我在德清试车场试了这台零跑的首款旗舰车，有AEB、AES功能以及能耗测试！<br><img src="https://s1.xchuxing.com/video/2026/04/08/3e92a202604081830083296.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/168393</link>
             <guid isPermaLink="false">xchuxing:1:168393</guid>
             <pubDate>Wed, 08 Apr 2026 09:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海交大、西安交大同庆百卅华诞 岚图汽车提供全程出行保障]]></title>
-            <description><![CDATA[【2026年4月8日，武汉】4月8日，上海交通大学迎来建校130周年、西安交通大学迎来建校130周年暨西迁70周年纪念。两所同根同源的百年学府，分别在上海和西安<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/08/7eb22202604081614406935.png">]]></description>
-            <link>https://www.xchuxing.com/article/168385</link>
-            <guid isPermaLink="false">xchuxing:1:168385</guid>
-            <pubDate>Wed, 08 Apr 2026 08:14:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
