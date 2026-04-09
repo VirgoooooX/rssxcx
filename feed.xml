@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 02:00:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 04:43:25 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 303期：伟健试驾零跑D19]]></title>
+            <description><![CDATA[这一次我在德清试车场试了这台零跑的首款旗舰车，有AEB、AES功能以及能耗测试！<br><img src="https://s1.xchuxing.com/video/2026/04/08/3e92a202604081830083296.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23011</link>
+            <guid isPermaLink="false">xchuxing:2:23011</guid>
+            <pubDate>Thu, 09 Apr 2026 02:02:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 302期：旗舰登场 静态体验蔚来ES9]]></title>
             <description><![CDATA[蔚来的新旗舰蔚来ES9终于来了！这次我们用一个长视频带大家全面了解蔚来ES9，这是蔚来对旗舰豪华的一次全新理解...<br><img src="https://s1.xchuxing.com/video/2026/04/09/5ad792026040908362453.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/168385</link>
             <guid isPermaLink="false">xchuxing:1:168385</guid>
             <pubDate>Wed, 08 Apr 2026 08:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 300期：10万级激光雷达+车位到车位上车 零跑A10智驾实测]]></title>
-            <description><![CDATA[8 万级车型的城区智驾表现到底怎么样？今年智驾很快从 10 万级开始下探到 8 万级做普及，元戎首发8650也带来了新的下探，这次我们拿 A10 来城区做了一次实测…<br><img src="https://s1.xchuxing.com/video/2026/04/08/3ea40202604081422343780.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/23003</link>
-            <guid isPermaLink="false">xchuxing:2:23003</guid>
-            <pubDate>Wed, 08 Apr 2026 04:37:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
