@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 12:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 14:12:45 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价区间 26.98-41.98 万元 新款奥迪 Q6L e-tron 家族上市]]></title>
+            <description><![CDATA[4 月 10 日，新款奥迪 Q6L e-tron 家族正式上市。Q6L e-tron 共推出 3 款配置，售价区间 26.98-39.98 万元；Q6L Spo<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/10/d6bde202604102205089665.png">]]></description>
+            <link>https://www.xchuxing.com/article/168551</link>
+            <guid isPermaLink="false">xchuxing:1:168551</guid>
+            <pubDate>Fri, 10 Apr 2026 14:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[售价区间 30.98-43.98 万元 奥迪 A6L e-tron 上市]]></title>
+            <description><![CDATA[4 月 10 日，奥迪 A6L e-tron 正式上市。新车共推出 4 款配置，售价区间 30.98-43.98 万元。权益方面，奥迪 A6L e-tron 可<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/10/f6676202604102141496946.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/168548</link>
+            <guid isPermaLink="false">xchuxing:1:168548</guid>
+            <pubDate>Fri, 10 Apr 2026 13:50:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 36.5 万元起 极氪 001 五周年纪念版上市]]></title>
             <description><![CDATA[4 月 10 日，极氪 001 五周年纪念版上市，售价 36.5 万元起。权益方面，极氪 001 五周年纪念版可享限时抢定礼、特惠金融礼等多重限时购车权益。极氪<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/10/dc2aa202604102026261242.jpg">]]></description>
@@ -77,13 +91,6 @@
             <link>https://www.xchuxing.com/article/168499</link>
             <guid isPermaLink="false">xchuxing:1:168499</guid>
             <pubDate>Fri, 10 Apr 2026 05:40:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[你能接受 ES9 用隐藏式门把手吗？]]></title>
-            <description><![CDATA[李斌表示从蔚来从第一台产品开始，就有思考安全性（双冗余）<br><br>[投票选项] 能接受，而且颜值和风阻都更优<br><br>[投票选项] 不太能，还是担心安全方面的问题<br><br>[投票选项] 其他想法，评论区聊聊]]></description>
-            <link>https://www.xchuxing.com/vote/1657</link>
-            <guid isPermaLink="false">xchuxing:7:1657</guid>
-            <pubDate>Fri, 10 Apr 2026 02:14:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
