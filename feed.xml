@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 17:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 18:05:53 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -84,13 +84,6 @@
             <link>https://www.xchuxing.com/article/168508</link>
             <guid isPermaLink="false">xchuxing:1:168508</guid>
             <pubDate>Fri, 10 Apr 2026 05:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[即将停产 特斯拉 Model S 与 Model X 库存价格上涨]]></title>
-            <description><![CDATA[4 月 8 日，特斯拉首席执行官埃隆·马斯克（Elon Musk）确认，公司旗下 Model S 与 Model X 车型的全球工厂库存仅剩几百辆，并呼吁有意购<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/10/fa785202604101129165396.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168499</link>
-            <guid isPermaLink="false">xchuxing:1:168499</guid>
-            <pubDate>Fri, 10 Apr 2026 05:40:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
