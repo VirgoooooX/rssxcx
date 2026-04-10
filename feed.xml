@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 08:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 09:43:52 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[上新好物｜TITA 全金属车载香氛]]></title>
+            <description><![CDATA[当出行不再只是赶路，每一次方向盘的转动，都该成为奔赴美好的仪式。以金属为器，以香气为媒，重新定义车载香氛的质感美学。摒弃冗余设计，用匠心工艺打磨每一处细节，让金<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/10/bb5f4202604101629233212.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/168525</link>
+            <guid isPermaLink="false">xchuxing:1:168525</guid>
+            <pubDate>Fri, 10 Apr 2026 08:54:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 308期：首次对外开放 看仰望 U8 硬核实力如何炼成？]]></title>
             <description><![CDATA[仰望U8 的硬核技术再升级，为了体验这份重磅升级，仰望汽车首次对外开放了综合越野开发中心，所以本期视频就带大家一起感受下，看看仰望汽车开年重磅升级带来的体验如何。<br><img src="https://s1.xchuxing.com/video/2026/04/10/55b0b202604101343053219.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/168472</link>
             <guid isPermaLink="false">xchuxing:1:168472</guid>
             <pubDate>Thu, 09 Apr 2026 11:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行一图 228期：一图看懂小米YU7 新增版型]]></title>
-            <description><![CDATA[小米 YU7 申报了一个新版本车型，新出行一图带大家了解下这次新增版型的变化以及定位。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/09/40d4f202604091934523449.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168471</link>
-            <guid isPermaLink="false">xchuxing:1:168471</guid>
-            <pubDate>Thu, 09 Apr 2026 11:33:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
