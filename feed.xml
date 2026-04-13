@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 05:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 07:49:48 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[在不考虑价格的情况下，你心仪哪台大六座SUV呢]]></title>
+            <description><![CDATA[在不考虑价格的情况下，这几天大六座SUV，大家会怎么选呢？<br><br>[投票选项] 问界M9<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/13/5bdfe202604131405159572.jpg"><br><br>[投票选项] 乐道L90<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/13/1fc34202604131405225774.jpg"><br><br>[投票选项] 蔚来ES9<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/13/86969202604131405367425.jpg"><br><br>[投票选项] 小鹏GX<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/13/6ed31202604131405421669.jpg"><br><br>[投票选项] 理想L9 Livis<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/13/0a5ca202604131405491833.jpg"><br><br>[投票选项] 零跑D19<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/13/d4007202604131406448200.jpg">]]></description>
+            <link>https://www.xchuxing.com/vote/1674</link>
+            <guid isPermaLink="false">xchuxing:7:1674</guid>
+            <pubDate>Mon, 13 Apr 2026 06:08:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[如果老款可 OTA 部分 Coconut+ 能力，你最想要？]]></title>
             <description><![CDATA[[投票选项] 更流畅的系统响应<br><br>[投票选项] 更智能的语音与交互<br><br>[投票选项] 智驾算法与体验优化<br><br>[投票选项] 界面与功能逻辑优化<br><br>[投票选项] 其他想法，评论区聊聊]]></description>
@@ -52,7 +59,7 @@
         </item>
         <item>
             <title><![CDATA[新出行一图 229期：从全新问界M9 一图看懂华为乾崑辅助驾驶硬件迭代]]></title>
-            <description><![CDATA[2026 款问界 M9 即将上市，智能辅助驾驶硬件升级的情况如何呢？本期《新出行一图》，通过新老款问界 M9 的对比，让大家一图读懂其搭载的华为乾崑辅助驾驶硬件<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/12/d0d18202604122233244420.png">]]></description>
+            <description><![CDATA[2026 款问界 M9 即将上市，智能辅助驾驶硬件升级的情况如何呢？本期《新出行一图》，通过新老款问界 M9 的对比，让大家一图读懂其搭载的华为乾崑辅助驾驶硬件<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/13/443a5202604131408135608.png">]]></description>
             <link>https://www.xchuxing.com/article/168520</link>
             <guid isPermaLink="false">xchuxing:1:168520</guid>
             <pubDate>Sun, 12 Apr 2026 16:00:25 GMT</pubDate>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/23102</link>
             <guid isPermaLink="false">xchuxing:2:23102</guid>
             <pubDate>Sun, 12 Apr 2026 02:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 188期：静态实拍 2026 款乐道 L90]]></title>
-            <description><![CDATA[上市 5 个⽉交付超 4.3 万台，乐道 L90 开创了纯电大三排 SUV 的新时代，那么这次乐道 L90 也迎来了年度改款，在智能化方面迎来了全新升级。由于保<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/12/27ce2202604120019554818.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168588</link>
-            <guid isPermaLink="false">xchuxing:1:168588</guid>
-            <pubDate>Sun, 12 Apr 2026 02:00:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
