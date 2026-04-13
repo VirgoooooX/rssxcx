@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 09:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 11:01:46 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 312期：卓驭 x 一汽大众——IQ.Pilot增强辅助驾驶]]></title>
+            <description><![CDATA[这次我们来聊一下大疆卓驭和一汽大众的合作。这两个“大”联手，秉持着死磕技术的态度，历时1400多天专项研发，联合打造的IQ.Pilot增强驾驶辅助系统，突破了燃油车视觉辅助驾驶的界限，率先实现了燃油车无图端到端高速领航辅助功能落地。<br><img src="https://s1.xchuxing.com/video/2026/04/13/d2cc3202604131805455090.png">]]></description>
+            <link>https://www.xchuxing.com/video/23139</link>
+            <guid isPermaLink="false">xchuxing:2:23139</guid>
+            <pubDate>Mon, 13 Apr 2026 10:06:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[这也能行？! ADS4.1  MPV也能勇闯乡村窄路  岚图梦想家冠军版]]></title>
             <description><![CDATA[MPV也能勇闯乡村窄路，树叶也能看清？岚图梦想家冠军版ADS4.1智驾实测#岚图梦想家<br><img src="https://s1.xchuxing.com/video/2026/04/13/e831c202604131701309244.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/168610</link>
             <guid isPermaLink="false">xchuxing:1:168610</guid>
             <pubDate>Sun, 12 Apr 2026 11:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[定价 16 万元起 别克至境 E7 将于 4 月 22 日上市]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，别克至境 E7 将于 4 月 22 日上市，定价 16-21 万元。外观方面，别克至境 E7 承袭家族标志性的展翼设计美学，前脸搭载星<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/12/4dc58202604121948296361.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168609</link>
-            <guid isPermaLink="false">xchuxing:1:168609</guid>
-            <pubDate>Sun, 12 Apr 2026 11:50:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
