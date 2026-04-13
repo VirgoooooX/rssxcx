@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 02:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 05:33:23 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[如果老款可 OTA 部分 Coconut+ 能力，你最想要？]]></title>
+            <description><![CDATA[[投票选项] 更流畅的系统响应<br><br>[投票选项] 更智能的语音与交互<br><br>[投票选项] 智驾算法与体验优化<br><br>[投票选项] 界面与功能逻辑优化<br><br>[投票选项] 其他想法，评论区聊聊]]></description>
+            <link>https://www.xchuxing.com/vote/1673</link>
+            <guid isPermaLink="false">xchuxing:7:1673</guid>
+            <pubDate>Mon, 13 Apr 2026 03:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三月零售量 16,255 台 蔚来全新ES8累计销量达 84,810 台]]></title>
+            <description><![CDATA[据乘联会发布的最新市场数据显示，2025 年 10 月到 2026 年 3 月，全新 ES8 累计零售销量 84,810 台，三月零售销量 16,255 台。2<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/13/c98ff202604131053548138.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/168625</link>
+            <guid isPermaLink="false">xchuxing:1:168625</guid>
+            <pubDate>Mon, 13 Apr 2026 03:00:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图 230期：一图看懂全新问界 M9 都升级了什么]]></title>
             <description><![CDATA[今日，问界正式发布全新问界 M9 的官图，小白同学就带大家一图看懂这一次全新问界 M9 都升级了什么。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/12/8e648202604122334551608.png">]]></description>
@@ -16,7 +30,7 @@
             <pubDate>Mon, 13 Apr 2026 02:37:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[旗舰再升级 官图详解全新问界 M9]]></title>
+            <title><![CDATA[首发 6 激光雷达 官图详解全新问界 M9]]></title>
             <description><![CDATA[最近新能源汽车行业各家 9 系旗舰 SUV 可以说是非常热闹，都已经不是「你家唱罢我家登场」，而是「你家还未唱罢我家就已经登场」的节奏。在如此高密度的传播周期下<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/12/ecf48202604122321521436.jpg">]]></description>
             <link>https://www.xchuxing.com/article/168614</link>
             <guid isPermaLink="false">xchuxing:1:168614</guid>
@@ -77,20 +91,6 @@
             <link>https://www.xchuxing.com/article/168588</link>
             <guid isPermaLink="false">xchuxing:1:168588</guid>
             <pubDate>Sun, 12 Apr 2026 02:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 18.58 万元起 魏牌新摩卡 Hi4 Max 版上市]]></title>
-            <description><![CDATA[近日， 魏牌新摩卡 Hi4 Max 版正式上市，建议零售价 18.58 万元起。4 月 30 日前下订，限时可享多重福利。回顾外观， 摩卡 Hi4 基于“自然新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/11/13f0c202604111519058207.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168576</link>
-            <guid isPermaLink="false">xchuxing:1:168576</guid>
-            <pubDate>Sat, 11 Apr 2026 07:19:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[仪表显示屏可能出现绿屏 起亚召回部分 EV5]]></title>
-            <description><![CDATA[日前，江苏悦达起亚汽车有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。召回编号 S2<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/11/fb2aa202604111509522532.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168575</link>
-            <guid isPermaLink="false">xchuxing:1:168575</guid>
-            <pubDate>Sat, 11 Apr 2026 07:10:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
