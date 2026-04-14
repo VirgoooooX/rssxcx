@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 00:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 03:46:30 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[【投票】你更喜欢小鹏GX哪款内饰颜色？]]></title>
+            <description><![CDATA[目前官方晒出小鹏GX内饰颜色有：棕色（暂命名）和白色（暂命名），以及一款谍照内饰图（黑色）。你更喜欢哪款内饰色？<br><br>[投票选项] 棕色<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/14/dabcd202604141116521215.jpg"><br><br>[投票选项] 白色/灰色<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/14/59039202604141116586929.png"><br><br>[投票选项] 黑色<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/14/4eed2202604141120085473.jpg"><br><br>[投票选项] 其他丨评论区说说<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/14/963a2202604141122199305.png">]]></description>
+            <link>https://www.xchuxing.com/vote/1682</link>
+            <guid isPermaLink="false">xchuxing:7:1682</guid>
+            <pubDate>Tue, 14 Apr 2026 03:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行图文详解 190期：全方位解析小鹏 GX 内饰官图]]></title>
+            <description><![CDATA[今日，小鹏官方正式发布了全新小鹏 GX 的内饰官图，官方的说法是将「飞航头等舱体验」与「寰宇量子设计理念」完美融合，我们来看看小鹏 GX 是如何重新定义大六座舒<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/14/9b0c6202604141051315166.png">]]></description>
+            <link>https://www.xchuxing.com/article/168682</link>
+            <guid isPermaLink="false">xchuxing:1:168682</guid>
+            <pubDate>Tue, 14 Apr 2026 01:49:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 12.99-18.69 万 奇瑞风云 T9L 上市]]></title>
             <description><![CDATA[4 月 13 日，奇瑞风云 T9L 上市，新车共推出五款配置车型，售价区间为 12.99-18.69 万。外观方面，风云 T9L 采用全新的外观造型，前脸采用封<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/14/9d95d202604140734104826.jpg">]]></description>
@@ -77,20 +91,6 @@
             <link>https://www.xchuxing.com/article/168336</link>
             <guid isPermaLink="false">xchuxing:1:168336</guid>
             <pubDate>Mon, 13 Apr 2026 02:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 311期：伟健试驾零跑Lafa5 Ultra版]]></title>
-            <description><![CDATA[试驾零跑Lafa5 Ultra，来看下Ultra都有哪些提升！<br><img src="https://s1.xchuxing.com/video/2026/04/13/c954f202604130526395240.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/23125</link>
-            <guid isPermaLink="false">xchuxing:2:23125</guid>
-            <pubDate>Mon, 13 Apr 2026 01:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行一图 229期：从全新问界M9 一图看懂华为乾崑辅助驾驶硬件迭代]]></title>
-            <description><![CDATA[2026 款问界 M9 即将上市，智能辅助驾驶硬件升级的情况如何呢？本期《新出行一图》，通过新老款问界 M9 的对比，让大家一图读懂其搭载的华为乾崑辅助驾驶硬件<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/13/443a5202604131408135608.png">]]></description>
-            <link>https://www.xchuxing.com/article/168520</link>
-            <guid isPermaLink="false">xchuxing:1:168520</guid>
-            <pubDate>Sun, 12 Apr 2026 16:00:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
