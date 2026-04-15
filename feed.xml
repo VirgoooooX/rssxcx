@@ -4,10 +4,20 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 13:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 14:51:21 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[沃尔沃纯电双旗舰静态体验]]></title>
+            <description><![CDATA[沃尔沃99周年带来了纯电双旗舰！ES90和EX90，代表着沃尔沃新时代的全新安全标准。
+#沃尔沃纯电双旗舰开启预售# 
+
+#沃尔沃纯电双子星EX90ES90来了#<br><img src="https://s1.xchuxing.com/video/2026/04/15/6e396202604152215271962.png">]]></description>
+            <link>https://www.xchuxing.com/video/23208</link>
+            <guid isPermaLink="false">xchuxing:2:23208</guid>
+            <pubDate>Wed, 15 Apr 2026 14:38:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[北美继续承压 全球新能源汽车销量 3 月恢复增长]]></title>
             <description><![CDATA[据官方数据显示，2026 年 3 月，全球新注册的纯电动及插电式混合动力汽车增长 170 万辆以上，同比增长 3%，是 2026 年以来首次实现同比正增长。欧洲<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/15/af6fe202604151624126156.jpg">]]></description>
@@ -92,13 +102,6 @@
             <link>https://www.xchuxing.com/vote/1682</link>
             <guid isPermaLink="false">xchuxing:7:1682</guid>
             <pubDate>Tue, 14 Apr 2026 03:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 190期：全方位解析小鹏 GX 内饰官图]]></title>
-            <description><![CDATA[今日，小鹏官方正式发布了全新小鹏 GX 的内饰官图，官方的说法是将「飞航头等舱体验」与「寰宇量子设计理念」完美融合，我们来看看小鹏 GX 是如何重新定义大六座舒<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/14/9b0c6202604141051315166.png">]]></description>
-            <link>https://www.xchuxing.com/article/168682</link>
-            <guid isPermaLink="false">xchuxing:1:168682</guid>
-            <pubDate>Tue, 14 Apr 2026 01:49:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
