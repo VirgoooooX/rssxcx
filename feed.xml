@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 14:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 16:00:11 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 317期：对话零跑王超 为用户创旗舰]]></title>
+            <description><![CDATA[王超是零跑汽车D平台负责人，这次趁着试驾的间隙我和超哥聊了大家关心的几个问题....<br><img src="https://s1.xchuxing.com/video/2026/04/15/a8d31202604151347017139.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23188</link>
+            <guid isPermaLink="false">xchuxing:2:23188</guid>
+            <pubDate>Wed, 15 Apr 2026 15:27:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[沃尔沃纯电双旗舰静态体验]]></title>
             <description><![CDATA[沃尔沃99周年带来了纯电双旗舰！ES90和EX90，代表着沃尔沃新时代的全新安全标准。
@@ -95,13 +102,6 @@
             <link>https://www.xchuxing.com/article/168737</link>
             <guid isPermaLink="false">xchuxing:1:168737</guid>
             <pubDate>Tue, 14 Apr 2026 12:19:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【投票】你更喜欢小鹏GX哪款内饰颜色？]]></title>
-            <description><![CDATA[目前官方晒出小鹏GX内饰颜色有：棕色（暂命名）和白色（暂命名），以及两款谍照内饰图（黑色 & 深紫色）。你更喜欢哪款内饰色？<br><br>[投票选项] 棕色<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/14/dabcd202604141116521215.jpg"><br><br>[投票选项] 白色/灰色<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/14/59039202604141116586929.png"><br><br>[投票选项] 黑色<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/14/4eed2202604141120085473.jpg"><br><br>[投票选项] 其他丨评论区说说<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/14/963a2202604141122199305.png"><br><br>[投票选项] 深紫色<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/14/4e9b4202604141341389057.jpg">]]></description>
-            <link>https://www.xchuxing.com/vote/1682</link>
-            <guid isPermaLink="false">xchuxing:7:1682</guid>
-            <pubDate>Tue, 14 Apr 2026 03:24:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
