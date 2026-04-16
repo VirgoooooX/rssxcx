@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 09:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 10:55:43 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[零跑D19增程版，你倾向的续航选择]]></title>
+            <description><![CDATA[[投票选项] 倾向选择400续航<br><br>[投票选项] 倾向选择500续航<br><br>[投票选项] 其它]]></description>
+            <link>https://www.xchuxing.com/vote/1696</link>
+            <guid isPermaLink="false">xchuxing:7:1696</guid>
+            <pubDate>Thu, 16 Apr 2026 10:31:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[4 月 24 日开启预售 极狐 S3 官图发布]]></title>
             <description><![CDATA[近日，我们从官方渠道获取到一组极狐 S3 官图。新车将在 4 月 24 日正式开启预售，锁定 10 万级纯电家轿市场。外观方面，极狐 S3 延续家族 ARC-F<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/16/24006202604161346257581.jpg">]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.xchuxing.com/video/23143</link>
             <guid isPermaLink="false">xchuxing:2:23143</guid>
             <pubDate>Wed, 15 Apr 2026 02:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 191期：静态体验比亚迪海豹 08]]></title>
-            <description><![CDATA[上一次，我们静态了解了海豹 08 的外观。那么这一次，海豹 08 终于打开了车门，能够让我们坐到车内，感受海豹 08 的内饰。下面就让我们通过本篇文章，一起来看<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/03/5a79c202604031642464632.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/167891</link>
-            <guid isPermaLink="false">xchuxing:1:167891</guid>
-            <pubDate>Wed, 15 Apr 2026 02:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
