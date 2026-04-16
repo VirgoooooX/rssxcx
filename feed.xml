@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 15:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 16:52:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 193期：一图看懂 华为乾崑ADS Pro]]></title>
+            <description><![CDATA[华为乾崑 ADS 增强版的高阶功能包限时补贴刚刚落地，与此同时，首发搭载同款舱内激光视觉方案的华境 S 也蓄势待发。本期一图看懂，十一带你看——作为华为智驾「优<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/16/38eba202604162049199563.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/168820</link>
+            <guid isPermaLink="false">xchuxing:1:168820</guid>
+            <pubDate>Thu, 16 Apr 2026 16:00:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 24.98-29.98 万 智己 LS8 上市]]></title>
             <description><![CDATA[日前，智己 LS8 正式上市，新车共推出四款配置车型，售价区间为 24.98-29.98 万。智己 LS8 的设计和 LS9 保持基本一致，看上去都非常有大车感<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/16/544e9202604162132237350.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/168827</link>
             <guid isPermaLink="false">xchuxing:1:168827</guid>
             <pubDate>Thu, 16 Apr 2026 03:41:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来ES9内饰颜色，你会怎么选？]]></title>
-            <description><![CDATA[[投票选项] 云贝米<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/16/a82db202604161030398550.png"><br><br>[投票选项] 玳瑁棕<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/16/74078202604161030558752.png"><br><br>[投票选项] 苏木红<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/16/8612c202604161030522308.png"><br><br>[投票选项] 可可棕 + 潜沙白<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/04/16/a51e2202604161030491889.png">]]></description>
-            <link>https://www.xchuxing.com/vote/1695</link>
-            <guid isPermaLink="false">xchuxing:7:1695</guid>
-            <pubDate>Thu, 16 Apr 2026 02:31:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
