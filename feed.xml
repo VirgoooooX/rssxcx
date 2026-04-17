@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 06:52:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 08:22:32 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[专访总结，智己LS8这波确实想明白了]]></title>
+            <description><![CDATA[昨天上海久事旗忠网球中心，智己LS8上市发布会刚结束，我跟随智己的工作人员钻进了专访间。外面下着雨，屋里则坐着两位高管——CMO李微萌和CTO项娇，准备和到场媒<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/17/2c63d202604171226234816.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/168914</link>
+            <guid isPermaLink="false">xchuxing:1:168914</guid>
+            <pubDate>Fri, 17 Apr 2026 08:05:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 319期：这颜值谁顶得住？阿维塔 06T 城野之间收放自如]]></title>
             <description><![CDATA[作为阿维塔首款猎装轿跑，06T 的颜值真的绝了！
@@ -85,13 +92,6 @@
             <link>https://www.xchuxing.com/article/168831</link>
             <guid isPermaLink="false">xchuxing:1:168831</guid>
             <pubDate>Thu, 16 Apr 2026 05:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 36.5-38.5 万 全新坦克 500 Hi4-T/Z 黑武士版上市]]></title>
-            <description><![CDATA[日前，坦克 500 Hi4-T/Z 黑武士版上市，售价分别为 36.5 万和 38.5 万。作为特别版车型，新款坦克 500 黑武士基于现款车型打造，并针对细节<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/16/c4abd202604161147456168.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168828</link>
-            <guid isPermaLink="false">xchuxing:1:168828</guid>
-            <pubDate>Thu, 16 Apr 2026 03:56:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
