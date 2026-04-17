@@ -4,10 +4,18 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 01:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 04:43:14 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 319期：这颜值谁顶得住？阿维塔 06T 城野之间收放自如]]></title>
+            <description><![CDATA[作为阿维塔首款猎装轿跑，06T 的颜值真的绝了！
+宽体低趴的车身姿态，外观颜色也很吸睛亮眼，性能配置更是直接拉满！<br><img src="https://s1.xchuxing.com/video/2026/04/16/5fb97202604162318424360.png">]]></description>
+            <link>https://www.xchuxing.com/video/23244</link>
+            <guid isPermaLink="false">xchuxing:2:23244</guid>
+            <pubDate>Fri, 17 Apr 2026 02:00:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 193期：一图看懂 华为乾崑ADS Pro]]></title>
             <description><![CDATA[华为乾崑 ADS 增强版的高阶功能包限时补贴刚刚落地，与此同时，首发搭载同款舱内激光视觉方案的华境 S 也蓄势待发。本期一图看懂，十一带你看——作为华为智驾「优<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/16/38eba202604162049199563.jpg">]]></description>
@@ -84,13 +92,6 @@
             <link>https://www.xchuxing.com/article/168828</link>
             <guid isPermaLink="false">xchuxing:1:168828</guid>
             <pubDate>Thu, 16 Apr 2026 03:56:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 5.88-7.28 万 五菱缤果 Pro 开启预售]]></title>
-            <description><![CDATA[日前，五菱缤果 Pro 开启预售，共推出四款配置车型，预售价为 5.88-7.28 万。外观方面，五菱缤果 Pro 以新复古主义美学为核心，整车线条摒弃冗余设计<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/16/7d798202604161138388999.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168827</link>
-            <guid isPermaLink="false">xchuxing:1:168827</guid>
-            <pubDate>Thu, 16 Apr 2026 03:41:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
