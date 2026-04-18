@@ -4,10 +4,19 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 23:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 00:01:25 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 320期：辅助驾驶好不好用？夜路见真章]]></title>
+            <description><![CDATA[今天实测岚图泰山 Ultra 夜间辅助驾驶
+全球量产最高规格896 线双光路图像级激光雷达，深夜无路灯、逆光、雨雾天气，感知不衰减、智驾不断线
+华为乾崑 ADS 4全程护航，跟车、居中、避让一气呵成，这才是旗舰该有的夜间安全感！<br><img src="https://s1.xchuxing.com/video/2026/04/17/8ea34202604171740362901.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23255</link>
+            <guid isPermaLink="false">xchuxing:2:23255</guid>
+            <pubDate>Sat, 18 Apr 2026 00:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 17.18-19.18 万 红旗天工 05/06 800V 超充版上市]]></title>
             <description><![CDATA[日前，红旗天工 05/06 800V 超充版上市，售价分别为 17.18 万和 19.18 万。新款天工 05 增加云梦银配色。动力方面，新车将采用 800V<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/17/3e5db202604172313062882.png">]]></description>
@@ -85,13 +94,6 @@
             <link>https://www.xchuxing.com/article/168870</link>
             <guid isPermaLink="false">xchuxing:1:168870</guid>
             <pubDate>Thu, 16 Apr 2026 13:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 42.99-60.99 万 沃尔沃 EX90/ES90 上市]]></title>
-            <description><![CDATA[日前，沃尔沃 EX90 和 ES90 上市。EX90 共推出两款车型，售价区间为 53.99-60.99 万；ES90 共推出两款配置车型，售价区间为 42.9<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/16/48c7a202604162054514838.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168867</link>
-            <guid isPermaLink="false">xchuxing:1:168867</guid>
-            <pubDate>Thu, 16 Apr 2026 13:00:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
