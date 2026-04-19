@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 15:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 16:29:57 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 323期：伟健体验荣威M7黑马版]]></title>
+            <description><![CDATA[今天给大家带来荣威M7黑马版，外观颜值都有提升，毕竟这台车的设计师约瑟夫·卡班曾主导布加迪威龙设计.....<br><img src="https://s1.xchuxing.com/video/2026/04/17/800c4202604171821439280.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23257</link>
+            <guid isPermaLink="false">xchuxing:2:23257</guid>
+            <pubDate>Sun, 19 Apr 2026 15:43:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 321期：岚图泰山黑武士，文武双全！]]></title>
             <description><![CDATA[岚图泰山黑武士静态实拍来啦！
@@ -89,13 +96,6 @@
             <link>https://www.xchuxing.com/video/23244</link>
             <guid isPermaLink="false">xchuxing:2:23244</guid>
             <pubDate>Fri, 17 Apr 2026 02:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 193期：一图看懂 华为乾崑ADS Pro]]></title>
-            <description><![CDATA[华为乾崑 ADS 增强版的高阶功能包限时补贴刚刚落地，与此同时，首发搭载同款舱内激光视觉方案的华境 S 也蓄势待发。本期一图看懂，十一带你看——作为华为智驾「优<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/16/38eba202604162049199563.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168820</link>
-            <guid isPermaLink="false">xchuxing:1:168820</guid>
-            <pubDate>Thu, 16 Apr 2026 16:00:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
