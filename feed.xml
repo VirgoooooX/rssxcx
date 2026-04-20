@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 05:59:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 08:14:39 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[智界V9首发全维包裹安全气囊，MPV最多13安全气囊守护全车同等底线]]></title>
+            <description><![CDATA[据FARS数据库统计，2007年，侧面碰撞事故占全部交通事故的32%，造成的人员伤亡近总人数的三分之一。MPV的安全，凭什么要为舒适让路？这是行业无法回避的一个<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/20/b12e6202604201521533792.png">]]></description>
+            <link>https://www.xchuxing.com/article/169052</link>
+            <guid isPermaLink="false">xchuxing:1:169052</guid>
+            <pubDate>Mon, 20 Apr 2026 07:22:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 325期：896 线激光雷达有多强？问界 M8 全程辅助驾驶无断点给出答案]]></title>
             <description><![CDATA[激光雷达的天花板被重新定义！搭载896 线双光路图像级激光雷达，超高清、超精准、超远距，120 米外低矮障碍都能精准捕捉。
@@ -90,13 +97,6 @@
             <link>https://www.xchuxing.com/article/168953</link>
             <guid isPermaLink="false">xchuxing:1:168953</guid>
             <pubDate>Fri, 17 Apr 2026 14:34:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCX-Test辅助驾驶 15期：实测见真章，20万级谁才是最好用的城区辅助驾驶]]></title>
-            <description><![CDATA[当汽车智能化进入全场景时代，辅助驾驶早已不是 “加分项”，而是决定出行体验与安全的核心竞争力。这次我们带来了四款20-30万级的家用代表车型，包括理想 L6、红旗 HS6、问界 M7、智己 LS6 ，我们来到汕头，和大家聊聊目前头部梯队的选手面对复杂推理和博弈能力水平到底怎么样？#20万级城区辅助驾驶<br><img src="https://s1.xchuxing.com/video/2026/04/17/33c5e2026041720390043.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/23263</link>
-            <guid isPermaLink="false">xchuxing:2:23263</guid>
-            <pubDate>Fri, 17 Apr 2026 13:04:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
