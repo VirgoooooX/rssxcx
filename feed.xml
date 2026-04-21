@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 14:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 15:48:56 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[“极域之约”2026宁德时代超级科技日：五大新品齐发，全系迈入“六分钟满电”时代]]></title>
+            <description><![CDATA[4月21日晚，宁德时代以“极域之约”为主题，在北京举办2026年超级科技日发布会。公司一次性发布神行III电池、麒麟III电池、麒麟凝聚态电池、骁遥超级增混II<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/21/0a625202604212309335862.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/169145</link>
+            <guid isPermaLink="false">xchuxing:1:169145</guid>
+            <pubDate>Tue, 21 Apr 2026 15:12:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BaaS 售价 17.98 万元起 2026 款乐道 L90 正式上市]]></title>
             <description><![CDATA[4 月 21 日，2026 款乐道 L90 正式上市，其中：六座版车型整车售价 26.58-29.98 万元；BaaS 售价 17.98-21.38 万元七座版<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/21/5247a202604212135054103.jpg">]]></description>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/article/168970</link>
             <guid isPermaLink="false">xchuxing:1:168970</guid>
             <pubDate>Tue, 21 Apr 2026 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 15.99-16.99 万元 深蓝 S07 华为乾崑激光版正式上市]]></title>
-            <description><![CDATA[4 月 20 日，深蓝 S07 华为乾崑激光版正式上市，新版本限时优惠价 15.99-16.99 万元，共推出两款车型版本。此外，乾崑激光版车型享受 6000<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/20/0ccc4202604202043125615.png">]]></description>
-            <link>https://www.xchuxing.com/article/169077</link>
-            <guid isPermaLink="false">xchuxing:1:169077</guid>
-            <pubDate>Mon, 20 Apr 2026 12:48:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
