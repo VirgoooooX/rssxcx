@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 12:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 14:13:42 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[BaaS 售价 17.98 万元起 2026 款乐道 L90 正式上市]]></title>
+            <description><![CDATA[4 月 21 日，2026 款乐道 L90 正式上市，其中：六座版车型整车售价 26.58-29.98 万元；BaaS 售价 17.98-21.38 万元七座版<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/21/5247a202604212135054103.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/169147</link>
+            <guid isPermaLink="false">xchuxing:1:169147</guid>
+            <pubDate>Tue, 21 Apr 2026 13:46:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 329期：全新之作 最全解读荣威家越07]]></title>
             <description><![CDATA[荣威新增一个高端系列，家越！这次我们一个视频和大家聊聊荣威新家族、新产品带来哪些惊喜？<br><img src="https://s1.xchuxing.com/video/2026/04/21/2c1b8202604211727425705.jpg">]]></description>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/article/169077</link>
             <guid isPermaLink="false">xchuxing:1:169077</guid>
             <pubDate>Mon, 20 Apr 2026 12:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 9.79-12.79 万元 比亚迪全新海狮05DM-i正式上市]]></title>
-            <description><![CDATA[4 月 20 日，比亚迪全新海狮05DM-i正式上市，新车共推出 5 款车型配置，售价区间 9.79-12.79 万元。外观方面，海狮 05 DM-i 采用全新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/20/2fff5202604202001236091.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/169072</link>
-            <guid isPermaLink="false">xchuxing:1:169072</guid>
-            <pubDate>Mon, 20 Apr 2026 12:17:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
