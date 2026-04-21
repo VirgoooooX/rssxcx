@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 01:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 04:42:50 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 196期：静态体验焕新极氪 009]]></title>
+            <description><![CDATA[极氪 009 作为品牌的旗舰 MPV 车型，自诞生之日起，便凭借扎实的产品力收获了广大用户的青睐。随着市场需求的不断迭代，其还衍生出六座行政、光辉典藏等车型，进<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/20/2704f20260420230215616.png">]]></description>
+            <link>https://www.xchuxing.com/article/168758</link>
+            <guid isPermaLink="false">xchuxing:1:168758</guid>
+            <pubDate>Tue, 21 Apr 2026 02:00:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX-Test辅助驾驶 16期：2026 款乐道 L90 「NWM世界模型」城区领航测试]]></title>
             <description><![CDATA[随着 2026 款乐道 L90 正式搭载上激光雷达以及神玑 NX9031 芯片，软件上也更新为了 NWM 世界模型，在智能辅助驾驶表现上也迎来了飞跃式的提升。那<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/21/4d9cc202604210904486920.jpg">]]></description>
@@ -79,15 +86,6 @@
             <link>https://www.xchuxing.com/article/169052</link>
             <guid isPermaLink="false">xchuxing:1:169052</guid>
             <pubDate>Mon, 20 Apr 2026 07:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 325期：896 线激光雷达有多强？问界 M8 全程辅助驾驶无断点给出答案]]></title>
-            <description><![CDATA[激光雷达的天花板被重新定义！搭载896 线双光路图像级激光雷达，超高清、超精准、超远距，120 米外低矮障碍都能精准捕捉。
-配合华为乾崑智驾ADS 4，实现全程辅助驾驶无断点，无论是日常通勤还是全家出行，都能真正做到放心开、安心坐。这才是一台家庭智慧旗舰SUV该有的底气！
-#家庭旗舰问界M8焕新升级 #问界M8升级四激光雷达<br><img src="https://s1.xchuxing.com/video/2026/04/20/3a11c20260420105806559.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/23310</link>
-            <guid isPermaLink="false">xchuxing:2:23310</guid>
-            <pubDate>Mon, 20 Apr 2026 03:06:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
