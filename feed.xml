@@ -4,10 +4,31 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 02:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 05:11:01 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 331期：动态试驾全新问界M6]]></title>
+            <description><![CDATA[今晚（2026 年 4 月 22 日）全新问界 M6 正式上市，上市前我也是去到了林芝试驾了这款车型，在跑了500km 左右后和大家聊一聊全新问界 M6。<br><img src="https://s1.xchuxing.com/video/2026/04/22/9d3eb20260422104410473.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23369</link>
+            <guid isPermaLink="false">xchuxing:2:23369</guid>
+            <pubDate>Wed, 22 Apr 2026 05:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[售价 9.99-12.99 万元 比亚迪宋Pro DM-i飞驰版正式上市]]></title>
+            <description><![CDATA[4 月 22 日，比亚迪宋Pro DM-i飞驰版正式上市，新车共推出四款车型配置，售价区间 9.99-12.99 万元。外观方面，宋Pro DM-i 飞驰版新增<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/22/92c50202604221055135945.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/169172</link>
+            <guid isPermaLink="false">xchuxing:1:169172</guid>
+            <pubDate>Wed, 22 Apr 2026 02:56:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[提车必得｜问界M6  新出行·提车礼包]]></title>
+            <description><![CDATA[新出行已建立「新出行-问界M6车主群」，欢迎大家扫码进群！新出行作为中国领先的新能源车垂直媒体 ，在这里你不仅能参与各种【车主专属有奖活动】，还可以和其他问界车<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/16/05690202604161538265609.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/168838</link>
+            <guid isPermaLink="false">xchuxing:1:168838</guid>
+            <pubDate>Wed, 22 Apr 2026 02:30:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[提车必得｜2026款乐道L90 新出行专属提车礼包]]></title>
             <description><![CDATA[恭喜各位 2026款 乐道 L90 车主提车，即刻开启舒适智能的全新出行旅途🎉新出行特此准备专属提车好礼，与大家一同喜迎美好用车生活～这份专属礼包中的每一件物品<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/20/d951c20260420153942954.jpg">]]></description>
@@ -72,20 +93,6 @@
             <link>https://www.xchuxing.com/article/168758</link>
             <guid isPermaLink="false">xchuxing:1:168758</guid>
             <pubDate>Tue, 21 Apr 2026 02:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCX-Test辅助驾驶 16期：2026 款乐道 L90 「NWM世界模型」城区领航测试]]></title>
-            <description><![CDATA[随着 2026 款乐道 L90 正式搭载上激光雷达以及神玑 NX9031 芯片，软件上也更新为了 NWM 世界模型，在智能辅助驾驶表现上也迎来了飞跃式的提升。那<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/21/4d9cc202604210904486920.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168731</link>
-            <guid isPermaLink="false">xchuxing:1:168731</guid>
-            <pubDate>Tue, 21 Apr 2026 01:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 328期：神玑+激光雷达上车 新乐道L90来了！]]></title>
-            <description><![CDATA[神玑芯片+激光雷达上车，新乐道L90更新后智驾体验怎么样？我们用一个视频和大家聊聊...<br><img src="https://s1.xchuxing.com/video/2026/04/20/19bf7202604202325371299.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/23339</link>
-            <guid isPermaLink="false">xchuxing:2:23339</guid>
-            <pubDate>Tue, 21 Apr 2026 01:00:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
