@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 11:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 13:05:00 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 335期：伟健体验iCAR V23白武士版]]></title>
+            <description><![CDATA[黑武士车型大家见得多了，这次给大家带来一台白武士版本的车，来自iCAR的V23车型！<br><img src="https://s1.xchuxing.com/video/2026/04/23/809c1202604232003134711.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23408</link>
+            <guid isPermaLink="false">xchuxing:2:23408</guid>
+            <pubDate>Thu, 23 Apr 2026 12:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行一图 231期：一图了解 2026 款乐道 L90]]></title>
+            <description><![CDATA[2026 款乐道 L90 已正式上市，新车共推出五款配置车型。其中六座版车型三款，售价区间为 26.58-29.98 万，BaaS 后的价格区间为 17.98-<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/23/66e8420260423194503829.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/169295</link>
+            <guid isPermaLink="false">xchuxing:1:169295</guid>
+            <pubDate>Thu, 23 Apr 2026 11:49:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2026 北京车展 ｜ 重磅新能源新车抢先看]]></title>
             <description><![CDATA[2026 北京车展即将在 4 月 24 日开幕，各家车企卷出了新高度，今年的车展更是一场技术迭代与市场洗牌的终极预告。本届车展总展览面积达 38 万平方米，首次<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/23/e1065202604231837209295.png">]]></description>
@@ -77,20 +91,6 @@
             <link>https://www.xchuxing.com/article/169269</link>
             <guid isPermaLink="false">xchuxing:1:169269</guid>
             <pubDate>Thu, 23 Apr 2026 05:43:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[搭载新世代创新技术集群 全新宝马 i7 迎来全球首秀]]></title>
-            <description><![CDATA[在 2026 BMW 品牌之夜上，全新纯电动 BMW i7 迎来全球首发。新车首次搭载 BMW 新世代创新技术集群，采用全新 BMW 大型豪华车设计语言，在设计<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/23/3987e202604230046165692.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/169240</link>
-            <guid isPermaLink="false">xchuxing:1:169240</guid>
-            <pubDate>Wed, 22 Apr 2026 16:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 年第四季度上市 新世代宝马 iX3 长轴距版迎来首秀]]></title>
-            <description><![CDATA[在 2026 BMW 品牌之夜上，新世代 BMW iX3 长轴距版迎来全球首秀。新车是专为中国用户打造的第一款  BMW 新世代车型，将于 2026 年第四季度<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/23/0ecb5202604230027069284.png">]]></description>
-            <link>https://www.xchuxing.com/article/169238</link>
-            <guid isPermaLink="false">xchuxing:1:169238</guid>
-            <pubDate>Wed, 22 Apr 2026 16:38:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
