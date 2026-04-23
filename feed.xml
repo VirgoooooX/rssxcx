@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 05:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 08:01:41 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 334期：伟健体验奔驰GLC纯电]]></title>
+            <description><![CDATA[奔驰GLC纯电，这台车和以往奔驰的纯电车大不相同，是目前奔驰最智能的一台量产车。<br><img src="https://s1.xchuxing.com/video/2026/04/17/b9ffe202604171842198126.png">]]></description>
+            <link>https://www.xchuxing.com/video/23258</link>
+            <guid isPermaLink="false">xchuxing:2:23258</guid>
+            <pubDate>Thu, 23 Apr 2026 06:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国汽车 全球冠军！奇瑞集团将携50余款车型亮相北京车展]]></title>
+            <description><![CDATA[4月24日，第十九届北京国际汽车展览会（简称北京车展）将在中国国际展览中心（顺义馆）与首都国际会展中心两馆同步开幕。本届车展，奇瑞集团携旗下奇瑞、星途、捷途、纵<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/23/be0a3202604231433168314.png">]]></description>
+            <link>https://www.xchuxing.com/article/169274</link>
+            <guid isPermaLink="false">xchuxing:1:169274</guid>
+            <pubDate>Thu, 23 Apr 2026 06:33:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[引领行业关注电磁风险  中汽新能源发布汽车电磁安全技术验证（EMTA）年度报告（2025）]]></title>
             <description><![CDATA[随着汽车电动化、智能化、网联化进程加速，车辆的电磁安全性能，已成为车企突破研发瓶颈、抢占市场先机、建立用户信任的关键课题。中汽研新能源汽车检验中心（天津）有限公<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/23/82620202604231345033568.png">]]></description>
@@ -70,20 +84,6 @@
             <link>https://www.xchuxing.com/article/169212</link>
             <guid isPermaLink="false">xchuxing:1:169212</guid>
             <pubDate>Wed, 22 Apr 2026 13:12:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 198期：静态体验 smart 精灵 6 号]]></title>
-            <description><![CDATA[当 smart 从“都市微型车”逐步进军主流轿车市场，精灵 6 号的出现，标志着品牌完成了一次关键的定位升级与战略向上。smart 精灵 6 号跳出了品牌以往的<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/21/78236202604212231098328.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/168438</link>
-            <guid isPermaLink="false">xchuxing:1:168438</guid>
-            <pubDate>Wed, 22 Apr 2026 11:49:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 46.88-50.88 万元 凯迪拉克凯威德正式上市]]></title>
-            <description><![CDATA[4 月 22 日，凯迪拉克凯威德正式上市，新车共推出两款车型版本，售价 46.88-50.88 万元。外观设计上，凯威德传承了凯迪拉克经典的设计风格，拥有超高辨<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/22/cf14b202604221924076516.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/169202</link>
-            <guid isPermaLink="false">xchuxing:1:169202</guid>
-            <pubDate>Wed, 22 Apr 2026 11:28:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
