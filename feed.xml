@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 13:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 15:23:27 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 336期：Thor+H7加持 银河M9高定版来了！]]></title>
+            <description><![CDATA[这应该是目前同级别少有的Thor+激光雷达赋能的车型，这次银河M9新增了一个全新版型，我们一个视频和大家聊聊！<br><img src="https://s1.xchuxing.com/video/2026/04/23/867b2202604232216113776.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23412</link>
+            <guid isPermaLink="false">xchuxing:2:23412</guid>
+            <pubDate>Thu, 23 Apr 2026 14:20:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[9 系旗舰新成员 奕境 X9 正式亮相]]></title>
+            <description><![CDATA[4 月 23 日，奕境 X9 在华为乾崑技术大会上正式亮相，新车定位大六座旗舰 SUV 车型，将正式在北京车展上和大家见面。外观方面，我们可以看到新车采用了当下<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/23/d9578202604232103449141.jpeg">]]></description>
+            <link>https://www.xchuxing.com/article/169301</link>
+            <guid isPermaLink="false">xchuxing:1:169301</guid>
+            <pubDate>Thu, 23 Apr 2026 13:12:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 335期：伟健体验iCAR V23白武士版]]></title>
             <description><![CDATA[黑武士车型大家见得多了，这次给大家带来一台白武士版本的车，来自iCAR的V23车型！<br><img src="https://s1.xchuxing.com/video/2026/04/23/809c1202604232003134711.jpg">]]></description>
@@ -77,20 +91,6 @@
             <link>https://www.xchuxing.com/article/169274</link>
             <guid isPermaLink="false">xchuxing:1:169274</guid>
             <pubDate>Thu, 23 Apr 2026 06:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[引领行业关注电磁风险  中汽新能源发布汽车电磁安全技术验证（EMTA）年度报告（2025）]]></title>
-            <description><![CDATA[随着汽车电动化、智能化、网联化进程加速，车辆的电磁安全性能，已成为车企突破研发瓶颈、抢占市场先机、建立用户信任的关键课题。中汽研新能源汽车检验中心（天津）有限公<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/23/82620202604231345033568.png">]]></description>
-            <link>https://www.xchuxing.com/article/169270</link>
-            <guid isPermaLink="false">xchuxing:1:169270</guid>
-            <pubDate>Thu, 23 Apr 2026 05:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[支撑车企造好车  新能源汽车电安全解决方案（NESS）正式发布]]></title>
-            <description><![CDATA[4月22日，中汽研新能源汽车检验中心（天津）有限公司（以下简称“中汽新能源”）“全链提效、新质赋能”电安全技术发布会成功举办，全面展示了中汽新能源在电安全领域的<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/23/c3694202604231339216908.png">]]></description>
-            <link>https://www.xchuxing.com/article/169269</link>
-            <guid isPermaLink="false">xchuxing:1:169269</guid>
-            <pubDate>Thu, 23 Apr 2026 05:43:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
