@@ -4,10 +4,21 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 15:59:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 17:00:19 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 343期：地平线小龙虾来了！]]></title>
+            <description><![CDATA[地平线要做的不仅只是一个可以自由交互的Agent。
+
+地平线做的舱驾一体，其实在两三年前就做了定义，所以这次本质是做了一套全新的OS系统，再这之上调再用了目前的主流大模型，才开始做现在看到的自由语音的交互，所以我觉得这才是这次地平线做舱驾一体的本质，解决的不是一个大模型上车的单点问题。
+
+这次我们还有一个意外的收获是，地平线还上线了一套可以自定义皮肤的 SR，应该算是另外一个彩蛋了！<br><img src="https://s1.xchuxing.com/video/2026/04/25/11514202604250003084176.png">]]></description>
+            <link>https://www.xchuxing.com/video/23447</link>
+            <guid isPermaLink="false">xchuxing:2:23447</guid>
+            <pubDate>Fri, 24 Apr 2026 16:03:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[北京车展 | 公布转型新规划 雪铁龙ELO概念车亮相]]></title>
             <description><![CDATA[4 月 24 日，在北京国际车展期间，雪铁龙暨东风雪铁龙带来了雪铁龙 ELO 概念车、FE 电动方程式 GEN3 Evo 赛车。并且还同步发布了品牌智电转型全新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/24/adb45202604242245271792.png">]]></description>
@@ -84,13 +95,6 @@
             <link>https://www.xchuxing.com/article/169357</link>
             <guid isPermaLink="false">xchuxing:1:169357</guid>
             <pubDate>Fri, 24 Apr 2026 06:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026北京车展｜全新 smart #6 预售价 18.99 万元起]]></title>
-            <description><![CDATA[2026 年 4 月 24 日北京车展上，全新smart #6 正式公布预售价格，新车预售价 18.99 万起。预售权益方面，预售期内下定可以享受 999 抵<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/24/368d2202604241337504480.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/169354</link>
-            <guid isPermaLink="false">xchuxing:1:169354</guid>
-            <pubDate>Fri, 24 Apr 2026 05:37:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
