@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 23:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 01:52:33 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 55.98 万元 全新理想 L9 Livis 首发亮相北京车展]]></title>
+            <description><![CDATA[今日（2026 年 4 月 24 日），全新理想 L9 Livis 正式首发亮相北京车展，新车将于 5 月 15 日正式上市，也是上市即交付。做为理想汽车旗舰车<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/24/69f80202604240943039649.png">]]></description>
+            <link>https://www.xchuxing.com/article/169324</link>
+            <guid isPermaLink="false">xchuxing:1:169324</guid>
+            <pubDate>Fri, 24 Apr 2026 01:52:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 336期：Thor+H7加持 银河M9高定版来了！]]></title>
             <description><![CDATA[这应该是目前同级别少有的Thor+激光雷达赋能的车型，这次银河M9新增了一个全新版型，我们一个视频和大家聊聊！<br><img src="https://s1.xchuxing.com/video/2026/04/23/867b2202604232216113776.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/23258</link>
             <guid isPermaLink="false">xchuxing:2:23258</guid>
             <pubDate>Thu, 23 Apr 2026 06:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国汽车 全球冠军！奇瑞集团将携50余款车型亮相北京车展]]></title>
-            <description><![CDATA[4月24日，第十九届北京国际汽车展览会（简称北京车展）将在中国国际展览中心（顺义馆）与首都国际会展中心两馆同步开幕。本届车展，奇瑞集团携旗下奇瑞、星途、捷途、纵<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/23/be0a3202604231433168314.png">]]></description>
-            <link>https://www.xchuxing.com/article/169274</link>
-            <guid isPermaLink="false">xchuxing:1:169274</guid>
-            <pubDate>Thu, 23 Apr 2026 06:33:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
