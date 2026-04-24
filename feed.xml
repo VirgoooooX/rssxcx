@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 13:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 14:50:44 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[北京车展 | 公布转型新规划 雪铁龙ELO概念车亮相]]></title>
+            <description><![CDATA[4 月 24 日，在北京国际车展期间，雪铁龙暨东风雪铁龙带来了雪铁龙 ELO 概念车、FE 电动方程式 GEN3 Evo 赛车。并且还同步发布了品牌智电转型全新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/24/adb45202604242245271792.png">]]></description>
+            <link>https://www.xchuxing.com/article/169488</link>
+            <guid isPermaLink="false">xchuxing:1:169488</guid>
+            <pubDate>Fri, 24 Apr 2026 14:47:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[这台大众很不大众 解读一汽-大众ID. AURA T6]]></title>
             <description><![CDATA[2026 年 4 月 24 日，北京车展大众展台， ID. AURA T6 正式与公众见面。做为一汽 - 大众迈入智电 2.0 阶段，利用 “ 德系精工 + 中<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/24/db8cf202604241635442429.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/169354</link>
             <guid isPermaLink="false">xchuxing:1:169354</guid>
             <pubDate>Fri, 24 Apr 2026 05:37:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 342期：伟健体验华为乾崑奕境X9]]></title>
-            <description><![CDATA[今天给大家带来的这台9系有点不太一样.....是华为乾崑深度赋能的产品，这台9系正是华为乾崑奕境X9。<br><img src="https://s1.xchuxing.com/video/2026/04/24/2214c202604241233026002.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/23427</link>
-            <guid isPermaLink="false">xchuxing:2:23427</guid>
-            <pubDate>Fri, 24 Apr 2026 04:38:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
