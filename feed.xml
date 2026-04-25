@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 03:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 05:43:27 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 201期：一图看懂 华为乾崑 ADS 5]]></title>
+            <description><![CDATA[4 月 23 日，华为乾崑技术大会正式发布 ADS 5。相比上一代，它在架构、安全、智驾体验和底盘协同上做了哪些升级？首批哪些车型用上了？本期《新出行一图》，用<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/24/8593f202604241804037935.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/169412</link>
+            <guid isPermaLink="false">xchuxing:1:169412</guid>
+            <pubDate>Sat, 25 Apr 2026 04:12:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 343期：地平线小龙虾来了！]]></title>
             <description><![CDATA[地平线要做的不仅只是一个可以自由交互的Agent。
@@ -88,13 +95,6 @@
             <link>https://www.xchuxing.com/vote/1738</link>
             <guid isPermaLink="false">xchuxing:7:1738</guid>
             <pubDate>Fri, 24 Apr 2026 06:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 北京车展 ｜ 方程豹「方程S」正式发布]]></title>
-            <description><![CDATA[2026 年 4 月 24 日，比亚迪旗下个性化品牌方程豹汽车在 2026 北京国际车展正式发布全新轿车系列方程 S；同时，现场还亮相了同属于 “方程” IP<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/24/4a676202604241408039330.png">]]></description>
-            <link>https://www.xchuxing.com/article/169357</link>
-            <guid isPermaLink="false">xchuxing:1:169357</guid>
-            <pubDate>Fri, 24 Apr 2026 06:10:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
