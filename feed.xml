@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 09:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 10:10:08 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[2026 北京车展 | 售价 29.98-34.98 万元 上汽大众 ID. ERA 9X 正式上市]]></title>
+            <description><![CDATA[2026 北京车展，上汽大众 ID. ERA 9X 正式上市，售价 29.98-34.98 万元。外观造型方面，新车采用封闭式前脸设计，搭配上分体式大灯，前脸下<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/25/c9ad3202604251749235441.jpeg">]]></description>
+            <link>https://www.xchuxing.com/article/169557</link>
+            <guid isPermaLink="false">xchuxing:1:169557</guid>
+            <pubDate>Sat, 25 Apr 2026 09:49:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[重塑豪华旗舰高度、打造中国汽车全球标杆，魏牌V9X重磅登陆北京车展]]></title>
             <description><![CDATA[4月24日，主题为“领时代 智未来”的2026北京国际汽车展览会拉开帷幕。魏牌携“AI豪华六座旗舰”魏牌V9X、“世界级豪华平台”归元S平台，魏牌全新高山、魏牌<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/25/8562720260425154252581.png">]]></description>
@@ -88,13 +95,6 @@
             <link>https://www.xchuxing.com/vote/1739</link>
             <guid isPermaLink="false">xchuxing:7:1739</guid>
             <pubDate>Fri, 24 Apr 2026 08:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 北京车展 | 预售价 25-32 万元 比亚迪大唐EV正式开启预售]]></title>
-            <description><![CDATA[2026 北京车展，比亚迪大唐 EV 正式开启预售，新车预售价区间 25-32 万元，提供 800/850/950km 三种续航选择。外观方面，比亚迪大唐采用全<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/24/bb5fe202604241600215433.png">]]></description>
-            <link>https://www.xchuxing.com/article/169378</link>
-            <guid isPermaLink="false">xchuxing:1:169378</guid>
-            <pubDate>Fri, 24 Apr 2026 08:00:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
