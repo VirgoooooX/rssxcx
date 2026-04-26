@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 14:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 15:35:12 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[前后舱总容积 2840L 乐道 L80 发布空间官图]]></title>
+            <description><![CDATA[日前，乐道官方正式发布旗下大五座 SUV 乐道 L80 的空间表现官图，据悉其前后舱总容积达到了 2840L。首先，乐道 L80 与 L90 相同，拥有一个 2<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/26/d95bd202604262241121430.png">]]></description>
+            <link>https://www.xchuxing.com/article/169654</link>
+            <guid isPermaLink="false">xchuxing:1:169654</guid>
+            <pubDate>Sun, 26 Apr 2026 14:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 344期：伟健体验纯电卡宴Turbo 最强性能车]]></title>
+            <description><![CDATA[今天的主角是纯电卡宴Turbo Coupe，这台车是保时捷史上性能最强的量产车，没有之一......<br><img src="https://s1.xchuxing.com/video/2026/04/26/db709202604262233207324.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23531</link>
+            <guid isPermaLink="false">xchuxing:2:23531</guid>
+            <pubDate>Sun, 26 Apr 2026 14:37:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行专访 | 专访宝马集团普斯特博士、傅瑞文博士]]></title>
             <description><![CDATA[2026 年对宝马来说是个里程碑式的一年，新世代正式启幕，全新的产品矩阵也正式到来。宝马正在中国本土完成大量对中国市场的专属开发工作，以此迎接下一步的技术演进与<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/26/f5387202604261640402628.jpg">]]></description>
@@ -77,24 +91,6 @@
             <link>https://www.xchuxing.com/article/169535</link>
             <guid isPermaLink="false">xchuxing:1:169535</guid>
             <pubDate>Sat, 25 Apr 2026 07:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 201期：一图看懂 华为乾崑 ADS 5]]></title>
-            <description><![CDATA[4 月 23 日，华为乾崑技术大会正式发布 ADS 5。相比上一代，它在架构、安全、智驾体验和底盘协同上做了哪些升级？首批哪些车型用上了？本期《新出行一图》，用<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/24/8593f202604241804037935.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/169412</link>
-            <guid isPermaLink="false">xchuxing:1:169412</guid>
-            <pubDate>Sat, 25 Apr 2026 04:12:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 343期：地平线小龙虾来了！]]></title>
-            <description><![CDATA[地平线要做的不仅只是一个可以自由交互的Agent。
-
-地平线做的舱驾一体，其实在两三年前就做了定义，所以这次本质是做了一套全新的OS系统，再这之上调再用了目前的主流大模型，才开始做现在看到的自由语音的交互，所以我觉得这才是这次地平线做舱驾一体的本质，解决的不是一个大模型上车的单点问题。
-
-这次我们还有一个意外的收获是，地平线还上线了一套可以自定义皮肤的 SR，应该算是另外一个彩蛋了！<br><img src="https://s1.xchuxing.com/video/2026/04/25/11514202604250003084176.png">]]></description>
-            <link>https://www.xchuxing.com/video/23447</link>
-            <guid isPermaLink="false">xchuxing:2:23447</guid>
-            <pubDate>Fri, 24 Apr 2026 16:03:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
