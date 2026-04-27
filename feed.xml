@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 05:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 07:43:46 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 345期：第二代腾势 D9 都升级了什么？]]></title>
+            <description><![CDATA[在累积交付突破 30 万辆后，腾势 D9 也是迎来了第二代，所以第二代腾势 D9 都升级了什么？本期视频就来和大家聊一聊。<br><img src="https://s1.xchuxing.com/video/2026/04/27/17056202604271444374742.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23561</link>
+            <guid isPermaLink="false">xchuxing:2:23561</guid>
+            <pubDate>Mon, 27 Apr 2026 06:46:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[对话魏牌｜以 V9X 为全球旗舰 用长期主义对抗内卷]]></title>
             <description><![CDATA[2026 北京车展，中国高端新能源市场进入白热化收官阶段，存量竞争、价格内卷、技术同质化交织，行业亟需跳出喧嚣的长期主义样本。车展期间，魏牌 CEO 赵永坡、C<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/27/a4601202604271241057893.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/169607</link>
             <guid isPermaLink="false">xchuxing:1:169607</guid>
             <pubDate>Sun, 26 Apr 2026 01:15:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诠释契约的力量，长城汽车全明星阵容登陆2026北京车展]]></title>
-            <description><![CDATA[4月24日，202 6 北京车展开幕，长城汽车以 “ 契约 ” 为主题参展。哈弗、魏牌、坦克 SUV、欧拉、长城炮、长城灵魂摩托 携近 60 辆展车 重磅亮相<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/26/8ef4b20260426090036504.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/169606</link>
-            <guid isPermaLink="false">xchuxing:1:169606</guid>
-            <pubDate>Sun, 26 Apr 2026 01:05:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
