@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 14:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 16:20:33 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 203期：一图看懂 乐道 L80 双舱空间]]></title>
+            <description><![CDATA[4 月 28 日，主打家庭出行与装载场景的大五座 SUV 乐道 L80 开启预售，拥有同级别优秀的双舱空间，其空间利用率做到了 81.5%。这双舱空间有什么核心<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/27/21a06202604271738312081.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/169694</link>
+            <guid isPermaLink="false">xchuxing:1:169694</guid>
+            <pubDate>Mon, 27 Apr 2026 16:00:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[共建超换一体补能新生态 奇瑞汽车/宁德时代/时代电服/奇瑞绿能深化能源战略合作]]></title>
             <description><![CDATA[日前，奇瑞汽车、宁德时代、时代电服、奇瑞绿能在北京签署战略合作协议。各方将全面深化能源战略合作，聚焦超换共享网络布局、绿色能源生态共建等领域，共同推动新能源产业<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/27/770bc202604272142165201.jpg">]]></description>
@@ -70,20 +77,6 @@
             <link>https://www.xchuxing.com/vote/1755</link>
             <guid isPermaLink="false">xchuxing:7:1755</guid>
             <pubDate>Mon, 27 Apr 2026 02:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 202期：大五座新选择 静态实拍智己 LS8]]></title>
-            <description><![CDATA[许多车企都发布了自家 8 系大五座SUV，智己也不例外。 作为一款起售价在 30 万以内的智己 LS9 大五座版，智己 LS8 4 月 16 日正式上市，45<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/24/164b3202604241418173059.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/169127</link>
-            <guid isPermaLink="false">xchuxing:1:169127</guid>
-            <pubDate>Sun, 26 Apr 2026 16:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[前后舱总容积 2840L 乐道 L80 发布空间官图]]></title>
-            <description><![CDATA[日前，乐道官方正式发布旗下大五座 SUV 乐道 L80 的空间表现官图，据悉其前后舱总容积达到了 2840L。首先，乐道 L80 与 L90 相同，拥有一个 2<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/26/d95bd202604262241121430.png">]]></description>
-            <link>https://www.xchuxing.com/article/169654</link>
-            <guid isPermaLink="false">xchuxing:1:169654</guid>
-            <pubDate>Sun, 26 Apr 2026 14:47:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
