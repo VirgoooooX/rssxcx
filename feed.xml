@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 08:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 10:28:42 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[给乐道L80来一句宣传金句，你会建议哪个]]></title>
+            <description><![CDATA[[投票选项] 前后双舱，超级能装<br><br>[投票选项] 前后双舱，自在无疆<br><br>[投票选项] 前后双舱，装下远方<br><br>[投票选项] 其他想法，评论区聊聊]]></description>
+            <link>https://www.xchuxing.com/vote/1768</link>
+            <guid isPermaLink="false">xchuxing:7:1768</guid>
+            <pubDate>Tue, 28 Apr 2026 09:27:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 347期：看完不纠结！日产NX8选购建议一次说清楚]]></title>
             <description><![CDATA[东风日产NX8在前段时间上市以来，大空间、大满配、大品牌的三大特征让其成为家用新能源SUV最佳选择之一。恰好最近后台有不少网友私信我们，这期内容我们就带大家一起选购日产NX8，看完不纠结！<br><img src="https://s1.xchuxing.com/video/2026/04/28/61e32202604281555447168.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/169741</link>
             <guid isPermaLink="false">xchuxing:1:169741</guid>
             <pubDate>Mon, 27 Apr 2026 13:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[权益价 25.48-30.08 万元 领克 900 五座版正式上市]]></title>
-            <description><![CDATA[4 月 27 日，领克 900 五座版正式上市，新版本共推出三款车型版本，限时置换价价 25.48-30.08 万元。外观方面， 外观方面，这次领克 900 在<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/27/76873202604272059419487.png">]]></description>
-            <link>https://www.xchuxing.com/article/169732</link>
-            <guid isPermaLink="false">xchuxing:1:169732</guid>
-            <pubDate>Mon, 27 Apr 2026 13:20:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
