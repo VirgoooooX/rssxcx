@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 10:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 12:10:04 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[今晚乐道L80发布会，你最想听哪个干货？]]></title>
+            <description><![CDATA[[投票选项] 前后双舱的趣味玩法<br><br>[投票选项] 智驾对比，纯视觉 vs 激光雷达神玑版<br><br>[投票选项] 预售价格 & 配置，不同版本价差<br><br>[投票选项] 看投票结果用]]></description>
+            <link>https://www.xchuxing.com/vote/1779</link>
+            <guid isPermaLink="false">xchuxing:7:1779</guid>
+            <pubDate>Tue, 28 Apr 2026 11:31:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[给乐道L80来一句宣传金句，你会建议哪个]]></title>
             <description><![CDATA[[投票选项] 前后双舱，超级能装<br><br>[投票选项] 前后双舱，自在无疆<br><br>[投票选项] 前后双舱，装下远方<br><br>[投票选项] 其他想法，评论区聊聊]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/169694</link>
             <guid isPermaLink="false">xchuxing:1:169694</guid>
             <pubDate>Mon, 27 Apr 2026 16:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[共建超换一体补能新生态 奇瑞汽车/宁德时代/时代电服/奇瑞绿能深化能源战略合作]]></title>
-            <description><![CDATA[日前，奇瑞汽车、宁德时代、时代电服、奇瑞绿能在北京签署战略合作协议。各方将全面深化能源战略合作，聚焦超换共享网络布局、绿色能源生态共建等领域，共同推动新能源产业<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/27/770bc202604272142165201.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/169741</link>
-            <guid isPermaLink="false">xchuxing:1:169741</guid>
-            <pubDate>Mon, 27 Apr 2026 13:43:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
