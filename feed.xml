@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 23:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 02:05:48 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 204期：如何定义「家和远方」 静态体验乐道 L80]]></title>
+            <description><![CDATA[如果说乐道 L90 开创了纯电大三排 SUV 的新时代，那么全新乐道 L80 带来的，将是大五座 SUV3.0 的新时代。从「移动的家」到「自由的家」，无论是日<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/28/9e811202604280925198704.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/168762</link>
+            <guid isPermaLink="false">xchuxing:1:168762</guid>
+            <pubDate>Tue, 28 Apr 2026 01:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 345期：双舱如何重构大五座？静态体验乐道L80]]></title>
+            <description><![CDATA[L80开创了一种新的大五座思考，这次我们用一个视频和大家聊聊乐道全新序列乐道L80！<br><img src="https://s1.xchuxing.com/video/2026/04/28/36a27202604280850077031.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23601</link>
+            <guid isPermaLink="false">xchuxing:2:23601</guid>
+            <pubDate>Tue, 28 Apr 2026 01:00:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 203期：一图看懂 乐道 L80 双舱空间]]></title>
             <description><![CDATA[4 月 28 日，主打家庭出行与装载场景的大五座 SUV 乐道 L80 开启预售，拥有同级别优秀的双舱空间，其空间利用率做到了 81.5%。这双舱空间有什么核心<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/27/21a06202604271738312081.jpg">]]></description>
@@ -70,13 +84,6 @@
             <link>https://www.xchuxing.com/article/169684</link>
             <guid isPermaLink="false">xchuxing:1:169684</guid>
             <pubDate>Mon, 27 Apr 2026 04:41:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来“小蓝灯”后装升级需998元，你会为这抹蓝买单吗？]]></title>
-            <description><![CDATA[[投票选项] 必装！颜值 + 仪式感双在线<br><br>[投票选项] 观望，看看安装的车友多不多再考虑<br><br>[投票选项] 不装，用处不大还容易给加塞<br><br>[投票选项] 其他想法，评论区聊聊]]></description>
-            <link>https://www.xchuxing.com/vote/1755</link>
-            <guid isPermaLink="false">xchuxing:7:1755</guid>
-            <pubDate>Mon, 27 Apr 2026 02:32:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
