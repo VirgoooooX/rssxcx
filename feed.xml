@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 07:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 09:30:52 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 349期：埃安N60辅助驾驶难点场景合集]]></title>
+            <description><![CDATA[昨天我们发布了社区三位用户实测埃安N60高阶辅助驾驶的正片https://www.xchuxing.com/video/23620，这期视频我们筛选了部分难度较高的场景，分享给大家，方便大家更直观的看懂埃安N60 的实际表现。<br><img src="https://s1.xchuxing.com/video/2026/04/29/3d5b2202604291553167831.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23691</link>
+            <guid isPermaLink="false">xchuxing:2:23691</guid>
+            <pubDate>Wed, 29 Apr 2026 07:53:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 348期：6到飞起！一汽-大众ID. AURA T6来了]]></title>
+            <description><![CDATA[20-30价位中的6系SUV有两名重磅选手，问界M6和理想L6，今天带你们认识另外一款我认为非常值得期待的车型——ID. AURA T6。这是合资品牌第一次用全新平台、全新智能，和优秀企业合作，正面硬刚新势力的产品。<br><img src="https://s1.xchuxing.com/video/2026/04/29/95277202604291529133703.png">]]></description>
+            <link>https://www.xchuxing.com/video/23689</link>
+            <guid isPermaLink="false">xchuxing:2:23689</guid>
+            <pubDate>Wed, 29 Apr 2026 07:32:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[一眼宝马！丨新世代宝马iX3长轴距版]]></title>
             <description><![CDATA[北京车展瞅了一眼 宝马 新世代 iX3 ，我觉得好看，甚至我还不小心坐进去了。
@@ -74,20 +88,6 @@
             <link>https://www.xchuxing.com/video/23628</link>
             <guid isPermaLink="false">xchuxing:2:23628</guid>
             <pubDate>Tue, 28 Apr 2026 08:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 346期：10万级车型也有30万级的体验？用户实测埃安 N60 城区领航辅助驾驶]]></title>
-            <description><![CDATA[30 万级的车型标配激光雷达和高阶辅助驾驶 ，10 万级的车型也标配激光雷达和高阶辅助驾驶，「一分钱一分货」的逻辑在辅助驾驶这里成立吗？10 万级车型的辅助驾驶，是否有 30 万级车型的越级体验？这次我们找来了埃安 N60 和社区的 3 位用户，一起来给这个问题找找答案。<br><img src="https://s1.xchuxing.com/video/2026/04/28/6f8cd202604281251097532.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/23620</link>
-            <guid isPermaLink="false">xchuxing:2:23620</guid>
-            <pubDate>Tue, 28 Apr 2026 07:03:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[限时权益价 10.68-12.68 万元 埃安 N60 正式上市]]></title>
-            <description><![CDATA[4 月 28 日，埃安 N60 正式上市，新车限时权益售价 10.68-12.68 万元，共推出 3 款车型配置。N60 外观采用简约设计，中央黑色贯穿饰条融合<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/28/e909d202604281423375234.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/169787</link>
-            <guid isPermaLink="false">xchuxing:1:169787</guid>
-            <pubDate>Tue, 28 Apr 2026 06:23:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
