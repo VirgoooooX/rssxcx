@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 15:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 17:18:45 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 205期：静态体验岚图泰山 X8]]></title>
+            <description><![CDATA[大六座进入了新一轮的竞争，而大五座 SUV 也开始逐渐推出，像领克 900 五座版，乐道 L80 等车型，都是这个级别里有力的竞争者。而这一次我们来体验的就是岚<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/29/cf429202604291835089195.png">]]></description>
+            <link>https://www.xchuxing.com/article/169889</link>
+            <guid isPermaLink="false">xchuxing:1:169889</guid>
+            <pubDate>Wed, 29 Apr 2026 16:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价区间 19.98-20.98 万元 方程豹钛 7 EV 闪充版上市]]></title>
             <description><![CDATA[4 月 29 日，方程豹钛 7 EV 闪充版正式上市。新车提供 2 款配置，售价分别为 19.98 万元和 20.98 万元。而 755km 后驱闪充版选装天神<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/29/25648202604292022279712.jpg">]]></description>
@@ -73,21 +80,6 @@
             <link>https://www.xchuxing.com/article/169696</link>
             <guid isPermaLink="false">xchuxing:1:169696</guid>
             <pubDate>Tue, 28 Apr 2026 16:02:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[这个价格，乐道 L80 和 乐道 L60 你会怎么选？]]></title>
-            <description><![CDATA[乐道L60选择85度电池包，23.59万元起。
-乐道L80估计也标配85度电池包，24.58万元起。<br><br>[投票选项] 乐道L80<br><br>[投票选项] 乐道L60<br><br>[投票选项] 看投票结果用，评论区聊聊原因]]></description>
-            <link>https://www.xchuxing.com/vote/1780</link>
-            <guid isPermaLink="false">xchuxing:7:1780</guid>
-            <pubDate>Tue, 28 Apr 2026 13:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[整车购买价 24.58 万元起 乐道 L80 开启预售]]></title>
-            <description><![CDATA[4 月 28 日，乐道 L80 正式开启预售。新车整车购买 24.58 万元起，电池租用方式购买 15.98 万元起。新车将于 5 月 1 日开启全国试驾，5<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/28/424b7202604282135205991.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/169834</link>
-            <guid isPermaLink="false">xchuxing:1:169834</guid>
-            <pubDate>Tue, 28 Apr 2026 13:36:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
