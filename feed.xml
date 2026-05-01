@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 23:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 02:10:54 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 352期：大个动态体验岚图泰山 X8]]></title>
+            <description><![CDATA[来到泰山脚下试驾泰山 X8，看看这款大五座新王的实力如何！<br><img src="https://s1.xchuxing.com/video/2026/05/01/ed828202605010848447389.png">]]></description>
+            <link>https://www.xchuxing.com/video/23775</link>
+            <guid isPermaLink="false">xchuxing:2:23775</guid>
+            <pubDate>Fri, 01 May 2026 00:54:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 35.98 万元起 第二代腾势 D9 开启交付]]></title>
             <description><![CDATA[日前，我们从官方渠道获悉，第二代腾势 D9 开启首批交付仪式。售价方面，第二代腾势 D9 纯电版推出 3 款配置，售价区间 36.98-46.98 万元；插混版<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/30/cc48b202604301058046611.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/169889</link>
             <guid isPermaLink="false">xchuxing:1:169889</guid>
             <pubDate>Wed, 29 Apr 2026 16:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价区间 19.98-20.98 万元 方程豹钛 7 EV 闪充版上市]]></title>
-            <description><![CDATA[4 月 29 日，方程豹钛 7 EV 闪充版正式上市。新车提供 2 款配置，售价分别为 19.98 万元和 20.98 万元。而 755km 后驱闪充版选装天神<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/29/25648202604292022279712.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/169907</link>
-            <guid isPermaLink="false">xchuxing:1:169907</guid>
-            <pubDate>Wed, 29 Apr 2026 12:32:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
