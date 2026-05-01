@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 11:35:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 12:58:44 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[数据公布 比亚迪 4 月销售新车 321123 辆]]></title>
+            <description><![CDATA[5 月 1 日，比亚迪发布 2026 年 4 月销量数据，当月销售新车 321123 辆。其中，乘用车销售 314100 辆，乘用车及皮卡海外销售 134542<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/01/67eec202605011957272336.png">]]></description>
+            <link>https://www.xchuxing.com/article/170036</link>
+            <guid isPermaLink="false">xchuxing:1:170036</guid>
+            <pubDate>Fri, 01 May 2026 12:02:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[何刚、水哥、严屹宽相继下订，智界V9凭硬核实力俘获精英圈层]]></title>
             <description><![CDATA[智界V9小订开启仅72小时，订单便突破22500台，已然成为高端MPV市场的现象级新作。更具看点的是，何刚、水哥王昱珩、知名演员严屹宽纷纷选择下订，海清、张逗逗<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/01/095b5202605011909398886.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/170014</link>
             <guid isPermaLink="false">xchuxing:1:170014</guid>
             <pubDate>Fri, 01 May 2026 03:05:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[最新交付 4 月小米汽车交付量超过 30000 台]]></title>
-            <description><![CDATA[据官方消息，2026 年 4 月，小米汽车交付量超过 30000 台。此前，小米 YU7 新车型完成公示。采用单电机方案，后驱功率 235kW。同时，将新增 1<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/01/2d94b202605011051043705.png">]]></description>
-            <link>https://www.xchuxing.com/article/170013</link>
-            <guid isPermaLink="false">xchuxing:1:170013</guid>
-            <pubDate>Fri, 01 May 2026 02:51:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
