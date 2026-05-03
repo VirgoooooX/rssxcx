@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 11:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 12:02:40 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[“五一”首日高速公路充电量同比增长 55.6%]]></title>
+            <description><![CDATA[“五一”假期首日，全国高速公路迎来出行高峰。通过对纳入国家充电设施监测服务平台的5.76万个高速公路充电设施（枪）进行统计分析 。假期首日（5月1日0时至24时<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/03/47ba020260503191201204.png">]]></description>
+            <link>https://www.xchuxing.com/article/170078</link>
+            <guid isPermaLink="false">xchuxing:1:170078</guid>
+            <pubDate>Sun, 03 May 2026 11:12:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[特斯拉官宣新款 Semi 量产下线]]></title>
             <description><![CDATA[日前，特斯拉官宣新款 Semi 电动卡车量产下线，宣告新款 Semi 进入量产新阶段。Semi 卡车在特斯拉位于美国内华达的超级工厂生产，该工厂预计生产 Sem<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/02/d5cd6202605022242516992.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/170024</link>
             <guid isPermaLink="false">xchuxing:1:170024</guid>
             <pubDate>Fri, 01 May 2026 07:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[月度成绩公布 岚图汽车 4 月交付新车 15146 辆]]></title>
-            <description><![CDATA[5 月 1 日，据官方发布，岚图汽车 4 月交付新车 15146 辆，同比增长 51%。1-4 月累计交付 49038 辆，同比增长 36%。目前，岚图汽车全系<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/01/0a34e202605011516137302.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170023</link>
-            <guid isPermaLink="false">xchuxing:1:170023</guid>
-            <pubDate>Fri, 01 May 2026 07:17:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
