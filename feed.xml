@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 14:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 16:25:55 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 206期：动态体验第二代腾势 D9]]></title>
+            <description><![CDATA[凭借有口皆碑的全能产品力，腾势 D9 早已赢得了新能源豪华 MPV 市场的广泛认可。随着市场的持续发展与核心技术的升级，第二代腾势 D9 也顺势而来。 从底层三<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/29/87e9d202604292238195920.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/169636</link>
+            <guid isPermaLink="false">xchuxing:1:169636</guid>
+            <pubDate>Mon, 04 May 2026 15:58:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行深度｜对话赵长江： V9 不是 MPV 的答案，而是 MPV 中的 MVP]]></title>
             <description><![CDATA[从去年开始，MPV 市场经历了一场前所未有的技术、场景与用户心智的多重重构。腾势 D9 用增程技术+全渠道布局，撕开了合资品牌把持二十余年的高端 MPV 市场防<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/04/30/36158202604301501067384.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/170029</link>
             <guid isPermaLink="false">xchuxing:1:170029</guid>
             <pubDate>Fri, 01 May 2026 09:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[同比增长 132% 极氪 4 月交付新车 31787 辆]]></title>
-            <description><![CDATA[5 月 1 日，据官方公布，极氪 4 月交付新车 31787 辆，同比增长 132%。截至 4 月 30 日， 极氪全球累计交付突破 75 万辆。此外，极氪 9<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/01/e7fca202605011542493057.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170026</link>
-            <guid isPermaLink="false">xchuxing:1:170026</guid>
-            <pubDate>Fri, 01 May 2026 07:49:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
