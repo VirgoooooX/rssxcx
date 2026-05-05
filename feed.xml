@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 12:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 14:30:07 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[启动亚太区域布局 理想汽车正式进入阿联酋、沙特阿拉伯市场]]></title>
+            <description><![CDATA[4 月 25 日，据官方消息，理想汽车于北京绿色智能制造基地与阿联酋、沙特阿拉伯合作伙伴完成合作签约仪式。据了解，在中东市场布局中，理想汽车将向阿联酋和沙特阿拉<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/05/0338f202605051059329076.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170098</link>
+            <guid isPermaLink="false">xchuxing:1:170098</guid>
+            <pubDate>Tue, 05 May 2026 13:14:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[核心系列同比增长 159% 长安启源发布四月交付数据]]></title>
             <description><![CDATA[5 月 1 日，据官方消息，长安启源 4 月共交付新车 32118 辆，核心 AQ 系列同比增长 159%。其中，全新 Q05 车单月交付量 16128 辆，环<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/04/a6f2f202605042255126951.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/170033</link>
             <guid isPermaLink="false">xchuxing:1:170033</guid>
             <pubDate>Fri, 01 May 2026 11:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[销量继续攀升 极狐汽车 4 月销量 16532 辆]]></title>
-            <description><![CDATA[5 月 1 日，据官方消息，极狐汽车 4 月销量为 16532 辆，同比增长 101.7%。旗舰 MPV 问道 V9 依托一大二高三全域核心产品优势，以旗舰大空<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/01/c99dd202605011823174225.png">]]></description>
-            <link>https://www.xchuxing.com/article/170032</link>
-            <guid isPermaLink="false">xchuxing:1:170032</guid>
-            <pubDate>Fri, 01 May 2026 10:27:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
