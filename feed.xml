@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 14:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 16:24:16 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 353期：动态试驾第二代腾势D9]]></title>
+            <description><![CDATA[上期视频和大家聊了第二代腾势 D9 的静态升级点，这期视频再来和大家聊一聊第二代腾势 D9 开起来的感受。<br><img src="https://s1.xchuxing.com/video/2026/05/05/e31d1202605052120341254.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23875</link>
+            <guid isPermaLink="false">xchuxing:2:23875</guid>
+            <pubDate>Tue, 05 May 2026 14:45:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[启动亚太区域布局 理想汽车正式进入阿联酋、沙特阿拉伯市场]]></title>
             <description><![CDATA[4 月 25 日，据官方消息，理想汽车于北京绿色智能制造基地与阿联酋、沙特阿拉伯合作伙伴完成合作签约仪式。据了解，在中东市场布局中，理想汽车将向阿联酋和沙特阿拉<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/05/0338f202605051059329076.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/170034</link>
             <guid isPermaLink="false">xchuxing:1:170034</guid>
             <pubDate>Fri, 01 May 2026 11:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全系销量 22,755 台 领克品牌公布 4 月销量数据]]></title>
-            <description><![CDATA[5 月 1 日，据官方发布，2026 年 4 月领克品牌全系销量 22,755 台。 其中，领克新能源车型销量 12,533 台，新能源销量占比 55%。 1-<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/01/df6d620260501190619867.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/170033</link>
-            <guid isPermaLink="false">xchuxing:1:170033</guid>
-            <pubDate>Fri, 01 May 2026 11:06:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
