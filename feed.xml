@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 16:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 17:57:13 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 355期：大众 ID. ERA 9X 魔术屏好用吗？]]></title>
+            <description><![CDATA[Smart Surface 魔术屏在大众 ID. ERA 9X 上首发，这块完美隐藏于木纹内饰之中屏幕能实现哪些功能？使用感受如何？我们一条视频带你看清楚。<br><img src="https://s1.xchuxing.com/video/2026/04/29/5d65e202604291535103057.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23690</link>
+            <guid isPermaLink="false">xchuxing:2:23690</guid>
+            <pubDate>Tue, 05 May 2026 17:47:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 353期：动态试驾第二代腾势D9]]></title>
             <description><![CDATA[上期视频和大家聊了第二代腾势 D9 的静态升级点，这期视频再来和大家聊一聊第二代腾势 D9 开起来的感受。<br><img src="https://s1.xchuxing.com/video/2026/05/05/e31d1202605052120341254.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/170036</link>
             <guid isPermaLink="false">xchuxing:1:170036</guid>
             <pubDate>Fri, 01 May 2026 12:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[何刚、水哥、严屹宽相继下订，智界V9凭硬核实力俘获精英圈层]]></title>
-            <description><![CDATA[智界V9小订开启仅72小时，订单便突破22500台，已然成为高端MPV市场的现象级新作。更具看点的是，何刚、水哥王昱珩、知名演员严屹宽纷纷选择下订，海清、张逗逗<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/01/095b5202605011909398886.png">]]></description>
-            <link>https://www.xchuxing.com/article/170034</link>
-            <guid isPermaLink="false">xchuxing:1:170034</guid>
-            <pubDate>Fri, 01 May 2026 11:12:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
