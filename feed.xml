@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 23:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 02:02:03 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 354期：动态试驾领克10+]]></title>
+            <description><![CDATA[预售价 20.99 万元起，领克 10 升级后动态表现如何？这一次领克汽车包了一段山路，并给了我一台领克 10+，所以本期视频聊一聊 10+ 跑山的感受，然后再看看辅助驾驶表现，最后再聊聊如何选的问题。<br><img src="https://s1.xchuxing.com/video/2026/05/05/4a099202605052054439933.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23873</link>
+            <guid isPermaLink="false">xchuxing:2:23873</guid>
+            <pubDate>Wed, 06 May 2026 02:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 355期：大众 ID. ERA 9X 魔术屏好用吗？]]></title>
             <description><![CDATA[Smart Surface 魔术屏在大众 ID. ERA 9X 上首发，这块完美隐藏于木纹内饰之中屏幕能实现哪些功能？使用感受如何？我们一条视频带你看清楚。<br><img src="https://s1.xchuxing.com/video/2026/04/29/5d65e202604291535103057.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/170062</link>
             <guid isPermaLink="false">xchuxing:1:170062</guid>
             <pubDate>Sat, 02 May 2026 14:36:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据公布 比亚迪 4 月销售新车 321123 辆]]></title>
-            <description><![CDATA[5 月 1 日，比亚迪发布 2026 年 4 月销量数据，当月销售新车 321123 辆。其中，乘用车销售 314100 辆，乘用车及皮卡海外销售 134542<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/01/67eec202605011957272336.png">]]></description>
-            <link>https://www.xchuxing.com/article/170036</link>
-            <guid isPermaLink="false">xchuxing:1:170036</guid>
-            <pubDate>Fri, 01 May 2026 12:02:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
