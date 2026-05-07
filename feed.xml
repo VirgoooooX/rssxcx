@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 15:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 17:13:18 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行探店｜5 月 15 日正式上市 探店乐道 L80]]></title>
+            <description><![CDATA[作为乐道 L90 的同源大五座版本，乐道 L80 自预售开启后就延续了家族车型的势头。预售价24.58 万起，BaaS 租电价15.98 万起，把中大型纯电 S<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/07/01fd5202605072322313542.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170180</link>
+            <guid isPermaLink="false">xchuxing:1:170180</guid>
+            <pubDate>Thu, 07 May 2026 16:01:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 354期：动态试驾领克10+]]></title>
             <description><![CDATA[预售价 20.99 万元起，领克 10 升级后动态表现如何？这一次领克汽车包了一段山路，并给了我一台领克 10+，所以本期视频聊一聊 10+ 跑山的感受，然后再看看辅助驾驶表现，最后再聊聊如何选的问题。<br><img src="https://s1.xchuxing.com/video/2026/05/05/4a099202605052054439933.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/170063</link>
             <guid isPermaLink="false">xchuxing:1:170063</guid>
             <pubDate>Sat, 02 May 2026 14:41:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[车轮螺栓可能松动 奔驰召回部分进口 G 580]]></title>
-            <description><![CDATA[日前，梅赛德斯-奔驰（中国）汽车销售有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/02/24438202605022234042129.png">]]></description>
-            <link>https://www.xchuxing.com/article/170062</link>
-            <guid isPermaLink="false">xchuxing:1:170062</guid>
-            <pubDate>Sat, 02 May 2026 14:36:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
