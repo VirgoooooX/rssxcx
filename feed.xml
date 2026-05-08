@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 13:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 15:05:08 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 10.98-15.98 万 2026 款丰田铂智 3X 上市]]></title>
+            <description><![CDATA[日前，2026 款丰田铂智 3X 上市，新车共推出七款配置车型，售价区间为 10.98-15.98 万，限时权益价为 9.48-14.48 万。动力方面，新车基<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/08/c4b6d202605082104214653.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170238</link>
+            <guid isPermaLink="false">xchuxing:1:170238</guid>
+            <pubDate>Fri, 08 May 2026 13:18:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 15.98-20.38 万 华境 S 正式上市]]></title>
             <description><![CDATA[日前，华境 S 正式上市，新车共推出四款配置车型，售价区间为 15.98-20.38 万，超级置换价为 14.98-19.38 万。前脸部分，华境 S 并没有追<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/08/278fb202605082053014574.jpg">]]></description>
@@ -90,13 +97,6 @@
             <link>https://www.xchuxing.com/article/170098</link>
             <guid isPermaLink="false">xchuxing:1:170098</guid>
             <pubDate>Tue, 05 May 2026 13:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[核心系列同比增长 159% 长安启源发布四月交付数据]]></title>
-            <description><![CDATA[5 月 1 日，据官方消息，长安启源 4 月共交付新车 32118 辆，核心 AQ 系列同比增长 159%。其中，全新 Q05 车单月交付量 16128 辆，环<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/04/a6f2f202605042255126951.png">]]></description>
-            <link>https://www.xchuxing.com/article/170095</link>
-            <guid isPermaLink="false">xchuxing:1:170095</guid>
-            <pubDate>Tue, 05 May 2026 04:01:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
