@@ -4,10 +4,22 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 09:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 10:30:28 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[见证2026款乐道L90全国首批交付，那些果断下单的人是怎么想的？]]></title>
+            <description><![CDATA[本期视频根据新出行社区朋友们感兴趣的那些话题，在@新出行CC 的提车时候进行的即时采访，主要替大家问了3个问题：
+1、这台车马上就要出现在工作与生活的全场景中了，此刻心情怎么样？
+
+2、从下订到今天正式提车，中间的心情是怎么样的，包括中间看到社区L90老车主朋友的一些分享，以及看到尺寸相同，预售价从24.98万起的乐道L80，心中波澜大吗？是什么让你在现阶段坚定选择大六座？
+
+3、提车之后大概3个月内，大概会开着L90去做什么？<br><img src="https://s1.xchuxing.com/video/2026/05/09/d0dba202605091737315027.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23935</link>
+            <guid isPermaLink="false">xchuxing:2:23935</guid>
+            <pubDate>Sat, 09 May 2026 09:37:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 15.08-16.98 万 领汇 e9 正式上市]]></title>
             <description><![CDATA[日前，领汇 e9 正式上市，新车共推出三款配置车型，售价区间为 15.08-16.98 万。领汇 e9 是一款定位为 “ 闪充商务 C 级轿车 ” 的新能源豪华<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/09/d683e202605091033468730.jpg">]]></description>
@@ -90,13 +102,6 @@
             <link>https://www.xchuxing.com/video/23690</link>
             <guid isPermaLink="false">xchuxing:2:23690</guid>
             <pubDate>Tue, 05 May 2026 17:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 353期：动态试驾第二代腾势D9]]></title>
-            <description><![CDATA[上期视频和大家聊了第二代腾势 D9 的静态升级点，这期视频再来和大家聊一聊第二代腾势 D9 开起来的感受。<br><img src="https://s1.xchuxing.com/video/2026/05/05/e31d1202605052120341254.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/23875</link>
-            <guid isPermaLink="false">xchuxing:2:23875</guid>
-            <pubDate>Tue, 05 May 2026 14:45:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
