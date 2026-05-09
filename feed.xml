@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 12:56:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 14:15:23 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[支持三排翻转 尊界首款MPV V800 申报]]></title>
+            <description><![CDATA[工信部第 407 批《道路机动车辆生产企业及产品公告》新产品公示发布，鸿蒙智行尊界品牌首款 MPV 车型尊界 V800 正式申报。新车定位大型豪华 MPV，以插<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/09/3f35c202605092211074379.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170275</link>
+            <guid isPermaLink="false">xchuxing:1:170275</guid>
+            <pubDate>Sat, 09 May 2026 14:11:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新增B柱摄像头 尊界S800高定版申报]]></title>
+            <description><![CDATA[工信部第 406 批《道路机动车辆生产企业及产品公告》正式发布，鸿蒙智行旗下尊界 S800 高定版纯电与混动版的申报信息首次公开。这款定位高端豪华市场的旗舰车型<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/09/6b5e620260509215442985.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170274</link>
+            <guid isPermaLink="false">xchuxing:1:170274</guid>
+            <pubDate>Sat, 09 May 2026 14:01:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[见证2026款乐道L90全国首批交付，那些果断下单的人是怎么想的？]]></title>
             <description><![CDATA[本期视频根据新出行社区朋友们感兴趣的那些话题，在@新出行CC 的提车时候进行的即时采访，主要替大家问了3个问题：
@@ -88,20 +102,6 @@
             <link>https://www.xchuxing.com/article/170180</link>
             <guid isPermaLink="false">xchuxing:1:170180</guid>
             <pubDate>Thu, 07 May 2026 16:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 354期：动态试驾领克10+]]></title>
-            <description><![CDATA[预售价 20.99 万元起，领克 10 升级后动态表现如何？这一次领克汽车包了一段山路，并给了我一台领克 10+，所以本期视频聊一聊 10+ 跑山的感受，然后再看看辅助驾驶表现，最后再聊聊如何选的问题。<br><img src="https://s1.xchuxing.com/video/2026/05/05/4a099202605052054439933.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/23873</link>
-            <guid isPermaLink="false">xchuxing:2:23873</guid>
-            <pubDate>Wed, 06 May 2026 02:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 355期：大众 ID. ERA 9X 魔术屏好用吗？]]></title>
-            <description><![CDATA[Smart Surface 魔术屏在大众 ID. ERA 9X 上首发，这块完美隐藏于木纹内饰之中屏幕能实现哪些功能？使用感受如何？我们一条视频带你看清楚。<br><img src="https://s1.xchuxing.com/video/2026/04/29/5d65e202604291535103057.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/23690</link>
-            <guid isPermaLink="false">xchuxing:2:23690</guid>
-            <pubDate>Tue, 05 May 2026 17:47:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
