@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 14:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 15:28:06 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[搭载 51kWh 电池 理想 L6 改款车型申报]]></title>
+            <description><![CDATA[工信部第 407 批《道路机动车辆生产企业及产品公告》新产品公示发布，理想 L6 改款车型正式申报，新款将搭载 51kWh 电池组，WLTC 纯电续航 234k<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/09/ee4fc202605092226264271.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170277</link>
+            <guid isPermaLink="false">xchuxing:1:170277</guid>
+            <pubDate>Sat, 09 May 2026 14:27:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[定位中大型轿跑SUV 岚图追光 S 申报]]></title>
+            <description><![CDATA[岚图汽车旗下全新车型追光 S 正式现身工信部第 407 批新车申报目录，这台定位轿跑 SUV 的车型，也将搭载华为ADS 高阶智驾方案。新车定位中大型轿跑 SU<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/09/51361202605092218319106.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170276</link>
+            <guid isPermaLink="false">xchuxing:1:170276</guid>
+            <pubDate>Sat, 09 May 2026 14:19:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[支持三排翻转 尊界首款MPV V800 申报]]></title>
             <description><![CDATA[工信部第 407 批《道路机动车辆生产企业及产品公告》新产品公示发布，鸿蒙智行尊界品牌首款 MPV 车型尊界 V800 正式申报。新车定位大型豪华 MPV，以插<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/09/3f35c202605092211074379.jpg">]]></description>
@@ -86,22 +100,6 @@
             <link>https://www.xchuxing.com/article/170099</link>
             <guid isPermaLink="false">xchuxing:1:170099</guid>
             <pubDate>Fri, 08 May 2026 02:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 356期：大个动态体验焕新极氪 009]]></title>
-            <description><![CDATA[在三电、内饰和智驾方面进行了较大的提升后，让原本就有超高产品力的极氪 009 得到了更加强的提升。
-
-下面让我们通过本期视频，一起来了解下焕新极氪 009 的表现如何。<br><img src="https://s1.xchuxing.com/video/2026/05/08/1d247202605080031505949.png">]]></description>
-            <link>https://www.xchuxing.com/video/23908</link>
-            <guid isPermaLink="false">xchuxing:2:23908</guid>
-            <pubDate>Fri, 08 May 2026 02:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行探店｜5 月 15 日正式上市 探店乐道 L80]]></title>
-            <description><![CDATA[作为乐道 L90 的同源大五座版本，乐道 L80 自预售开启后就延续了家族车型的势头。预售价24.58 万起，BaaS 租电价15.98 万起，把中大型纯电 S<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/07/01fd5202605072322313542.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170180</link>
-            <guid isPermaLink="false">xchuxing:1:170180</guid>
-            <pubDate>Thu, 07 May 2026 16:01:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
