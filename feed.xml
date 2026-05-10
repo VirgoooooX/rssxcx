@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 11:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 12:58:04 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 357期：与腾势 Z9GT 一起的家庭出游小日记]]></title>
+            <description><![CDATA[踩坑之旅？这次一家三口出游小日记与腾势 Z9GT 一起，最大的感受是，下次一定要错峰出行。<br><img src="https://s1.xchuxing.com/video/2026/05/10/58ebe202605101931557119.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23951</link>
+            <guid isPermaLink="false">xchuxing:2:23951</guid>
+            <pubDate>Sun, 10 May 2026 12:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[搭载 51kWh 电池 理想 L6 改款车型申报]]></title>
             <description><![CDATA[工信部第 407 批《道路机动车辆生产企业及产品公告》新产品公示发布，理想 L6 改款车型正式申报，新款将搭载 51kWh 电池组，WLTC 纯电续航 234k<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/09/ee4fc202605092226264271.jpg">]]></description>
@@ -93,13 +100,6 @@
             <link>https://www.xchuxing.com/vote/1843</link>
             <guid isPermaLink="false">xchuxing:7:1843</guid>
             <pubDate>Fri, 08 May 2026 07:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 207期：动态体验焕新极氪 009]]></title>
-            <description><![CDATA[焕新极氪 009 开启预售前，我们已完成了它的全维度静态解析。从外观细节的精致化升级、座舱全域的豪华焕新，到全栈 900V 高压架构等核心硬件的全面迭代，这台旗<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/08/90a5a20260508001106498.png">]]></description>
-            <link>https://www.xchuxing.com/article/170099</link>
-            <guid isPermaLink="false">xchuxing:1:170099</guid>
-            <pubDate>Fri, 08 May 2026 02:00:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
