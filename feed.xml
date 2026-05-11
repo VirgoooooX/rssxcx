@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 23:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 02:14:36 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 208期：动态体验蔚来 ES9]]></title>
+            <description><![CDATA[作为蔚来倾力打造的全新科技行政旗舰 SUV，蔚来 ES9 自正式亮相起，便备受行业与高端消费群体的广泛期待。随着蔚来 ES9 公布预售价、展车陆续登录全国门店，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/10/1cff6202605102200291867.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170246</link>
+            <guid isPermaLink="false">xchuxing:1:170246</guid>
+            <pubDate>Mon, 11 May 2026 01:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 358期：伟健试驾蔚来ES9地平线版]]></title>
+            <description><![CDATA[蔚来ES9定位为行政旗舰SUV，搭载线控转向、天行全主动悬架等技术，开起来到底有什么不同？一条视频告诉你。<br><img src="https://s1.xchuxing.com/video/2026/05/11/258be202605110750398608.png">]]></description>
+            <link>https://www.xchuxing.com/video/23959</link>
+            <guid isPermaLink="false">xchuxing:2:23959</guid>
+            <pubDate>Mon, 11 May 2026 01:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX-Test续航实测 77期：宝骏华境 S 纯电续航、油耗及充电测试]]></title>
             <description><![CDATA[20 万的价格，你就能够买到一款带华为智驾的大六座 SUV，华境 S 的性价比自然不用多说。那么本篇文章，就让我们一起来看看，华境 S 在纯电续航、油耗和充电方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/03/03/351c0202603031310134943.png">]]></description>
@@ -82,20 +96,6 @@
             <link>https://www.xchuxing.com/article/170238</link>
             <guid isPermaLink="false">xchuxing:1:170238</guid>
             <pubDate>Fri, 08 May 2026 13:18:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 15.98-20.38 万 华境 S 正式上市]]></title>
-            <description><![CDATA[日前，华境 S 正式上市，新车共推出四款配置车型，售价区间为 15.98-20.38 万，超级置换价为 14.98-19.38 万。前脸部分，华境 S 并没有追<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/08/278fb202605082053014574.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170236</link>
-            <guid isPermaLink="false">xchuxing:1:170236</guid>
-            <pubDate>Fri, 08 May 2026 12:57:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 28.98-37.98 万 奥迪 E7X 开启预售]]></title>
-            <description><![CDATA[日前，奥迪 E7X 开启预售，新车共推出五款配置车型，预售价区间为 28.98-37.98 万。外观设计上，奥迪 E7X 采用了与 E5 Sportback 相<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/08/33930202605082048085794.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170235</link>
-            <guid isPermaLink="false">xchuxing:1:170235</guid>
-            <pubDate>Fri, 08 May 2026 12:51:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
