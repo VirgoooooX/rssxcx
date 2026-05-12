@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 May 2026 08:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 10:57:03 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[特斯拉 Model S 与 Model X 正式停产]]></title>
+            <description><![CDATA[日前，据特斯拉官方消息， 最后一辆 Model S 和 Model X 已在美国加州弗里蒙特工厂正式下线，两款车型正式迎来停产。特斯拉于今年 4 月初悄然停止接<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/12/880a7202605121841589895.png">]]></description>
+            <link>https://www.xchuxing.com/article/170360</link>
+            <guid isPermaLink="false">xchuxing:1:170360</guid>
+            <pubDate>Tue, 12 May 2026 10:44:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 359期：1800km长途全程换电 乐道L90体验如何？]]></title>
+            <description><![CDATA[五一假期，维圈圈决定首次尝试蔚来/乐道的长途换电生态，一起来看看这1800km的体验到底如何？<br><img src="https://s1.xchuxing.com/video/2026/05/11/b2bd5202605111701094088.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/23984</link>
+            <guid isPermaLink="false">xchuxing:2:23984</guid>
+            <pubDate>Tue, 12 May 2026 10:28:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图 232期：一图看懂 智己 LS8/领克 900/乐道 L80 空间大对比]]></title>
             <description><![CDATA[之前的《新出行一图》，我们做过关于六座车型乐道 L90 与零跑 D19 的空间大对比。本期的一图，我们找来了三个大五座的车型，分别是已经上市的智己 LS8、领克<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/11/e96d7202605111925501275.png">]]></description>
@@ -70,20 +84,6 @@
             <link>https://www.xchuxing.com/article/166473</link>
             <guid isPermaLink="false">xchuxing:1:166473</guid>
             <pubDate>Sun, 10 May 2026 16:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MG 07 登录 407 批申报目录]]></title>
-            <description><![CDATA[日前，在工信部第 407 批申报目录中，我们能够看到 MG 07 的申报信息。这款专为年轻人打造的7系轿跑，将在今年内正式上市，为 20 万内新能源市场注入正统<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/10/a9f54202605102225597429.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170293</link>
-            <guid isPermaLink="false">xchuxing:1:170293</guid>
-            <pubDate>Sun, 10 May 2026 14:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 357期：与腾势 Z9GT 一起的家庭出游小日记]]></title>
-            <description><![CDATA[踩坑之旅？这次一家三口出游小日记与腾势 Z9GT 一起，最大的感受是，下次一定要错峰出行。<br><img src="https://s1.xchuxing.com/video/2026/05/10/58ebe202605101931557119.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/23951</link>
-            <guid isPermaLink="false">xchuxing:2:23951</guid>
-            <pubDate>Sun, 10 May 2026 12:00:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
