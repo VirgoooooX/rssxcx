@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 14:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 16:37:10 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行情报局 85期：一文了解启境 GT7 现阶段所有信息]]></title>
+            <description><![CDATA[作为广汽与华为乾崑深度联合打造的首款中大型智能猎装轿跑，启境 GT7 自 3 月全球首秀以来，便凭借独特的产品定位与双巨头技术加持，成为新能源猎装车市场最受关注<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/13/daa53202605131653465438.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170371</link>
+            <guid isPermaLink="false">xchuxing:1:170371</guid>
+            <pubDate>Wed, 13 May 2026 15:30:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[有望国内上市 比亚迪SHARK皮卡将加入方程豹产品序列]]></title>
             <description><![CDATA[5 月 13 日，比亚迪正式官宣SHARK皮卡将加入方程豹产品序列，有望年内在国内市场推出。外观方面，比亚迪鲨鱼皮卡造型十分硬朗，越野风格十足。内饰方面则依旧采<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/13/f785c202605132102543028.jpeg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/170325</link>
             <guid isPermaLink="false">xchuxing:1:170325</guid>
             <pubDate>Mon, 11 May 2026 09:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国内新能源车市场 4 月渗透率达 53.2%]]></title>
-            <description><![CDATA[日前，据中国汽车工业协会最新统计， 4 月国内新能源汽车产销 132 万辆和 134.4 万辆，环比增长 7.2% 和 7.4%，同比增长 5.5% 和 9.7<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/11/ef498202605111733174397.png">]]></description>
-            <link>https://www.xchuxing.com/article/170323</link>
-            <guid isPermaLink="false">xchuxing:1:170323</guid>
-            <pubDate>Mon, 11 May 2026 09:36:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
