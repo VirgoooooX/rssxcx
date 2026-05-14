@@ -4,10 +4,31 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 06:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 09:12:28 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[（一起预测）全新一代理想L9起售价价位区间]]></title>
+            <description><![CDATA[[投票选项] 40-44万<br><br>[投票选项] 45-48万<br><br>[投票选项] 49-52万<br><br>[投票选项] 53-56万<br><br>[投票选项] 其它｜评论区交流]]></description>
+            <link>https://www.xchuxing.com/vote/1889</link>
+            <guid isPermaLink="false">xchuxing:7:1889</guid>
+            <pubDate>Thu, 14 May 2026 09:02:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[预售价 39.98 万元 小鹏 GX 将于 5 月 20 日上市]]></title>
+            <description><![CDATA[近日，我们从官方渠道获悉，小鹏 GX 将于 5 月 20 日正式上市。新车此前已开启预售，共推出 2 款配置，预售价均为 39.98 万元。外观方面，小鹏 GX<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/14/55d99202605141514421327.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170435</link>
+            <guid isPermaLink="false">xchuxing:1:170435</guid>
+            <pubDate>Thu, 14 May 2026 07:15:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三大升级点 firefly 萤火虫迎来 aster 紫菀 1.5.0 推送]]></title>
+            <description><![CDATA[5 月 14 日，我们从官方渠道获悉，firefly 萤火虫迎来 aster 紫菀 1.5.0 推送。此次 OTA 升级涵盖三大升级点，包括补能、动力以及体验。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/14/27311202605141453439893.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170433</link>
+            <guid isPermaLink="false">xchuxing:1:170433</guid>
+            <pubDate>Thu, 14 May 2026 07:00:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售补贴价 9.28 万元起 极狐 S3 将于 5 月 22 日上市]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，极狐 S3 将于 5 月 22 日上市。新车已开启预售，充电版推出 4 款配置，预售补贴价 9.28-12.58 万元；换电版推出 2<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/14/cabc8202605140940175388.png">]]></description>
@@ -70,27 +91,6 @@
             <link>https://www.xchuxing.com/article/168902</link>
             <guid isPermaLink="false">xchuxing:1:168902</guid>
             <pubDate>Wed, 13 May 2026 01:14:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CLTC 续航 403km 五菱缤果 Pro 将于 5 月 22 日上市]]></title>
-            <description><![CDATA[日前，五菱官方发布消息，五菱缤果 Pro 将于 5 月 22 日正式上市，新车此前已经开启预售， 预售价为 5.88-7.28 万。 外观方面，五菱缤果 Pro<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/12/46338202605122319378043.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170367</link>
-            <guid isPermaLink="false">xchuxing:1:170367</guid>
-            <pubDate>Tue, 12 May 2026 15:21:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉 Model S 与 Model X 正式停产]]></title>
-            <description><![CDATA[日前，据特斯拉官方消息， 最后一辆 Model S 和 Model X 已在美国加州弗里蒙特工厂正式下线，两款车型正式迎来停产。特斯拉于今年 4 月初悄然停止接<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/12/880a7202605121841589895.png">]]></description>
-            <link>https://www.xchuxing.com/article/170360</link>
-            <guid isPermaLink="false">xchuxing:1:170360</guid>
-            <pubDate>Tue, 12 May 2026 10:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 359期：1800km长途全程换电 乐道L90体验如何？]]></title>
-            <description><![CDATA[五一假期，维圈圈决定首次尝试蔚来/乐道的长途换电生态，一起来看看这1800km的体验到底如何？<br><img src="https://s1.xchuxing.com/video/2026/05/11/b2bd5202605111701094088.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/23984</link>
-            <guid isPermaLink="false">xchuxing:2:23984</guid>
-            <pubDate>Tue, 12 May 2026 10:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
