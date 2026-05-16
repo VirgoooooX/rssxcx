@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 15:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 16:48:04 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -84,13 +84,6 @@
             <link>https://www.xchuxing.com/video/24045</link>
             <guid isPermaLink="false">xchuxing:2:24045</guid>
             <pubDate>Fri, 15 May 2026 08:09:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 211期：静态体验理想 L9 Livis]]></title>
-            <description><![CDATA[终于，理想 L9 迎来了换代。除了三电和尺寸方面的升级外，在底盘和智能化上也有非常大的提升。下面就让我们一起通过本篇文章，先来了解一下理想 L9 Livis 的<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/09/048fa202605091243124571.png">]]></description>
-            <link>https://www.xchuxing.com/article/170255</link>
-            <guid isPermaLink="false">xchuxing:1:170255</guid>
-            <pubDate>Fri, 15 May 2026 08:09:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
