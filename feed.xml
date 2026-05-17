@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 05:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 08:22:30 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预售价 37.18-41.18 万 魏牌 V9X 将于 5 月 18 日上市]]></title>
+            <description><![CDATA[日前，据官方消息，魏牌 V9X 将于 5 月 18 日正式上市，新车此前已开启预售，共推出 3 款配置，预售价区间为 37.18-41.18 万。魏牌 V9X<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/17/694bf202605171509082179.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170577</link>
+            <guid isPermaLink="false">xchuxing:1:170577</guid>
+            <pubDate>Sun, 17 May 2026 07:09:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[览锐第三代 EC 调光玻璃正式搭载全新理想 L9]]></title>
             <description><![CDATA[日前，览锐&福耀联合开发的电动调光玻璃，作为全新理想 L9 主要配置正式亮相。 览锐第三代 EC 技术可实现亮态透光率 10%–12%、暗态最低可至 0.25%<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/16/1586a202605161634265060.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/170488</link>
             <guid isPermaLink="false">xchuxing:1:170488</guid>
             <pubDate>Fri, 15 May 2026 08:18:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 363期：全方位体验理想 L9 Livis]]></title>
-            <description><![CDATA[全新一代理想 L9 正式上市，上市前我们也是提前试驾了理想 L9 Livis，感兴趣的可以了解一下。<br><img src="https://s1.xchuxing.com/video/2026/05/15/61df8202605150942164757.png">]]></description>
-            <link>https://www.xchuxing.com/video/24045</link>
-            <guid isPermaLink="false">xchuxing:2:24045</guid>
-            <pubDate>Fri, 15 May 2026 08:09:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
