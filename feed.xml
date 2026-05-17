@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 14:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 15:34:48 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[四季度量产 国轩高科发布钠离子电池]]></title>
+            <description><![CDATA[日前，国轩高科正式发布-钠晨电池（钠离子），并将于今年四季度正式量产交付。钠晨电池通过无负极结构设计，实现能量密度的大幅跃升，并采用多级预钠化技术，有效降低反应<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/17/3e05d202605172318379561.png">]]></description>
+            <link>https://www.xchuxing.com/article/170597</link>
+            <guid isPermaLink="false">xchuxing:1:170597</guid>
+            <pubDate>Sun, 17 May 2026 15:21:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[5 月底开启预售 一汽悦意 08 正式下线]]></title>
             <description><![CDATA[日前，一汽悦意 08 正式下线，新车定位于品牌旗舰轿车，将于 5 月底开启预售。外观方面，新车采用全新的设计风格，封闭式前格栅搭配“星河飞瀑灯组”，让其有着较强<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/17/5b7d3202605172135264109.png">]]></description>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/article/170510</link>
             <guid isPermaLink="false">xchuxing:1:170510</guid>
             <pubDate>Fri, 15 May 2026 11:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全新理想L9 Ultra外观颜色你会怎么选]]></title>
-            <description><![CDATA[有网友投稿纠结全新理想L9 Ultra外观颜色，想请大家帮个忙投票看看，选出你认为最好看的外观颜色<br><br>[投票选项] 珍珠白金属漆<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/05/15/e5736202605151752337790.jpg"><br><br>[投票选项] 极地灰冷光漆<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/05/15/271ed202605151752392995.jpg"><br><br>[投票选项] 钻石黑金属漆<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/05/15/9e61a20260515175244801.jpg"><br><br>[投票选项] 钛金色金属漆<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/05/15/c04d8202605151752502389.jpg"><br><br>[投票选项] 祖母绿特别版珍珠漆<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/05/15/7d65c202605151752557544.jpg"><br><br>[投票选项] 松露金特别版珍珠漆<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/05/15/6b950202605151753002494.jpg"><br><br>[投票选项] 暗夜紫特别版珍珠漆<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/05/15/42589202605151753045126.jpg">]]></description>
-            <link>https://www.xchuxing.com/vote/1908</link>
-            <guid isPermaLink="false">xchuxing:7:1908</guid>
-            <pubDate>Fri, 15 May 2026 09:53:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
