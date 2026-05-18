@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 13:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 16:42:30 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -77,15 +77,6 @@
             <link>https://www.xchuxing.com/article/170594</link>
             <guid isPermaLink="false">xchuxing:1:170594</guid>
             <pubDate>Sun, 17 May 2026 13:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 365期：10万级公路之王——MG 4X动态试驾]]></title>
-            <description><![CDATA[MG4家族的首款纯电SUV——MG 4X来了！作为10万级公路之王，他的操控感受如何呢？
-
-这次阿鑫来到安徽宣城动态体验MG 4X，看完视频后，希望能给新出行社区的大家提供一些参考！5月底正式上市，据说价格还有惊喜！也欢迎大家到店实车感受一下！<br><img src="https://s1.xchuxing.com/video/2026/05/17/bbf9d202605171319469395.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/24224</link>
-            <guid isPermaLink="false">xchuxing:2:24224</guid>
-            <pubDate>Sun, 17 May 2026 10:11:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
