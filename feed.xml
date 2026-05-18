@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 01:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 05:39:25 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[你看好乐道 L80 月销多少？]]></title>
+            <description><![CDATA[[投票选项] 1 万 +<br><br>[投票选项] 6000–8000<br><br>[投票选项] 3000–5000<br><br>[投票选项] 3000 以下]]></description>
+            <link>https://www.xchuxing.com/vote/1920</link>
+            <guid isPermaLink="false">xchuxing:7:1920</guid>
+            <pubDate>Mon, 18 May 2026 02:47:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[你预计蔚来 2026 Q1 能盈利吗？]]></title>
+            <description><![CDATA[蔚来秦力洪：5月21日蔚来将公布2026 Q1 财报，会进一步让大家看到蔚来的竞争力和护城河。<br><br>[投票选项] 稳赚，延续 Q4 盈利<br><br>[投票选项] 微利 / 打平<br><br>[投票选项] 小亏<br><br>[投票选项] 其他看法，评论区聊聊]]></description>
+            <link>https://www.xchuxing.com/vote/1919</link>
+            <guid isPermaLink="false">xchuxing:7:1919</guid>
+            <pubDate>Mon, 18 May 2026 02:23:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行帮你选 19期：新能源大五座 SUV 怎么选？]]></title>
             <description><![CDATA[近期大五座 SUV 市场迎来了一波新车上市潮，多款定位相近的车型集中亮相，分别有乐道 L80、智己 LS8、领克 900、岚图泰山X8、极氪8X、问界 M8 等<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/17/1910e202605172315546590.jpg">]]></description>
@@ -65,20 +79,6 @@
             <link>https://www.xchuxing.com/article/170512</link>
             <guid isPermaLink="false">xchuxing:1:170512</guid>
             <pubDate>Fri, 15 May 2026 13:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BaaS售价 15.68 万元起 乐道 L80 正式上市]]></title>
-            <description><![CDATA[5 月 15 日，乐道 L80 正式上市，新车共推出三款车型配置，整车售价 24.28-27.98 万元，BaaS售价 15.68-19.38 万元。前脸部分，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/15/bc5f520260515212704815.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170514</link>
-            <guid isPermaLink="false">xchuxing:1:170514</guid>
-            <pubDate>Fri, 15 May 2026 13:27:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行一图 233期：一图看懂 全新理想 L9 Ultra/Livis 对比老款的核心升级点]]></title>
-            <description><![CDATA[5 月 15 日下午，全新理想 L9 发布会如期而至。发布会上发布了全新理想 L9 Ultra/Livis 两款车型，除了明显的价格划分外，他们之间的配置有什么<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/15/404ce20260515211435319.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170507</link>
-            <guid isPermaLink="false">xchuxing:1:170507</guid>
-            <pubDate>Fri, 15 May 2026 13:18:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
