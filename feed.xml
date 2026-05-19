@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 10:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 13:51:18 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[限时售价区间 41.38-44.38 万元 焕新极氪 009 上市]]></title>
+            <description><![CDATA[5 月 19 日，焕新极氪 009 正式上市。新车共推出 3 款配置，权益后限时售价区间 41.38-44.38 万元起。交付时间上，焕新极氪 009 将于 5<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/19/b22ef202605192009288062.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170682</link>
+            <guid isPermaLink="false">xchuxing:1:170682</guid>
+            <pubDate>Tue, 19 May 2026 12:12:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[蔚来2026 Q1整车毛利率能稳住多少？]]></title>
             <description><![CDATA[[投票选项] 18% 以上（和 Q4 持平甚至提升）<br><br>[投票选项] 16%-18% 区间<br><br>[投票选项] 14%-16% 区间<br><br>[投票选项] 低于 14%]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/170634</link>
             <guid isPermaLink="false">xchuxing:1:170634</guid>
             <pubDate>Mon, 18 May 2026 12:57:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推出 3 款配置 焕新极氪 009 将于 5 月 19 日上市]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，焕新极氪 009 将于 5 月 19 日上市。新车于 2026 北京车展上开启预售，将推出 3 款配置。设计方面，焕新极氪 009 完<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/18/75ec0202605181412503701.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170616</link>
-            <guid isPermaLink="false">xchuxing:1:170616</guid>
-            <pubDate>Mon, 18 May 2026 06:14:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
