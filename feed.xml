@@ -4,10 +4,31 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 06:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 10:33:31 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[蔚来2026 Q1整车毛利率能稳住多少？]]></title>
+            <description><![CDATA[[投票选项] 18% 以上（和 Q4 持平甚至提升）<br><br>[投票选项] 16%-18% 区间<br><br>[投票选项] 14%-16% 区间<br><br>[投票选项] 低于 14%]]></description>
+            <link>https://www.xchuxing.com/vote/1930</link>
+            <guid isPermaLink="false">xchuxing:7:1930</guid>
+            <pubDate>Tue, 19 May 2026 08:15:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[搭载 4 颗图灵 AI 芯片 小鹏集团 Robotaxi 首台量产车在下线]]></title>
+            <description><![CDATA[日前，我们从官方渠道获悉，小鹏集团 Robotaxi 首台量产车在广州正式下线。新车基于小鹏旗舰车型 GX 打造，车内搭载 4 颗自研图灵 AI 芯片，有效算力<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/19/b0418202605191548216115.png">]]></description>
+            <link>https://www.xchuxing.com/article/170673</link>
+            <guid isPermaLink="false">xchuxing:1:170673</guid>
+            <pubDate>Tue, 19 May 2026 07:56:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 366期：一汽-大众 ID.AURA T6：克制设计，才是能陪你多年的经典]]></title>
+            <description><![CDATA[一汽-大众 ID.AURA T6这台车没有浮夸、复杂的设计，但细品起来又会觉得很有意思，既有大众车型经典的设计元素，又加入了许多新的设计理念，可能这就是实用自然主义美学的魅力吧。<br><img src="https://s1.xchuxing.com/video/2026/05/19/9adea202605191508499654.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/24301</link>
+            <guid isPermaLink="false">xchuxing:2:24301</guid>
+            <pubDate>Tue, 19 May 2026 07:10:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价 30.29 万元起 岚图泰山 X8 将于 5 月 22 日上市]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，岚图泰山 X8 将于 5 月 22 日正式上市。新车此前已开启预售，插混版共推出 3 款配置，预售区间 30.29-36.99 万元；<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/19/4d062202605191432599517.jpg">]]></description>
@@ -63,27 +84,6 @@
             <link>https://www.xchuxing.com/article/170616</link>
             <guid isPermaLink="false">xchuxing:1:170616</guid>
             <pubDate>Mon, 18 May 2026 06:14:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[峰值功率 738kW 小米 YU7 GT 将于 5 月 21 日上市]]></title>
-            <description><![CDATA[5 月 18 日，我们从官方渠道获悉，小米 YU7 GT 将于 5 月 21 日正式上市，定位适合长途旅行的跑车级 SUV。外观方面，小米 YU7 GT 在延续<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/18/81189202605181357218867.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170613</link>
-            <guid isPermaLink="false">xchuxing:1:170613</guid>
-            <pubDate>Mon, 18 May 2026 06:04:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加快三品牌新能源转型 神龙汽车迈向“在中国 为全球”新篇章]]></title>
-            <description><![CDATA[日前，我们从官方渠道获悉，长江产业投资集团有限公司、武汉金融控股（集团）有限公司、武汉经开产业投资集团有限公司、东风汽车集团股份有限公司、斯泰兰蒂斯集团、神龙汽<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/18/06233202605181340455631.png">]]></description>
-            <link>https://www.xchuxing.com/article/170612</link>
-            <guid isPermaLink="false">xchuxing:1:170612</guid>
-            <pubDate>Mon, 18 May 2026 05:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[你看好乐道 L80 月销多少？]]></title>
-            <description><![CDATA[[投票选项] 1 万 +<br><br>[投票选项] 6000–8000<br><br>[投票选项] 3000–5000<br><br>[投票选项] 3000 以下]]></description>
-            <link>https://www.xchuxing.com/vote/1920</link>
-            <guid isPermaLink="false">xchuxing:7:1920</guid>
-            <pubDate>Mon, 18 May 2026 02:47:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
