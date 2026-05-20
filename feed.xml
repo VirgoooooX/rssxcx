@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 08:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 11:24:22 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[限时售价 41.38 万元起 焕新极氪 009 开启交付]]></title>
+            <description><![CDATA[5 月 20 日，我们从官方渠道获悉，焕新极氪 009 正式开启交付。新车共推出 3 款配置，权益后限时售价区间 41.38-44.38 万元起。设计方面，焕新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/20/53602202605201645344709.png">]]></description>
+            <link>https://www.xchuxing.com/article/170728</link>
+            <guid isPermaLink="false">xchuxing:1:170728</guid>
+            <pubDate>Wed, 20 May 2026 08:46:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价 28.98 万元起 奥迪 E7X 将于 5 月 29 日上市]]></title>
             <description><![CDATA[5 月 20 日，我们从官方渠道获悉，奥迪 E7X 将于 5 月 29 日正式上市。新车此前已开启预售，共推出 5 款配置，预售价区间 28.98-37.98<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/20/0f4b7202605201410305302.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/vote/1930</link>
             <guid isPermaLink="false">xchuxing:7:1930</guid>
             <pubDate>Tue, 19 May 2026 08:15:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[搭载 4 颗图灵 AI 芯片 小鹏集团 Robotaxi 首台量产车在下线]]></title>
-            <description><![CDATA[日前，我们从官方渠道获悉，小鹏集团 Robotaxi 首台量产车在广州正式下线。新车基于小鹏旗舰车型 GX 打造，车内搭载 4 颗自研图灵 AI 芯片，有效算力<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/19/b0418202605191548216115.png">]]></description>
-            <link>https://www.xchuxing.com/article/170673</link>
-            <guid isPermaLink="false">xchuxing:1:170673</guid>
-            <pubDate>Tue, 19 May 2026 07:56:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
