@@ -4,10 +4,31 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 06:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 10:17:47 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 41.99 万元 别克至境世家推出万家版]]></title>
+            <description><![CDATA[近日，别克至境世家推出万家版，售价 41.99 万元，将作为至境世家车系的入门版车型。上市权益方面，至境世家可享终身质保、金石之约等多重权益。动力方面，别克至境<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/22/3abbf202605221728014893.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170832</link>
+            <guid isPermaLink="false">xchuxing:1:170832</guid>
+            <pubDate>Fri, 22 May 2026 09:50:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[售价区间 29.29-37.99 万元 岚图泰山 X8 上市]]></title>
+            <description><![CDATA[5 月 22 日，岚图泰山 X8 正式上市。智能超混版推出 3 款配置，售价区间 29.29-35.99 万元；智能纯电版共推出 2 款配置，售价分别为 33.<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/22/ba67b202605221648075672.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170829</link>
+            <guid isPermaLink="false">xchuxing:1:170829</guid>
+            <pubDate>Fri, 22 May 2026 09:20:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[经营利润 6,680 万元 蔚来发布 2026 年第一季度财报]]></title>
+            <description><![CDATA[日前，蔚来发布 2026 年一季度财报。一季度实现经营利润 6,680 万元，连续两个季度盈利。 一季度总营收 255.3 亿元，同比增长 112.2%。毛利总<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/22/d840c202605221639106610.png">]]></description>
+            <link>https://www.xchuxing.com/article/170828</link>
+            <guid isPermaLink="false">xchuxing:1:170828</guid>
+            <pubDate>Fri, 22 May 2026 08:42:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 367期：伟健静态体验 ID. AURA T6]]></title>
             <description><![CDATA[这款车看着像是大众品牌的车，但细看又不像是传统大众的风格，这就是一汽大众 ID. AURA T6，采用了实用自然主义美学的设计......<br><img src="https://s1.xchuxing.com/video/2026/05/22/fbf8d202605221204486864.jpg">]]></description>
@@ -70,27 +91,6 @@
             <link>https://www.xchuxing.com/article/170781</link>
             <guid isPermaLink="false">xchuxing:1:170781</guid>
             <pubDate>Thu, 21 May 2026 07:34:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 49.98 万元起 全新一代问界 M9 将于 5 月 27 日上市]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，全新一代问界 M9 将于 5 月 27 日上市。预售价方面，问界 M9 预售价为 49.98 万元起；问界 M9 Ultimate 领<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/21/e7105202605211441402986.png">]]></description>
-            <link>https://www.xchuxing.com/article/170778</link>
-            <guid isPermaLink="false">xchuxing:1:170778</guid>
-            <pubDate>Thu, 21 May 2026 07:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 11.28 万元起 吉利银河星耀 7 将于 5 月 22 日上市]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，吉利银河星耀 7 将于 5 月 22 日正式上市。新车此前已开启预售，共推出 4 款配置，预售价区间 11.28-14.28 万元。外<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/21/5c636202605211354275174.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170773</link>
-            <guid isPermaLink="false">xchuxing:1:170773</guid>
-            <pubDate>Thu, 21 May 2026 06:27:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来2026 Q1财报前瞻：你最关心哪项？]]></title>
-            <description><![CDATA[[投票选项] Q1 交付量 & 毛利率<br><br>[投票选项] 换电网络 / 服务收入<br><br>[投票选项] 2026 全年销量 & 盈利目标<br><br>[投票选项] 其他关注点，评论区聊聊]]></description>
-            <link>https://www.xchuxing.com/vote/1944</link>
-            <guid isPermaLink="false">xchuxing:7:1944</guid>
-            <pubDate>Thu, 21 May 2026 05:53:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
