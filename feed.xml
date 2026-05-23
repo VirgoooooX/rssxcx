@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 07:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 09:19:27 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 368期：伟健静态体验东风奕派M8]]></title>
+            <description><![CDATA[奕派M8是东风集团最新推出的一款专为年轻家庭打造的大六座 SUV，同时还加入了华为乾崑技术！<br><img src="https://s1.xchuxing.com/video/2026/05/22/8c386202605222157471262.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/24432</link>
+            <guid isPermaLink="false">xchuxing:2:24432</guid>
+            <pubDate>Sat, 23 May 2026 09:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[计划 6 月正式上市 启境 GT7 将于 5 月 29 日预售]]></title>
             <description><![CDATA[5 月 23 日，我们从官方渠道获悉，启境 GT7 将于 5 月 29 日正式开启预售。根据此前的规划来看，新车将于 6 月正式上市并开启交付。设计方面，启境<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/23/c3ddc202605231412282201.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/24420</link>
             <guid isPermaLink="false">xchuxing:2:24420</guid>
             <pubDate>Fri, 22 May 2026 04:06:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCX-Test续航实测 78期：零跑D19 增程版纯电续航、油耗及充电测试]]></title>
-            <description><![CDATA[零跑 D 系列首款车型 D19 已经正式上市并开启交付，售价 21.98-26.98 万元。这款车型不仅在价格上捅破了 9 系 SUV 的天花板，在三电上的表现<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/21/1bd8b202605212027375798.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170622</link>
-            <guid isPermaLink="false">xchuxing:1:170622</guid>
-            <pubDate>Thu, 21 May 2026 16:00:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
