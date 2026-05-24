@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 01:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 05:33:34 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[限时售价区间 10.99-11.99 万元 大众与众 07 上市]]></title>
+            <description><![CDATA[日前，大众与众 07 正式上市。新车共推出 2 款配置，限时权益价分别为 10.99 万元和 11.99 万元。此外，新车将上市即交付。权益刚面，在 5 月 3<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/24/0b4e1202605241036406140.png">]]></description>
+            <link>https://www.xchuxing.com/article/170915</link>
+            <guid isPermaLink="false">xchuxing:1:170915</guid>
+            <pubDate>Sun, 24 May 2026 02:42:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 368期：伟健静态体验东风奕派M8]]></title>
             <description><![CDATA[奕派M8是东风集团最新推出的一款专为年轻家庭打造的大六座 SUV，同时还加入了华为乾崑技术！<br><img src="https://s1.xchuxing.com/video/2026/05/22/8c386202605222157471262.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/170828</link>
             <guid isPermaLink="false">xchuxing:1:170828</guid>
             <pubDate>Fri, 22 May 2026 08:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 367期：伟健静态体验 ID. AURA T6]]></title>
-            <description><![CDATA[这款车看着像是大众品牌的车，但细看又不像是传统大众的风格，这就是一汽大众 ID. AURA T6，采用了实用自然主义美学的设计......<br><img src="https://s1.xchuxing.com/video/2026/05/22/fbf8d202605221204486864.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/24420</link>
-            <guid isPermaLink="false">xchuxing:2:24420</guid>
-            <pubDate>Fri, 22 May 2026 04:06:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
