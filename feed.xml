@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 May 2026 22:52:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 23:57:40 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX-Test续航实测 78期：腾势 N8L 纯电续航、油耗及充电测试]]></title>
+            <description><![CDATA[虽然我们都知道腾势 N8L 即将推出闪充版车型，但现在毕竟还没有试驾车。同时我也好奇新款预售价贵挺多，那相比老款在三电方面的能力究竟能提升多少。所以趁着现款在售<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/20/511bf20260520192338542.png">]]></description>
+            <link>https://www.xchuxing.com/article/170478</link>
+            <guid isPermaLink="false">xchuxing:1:170478</guid>
+            <pubDate>Mon, 25 May 2026 23:04:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[奔驰计划年底在德国推出城市辅助驾驶系统]]></title>
             <description><![CDATA[梅赛德斯-奔驰表示，计划从今年年底开始在德国推出其城市点对点辅助驾驶系统，旨在成为首批在欧洲提供该技术的汽车制造商之一。梅赛德斯-奔驰发言人表示，公司计划首先在<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/25/d2833202605252204117893.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/24432</link>
             <guid isPermaLink="false">xchuxing:2:24432</guid>
             <pubDate>Sat, 23 May 2026 09:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[计划 6 月正式上市 启境 GT7 将于 5 月 29 日预售]]></title>
-            <description><![CDATA[5 月 23 日，我们从官方渠道获悉，启境 GT7 将于 5 月 29 日正式开启预售。根据此前的规划来看，新车将于 6 月正式上市并开启交付。设计方面，启境<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/23/c3ddc202605231412282201.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170882</link>
-            <guid isPermaLink="false">xchuxing:1:170882</guid>
-            <pubDate>Sat, 23 May 2026 06:12:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
