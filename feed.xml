@@ -4,10 +4,31 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 May 2026 23:57:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 02:58:05 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[基于 SPA2 纯电平台打造 沃尔沃 EX90/ES90 将于 5 月 29 日上市]]></title>
+            <description><![CDATA[日前，我们从官方渠道获悉，沃尔沃 EX90 与沃尔沃 ES90 将于 5 月 29 日正式上市。沃尔沃 EX90 共推出 2 款配置，预售价分别为 53.99<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/26/d38f3202605261002057759.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/170996</link>
+            <guid isPermaLink="false">xchuxing:1:170996</guid>
+            <pubDate>Tue, 26 May 2026 02:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 369期：全网独家！纯电法拉利LUCE终见真容]]></title>
+            <description><![CDATA[一束照向未来的光，厚厚一沓子保密协议此时此刻终于失效了，万众期待的法拉利历史上首款纯电车型LUCE在刚刚正式全球发布。
+
+四万大叔也终于可以放出视频和大家聊聊这辆注定会掀起骇浪的新车。
+
+看见LUCE的第一眼，我相信所有人都会被震撼到。尽管我们现在已经习惯了被各种各样的电动新车发布轰炸，但我依然会把法拉利LUCE的发布视为人类交通工具发展中的一个历史性时刻！毕竟它是高傲的法拉利，这个最擅长生产梦幻跑车的品牌所推出的首款纯电产品注定有定格时代的实力。
+
+在今年2月份看完LUCE内饰设计的我已经打过有关震撼预的防针了，但这次作为亚洲唯一的媒体前往欧洲，提前看到LUCE的那一刻，我的呼吸和心跳频率还是出现了巨大的波动。
+它的造型完全脱离了我最早对它的想法，曾经我以为法拉利首款电车或许会是猎装车、四门轿跑等主流造型，但LUCE彻底打破固有认知，以一套全新原创设计，展现出极致大胆的科幻质感。<br><img src="https://s1.xchuxing.com/video/2026/05/26/8cbf6202605260908528146.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/24505</link>
+            <guid isPermaLink="false">xchuxing:2:24505</guid>
+            <pubDate>Tue, 26 May 2026 01:59:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX-Test续航实测 78期：腾势 N8L 纯电续航、油耗及充电测试]]></title>
             <description><![CDATA[虽然我们都知道腾势 N8L 即将推出闪充版车型，但现在毕竟还没有试驾车。同时我也好奇新款预售价贵挺多，那相比老款在三电方面的能力究竟能提升多少。所以趁着现款在售<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/20/511bf20260520192338542.png">]]></description>
@@ -77,20 +98,6 @@
             <link>https://www.xchuxing.com/article/170920</link>
             <guid isPermaLink="false">xchuxing:1:170920</guid>
             <pubDate>Sun, 24 May 2026 06:49:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[限时售价区间 10.99-11.99 万元 大众与众 07 上市]]></title>
-            <description><![CDATA[日前，大众与众 07 正式上市。新车共推出 2 款配置，限时权益价分别为 10.99 万元和 11.99 万元。此外，新车将上市即交付。权益刚面，在 5 月 3<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/24/0b4e1202605241036406140.png">]]></description>
-            <link>https://www.xchuxing.com/article/170915</link>
-            <guid isPermaLink="false">xchuxing:1:170915</guid>
-            <pubDate>Sun, 24 May 2026 02:42:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 368期：伟健静态体验东风奕派M8]]></title>
-            <description><![CDATA[奕派M8是东风集团最新推出的一款专为年轻家庭打造的大六座 SUV，同时还加入了华为乾崑技术！<br><img src="https://s1.xchuxing.com/video/2026/05/22/8c386202605222157471262.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/24432</link>
-            <guid isPermaLink="false">xchuxing:2:24432</guid>
-            <pubDate>Sat, 23 May 2026 09:00:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
