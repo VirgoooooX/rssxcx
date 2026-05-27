@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 03:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 07:56:22 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[当姚明实测蔚来 ES9！你更关心哪一项体验？]]></title>
+            <description><![CDATA[2.26 米身高近距离体验蔚来 ES9，堪称 “天然空间检测仪”。不用看参数，真人上车直观感受座舱表现，这波名场面太有画面感。你会更关注哪个体验细节？<br><br>[投票选项] 前排头部 & 腿部空间余量<br><br>[投票选项] 第二排乘坐、进出便利性<br><br>[投票选项] 座椅包裹性与支撑，适配大体型<br><br>[投票选项] 车内视野、A 柱遮挡情况<br><br>[投票选项] 后排乘坐配合腿部空间综合表现<br><br>[投票选项] 其他，评论区聊聊]]></description>
+            <link>https://www.xchuxing.com/vote/1988</link>
+            <guid isPermaLink="false">xchuxing:7:1988</guid>
+            <pubDate>Wed, 27 May 2026 06:11:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 371期：一个视频和大家讲明白蔚来NWM全新版本进化了什么！]]></title>
             <description><![CDATA[蔚来NWM「再进化」了什么？一个视频和大家讲明白蔚来NWM全新版本...<br><img src="https://s1.xchuxing.com/video/2026/05/27/6fccf202605270055363523.jpg">]]></description>
@@ -93,13 +100,6 @@
             <link>https://www.xchuxing.com/article/170985</link>
             <guid isPermaLink="false">xchuxing:1:170985</guid>
             <pubDate>Mon, 25 May 2026 13:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[别克至境 L7 纯电版将于第三季度上市]]></title>
-            <description><![CDATA[从官方获悉，别克至境 L7 纯电版将于今年第三季度上市。据悉，该车将全系标配 800V 架构、搭载 6C 快充、并且全系车型续航将超 700km。续航方面目前并<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/25/86bcc20260525213001483.png">]]></description>
-            <link>https://www.xchuxing.com/article/170984</link>
-            <guid isPermaLink="false">xchuxing:1:170984</guid>
-            <pubDate>Mon, 25 May 2026 13:32:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
