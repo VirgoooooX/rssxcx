@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 23:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 03:41:18 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 371期：一个视频和大家讲明白蔚来NWM全新版本进化了什么！]]></title>
+            <description><![CDATA[蔚来NWM「再进化」了什么？一个视频和大家讲明白蔚来NWM全新版本...<br><img src="https://s1.xchuxing.com/video/2026/05/27/6fccf202605270055363523.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/24527</link>
+            <guid isPermaLink="false">xchuxing:2:24527</guid>
+            <pubDate>Wed, 27 May 2026 01:00:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 370期：无界美学 ×  AI座舱， Flyme Auto 2.3深度实测！]]></title>
             <description><![CDATA[过去的很长一段时间，Flyme Auto 凭借独树一帜的交互美学，成为不少用户心中的标杆。Flyme Auto 2的到来，又率先把有温度的情感化 AI 座舱带入大众视野。
@@ -93,13 +100,6 @@
             <link>https://www.xchuxing.com/article/170984</link>
             <guid isPermaLink="false">xchuxing:1:170984</guid>
             <pubDate>Mon, 25 May 2026 13:32:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上新好物｜向物手持充电宝风扇]]></title>
-            <description><![CDATA[当夏日热浪裹挟日常，每一次出门都该成为奔赴清凉的自在旅程。 以科技为刃，以冰意为息，重新定义随身纳凉的舒适美学。 摒弃笨重与单调，用全能设计打磨每一处巧思，让冷<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/25/f945220260525102825380.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/170955</link>
-            <guid isPermaLink="false">xchuxing:1:170955</guid>
-            <pubDate>Mon, 25 May 2026 02:36:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
