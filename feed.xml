@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 May 2026 14:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 17:49:04 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 374期：漫游模式好不好用？小鹏XOS 620 来了]]></title>
+            <description><![CDATA[漫游模式好不好用？漫游模式的边界到底在哪里？这次我们一个视频和大家聊聊 XOS 620 最新表现...<br><img src="https://s1.xchuxing.com/video/2026/05/28/93b44202605282255354656.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/24587</link>
+            <guid isPermaLink="false">xchuxing:2:24587</guid>
+            <pubDate>Thu, 28 May 2026 16:14:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 12.99-15.99 万元 比亚迪宋Ultra DM-i 正式上市]]></title>
             <description><![CDATA[5 月 28 日，比亚迪宋Ultra DM-i 正式上市，新车推出五款车型配置，售价 12.99-15.99 万元。外观方面，新车依旧延续王朝“龙颜美学”设计，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/28/6cbd3202605282122534119.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171069</link>
             <guid isPermaLink="false">xchuxing:1:171069</guid>
             <pubDate>Wed, 27 May 2026 10:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全新一代问界M9 你会选哪个版本？]]></title>
-            <description><![CDATA[如果给你选择全新一代问界M9，你会选择哪个版本？（价格不算补贴的情况下，仅供参考）<br><br>[投票选项] 2026款 增程 Max+五座版 47.98万<br><br>[投票选项] 2026款 增程 Ultra 五座版 53.98万<br><br>[投票选项] 2026款 增程 Ultimate 五座版 64.98万<br><br>[投票选项] 2026款 增程 Max+ 六座版 47.98万<br><br>[投票选项] 2026款 增程 Ultra 六座版<br><br>[投票选项] 2026款 增程 Ultimate 六座版 65.98万]]></description>
-            <link>https://www.xchuxing.com/vote/1990</link>
-            <guid isPermaLink="false">xchuxing:7:1990</guid>
-            <pubDate>Wed, 27 May 2026 09:48:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
