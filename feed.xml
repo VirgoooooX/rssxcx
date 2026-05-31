@@ -4,12 +4,19 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 23:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 02:39:04 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[新出行视频 376期：外观有哪些变化？一汽大众ID.AURA T6龙船特别版！]]></title>
+            <title><![CDATA[新出行视频 377期：2026 粤港澳车展｜firefly 萤火虫敞篷版来了？]]></title>
+            <description><![CDATA[irefly萤火虫要出敞篷版了？和大家抢先围观一下！<br><img src="https://s1.xchuxing.com/video/2026/05/31/a3eec20260531101919257.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/24698</link>
+            <guid isPermaLink="false">xchuxing:2:24698</guid>
+            <pubDate>Sun, 31 May 2026 02:20:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 376期：2026 粤港澳车展｜外观有哪些变化？一汽大众ID.AURA T6龙船特别版！]]></title>
             <description><![CDATA[外观有哪些变化？这次和大家聊聊一汽大众ID.AURA T6龙船特别版！<br><img src="https://s1.xchuxing.com/video/2026/05/30/d5801202605301623288252.jpg">]]></description>
             <link>https://www.xchuxing.com/video/24672</link>
             <guid isPermaLink="false">xchuxing:2:24672</guid>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171196</link>
             <guid isPermaLink="false">xchuxing:1:171196</guid>
             <pubDate>Fri, 29 May 2026 06:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 粤港澳车展 ｜ 实拍奥迪 A6L e-tron]]></title>
-            <description><![CDATA[5 月 29 日，奥迪 A6L e-tron 在 2026 粤港澳大湾区车展中亮相。奥迪 A6L e-tron 在 4 月 10 日正式上市。新车共推出 4<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/29/b291f202605291408479881.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171193</link>
-            <guid isPermaLink="false">xchuxing:1:171193</guid>
-            <pubDate>Fri, 29 May 2026 06:16:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
