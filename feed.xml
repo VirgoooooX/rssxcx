@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 12:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 14:28:02 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[对话大众安徽数字销售与服务有限公司首席运营官刘展术]]></title>
+            <description><![CDATA[在本届粤港澳车展上，我们与大众汽车（安徽）数字销售与服务有限公司首席运营官刘展术先生进行了一次对话。以下是本次对话的内容。提问：想问一下大众安徽之后的业务布局是<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/31/00bd0202605312124527001.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/171325</link>
+            <guid isPermaLink="false">xchuxing:1:171325</guid>
+            <pubDate>Sun, 31 May 2026 13:32:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价 21.99-30.99 万 启境 GT7 开启预售]]></title>
             <description><![CDATA[日前，启境 GT7 开启预售，新车共推出四款配置车型，预售价区间为 21.99-30.99 万。外观方面，前脸采用优雅张力美学，封闭式格栅下方采用分段式散热开口<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/31/f51b6202605311545457087.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171217</link>
             <guid isPermaLink="false">xchuxing:1:171217</guid>
             <pubDate>Fri, 29 May 2026 09:42:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 粤港澳车展 | 售价 16.99 万元起 上汽大众帕萨特 ePro/途观 L ePro 上市]]></title>
-            <description><![CDATA[5 月 29 日，上汽大众帕萨特 ePro 与途观 L ePro 正式上市。帕萨特 ePro 推出 3 款配置，售价区间 16.99-20.39 万元；途观 L<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/29/1d39a202605291638477543.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171214</link>
-            <guid isPermaLink="false">xchuxing:1:171214</guid>
-            <pubDate>Fri, 29 May 2026 08:54:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
