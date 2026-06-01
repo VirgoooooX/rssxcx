@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 09:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 15:49:00 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[计划年内建成 3000 站 宁德时代巧克力换电正加速建设]]></title>
+            <description><![CDATA[日前，巧克力换电官宣，2025 年在全国 45 座城市共建设 1020 座换电站。截至 2026 年 5 月，巧克力换电站在全国范围内落 1650 座，覆盖 1<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/01/d45c7202606011821453652.png">]]></description>
+            <link>https://www.xchuxing.com/article/171368</link>
+            <guid isPermaLink="false">xchuxing:1:171368</guid>
+            <pubDate>Mon, 01 Jun 2026 10:27:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 378期：开启旗舰底盘新时代 解读全新华为途灵龙行平台]]></title>
+            <description><![CDATA[三轮行驶、飞坡不跳、绕桩更稳，这套全新华为途灵龙行平台有什么魔力，本期视频就来和大家聊一聊。<br><img src="https://s1.xchuxing.com/video/2026/06/01/c5a59202606011756573604.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/24746</link>
+            <guid isPermaLink="false">xchuxing:2:24746</guid>
+            <pubDate>Mon, 01 Jun 2026 09:59:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[如果让你极限二选一，L03还是L05]]></title>
             <description><![CDATA[[投票选项] 小鹏Mona L03<br><br>[投票选项] 小鹏Mona L05<br><br>[投票选项] 我都要<br><br>[投票选项] 其它｜评论区留下车型]]></description>
@@ -77,20 +91,6 @@
             <link>https://www.xchuxing.com/video/24672</link>
             <guid isPermaLink="false">xchuxing:2:24672</guid>
             <pubDate>Sat, 30 May 2026 08:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[探访零跑超级五电工厂：藏在70个足球场下的自研“肌肉”]]></title>
-            <description><![CDATA[“全域自研”这个词在汽车圈并不新鲜，但真正把它从口号做成体系，并且敢于把媒体请进核心零部件车间一探究竟的，零跑是少数之一。这次我们走进的，是零跑位于湖州的超级五<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/29/2c6dd202605292055167124.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171243</link>
-            <guid isPermaLink="false">xchuxing:1:171243</guid>
-            <pubDate>Fri, 29 May 2026 12:59:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行一图 235期：一图看懂沃尔沃EX90/ES90 核心配置亮点]]></title>
-            <description><![CDATA[好开，才是豪华的尽头。沃尔沃EX90/ES90上市，不卷尺寸、不堆配置，把功夫下在了准、稳、安心和扎实续航上。开过就懂，北欧旗舰该有的样子。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/29/3d1b0202605291947107582.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171240</link>
-            <guid isPermaLink="false">xchuxing:1:171240</guid>
-            <pubDate>Fri, 29 May 2026 11:50:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
