@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Jun 2026 10:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 15:11:30 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[围绕充电网络合作 比亚迪与中国石化签署战略合作协议]]></title>
+            <description><![CDATA[日前，比亚迪与中国石化正式签署战略合作框架协议，双方将围绕充电网络、车主生态及产业链上下游开展产业与资本合作。面相用户端，此次合作重点在于充电网络建设领域实现互<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/03/aee72202606032034087197.png">]]></description>
+            <link>https://www.xchuxing.com/article/171479</link>
+            <guid isPermaLink="false">xchuxing:1:171479</guid>
+            <pubDate>Wed, 03 Jun 2026 12:34:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[多方联合研发 奇瑞计划于日本推出纯电 K-CAR]]></title>
+            <description><![CDATA[日前，据相关报道，奇瑞汽车计划于明年春季在日本推出一款纯电微型车。奇瑞汽车将联合四家合作伙伴，共同打造全新电动品牌 EMTA，并已在日本横滨成立运营公司。该企业<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/03/5a8a8202606032012438972.png">]]></description>
+            <link>https://www.xchuxing.com/article/171478</link>
+            <guid isPermaLink="false">xchuxing:1:171478</guid>
+            <pubDate>Wed, 03 Jun 2026 12:19:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[广州首座五代站落地，你最看重五代站哪项升级？]]></title>
             <description><![CDATA[[投票选项] 全车型通吃：从萤火虫小车到蔚来ES9全兼容<br><br>[投票选项] 换电提速：网传比四代站再快不少<br><br>[投票选项] 电池仓扩容、单日接单更高，高峰少排队<br><br>[投票选项] 后续对外开放换电联盟，其他品牌也能用<br><br>[投票选项] 其他，评论区聊聊]]></description>
@@ -81,20 +95,6 @@
             <link>https://www.xchuxing.com/article/171368</link>
             <guid isPermaLink="false">xchuxing:1:171368</guid>
             <pubDate>Mon, 01 Jun 2026 10:27:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 378期：开启旗舰底盘新时代 解读全新华为途灵龙行平台]]></title>
-            <description><![CDATA[三轮行驶、飞坡不跳、绕桩更稳，这套全新华为途灵龙行平台有什么魔力，本期视频就来和大家聊一聊。<br><img src="https://s1.xchuxing.com/video/2026/06/01/c5a59202606011756573604.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/24746</link>
-            <guid isPermaLink="false">xchuxing:2:24746</guid>
-            <pubDate>Mon, 01 Jun 2026 09:59:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[如果让你极限二选一，L03还是L05]]></title>
-            <description><![CDATA[[投票选项] 小鹏Mona L03<br><br>[投票选项] 小鹏Mona L05<br><br>[投票选项] 我都要<br><br>[投票选项] 其它｜评论区留下车型]]></description>
-            <link>https://www.xchuxing.com/vote/2017</link>
-            <guid isPermaLink="false">xchuxing:7:2017</guid>
-            <pubDate>Mon, 01 Jun 2026 07:26:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
