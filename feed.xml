@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 09:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 12:25:26 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[推进自有品牌发展 印度塔塔汽车拟引进奇瑞整车平台]]></title>
+            <description><![CDATA[日前，据外媒报道，印度塔塔汽车计划从奇瑞汽车引进整车制造平台授权，以推进其高端电动品牌 Avinya 的量产计划。据悉，塔塔汽车原计划采用捷豹路虎 EMA 电动<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/04/55755202606041723095377.png">]]></description>
+            <link>https://www.xchuxing.com/article/171528</link>
+            <guid isPermaLink="false">xchuxing:1:171528</guid>
+            <pubDate>Thu, 04 Jun 2026 09:24:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[全新设计语言 宝马 iX5 M 谍照曝光]]></title>
             <description><![CDATA[日前，据外媒报道，宝马 iX5 M 原型车路试谍照曝光，新车将采用全新设计语言，并未像 iX3 一样采用新世代设计。侧面可以看到车顶的原装小尾翼，并车身线条依旧<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/04/fc76c202606041637569876.png">]]></description>
@@ -88,13 +95,6 @@
             <link>https://www.xchuxing.com/video/24794</link>
             <guid isPermaLink="false">xchuxing:2:24794</guid>
             <pubDate>Wed, 03 Jun 2026 02:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当你要购买小米增程SUV，你会更偏向购买几座版？]]></title>
-            <description><![CDATA[市面在售的上大多数SUV 有5/6/7座的配置可选择，当你要购买小米增程SUV，你会更偏向购买几座版？<br><br>[投票选项] 五座<br><br>[投票选项] 六座<br><br>[投票选项] 七座<br><br>[投票选项] 我另有考虑丨评论区聊聊]]></description>
-            <link>https://www.xchuxing.com/vote/2028</link>
-            <guid isPermaLink="false">xchuxing:7:2028</guid>
-            <pubDate>Wed, 03 Jun 2026 02:12:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
