@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 06:59:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 10:49:59 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[基于 MEB+ 平台打造 大众 ID.POLO 正式下线]]></title>
+            <description><![CDATA[近日，我们从官方渠道获悉，大众 ID.POLO 正式下线。新车基于 MEB+ 平台打造，海外起售价 24995 欧元（约合人民币 19.69 万元）。外观方面，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/05/7737e202606051513476143.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/171567</link>
+            <guid isPermaLink="false">xchuxing:1:171567</guid>
+            <pubDate>Fri, 05 Jun 2026 07:15:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价 34.9 万元起  奔驰纯电 GLC 开启预售]]></title>
             <description><![CDATA[6 月 5 日，全新梅赛德斯 - 奔驰纯电 GLC SUV 五座高配—鎏金版开启预售，预售价 34.9 万元起。目前，新车已经陆续到达全国经销商店内，供客户品鉴<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/05/f181e202606051025314088.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171499</link>
             <guid isPermaLink="false">xchuxing:1:171499</guid>
             <pubDate>Thu, 04 Jun 2026 01:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[16.99万元起，领克10+和领克10正式上市，以全维实力重塑中大型运动纯电体验]]></title>
-            <description><![CDATA[作为领克面向中大型运动纯电轿车市场打造的重磅产品，领克10+和领克10正式上市发售。以纯粹运动造型、进阶三电技术、人车合一底盘调校、全维智能科技与超纲安全体系，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/04/1429c202606040853416441.png">]]></description>
-            <link>https://www.xchuxing.com/article/171491</link>
-            <guid isPermaLink="false">xchuxing:1:171491</guid>
-            <pubDate>Thu, 04 Jun 2026 00:53:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
