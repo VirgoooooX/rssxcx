@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Jun 2026 15:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 17:06:17 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行帮你选 21期：小米 YU7 配置详解与探店信息全汇总]]></title>
+            <description><![CDATA[随着小米 YU7 GT 与标准版正式上市，小米汽车的首款 SUV 产品矩阵已全面成型，从主打性价比的标准版到追求极致性能的 GT，5 款配置精准覆盖不同预算和使<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/05/2f484202606051016557850.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/171351</link>
+            <guid isPermaLink="false">xchuxing:1:171351</guid>
+            <pubDate>Sun, 07 Jun 2026 15:57:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[特斯拉新一代 Roadster 首秀再度推迟]]></title>
             <description><![CDATA[日前，据外媒报道，特斯拉旗下旗舰纯电超跑新一代 Roadster 的公开展示活动再度延期，亮相时间调整至 8 月，不排除继续延后的可能。据悉，Roadster<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/07/138a7202606072227237269.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171528</link>
             <guid isPermaLink="false">xchuxing:1:171528</guid>
             <pubDate>Thu, 04 Jun 2026 09:24:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全新设计语言 宝马 iX5 M 谍照曝光]]></title>
-            <description><![CDATA[日前，据外媒报道，宝马 iX5 M 原型车路试谍照曝光，新车将采用全新设计语言，并未像 iX3 一样采用新世代设计。侧面可以看到车顶的原装小尾翼，并车身线条依旧<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/04/fc76c202606041637569876.png">]]></description>
-            <link>https://www.xchuxing.com/article/171527</link>
-            <guid isPermaLink="false">xchuxing:1:171527</guid>
-            <pubDate>Thu, 04 Jun 2026 08:42:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
