@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Jun 2026 14:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 17:32:13 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 215期：圆润中藏匿的温柔 静态体验新款萤火虫]]></title>
+            <description><![CDATA[从上市之初被群嘲「六眼飞鱼」、「最丑小车」，被各种不看好， 到如今站稳 10 万级高端纯电小车第一梯队，firefly 萤火虫用超 5 万台累计交付、多个一线城<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/01/49de6202606011752065843.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/171128</link>
+            <guid isPermaLink="false">xchuxing:1:171128</guid>
+            <pubDate>Mon, 08 Jun 2026 16:01:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行车友共聚｜智能座舱茶话会招募]]></title>
             <description><![CDATA[平时开车的时候，你有没有忍不住吐槽过车机？——是语音反应慢？还是系统Bug多？又或者是交互还不够走心？随着AI Agent 时代到来，我们注意到，越来越多的新能<br><img src="https://s3.xchuxing.com/xchuxing/article/2026/06/05/3064d202606051717119156.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171555</link>
             <guid isPermaLink="false">xchuxing:1:171555</guid>
             <pubDate>Fri, 05 Jun 2026 02:38:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现款国产宝马 i3 将于 8 月停产]]></title>
-            <description><![CDATA[近日，我们从相关渠道获悉，现款国产宝马 i3 将于 8 月停产。值得一提的是，现款在售的宝马 i3 是品牌首款国产纯电轿车。有消息称，新世代宝马 i3 将于今年<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/05/75394202606050915236303.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171554</link>
-            <guid isPermaLink="false">xchuxing:1:171554</guid>
-            <pubDate>Fri, 05 Jun 2026 01:44:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
