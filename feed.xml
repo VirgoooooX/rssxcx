@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Jun 2026 05:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 09:58:52 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行车友共聚｜智能座舱茶话会招募]]></title>
+            <description><![CDATA[平时开车的时候，你有没有忍不住吐槽过车机？——是语音反应慢？还是系统Bug多？又或者是交互还不够走心？随着AI Agent 时代到来，我们注意到，越来越多的新能<br><img src="https://s3.xchuxing.com/xchuxing/article/2026/06/05/3064d202606051717119156.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/210</link>
+            <guid isPermaLink="false">xchuxing:25:210</guid>
+            <pubDate>Mon, 08 Jun 2026 06:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[超越宝马奔驰 特斯拉 5 月韩国销量 10,866辆]]></title>
             <description><![CDATA[根据官方的统计数据表示，今年 5 月，特斯拉在韩国进口车市场中的销量为 10,866 辆，位居第一，占当月进口车总销量 29,860 辆的 36.39%。同期，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/08/0efc9202606081103171879.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171554</link>
             <guid isPermaLink="false">xchuxing:1:171554</guid>
             <pubDate>Fri, 05 Jun 2026 01:44:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 380期：新 L60 搭载神玑芯片同级什么段位？新乐道L60来了！]]></title>
-            <description><![CDATA[新 L60 升级了神玑芯片和激光雷达，它的表现在同级什么段位？这次我们用一个视频和大家聊聊！<br><img src="https://s1.xchuxing.com/video/2026/06/05/cf72b202606050910272796.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/24844</link>
-            <guid isPermaLink="false">xchuxing:2:24844</guid>
-            <pubDate>Fri, 05 Jun 2026 01:17:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
