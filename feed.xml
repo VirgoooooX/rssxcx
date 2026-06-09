@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 02:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 06:30:15 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[蔚来 ES8+ES9 月销会破 2W 吗]]></title>
+            <description><![CDATA[[投票选项] 会<br><br>[投票选项] 不会<br><br>[投票选项] 其它]]></description>
+            <link>https://www.xchuxing.com/vote/2067</link>
+            <guid isPermaLink="false">xchuxing:7:2067</guid>
+            <pubDate>Tue, 09 Jun 2026 03:26:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 215期：圆润中藏匿的温柔 静态体验新款萤火虫]]></title>
             <description><![CDATA[从上市之初被群嘲「六眼飞鱼」、「最丑小车」，被各种不看好， 到如今站稳 10 万级高端纯电小车第一梯队，firefly 萤火虫用超 5 万台累计交付、多个一线城<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/01/49de6202606011752065843.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171567</link>
             <guid isPermaLink="false">xchuxing:1:171567</guid>
             <pubDate>Fri, 05 Jun 2026 07:15:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 34.9 万元起  奔驰纯电 GLC 开启预售]]></title>
-            <description><![CDATA[6 月 5 日，全新梅赛德斯 - 奔驰纯电 GLC SUV 五座高配—鎏金版开启预售，预售价 34.9 万元起。目前，新车已经陆续到达全国经销商店内，供客户品鉴<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/05/f181e202606051025314088.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171555</link>
-            <guid isPermaLink="false">xchuxing:1:171555</guid>
-            <pubDate>Fri, 05 Jun 2026 02:38:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
