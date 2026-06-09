@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 06:30:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 10:09:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[持续领跑大型 SUV 销量 蔚来全新 ES8 5月销量 11472 台]]></title>
+            <description><![CDATA[6 月 9 日，据官方消息，蔚来全新 ES8 在 5 月零售销量为 11472 台。在大型 SUV 以及 40 万元以上市场已连续六个月蝉联榜首。智能辅助驾驶方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/09/43b89202606091740081961.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/171695</link>
+            <guid isPermaLink="false">xchuxing:1:171695</guid>
+            <pubDate>Tue, 09 Jun 2026 09:40:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[蔚来 ES8+ES9 月销会破 2W 吗]]></title>
             <description><![CDATA[[投票选项] 会<br><br>[投票选项] 不会<br><br>[投票选项] 其它]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171594</link>
             <guid isPermaLink="false">xchuxing:1:171594</guid>
             <pubDate>Sat, 06 Jun 2026 13:10:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[基于 MEB+ 平台打造 大众 ID.POLO 正式下线]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，大众 ID.POLO 正式下线。新车基于 MEB+ 平台打造，海外起售价 24995 欧元（约合人民币 19.69 万元）。外观方面，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/05/7737e202606051513476143.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171567</link>
-            <guid isPermaLink="false">xchuxing:1:171567</guid>
-            <pubDate>Fri, 05 Jun 2026 07:15:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
