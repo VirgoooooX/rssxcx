@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2026 07:00:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 10:58:39 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[同价位对比，你认为新乐道 L60 智驾竞争力如何？]]></title>
+            <description><![CDATA[[投票选项] 竞争力很强，神玑+激光雷达+NWM世界模型<br><br>[投票选项] 硬件到位，实际表现还需实测验证<br><br>[投票选项] 配置处于主流水平，没有明显优势<br><br>[投票选项] 不关注智驾，仅对比其他方面产品力<br><br>[投票选项] 其他，评论区聊聊]]></description>
+            <link>https://www.xchuxing.com/vote/2079</link>
+            <guid isPermaLink="false">xchuxing:7:2079</guid>
+            <pubDate>Wed, 10 Jun 2026 08:55:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大众品牌SUV最低风阻车型 带你看懂一汽大众 ID AURA T6 风洞实测]]></title>
+            <description><![CDATA[前段时间去看了一汽大众 ID AURA T6 的风洞实测，今天官方终于公布成绩了，Cd=0.245，该数据为大众品牌 SUV 里最优成绩；通过这个视频带大家回顾一下，T6 究竟是怎么做到的。<br><img src="https://s1.xchuxing.com/video/2026/06/10/9fce1202606101648302712.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/24984</link>
+            <guid isPermaLink="false">xchuxing:2:24984</guid>
+            <pubDate>Wed, 10 Jun 2026 08:54:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 215期：静态体验启境 GT7]]></title>
             <description><![CDATA[在之前，我们已经去静态拍摄了启境 GT7 的外观，当时给我的感觉很不错。车尾设计的原创度非常高，并且非常有辨识度。那么这一次，我们就来看看启境 GT7 的车内体<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/02/4f16d202606021845471730.jpg">]]></description>
@@ -77,20 +91,6 @@
             <link>https://www.xchuxing.com/article/171630</link>
             <guid isPermaLink="false">xchuxing:1:171630</guid>
             <pubDate>Mon, 08 Jun 2026 02:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行帮你选 21期：小米 YU7 配置详解与探店信息全汇总]]></title>
-            <description><![CDATA[随着小米 YU7 GT 与标准版正式上市，小米汽车的首款 SUV 产品矩阵已全面成型，从主打性价比的标准版到追求极致性能的 GT，5 款配置精准覆盖不同预算和使<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/05/2f484202606051016557850.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171351</link>
-            <guid isPermaLink="false">xchuxing:1:171351</guid>
-            <pubDate>Sun, 07 Jun 2026 15:57:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉新一代 Roadster 首秀再度推迟]]></title>
-            <description><![CDATA[日前，据外媒报道，特斯拉旗下旗舰纯电超跑新一代 Roadster 的公开展示活动再度延期，亮相时间调整至 8 月，不排除继续延后的可能。据悉，Roadster<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/07/138a7202606072227237269.png">]]></description>
-            <link>https://www.xchuxing.com/article/171618</link>
-            <guid isPermaLink="false">xchuxing:1:171618</guid>
-            <pubDate>Sun, 07 Jun 2026 14:30:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
