@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 23:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 02:36:59 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 215期：静态体验启境 GT7]]></title>
+            <description><![CDATA[在之前，我们已经去静态拍摄了启境 GT7 的外观，当时给我的感觉很不错。车尾设计的原创度非常高，并且非常有辨识度。那么这一次，我们就来看看启境 GT7 的车内体<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/02/4f16d202606021845471730.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/171413</link>
+            <guid isPermaLink="false">xchuxing:1:171413</guid>
+            <pubDate>Wed, 10 Jun 2026 00:06:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[首款量产车型将于年内亮相 赛豆科技发布 AI 汽车品牌 AIVA]]></title>
             <description><![CDATA[6 月 9 日，赛豆科技在北京正式发布 AI 汽车品牌 AIVA。发布会上，AIVA 公布了品牌名称与 LOGO，并宣布品牌首款量产车型 AIVA ME7 将于<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/09/bc6c2202606092041098627.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171618</link>
             <guid isPermaLink="false">xchuxing:1:171618</guid>
             <pubDate>Sun, 07 Jun 2026 14:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[专注防务领域 莱茵金属正式出售汽车零部件业务]]></title>
-            <description><![CDATA[据外媒报道，德国军工巨头莱茵金属公司（Rheinmetall）近日敲定出售旗下动力系统（Power Systems）汽车业务，将专注于防务主业。总部位于慕尼黑的<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/07/4059d202606072107506662.png">]]></description>
-            <link>https://www.xchuxing.com/article/171613</link>
-            <guid isPermaLink="false">xchuxing:1:171613</guid>
-            <pubDate>Sun, 07 Jun 2026 13:10:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
