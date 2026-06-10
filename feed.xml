@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2026 14:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 17:41:13 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[申报目录｜工信部第 408 批新能源车申报汇总]]></title>
+            <description><![CDATA[第 408 批工信部申报目录正式更新，本次又为我们带来了新的一批即将亮相的新能源车，包括享界 G9，理想 MEGA、i8，以及方程豹方程 S 等车型，让我们一起<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/10/81467202606102045121590.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/171736</link>
+            <guid isPermaLink="false">xchuxing:1:171736</guid>
+            <pubDate>Wed, 10 Jun 2026 16:03:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[你怎么点评理想MEGA的新尾部]]></title>
             <description><![CDATA[[投票选项] 更立体了<br><br>[投票选项] 更扁平了<br><br>[投票选项] 无感<br><br>[投票选项] 其它｜评论区聊聊]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171413</link>
             <guid isPermaLink="false">xchuxing:1:171413</guid>
             <pubDate>Wed, 10 Jun 2026 00:06:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[首款量产车型将于年内亮相 赛豆科技发布 AI 汽车品牌 AIVA]]></title>
-            <description><![CDATA[6 月 9 日，赛豆科技在北京正式发布 AI 汽车品牌 AIVA。发布会上，AIVA 公布了品牌名称与 LOGO，并宣布品牌首款量产车型 AIVA ME7 将于<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/09/bc6c2202606092041098627.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171702</link>
-            <guid isPermaLink="false">xchuxing:1:171702</guid>
-            <pubDate>Tue, 09 Jun 2026 12:47:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
