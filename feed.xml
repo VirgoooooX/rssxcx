@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 02:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 07:23:14 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 382期：静态体验领克 07 GT]]></title>
+            <description><![CDATA[本期视频，就让我们一起来抢先静态体验领克 07 GT，从外观设计的细节亮点，到座舱内部的质感用料与空间表现，全方位拆解这台热门旅行车的真实实力。话不多说，Let's go!<br><img src="https://s1.xchuxing.com/video/2026/06/11/a7c41202606111042071310.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/24997</link>
+            <guid isPermaLink="false">xchuxing:2:24997</guid>
+            <pubDate>Thu, 11 Jun 2026 03:01:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[申报目录｜工信部第 408 批新能源车申报汇总]]></title>
             <description><![CDATA[第 408 批工信部申报目录正式更新，本次又为我们带来了新的一批即将亮相的新能源车，包括享界 G9，理想 MEGA、i8，以及方程豹方程 S 等车型，让我们一起<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/10/81467202606102045121590.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/24984</link>
             <guid isPermaLink="false">xchuxing:2:24984</guid>
             <pubDate>Wed, 10 Jun 2026 08:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 215期：静态体验启境 GT7]]></title>
-            <description><![CDATA[在之前，我们已经去静态拍摄了启境 GT7 的外观，当时给我的感觉很不错。车尾设计的原创度非常高，并且非常有辨识度。那么这一次，我们就来看看启境 GT7 的车内体<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/02/4f16d202606021845471730.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171413</link>
-            <guid isPermaLink="false">xchuxing:1:171413</guid>
-            <pubDate>Wed, 10 Jun 2026 00:06:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
