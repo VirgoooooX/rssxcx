@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 15:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 18:41:08 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 384期：维圈圈主视角试驾全新零跑 C10]]></title>
+            <description><![CDATA[作为新能源市场最为畅销的中型家用 SUV 之一，此次全新零跑 C10 到底升级了哪些？就让我们一起来看下吧。<br><img src="https://s1.xchuxing.com/video/2026/06/11/bd9ee202606112336053357.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/25019</link>
+            <guid isPermaLink="false">xchuxing:2:25019</guid>
+            <pubDate>Thu, 11 Jun 2026 16:07:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价区间 18.98-21.98 万元 全新一代传祺向往 E8 PHEV 上市]]></title>
             <description><![CDATA[6 月 11 日，全新一代传祺向往 E8 PHEV 上市。新车共推出 4 款车型配置，售价区间 18.98-21.98 万元。权益方面，全新一代传祺向往 E8<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/11/c600f202606112157435925.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171740</link>
             <guid isPermaLink="false">xchuxing:1:171740</guid>
             <pubDate>Wed, 10 Jun 2026 12:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[支持5/6座 享界G9登录工信部目录]]></title>
-            <description><![CDATA[享界 G9 正式登录工信部目录，新车定位中大型增程 SUV 的车型，搭载华为电驱系统，并提供三元锂 / 磷酸铁锂两种电池包，目前很饱了5/6座两种布局，覆盖家庭<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/10/975e9202606102034511356.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171739</link>
-            <guid isPermaLink="false">xchuxing:1:171739</guid>
-            <pubDate>Wed, 10 Jun 2026 12:35:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
