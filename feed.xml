@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Jun 2026 13:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 16:43:44 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[权益价 17.99-19.99 万元 昊铂 S600 上市]]></title>
+            <description><![CDATA[6 月 12 日，昊铂 S600 正式上市。纯电版共推出 2 款配置，上市权益价分别为 17.99 万元和 18.99 万元；增程版同样推出 2 款配置，上市权<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/12/a18bb20260612214954624.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/171837</link>
+            <guid isPermaLink="false">xchuxing:1:171837</guid>
+            <pubDate>Fri, 12 Jun 2026 13:59:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[看齐 9 系旗舰 全新理想 L8 将于 6 月 23 日正式上市]]></title>
             <description><![CDATA[6 月 12 日，据官方消息，全新理想 L8 将于 6 月 23 日正式上市。外观层面，全新理想 L8 秉持旗舰化设计理念，依托短前悬、长后悬的车身比例，塑造出<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/12/64387202606121127241969.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/25007</link>
             <guid isPermaLink="false">xchuxing:2:25007</guid>
             <pubDate>Thu, 11 Jun 2026 10:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 382期：静态体验领克 07 GT]]></title>
-            <description><![CDATA[本期视频，就让我们一起来抢先静态体验领克 07 GT，从外观设计的细节亮点，到座舱内部的质感用料与空间表现，全方位拆解这台热门旅行车的真实实力。话不多说，Let's go!<br><img src="https://s1.xchuxing.com/video/2026/06/11/a7c41202606111042071310.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/24997</link>
-            <guid isPermaLink="false">xchuxing:2:24997</guid>
-            <pubDate>Thu, 11 Jun 2026 03:01:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
