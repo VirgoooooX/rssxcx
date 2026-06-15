@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 11:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 17:00:21 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 218期：一文汇总 享界 G9 现有信息]]></title>
+            <description><![CDATA[6 月 10 日，鸿蒙智行首款科技豪华硬派 SUV ——享界 G9 正式登录工信部目录，涵盖 5/6 座两种布局，拥有增程和纯电两种动力能源形式，覆盖家庭、商务<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/15/8e60c20260615200249890.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/171931</link>
+            <guid isPermaLink="false">xchuxing:1:171931</guid>
+            <pubDate>Mon, 15 Jun 2026 16:02:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[四季度将对标 FSD V14 理想释放马赫 VLA 下半年迭代计划]]></title>
             <description><![CDATA[6 月 15 日，理想汽车 Livis Day 软件与具身智能发布会上，公布马赫 VLA 智能驾驶系统下半年完整升级路线，智驾能力将迎来两大阶段的进化。按照官方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/15/7872a202606151739491776.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171876</link>
             <guid isPermaLink="false">xchuxing:1:171876</guid>
             <pubDate>Sat, 13 Jun 2026 11:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20万内运动SUV昊铂S600正式上市，权益价17.99万-19.99万元]]></title>
-            <description><![CDATA[6月12日，以“智享生活”为主题的广汽昊铂首届用户日暨昊铂S600上市发布会，在广州阿那亚・昊铂小镇正式举办。新豪华智慧运动SUV昊铂S600迎来正式上市，共推<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/13/5a2ee202606131705353059.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171865</link>
-            <guid isPermaLink="false">xchuxing:1:171865</guid>
-            <pubDate>Sat, 13 Jun 2026 10:55:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
