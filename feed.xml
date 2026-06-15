@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 00:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 05:34:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[驾趣再进阶 蔚来 2026 款 ET5、ET5T、EC6 冠军纪念版正式上市]]></title>
+            <description><![CDATA[6 月 15 日，据官方消息，2026 款 ET5、ET5T 以及 EC6 三款冠军纪念版车型正式上市。ET5、ET5T 冠军纪念版整车起售价为 31.3 万元<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/15/c14fe202606151053227193.png">]]></description>
+            <link>https://www.xchuxing.com/article/171926</link>
+            <guid isPermaLink="false">xchuxing:1:171926</guid>
+            <pubDate>Mon, 15 Jun 2026 03:01:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 217期：静态体验全新一代问界 M9（六座）]]></title>
             <description><![CDATA[此前我们静态实拍了全新一代问界 M9 的五座版车型，而这一次我们实拍的是问界 M9 的六座版车型。下面让我们一起来看看全新一代问界 M9 的六座版车型，在空间方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/14/20739202606140908291349.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171837</link>
             <guid isPermaLink="false">xchuxing:1:171837</guid>
             <pubDate>Fri, 12 Jun 2026 13:59:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[看齐 9 系旗舰 全新理想 L8 将于 6 月 23 日正式上市]]></title>
-            <description><![CDATA[6 月 12 日，据官方消息，全新理想 L8 将于 6 月 23 日正式上市。外观层面，全新理想 L8 秉持旗舰化设计理念，依托短前悬、长后悬的车身比例，塑造出<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/12/64387202606121127241969.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171815</link>
-            <guid isPermaLink="false">xchuxing:1:171815</guid>
-            <pubDate>Fri, 12 Jun 2026 03:29:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
