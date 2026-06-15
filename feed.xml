@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 05:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 11:47:34 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[四季度将对标 FSD V14 理想释放马赫 VLA 下半年迭代计划]]></title>
+            <description><![CDATA[6 月 15 日，理想汽车 Livis Day 软件与具身智能发布会上，公布马赫 VLA 智能驾驶系统下半年完整升级路线，智驾能力将迎来两大阶段的进化。按照官方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/15/7872a202606151739491776.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/171959</link>
+            <guid isPermaLink="false">xchuxing:1:171959</guid>
+            <pubDate>Mon, 15 Jun 2026 09:40:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[驾趣再进阶 蔚来 2026 款 ET5、ET5T、EC6 冠军纪念版正式上市]]></title>
             <description><![CDATA[6 月 15 日，据官方消息，2026 款 ET5、ET5T 以及 EC6 三款冠军纪念版车型正式上市。ET5、ET5T 冠军纪念版整车起售价为 31.3 万元<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/15/c14fe202606151053227193.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171865</link>
             <guid isPermaLink="false">xchuxing:1:171865</guid>
             <pubDate>Sat, 13 Jun 2026 10:55:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[权益价 17.99-19.99 万元 昊铂 S600 上市]]></title>
-            <description><![CDATA[6 月 12 日，昊铂 S600 正式上市。纯电版共推出 2 款配置，上市权益价分别为 17.99 万元和 18.99 万元；增程版同样推出 2 款配置，上市权<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/12/a18bb20260612214954624.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171837</link>
-            <guid isPermaLink="false">xchuxing:1:171837</guid>
-            <pubDate>Fri, 12 Jun 2026 13:59:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
