@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 07:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 12:23:56 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[冠军纪念版多出的溢价，从硬件升级角度看值不值？]]></title>
+            <description><![CDATA[2026款ET5、ET5T、EC6推出冠军纪念版，将配备专属风格外观设计。<br><br>[投票选项] 值得：原厂底盘强化硬件+全套运动外观内饰<br><br>[投票选项] 不值：普通版性价比更高<br><br>[投票选项] 看需求：驾驶爱好者值，纯家用普通版足够<br><br>[投票选项] 其他看法，评论区聊聊]]></description>
+            <link>https://www.xchuxing.com/vote/2132</link>
+            <guid isPermaLink="false">xchuxing:7:2132</guid>
+            <pubDate>Tue, 16 Jun 2026 10:20:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[申报目录 | 最长续航 900km 比亚迪海狮 08 纯电版续航信息曝光]]></title>
             <description><![CDATA[在第 407 批正式申报中，我们发现了比亚迪海狮 08 纯电版的身影。新车将搭载 92.093kWh 和 115.072kWh 两种不同容量的电池组。92.09<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/16/10f69202606161002419889.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/171975</link>
             <guid isPermaLink="false">xchuxing:1:171975</guid>
             <pubDate>Tue, 16 Jun 2026 00:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[申报目录 | 现代 IONIQ V 最长续航 650km]]></title>
-            <description><![CDATA[在第 407 批正式申报中，我们看到了现代 IONIQ V 的续航申报信息。新车共搭载两种容量的电池包，分别为 53.5kWh 和 66.8kWh。对应的 CL<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/16/bc2c1202606160757525462.png">]]></description>
-            <link>https://www.xchuxing.com/article/171974</link>
-            <guid isPermaLink="false">xchuxing:1:171974</guid>
-            <pubDate>Tue, 16 Jun 2026 00:33:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
