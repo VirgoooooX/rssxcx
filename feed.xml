@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Jun 2026 08:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 12:33:02 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 387期：她说 MPV 只适合长途和通勤，魏牌高山7 SUV 版带来全新答案]]></title>
+            <description><![CDATA[谈到MPV 我们想到的都是舒适出行，但家庭女主人要的可不止这些。为了满足家庭出行的最后一公里需求，魏牌带来了高山 7 SUV 版，所以本期视频就带家庭女主人一起感受魏牌高山 7 SUV 版的实力。<br><img src="https://s1.xchuxing.com/video/2026/06/17/ef2ec202606171619079465.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/25154</link>
+            <guid isPermaLink="false">xchuxing:2:25154</guid>
+            <pubDate>Wed, 17 Jun 2026 08:31:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[将于 7 月上市 领克 07 GT 量产车正式下线]]></title>
             <description><![CDATA[日前，我们从官方渠道获悉，领克 07 GT 首台量产车正式下线。根据此前的消息来看，领克 07 GT 将于 6 月底开启预售，7 月正式上市。领克 07 GT<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/17/d00bf202606171614127669.jpg">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/171986</link>
             <guid isPermaLink="false">xchuxing:1:171986</guid>
             <pubDate>Tue, 16 Jun 2026 02:02:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[申报目录 | 领克 20 最长续航 630km]]></title>
-            <description><![CDATA[在第 407 批正式申报中，我们看到了领克 20 的续航申报信息。 电池包方面，领克 20 提供两种容量规格，70.01kWh 电池版本分别对应 CLTC 纯电<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/16/0f0ee202606160957336622.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171983</link>
-            <guid isPermaLink="false">xchuxing:1:171983</guid>
-            <pubDate>Tue, 16 Jun 2026 02:01:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
