@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 12:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 16:21:35 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 219期：静态体验坦克 700 Hi4-Z]]></title>
+            <description><![CDATA[之前坦克 700 Hi4-T 是一款更偏燃油的车型，电机只是辅助。所以就城市体验来说，开起来的体验并不轻快。而这一次的坦克 700 Hi4-Z 则是一款更偏电动<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/17/4be16202606172013527253.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/171906</link>
+            <guid isPermaLink="false">xchuxing:1:171906</guid>
+            <pubDate>Thu, 18 Jun 2026 15:33:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[超 70 万用户同步升级 蔚来全新 NWM 世界模型上线]]></title>
             <description><![CDATA[6 月 18 日，蔚来正式开启大规模 OTA 分批次推送。本次同步上线四大系统版本：Banyan 榕 3.5.0、Cedar 雪松 1.5.0、Cedar S<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/18/1eeee202606181531364316.jpeg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/172034</link>
             <guid isPermaLink="false">xchuxing:1:172034</guid>
             <pubDate>Tue, 16 Jun 2026 15:29:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新款理想 L6 将在 7 月上市]]></title>
-            <description><![CDATA[从官方获悉，新款理想 L6 将于 7 月上市，新车将迎来全方位产品升级，不仅外观设计全面迭代，新增四激光雷达选装配置，同时搭载大容量电池包，纯电续航能力显著提升<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/16/d22cd202606162258147818.png">]]></description>
-            <link>https://www.xchuxing.com/article/172033</link>
-            <guid isPermaLink="false">xchuxing:1:172033</guid>
-            <pubDate>Tue, 16 Jun 2026 15:00:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
