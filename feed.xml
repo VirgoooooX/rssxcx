@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 00:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 05:12:21 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价区间 15.98-19.98 万元 新款尚界 H5 上市]]></title>
+            <description><![CDATA[6 月 18 日，新款尚界 H5 正式上市。增程版共推出 2 款配置，售价分别为 15.98 万元和 17.98 万元；纯电版共推出 4 款配置，售价区间 16<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/18/439ff202606181028261253.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/172116</link>
+            <guid isPermaLink="false">xchuxing:1:172116</guid>
+            <pubDate>Thu, 18 Jun 2026 02:36:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 389期：伟健试驾全新理想L8 Ultra]]></title>
+            <description><![CDATA[全新理想L8和L9一样都有Livis和Ultra两个版本，但我认为买L8的用户大多都会选择Ultra版，所以这一次我们就来试试L8 Ultra，看看和Livis有哪些区别。<br><img src="https://s1.xchuxing.com/video/2026/06/18/5f359202606180941327383.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/25169</link>
+            <guid isPermaLink="false">xchuxing:2:25169</guid>
+            <pubDate>Thu, 18 Jun 2026 02:01:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 388期：小米「寻天」是品牌还是系列？]]></title>
             <description><![CDATA[关于小米「寻天」的内容，接下来伟健准备做一个系列解读，第一期内容我们来讨论小米「寻天」，到底是一个系列还是一个品牌呢？<br><img src="https://s1.xchuxing.com/video/2026/06/17/a823e202606171457289248.png">]]></description>
@@ -79,20 +93,6 @@
             <link>https://www.xchuxing.com/article/172026</link>
             <guid isPermaLink="false">xchuxing:1:172026</guid>
             <pubDate>Tue, 16 Jun 2026 14:07:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 6.28-7.98 万 极狐贝塔 T1 上市]]></title>
-            <description><![CDATA[日前，极狐贝塔 T1 正式上市，新车共推出三款配置车型，价格区间为 6.28-7.98 万。极狐贝塔 T1 整体车身造型与老款相比，变化不大，但前保险杠造型设计<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/16/a92a4202606162112177657.png">]]></description>
-            <link>https://www.xchuxing.com/article/172022</link>
-            <guid isPermaLink="false">xchuxing:1:172022</guid>
-            <pubDate>Tue, 16 Jun 2026 13:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[冠军纪念版多出的溢价，从硬件升级角度看值不值？]]></title>
-            <description><![CDATA[2026款ET5、ET5T、EC6推出冠军纪念版，将配备专属风格外观设计。<br><br>[投票选项] 值得：原厂底盘强化硬件+全套运动外观内饰<br><br>[投票选项] 不值：普通版性价比更高<br><br>[投票选项] 看需求：驾驶爱好者值，纯家用普通版足够<br><br>[投票选项] 其他看法，评论区聊聊]]></description>
-            <link>https://www.xchuxing.com/vote/2132</link>
-            <guid isPermaLink="false">xchuxing:7:2132</guid>
-            <pubDate>Tue, 16 Jun 2026 10:20:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
