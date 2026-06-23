@@ -30,13 +30,17 @@ rssxcx/
 
 > 原根目录 `feed.xml` 已废弃。已有的新出行订阅请切换到 `feeds/xchuxing/official.xml`。
 
-## 懂球帝巴萨 RSS 当前策略
+## 懂球帝巴萨 RSS 最终策略
 
-当前采用稳定的列表型 RSS：标题、发布时间、分类、列表接口提供的摘要与封面，以及原文链接。
+GitHub Actions 只负责从球队新闻列表获取并生成轻量 RSS 条目：标题、发布时间、分类、列表接口提供的摘要与封面，以及文章 ID。
 
-懂球帝列表接口会给出 `n.dongqiudi.com/webapp/...` 这种 WebApp 壳页面链接；生成器会改为对应的 `https://m.dongqiudi.com/article/<articleId>.html` 移动端文章地址。移动端是可直接阅读的文章页，因此从 RSS 阅读器打开原文不再落到空壳页面。
+每个 RSS item 的 `link` 都会由列表中的 WebApp 壳地址统一规范为：
 
-全文图文提取暂未启用。此前的试验确认 WebApp 壳页面不是可靠正文源，后续只有在单篇移动端文章的 HTML 结构验证通过后，才会单独加入全文解析，不会影响这一稳定订阅源。
+```text
+https://m.dongqiudi.com/article/<articleId>.html
+```
+
+GitHub 端**不请求文章详情接口、不抓文章页、不解析正文、不维护正文缓存**。后端服务器以这个移动端链接作为唯一详情入口，自行决定何时抓取、如何解析正文/图片及如何缓存；GitHub Actions 只维护稳定、低频、低开销的新闻索引。
 
 ## 本地生成
 
