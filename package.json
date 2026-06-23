@@ -1,12 +1,13 @@
 {
   "name": "rss",
   "version": "1.0.0",
-  "main": "generate_rss.js",
+  "main": "generators/xchuxing-official.js",
   "scripts": {
-    "generate": "node generate_rss.js",
-    "generate:dongqiudi:team": "node generate_dongqiudi_team.js",
-    "generate:dongqiudi:barcelona": "node generate_dongqiudi_team.js",
-    "test": "node --check generate_rss.js && node --check generate_dongqiudi_team.js"
+    "generate": "npm run generate:xchuxing:official",
+    "generate:xchuxing:official": "node generators/xchuxing-official.js",
+    "generate:dongqiudi:team": "node generators/dongqiudi-team.js",
+    "generate:dongqiudi:barcelona": "node generators/dongqiudi-team.js",
+    "test": "node --check generators/xchuxing-official.js && node --check generators/dongqiudi-team.js"
   },
   "keywords": [
     "rss",
