@@ -65,14 +65,22 @@ jobs:
           SITE_URL: https://www.dongqiudi.com/team/50001756
           FEED_URL: ${{ vars.DONGQIUDI_BARCELONA_FEED_URL }}
           OUTPUT_PATH: feeds/dongqiudi/team-50001756.xml
+          STATE_PATH: state/dongqiudi/team-50001756.json
+          FULL_CONTENT: "true"
+          FULL_CONTENT_LIMIT: "12"
+          ARTICLE_CONCURRENCY: "2"
+          STATE_MAX_ARTICLES: "200"
         run: npm run generate:dongqiudi:team
 
-      - name: Commit and push changed feeds
+      - name: Commit and push changed feeds and state
         run: |
           git add -A -- feeds/
+          if [ -d state ]; then
+            git add -A -- state/
+          fi
 
           if git diff --cached --quiet; then
-            echo "RSS feeds unchanged"
+            echo "RSS feeds and state unchanged"
             exit 0
           fi
 
