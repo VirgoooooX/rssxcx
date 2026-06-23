@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jun 2026 07:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 10:55:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[减少固定支出 Lucid 将裁减 18% 美国本土员工]]></title>
+            <description><![CDATA[日前，据外媒报道， 美国汽车制造商 Lucid 集团宣布，计划裁减美国约 18% 的员工，并证实首席运营官马克·温特霍夫（Marc Winterhoff）已离职<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/23/744b2202606231615575605.png">]]></description>
+            <link>https://www.xchuxing.com/article/172299</link>
+            <guid isPermaLink="false">xchuxing:1:172299</guid>
+            <pubDate>Tue, 23 Jun 2026 08:18:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 392期：逐帧分析 蔚来全新ES8大五座版]]></title>
             <description><![CDATA[「逐帧分析」和大家聊聊蔚来另一款重磅车型，ES8大五座版。<br><img src="https://s1.xchuxing.com/video/2026/06/23/0c140202606231452206679.png">]]></description>
@@ -71,13 +78,6 @@
             <link>https://www.xchuxing.com/article/172237</link>
             <guid isPermaLink="false">xchuxing:1:172237</guid>
             <pubDate>Mon, 22 Jun 2026 03:18:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[超奢高定 尊界 S800 典藏大观将于 6 月 25 日上市]]></title>
-            <description><![CDATA[日前，据官方消息，尊界 S800 典藏大观将于 6 月 25 日上市，该车型为尊界 S800 的高定车型， 预计售价 160-200 万元。尊界 S800 典藏<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/22/0504f202606221113182872.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172236</link>
-            <guid isPermaLink="false">xchuxing:1:172236</guid>
-            <pubDate>Mon, 22 Jun 2026 03:13:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
