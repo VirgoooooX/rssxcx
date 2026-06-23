@@ -1,4 +1,4 @@
-name: Update RSS Feed
+name: Update RSS Feeds
 
 on:
   workflow_dispatch:
@@ -6,8 +6,7 @@ on:
     branches:
       - main
     paths:
-      - generate_rss.js
-      - generate_dongqiudi_team.js
+      - generators/**
       - package.json
       - package-lock.json
       - .github/workflows/update-feed.yml
@@ -15,7 +14,7 @@ on:
     - cron: "*/30 * * * *"
 
 concurrency:
-  group: update-rss-feed
+  group: update-rss-feeds
   cancel-in-progress: false
 
 permissions:
@@ -25,14 +24,10 @@ jobs:
   update:
     runs-on: ubuntu-latest
     env:
-      SOURCE_URL: https://www.xchuxing.com/official
-      OUTPUT_PATH: feed.xml
       MAX_ITEMS: "50"
       TIMEOUT_MS: "15000"
       RETRIES: "2"
       RETRY_BASE_DELAY_MS: "800"
-      FEED_URL: ${{ vars.FEED_URL }}
-      SITE_URL: ${{ vars.SITE_URL }}
       BRANCH: ${{ github.ref_name }}
     steps:
       - name: Checkout
@@ -53,27 +48,28 @@ jobs:
       - name: Check generator syntax
         run: npm test
 
-      - name: Generate Xchuxing feed
-        run: npm run generate
+      - name: Generate Xchuxing official feed
+        env:
+          SOURCE_URL: https://www.xchuxing.com/official
+          SITE_URL: ${{ vars.XCHUXING_OFFICIAL_SITE_URL || vars.SITE_URL }}
+          FEED_URL: ${{ vars.XCHUXING_OFFICIAL_FEED_URL || vars.FEED_URL }}
+          OUTPUT_PATH: feeds/xchuxing/official.xml
+        run: npm run generate:xchuxing:official
 
-      - name: Generate Dongqiudi Barcelona feed
+      - name: Generate Dongqiudi Barcelona team feed
         continue-on-error: true
         env:
           DONGQIUDI_TEAM_ID: "50001756"
           DONGQIUDI_TEAM_NAME: "巴塞罗那"
           SOURCE_URL: https://www.dongqiudi.com/team/50001756
           SITE_URL: https://www.dongqiudi.com/team/50001756
-          OUTPUT_PATH: feeds/dongqiudi/team-50001756.xml
           FEED_URL: ${{ vars.DONGQIUDI_BARCELONA_FEED_URL }}
-          MAX_ITEMS: "50"
+          OUTPUT_PATH: feeds/dongqiudi/team-50001756.xml
         run: npm run generate:dongqiudi:team
 
-      - name: Commit and push if changed
+      - name: Commit and push changed feeds
         run: |
-          git add -A -- feed.xml
-          if [ -d feeds ]; then
-            git add -A -- feeds/
-          fi
+          git add -A -- feeds/
 
           if git diff --cached --quiet; then
             echo "RSS feeds unchanged"
@@ -84,6 +80,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "chore(rss): update feeds"
 
-          # Rebase onto the latest branch tip before pushing, so scheduled runs do not race.
+          # Rebase before pushing so two scheduled executions cannot race.
           git pull --rebase --autostash origin "$BRANCH"
           git push
