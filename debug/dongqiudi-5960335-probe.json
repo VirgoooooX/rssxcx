@@ -1,0 +1,129 @@
+{
+  "articleId": "5960335",
+  "generatedAt": "2026-06-23T13:12:15.314Z",
+  "note": "This probe stores endpoint structure and content metrics only; it does not store article text or HTML.",
+  "endpoints": [
+    {
+      "name": "webapp-shell",
+      "requestedUrl": "https://n.dongqiudi.com/webapp/news.html?articleId=5960335",
+      "finalUrl": "https://n.dongqiudi.com/webapp/news.html?articleId=5960335",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 5533,
+      "elapsedMs": 2167,
+      "markers": {
+        "articleTag": false,
+        "nuxtData": false,
+        "nuxtLegacy": false,
+        "initialState": false,
+        "articleContentClass": false,
+        "imageTagCount": 0,
+        "bodyLikeClassCount": 0
+      }
+    },
+    {
+      "name": "mobile-article",
+      "requestedUrl": "https://m.dongqiudi.com/article/5960335.html",
+      "finalUrl": "https://m.dongqiudi.com/article/5960335.html",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 59205,
+      "elapsedMs": 653,
+      "markers": {
+        "articleTag": true,
+        "nuxtData": false,
+        "nuxtLegacy": false,
+        "initialState": true,
+        "articleContentClass": true,
+        "imageTagCount": 5,
+        "bodyLikeClassCount": 4
+      }
+    },
+    {
+      "name": "v2-detail-path",
+      "requestedUrl": "https://api.dongqiudi.com/v2/article/detail/5960335",
+      "finalUrl": "https://api.dongqiudi.com/v2/article/detail/5960335",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 5790,
+      "elapsedMs": 563,
+      "topLevelKeys": [
+        "code",
+        "message",
+        "data"
+      ],
+      "dataKeys": [
+        "article_id",
+        "title",
+        "time",
+        "show_time",
+        "writer",
+        "writer_url",
+        "user_id",
+        "editor_word",
+        "body",
+        "morning_newspaper_img",
+        "photo_copyright",
+        "is_video",
+        "new_video_detail",
+        "source",
+        "thumb",
+        "infos",
+        "dqd_ads",
+        "redirect_url",
+        "is_pay_show",
+        "medal_url",
+        "not_show_m_ad",
+        "visit_total",
+        "template",
+        "luck_max",
+        "show_pic",
+        "d"
+      ],
+      "htmlFields": [
+        {
+          "path": "$.data.body",
+          "htmlLength": 1239,
+          "imageCount": 1,
+          "paragraphCount": 11
+        }
+      ]
+    },
+    {
+      "name": "v3-detail-path",
+      "requestedUrl": "https://api.dongqiudi.com/v3/article/detail/5960335",
+      "finalUrl": "https://api.dongqiudi.com/v3/article/detail/5960335",
+      "status": 404,
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 3,
+      "elapsedMs": 330,
+      "markers": {
+        "articleTag": false,
+        "nuxtData": false,
+        "nuxtLegacy": false,
+        "initialState": false,
+        "articleContentClass": false,
+        "imageTagCount": 0,
+        "bodyLikeClassCount": 0
+      }
+    },
+    {
+      "name": "v3-detail-query",
+      "requestedUrl": "https://api.dongqiudi.com/v3/article/detail?article_id=5960335",
+      "finalUrl": "https://api.dongqiudi.com/v3/article/detail?article_id=5960335",
+      "status": 404,
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 3,
+      "elapsedMs": 335,
+      "markers": {
+        "articleTag": false,
+        "nuxtData": false,
+        "nuxtLegacy": false,
+        "initialState": false,
+        "articleContentClass": false,
+        "imageTagCount": 0,
+        "bodyLikeClassCount": 0
+      }
+    }
+  ]
+}
