@@ -1,63 +1,98 @@
-# xchuxing official RSS
+# rssxcx
 
-静态生成并发布 RSS 文件，当前包含：
+一个使用 GitHub Actions 定时抓取、GitHub Pages 静态发布的个人 RSS 源仓库。
 
-- 新出行官方频道：`https://www.xchuxing.com/official` → `feed.xml`
-- 懂球帝巴塞罗那球队新闻：`https://www.dongqiudi.com/team/50001756` → `feeds/dongqiudi/team-50001756.xml`
+所有生成结果统一放在 `feeds/<来源>/<订阅名>.xml`；所有抓取逻辑统一放在 `generators/`。根目录不再生成 RSS XML。
 
-## 本地运行
+## 目录结构
+
+```text
+rssxcx/
+├─ generators/                         # 抓取与 RSS 生成器
+│  ├─ xchuxing-official.js
+│  └─ dongqiudi-team.js
+├─ feeds/                              # GitHub Pages 直接发布的静态 XML
+│  ├─ xchuxing/
+│  │  └─ official.xml
+│  └─ dongqiudi/
+│     └─ team-50001756.xml
+├─ .github/workflows/update-feed.yml
+├─ package.json
+└─ README.md
+```
+
+## 现有订阅源
+
+| 来源 | 生成文件 | GitHub Pages 订阅地址 |
+| --- | --- | --- |
+| 新出行官方频道 | `feeds/xchuxing/official.xml` | `https://virgooooox.github.io/rssxcx/feeds/xchuxing/official.xml` |
+| 懂球帝：巴塞罗那 | `feeds/dongqiudi/team-50001756.xml` | `https://virgooooox.github.io/rssxcx/feeds/dongqiudi/team-50001756.xml` |
+
+> 原根目录 `feed.xml` 已废弃。已有的新出行订阅请切换到 `feeds/xchuxing/official.xml`。
+
+## 本地生成
 
 ```bash
 npm ci
-npm run generate
+npm run generate:xchuxing:official
 npm run generate:dongqiudi:barcelona
 ```
 
-默认输出：
+为兼容旧习惯，`npm run generate` 等同于生成新出行官方频道。
 
-- 新出行：项目根目录 `feed.xml`
-- 懂球帝：`feeds/dongqiudi/team-50001756.xml`
+默认输出路径：
 
-懂球帝生成器默认只生成列表型 RSS：标题、摘要、发布时间、封面、分类和原文链接；不再依赖 RSSHub 中已失效的旧 Nuxt 页面数据，也不抓取全文。
+```text
+feeds/xchuxing/official.xml
+feeds/dongqiudi/team-50001756.xml
+```
 
 ## GitHub Actions 定时更新
 
-仓库包含工作流：`.github/workflows/update-feed.yml`
+工作流：`.github/workflows/update-feed.yml`
 
-它会：
+- 每 30 分钟运行一次；
+- 仅在 `feeds/` 下的 XML 确实变化时提交；
+- 懂球帝单次抓取失败时保留上一版 XML，不影响新出行；
+- 修改 `generators/`、依赖或工作流后自动触发一次；生成的 XML 提交不会形成自触发循环。
 
-- 每 30 分钟抓取一次并生成 RSS
-- 懂球帝单次抓取失败时保留上次成功生成的 XML，不影响新出行 feed
-- 仅在 RSS 文件内容变化时提交并推送
-- 生成器代码或工作流更新时自动触发一次，之后由定时任务继续更新
+## GitHub Pages
 
-## 推荐发布方式：GitHub Pages
+在仓库 **Settings → Pages** 中选择：
 
-1. 在 GitHub 仓库设置里启用 Pages（Build and deployment）
-   - Source 选择 `Deploy from a branch`
-   - Branch 选择 `main`，Folder 选择 `/ (root)`
-2. 默认 Pages 地址通常为：
-   - `https://<username>.github.io/<repo>/feed.xml`
-   - `https://<username>.github.io/<repo>/feeds/dongqiudi/team-50001756.xml`
-3. 可选：在仓库 **Settings** → **Secrets and variables** → **Actions** → **Variables** 中配置：
-   - `FEED_URL`：新出行 feed 的公开地址
-   - `SITE_URL`：新出行频道主页地址
-   - `DONGQIUDI_BARCELONA_FEED_URL`：懂球帝巴萨 feed 的公开地址
+- **Source**：`Deploy from a branch`
+- **Branch**：`main`
+- **Folder**：`/ (root)`
 
-`FEED_URL` 类变量只用于 RSS 的 atom:self 标识；未设置不影响订阅器读取 XML。
+Pages 会直接发布仓库内的 `feeds/` 目录。
 
-## 懂球帝生成器可用环境变量
+## 可选 GitHub Actions Variables
 
-脚本：`generate_dongqiudi_team.js`
+进入 **Settings → Secrets and variables → Actions → Variables**：
+
+| 变量 | 用途 |
+| --- | --- |
+| `XCHUXING_OFFICIAL_FEED_URL` | 新出行 RSS 自身地址，写入 atom:self |
+| `XCHUXING_OFFICIAL_SITE_URL` | 新出行 RSS channel 链接；未设置则使用源站 URL |
+| `DONGQIUDI_BARCELONA_FEED_URL` | 巴萨 RSS 自身地址，写入 atom:self |
+| `FEED_URL` / `SITE_URL` | 旧版新出行变量，仍作为兼容兜底 |
+
+这些变量不影响 GitHub Pages 提供 XML；不设置时订阅器仍可正常读取。
+
+## 懂球帝球队生成器
+
+脚本：`generators/dongqiudi-team.js`
 
 - `DONGQIUDI_TEAM_ID`：球队 ID，默认 `50001756`
-- `DONGQIUDI_TEAM_NAME`：球队名兜底值，默认由当前球队页面的 Open Graph 元信息解析
-- `DONGQIUDI_API_URL`：新闻列表 API，默认 `https://api.dongqiudi.com/v3/archive/app/channel/feeds`
+- `DONGQIUDI_TEAM_NAME`：球队名称兜底值
+- `DONGQIUDI_API_URL`：新闻列表接口
 - `SOURCE_URL`：球队主页 URL
 - `SITE_URL`：RSS channel 链接
 - `FEED_URL`：RSS 自身地址
-- `OUTPUT_PATH`：输出文件路径
+- `OUTPUT_PATH`：输出 XML 路径
 - `MAX_ITEMS`：最大条目数，默认 `50`
 - `TIMEOUT_MS`：请求超时，默认 `15000`
 - `RETRIES`：失败重试次数，默认 `2`
 - `RETRY_BASE_DELAY_MS`：重试基础延迟，默认 `800`
+
+它只生成列表型 RSS：标题、摘要、时间、封面、分类和懂球帝原文链接；不会依赖 RSSHub 已失效的旧 Nuxt 页面数据，也不会逐条抓全文。
