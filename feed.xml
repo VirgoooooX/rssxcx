@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 23:59:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 03:57:19 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[6 月 26 日上市 启境 GT7 首台量产车正式下线]]></title>
+            <description><![CDATA[日前，我们从官方渠道获悉，启境 GT7 首台量产车正式下线，将于 6 月 26 日正式上市。新车于 5 月 29 日正式开启预售，共推出 4 款配置，预售价格区<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/23/03a0b202606231058072656.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/172282</link>
+            <guid isPermaLink="false">xchuxing:1:172282</guid>
+            <pubDate>Tue, 23 Jun 2026 03:06:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 391期：「百万级」底盘差距会有多大？深度体验三台旗舰 SUV 底盘]]></title>
             <description><![CDATA[在如今各种复杂技术底盘名次的当下，我们应该如何理解一款好的底盘呢？
@@ -64,13 +71,6 @@
             <link>https://www.xchuxing.com/article/172000</link>
             <guid isPermaLink="false">xchuxing:1:172000</guid>
             <pubDate>Sun, 21 Jun 2026 15:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[领克 07 GT 将于 6 月 29 日预售]]></title>
-            <description><![CDATA[从相关渠道获悉，领克 07 GT 将于 6 月 29 日开启预售。车辆定位为品牌旗下的全新中型插混猎装车型，基于 CMA 架构与 EM-P 智能电混平台打造，延<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/21/f21be202606212240032331.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172219</link>
-            <guid isPermaLink="false">xchuxing:1:172219</guid>
-            <pubDate>Sun, 21 Jun 2026 14:42:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
