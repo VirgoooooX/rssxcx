@@ -65,22 +65,14 @@ jobs:
           SITE_URL: https://www.dongqiudi.com/team/50001756
           FEED_URL: ${{ vars.DONGQIUDI_BARCELONA_FEED_URL }}
           OUTPUT_PATH: feeds/dongqiudi/team-50001756.xml
-          STATE_PATH: state/dongqiudi/team-50001756.json
-          FULL_CONTENT: "true"
-          FULL_CONTENT_LIMIT: "12"
-          ARTICLE_CONCURRENCY: "2"
-          STATE_MAX_ARTICLES: "200"
         run: npm run generate:dongqiudi:team
 
-      - name: Commit and push changed feeds and state
+      - name: Commit and push changed feeds
         run: |
           git add -A -- feeds/
-          if [ -d state ]; then
-            git add -A -- state/
-          fi
 
           if git diff --cached --quiet; then
-            echo "RSS feeds and state unchanged"
+            echo "RSS feeds unchanged"
             exit 0
           fi
 
@@ -88,6 +80,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "chore(rss): update feeds"
 
-          # Rebase before pushing so two scheduled executions cannot race.
           git pull --rebase --autostash origin "$BRANCH"
           git push
