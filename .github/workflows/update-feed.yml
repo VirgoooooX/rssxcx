@@ -2,6 +2,15 @@ name: Update RSS Feed
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - generate_rss.js
+      - generate_dongqiudi_team.js
+      - package.json
+      - package-lock.json
+      - .github/workflows/update-feed.yml
   schedule:
     - cron: "*/30 * * * *"
 
@@ -41,21 +50,40 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Generate feed
+      - name: Check generator syntax
+        run: npm test
+
+      - name: Generate Xchuxing feed
         run: npm run generate
+
+      - name: Generate Dongqiudi Barcelona feed
+        continue-on-error: true
+        env:
+          DONGQIUDI_TEAM_ID: "50001756"
+          DONGQIUDI_TEAM_NAME: "巴塞罗那"
+          SOURCE_URL: https://www.dongqiudi.com/team/50001756
+          SITE_URL: https://www.dongqiudi.com/team/50001756
+          OUTPUT_PATH: feeds/dongqiudi/team-50001756.xml
+          FEED_URL: ${{ vars.DONGQIUDI_BARCELONA_FEED_URL }}
+          MAX_ITEMS: "50"
+        run: npm run generate:dongqiudi:team
 
       - name: Commit and push if changed
         run: |
-          if git diff --quiet -- feed.xml; then
-            echo "feed.xml unchanged"
+          git add -A -- feed.xml
+          if [ -d feeds ]; then
+            git add -A -- feeds/
+          fi
+
+          if git diff --cached --quiet; then
+            echo "RSS feeds unchanged"
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed.xml
-          git commit -m "chore(rss): update feed" || true
+          git commit -m "chore(rss): update feeds"
 
-          # 将远端最新提交变基到当前更改之下（避免 push 被拒绝）
+          # Rebase onto the latest branch tip before pushing, so scheduled runs do not race.
           git pull --rebase --autostash origin "$BRANCH"
           git push
