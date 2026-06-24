@@ -4,10 +4,18 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jun 2026 01:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 05:30:38 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[零跑 D99 怎么这么大]]></title>
+            <description><![CDATA[一台MPV跟十毫米较劲、跟脚踏板较劲、跟一块绒布也在较劲...
+零跑D99可能是今年他们最愿意花心思的家用MPV，我把它的空间、座椅、后备箱全翻了一遍。<br><img src="https://s1.xchuxing.com/video/2026/06/24/09f3520260624105248328.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/25258</link>
+            <guid isPermaLink="false">xchuxing:2:25258</guid>
+            <pubDate>Wed, 24 Jun 2026 03:55:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX 辅助驾驶体验 19期：体验智己 LS9 IM AD Max 城区 NOA]]></title>
             <description><![CDATA[大六座旗舰 SUV 、700TOPS 的 Thor 芯片、Momenta 赋能。讲到这里，相信大家对于我们今天要讲主角还很模糊，毕竟市面上搭载这种配置的旗舰并不<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/22/f4f01202606221712213356.png">]]></description>
@@ -71,13 +79,6 @@
             <link>https://www.xchuxing.com/video/25236</link>
             <guid isPermaLink="false">xchuxing:2:25236</guid>
             <pubDate>Mon, 22 Jun 2026 15:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[零跑 D99 将于 6 月 25 日正式上市]]></title>
-            <description><![CDATA[日前，据官方消息，零跑 D99 将于 6 月 25 日“提档上市”，此前原定于为“预售发布会”。外观方面，D99 并没有采用常规的格栅设计，而是较为新能源化的封<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/22/60cbb202606222244206739.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172270</link>
-            <guid isPermaLink="false">xchuxing:1:172270</guid>
-            <pubDate>Mon, 22 Jun 2026 14:44:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
