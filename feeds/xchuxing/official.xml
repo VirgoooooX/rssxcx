@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jun 2026 14:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 16:36:44 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX 续航体验 80期：大众 ID.ERA 9X 纯电续航、油耗及充电测试]]></title>
+            <description><![CDATA[ID.ERA 9X 是大众目前尺寸最大的 SUV，并且也是大众的首款增程车型。搭载了超大电池包，还有大众自己的增程器。那么通过本次实测，看看 ID.ERA 9X<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/24/82139202606241814242638.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/172351</link>
+            <guid isPermaLink="false">xchuxing:1:172351</guid>
+            <pubDate>Wed, 24 Jun 2026 16:02:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[家充桩增速明显 国内充电桩总量突破 2249 万个]]></title>
             <description><![CDATA[日前，据国家统计局数据， 截至 2026 年 5 月末，全国各类充电枪总量达到 2249.7 万个，同比增幅 44.9%。 拆分来看，公共充电枪保有量为 495<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/24/76c0e202606242047304737.jpeg">]]></description>
@@ -78,13 +85,6 @@
             <link>https://www.xchuxing.com/video/25245</link>
             <guid isPermaLink="false">xchuxing:2:25245</guid>
             <pubDate>Tue, 23 Jun 2026 06:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全链条扩大消费 商务部公布 40 个改革试点城市及创新方向]]></title>
-            <description><![CDATA[6 月 23 日，据新华社消息， 商务部等部门发布两项通知，加力推动全链条扩大汽车消费。其中，公布了 40 个汽车流通消费改革试点城市及其重点改革创新方向。例如<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/23/f1aec202606231450039208.png">]]></description>
-            <link>https://www.xchuxing.com/article/172295</link>
-            <guid isPermaLink="false">xchuxing:1:172295</guid>
-            <pubDate>Tue, 23 Jun 2026 06:53:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
