@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 15:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 17:13:22 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -77,13 +77,6 @@
             <link>https://www.xchuxing.com/video/25297</link>
             <guid isPermaLink="false">xchuxing:2:25297</guid>
             <pubDate>Thu, 25 Jun 2026 13:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新乐道 L60 20 万级中型 SUV 再定义]]></title>
-            <description><![CDATA[上一次以文章的形式谈及蔚来，还是两年前和朋友闲聊关于蔚来的 OTA 升级。又一次促使我谈及蔚来的原因，是最近开上了新乐道 L60，发现 20 万级这个市场，早就<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/25/304bd202606252025521119.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/171826</link>
-            <guid isPermaLink="false">xchuxing:1:171826</guid>
-            <pubDate>Thu, 25 Jun 2026 12:59:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
