@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 02:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 06:44:31 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[小鹏的抬头显示你更喜欢哪种方案]]></title>
+            <description><![CDATA[[投票选项] W-HUD（026款小鹏P7+ / 小鹏Mona L03）<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/06/26/e99c2202606261105324494.jpg"><br><br>[投票选项] AR-HUD（小鹏G7/P7）<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/06/26/6a935202606261106089653.png"><br><br>[投票选项] 评论区聊聊<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/06/26/12e44202606261106564363.jpg">]]></description>
+            <link>https://www.xchuxing.com/vote/2185</link>
+            <guid isPermaLink="false">xchuxing:7:2185</guid>
+            <pubDate>Fri, 26 Jun 2026 02:35:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2026 年 7 月重磅新车上市规划汇总]]></title>
             <description><![CDATA[即将步入 2026 年下半年，国内车市将在 7 月迎来新一轮重磅新车投放高峰。本月集中登场的多款新能源车型卖点鲜明、定位各异，全面覆盖各大主流细分赛道。本篇文章<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/23/3311e202606230941599613.png">]]></description>
@@ -78,13 +85,6 @@
             <link>https://www.xchuxing.com/video/25284</link>
             <guid isPermaLink="false">xchuxing:2:25284</guid>
             <pubDate>Thu, 25 Jun 2026 02:07:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 394期：一箱油挑战京沪杭 一汽-大众探岳L PHEV 一箱油挑战1400km！！！]]></title>
-            <description><![CDATA[一箱油能跑 1400km？驾驶一汽-大众探岳L PHEV 挑战京沪杭，看看一汽-大众探岳L PHEV 到底有多省。<br><img src="https://s1.xchuxing.com/video/2026/06/25/c46d6202606251004014243.png">]]></description>
-            <link>https://www.xchuxing.com/video/25283</link>
-            <guid isPermaLink="false">xchuxing:2:25283</guid>
-            <pubDate>Thu, 25 Jun 2026 02:04:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
