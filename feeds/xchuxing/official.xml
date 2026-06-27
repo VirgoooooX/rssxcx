@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 06:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 09:09:21 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[美国计划取消“无人驾驶车辆必须配备制动踏板”硬性规定]]></title>
+            <description><![CDATA[日前，据外媒报道，美国交通部计划废除无人驾驶车辆必须安装刹车踏板的规定，此举将为特斯拉、Waymo 等企业在美国投放更多自动驾驶出租车扫清障碍。本次修订仅针对自<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/27/470db202606271644081035.png">]]></description>
+            <link>https://www.xchuxing.com/article/172498</link>
+            <guid isPermaLink="false">xchuxing:1:172498</guid>
+            <pubDate>Sat, 27 Jun 2026 08:46:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 20.99-32.99 万元 启境 GT7 正式上市]]></title>
             <description><![CDATA[6 月 26 日，启境 GT7 正式上市，新车售价 20.99-32.99 万元，共推出 5 款车型版本。设计方面，启境 GT7 前脸采用俯冲式低趴设计，前机盖<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/26/3b6b3202606262147437010.jpeg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/172419</link>
             <guid isPermaLink="false">xchuxing:1:172419</guid>
             <pubDate>Thu, 25 Jun 2026 13:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 396期：动态试驾尊界S800 Grand Design典藏大观]]></title>
-            <description><![CDATA[尊界S800 Grand Design典藏大观正式上市，之前不少网友问我典藏大观贵了 80 万都有哪些升级，这次视频就好好和大家聊一聊。<br><img src="https://s1.xchuxing.com/video/2026/06/25/e3d9d202606251954135426.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/25297</link>
-            <guid isPermaLink="false">xchuxing:2:25297</guid>
-            <pubDate>Thu, 25 Jun 2026 13:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
