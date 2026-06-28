@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 10:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 12:00:28 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[联合国自动驾驶系统全球技术法规正式发布]]></title>
+            <description><![CDATA[日前，联合国世界车辆法规协调组织（UN/WP.29）第 199 次全体会议在瑞士日内瓦召开。会上，由中国、欧盟、英国、美国、加拿大和日本共同牵头制定的联合国自动<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/28/629ec2026062818413748.png">]]></description>
+            <link>https://www.xchuxing.com/article/172538</link>
+            <guid isPermaLink="false">xchuxing:1:172538</guid>
+            <pubDate>Sun, 28 Jun 2026 10:44:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[主打性价比 福特将推出全新新能源平台 UEV]]></title>
             <description><![CDATA[日前，据外媒报道， 正将其电动化战略重心转向更小型、更实惠的车型，并推出全新通用电动车（Universal Electric Vehicle）平台，以应对来自中<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/28/8ac01202606281731036659.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/172470</link>
             <guid isPermaLink="false">xchuxing:1:172470</guid>
             <pubDate>Fri, 26 Jun 2026 13:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[如果L03的这些配置需要选配，你一定会选择哪个配置？]]></title>
-            <description><![CDATA[假如，我是说假如哦{:狗头02:}小鹏Mona L03的这些配置都需要选配的话，大家一定会选择哪个配置呢？来投个票吧！（最多可选3个）<br><br>[投票选项] 天鹅绒顶棚<br><br>[投票选项] 柔光美妆镜<br><br>[投票选项] 26.8英寸W-HUD<br><br>[投票选项] 15.6英寸2.5k超高清中控屏<br><br>[投票选项] 拉丝金属工艺扬声器网罩<br><br>[投票选项] 双层镀银全景天幕<br><br>[投票选项] 256色环抱式柔波氛围灯<br><br>[投票选项] 其他丨说说你的必选配置]]></description>
-            <link>https://www.xchuxing.com/vote/2191</link>
-            <guid isPermaLink="false">xchuxing:7:2191</guid>
-            <pubDate>Fri, 26 Jun 2026 10:28:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
