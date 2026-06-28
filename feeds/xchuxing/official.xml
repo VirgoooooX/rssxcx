@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 23:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 03:25:22 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[蔚来 ES8 大五座版最打动你的点是什么？]]></title>
+            <description><![CDATA[[投票选项] 取消第三排，二排空间大幅加宽<br><br>[投票选项] 后备箱容积暴涨，露营/户外装载拉满<br><br>[投票选项] 预计比六/七座版价格更低，性价比提升<br><br>[投票选项] 其他，评论区聊聊]]></description>
+            <link>https://www.xchuxing.com/vote/2197</link>
+            <guid isPermaLink="false">xchuxing:7:2197</guid>
+            <pubDate>Sun, 28 Jun 2026 03:22:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 397期：静态体验蔚来 ES8 大五座版]]></title>
+            <description><![CDATA[随着高端用户出行需求持续迭代，高端大五座细分赛道迎来全新发展窗口。蔚来顺势推出 ES8 大五座版，本期视频我们就来拆解，它如何实现装载实用性与高端体面感的双向兼顾。<br><img src="https://s1.xchuxing.com/video/2026/06/28/67404202606280029532321.png">]]></description>
+            <link>https://www.xchuxing.com/video/25354</link>
+            <guid isPermaLink="false">xchuxing:2:25354</guid>
+            <pubDate>Sun, 28 Jun 2026 03:00:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[填补 Model X 产品空白 特斯拉 Model YL 或将进入美国市场]]></title>
             <description><![CDATA[日前，据相关渠道消息，特斯拉计划将尺寸更大的 Model YL 带入美国市场， 该车型已在中国、澳大利亚等国家销售，进入美国市场旨在填补今年停产的 Model<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/27/0f3df202606272051316762.jpeg">]]></description>
@@ -70,20 +84,6 @@
             <link>https://www.xchuxing.com/article/172452</link>
             <guid isPermaLink="false">xchuxing:1:172452</guid>
             <pubDate>Fri, 26 Jun 2026 07:34:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[底盘装上“眼睛”和“头脑”，华为途灵平台重新定义“软件定义汽车”]]></title>
-            <description><![CDATA[6月26日，鸿蒙智行Tech Day华为途灵平台技术沟通会上，华为首次向媒体深度解读了途灵平台的技术本质。这场沟通会传递出一个清晰信号：底盘竞争的赛道，正在从机<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/26/38912202606261459265434.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172447</link>
-            <guid isPermaLink="false">xchuxing:1:172447</guid>
-            <pubDate>Fri, 26 Jun 2026 07:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏的抬头显示你更喜欢哪种方案]]></title>
-            <description><![CDATA[[投票选项] W-HUD（026款小鹏P7+ / 小鹏Mona L03）<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/06/26/e99c2202606261105324494.jpg"><br><br>[投票选项] AR-HUD（小鹏G7/P7）<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/06/26/6a935202606261106089653.png"><br><br>[投票选项] 评论区聊聊<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/06/26/12e44202606261106564363.jpg">]]></description>
-            <link>https://www.xchuxing.com/vote/2185</link>
-            <guid isPermaLink="false">xchuxing:7:2185</guid>
-            <pubDate>Fri, 26 Jun 2026 02:35:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
