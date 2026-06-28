@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 15:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 16:59:33 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -77,13 +77,6 @@
             <link>https://www.xchuxing.com/article/172498</link>
             <guid isPermaLink="false">xchuxing:1:172498</guid>
             <pubDate>Sat, 27 Jun 2026 08:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 20.99-32.99 万元 启境 GT7 正式上市]]></title>
-            <description><![CDATA[6 月 26 日，启境 GT7 正式上市，新车售价 20.99-32.99 万元，共推出 5 款车型版本。设计方面，启境 GT7 前脸采用俯冲式低趴设计，前机盖<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/26/3b6b3202606262147437010.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/172449</link>
-            <guid isPermaLink="false">xchuxing:1:172449</guid>
-            <pubDate>Fri, 26 Jun 2026 13:48:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
