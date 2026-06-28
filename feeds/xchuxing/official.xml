@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 14:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 15:45:36 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 398期：小米「寻天」车顶帐篷版？]]></title>
+            <description><![CDATA[第一期内容和大家讨论了小米「寻天」究竟是小米汽车的一个系列还是新品牌， 第二期内容我们围绕车顶帐篷进行讨论。<br><img src="https://s1.xchuxing.com/video/2026/06/28/d2392202606282317081505.png">]]></description>
+            <link>https://www.xchuxing.com/video/25372</link>
+            <guid isPermaLink="false">xchuxing:2:25372</guid>
+            <pubDate>Sun, 28 Jun 2026 15:19:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[联合国自动驾驶系统全球技术法规正式发布]]></title>
             <description><![CDATA[日前，联合国世界车辆法规协调组织（UN/WP.29）第 199 次全体会议在瑞士日内瓦召开。会上，由中国、欧盟、英国、美国、加拿大和日本共同牵头制定的联合国自动<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/28/629ec2026062818413748.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/172449</link>
             <guid isPermaLink="false">xchuxing:1:172449</guid>
             <pubDate>Fri, 26 Jun 2026 13:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[定位大五座运动 SUV 启境 GX7 正式发布]]></title>
-            <description><![CDATA[6 月 26 日，启境 GX7 正式发布，新车定位大五座运动 SUV ，将于年内正式上市。外观方面，新车采用俯冲低趴的下压车头、凌厉的机盖线条、宽幅外扩的前后轮<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/26/7f32e202606262130347891.png">]]></description>
-            <link>https://www.xchuxing.com/article/172470</link>
-            <guid isPermaLink="false">xchuxing:1:172470</guid>
-            <pubDate>Fri, 26 Jun 2026 13:43:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
