@@ -59,10 +59,16 @@ function writeFileAtomic(filePath, content) {
 function normalizeImageUrl(input) {
     if (!input) return '';
     if (typeof input !== 'string') return '';
-    const value = input.trim();
+    let value = input.trim();
     if (!value) return '';
+    if (value.startsWith('https://s1.xchuxing.com/video/')) {
+        value = value.replace('https://s1.xchuxing.com/video/', 'https://s3.xchuxing.com/xchuxing/video/');
+    }
     if (/^https?:\/\//i.test(value)) return value;
     const cleaned = value.replace(/^\//, '');
+    if (cleaned.startsWith('video/')) {
+        return `https://s3.xchuxing.com/xchuxing/${cleaned}`;
+    }
     if (cleaned.startsWith('article/')) {
         return `https://s1.xchuxing.com/xchuxing/${cleaned}`;
     }
