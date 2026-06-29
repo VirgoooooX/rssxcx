@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 14:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 17:28:24 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 222期：静态体验比亚迪大唐 EV]]></title>
+            <description><![CDATA[市面上已经有非常多的大六座 SUV，但比亚迪品牌一直没有推出同级车型。腾势虽然有 N9 和 N8L 两款大车，但说实话，毕竟品牌定位在那，价格不会太低。所以对于<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/26/fffa7202606262021416653.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/172467</link>
+            <guid isPermaLink="false">xchuxing:1:172467</guid>
+            <pubDate>Mon, 29 Jun 2026 16:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价 16.58 万元起 领克 07 GT 开启预售]]></title>
             <description><![CDATA[6 月 29 日，领克 07 GT 正式开启预售。其中 200 超长续航 Max、200超长续航 Utra、四驱性能 Ultra 3 款配置预售区间 16.58<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/29/482a620260629215118187.jpg">]]></description>
@@ -81,13 +88,6 @@
             <link>https://www.xchuxing.com/article/172538</link>
             <guid isPermaLink="false">xchuxing:1:172538</guid>
             <pubDate>Sun, 28 Jun 2026 10:44:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[主打性价比 福特将推出全新新能源平台 UEV]]></title>
-            <description><![CDATA[日前，据外媒报道， 正将其电动化战略重心转向更小型、更实惠的车型，并推出全新通用电动车（Universal Electric Vehicle）平台，以应对来自中<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/28/8ac01202606281731036659.png">]]></description>
-            <link>https://www.xchuxing.com/article/172535</link>
-            <guid isPermaLink="false">xchuxing:1:172535</guid>
-            <pubDate>Sun, 28 Jun 2026 09:34:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
