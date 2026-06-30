@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 15:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 17:21:05 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[OTA 速览｜座舱体验再升级 腾势 N8L V1.3.0 核心升级汇总]]></title>
+            <description><![CDATA[本次腾势 N8L 迎来了新一代的 OTA 升级，其中包含十九项新增以及十三项优化，主要包括座舱体验以及智能交互体验。接下来随着我们的步伐，来看看腾势 N8L 这<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/27/1a68d202605270941502955.png">]]></description>
+            <link>https://www.xchuxing.com/article/170396</link>
+            <guid isPermaLink="false">xchuxing:1:170396</guid>
+            <pubDate>Tue, 30 Jun 2026 16:00:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[整车售价 83.8 万元起 蔚来 ET9 地平线特别版「翠林染金」上市]]></title>
             <description><![CDATA[6 月 30 日， 蔚来 ET9 地平线特别版全新主题「翠林染金」上市，整车售价 83.8 万元起，全球限量 99 台，采用 BaaS 电池租用方式购买，售价<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/30/4d5c1202606302055365475.jpg">]]></description>
@@ -77,24 +84,6 @@
             <link>https://www.xchuxing.com/article/172574</link>
             <guid isPermaLink="false">xchuxing:1:172574</guid>
             <pubDate>Mon, 29 Jun 2026 07:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 NIODay申办城市8进3，新出行社区的朋友最想去哪里？]]></title>
-            <description><![CDATA[[投票选项] 长春<br><br>[投票选项] 重庆<br><br>[投票选项] 哈尔滨<br><br>[投票选项] 济南<br><br>[投票选项] 南京<br><br>[投票选项] 青岛<br><br>[投票选项] 武汉<br><br>[投票选项] 厦门]]></description>
-            <link>https://www.xchuxing.com/vote/2203</link>
-            <guid isPermaLink="false">xchuxing:7:2203</guid>
-            <pubDate>Mon, 29 Jun 2026 04:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 393期：大个静态体验尊界 V800]]></title>
-            <description><![CDATA[目前市场上已经有非常多的豪华 MPV，这些豪华 MPV 相比竞品车型埃尔法来说，在各方面都是领先的。
-
-但说实话，这些车型想要达到奢华 MPV 还有很大的差距，就算是各款车型的四座版，也难以企及。
-
-而此次体验的的尊界 V800，我觉得能够达到奢华这个标准。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/06/24/e2aa6202606241623272983.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/25262</link>
-            <guid isPermaLink="false">xchuxing:2:25262</guid>
-            <pubDate>Mon, 29 Jun 2026 01:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
