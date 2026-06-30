@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 02:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 06:49:00 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[最大规模OTA！世界模型×强化学习，地平线HSD V2.0重构端到端上限]]></title>
+            <description><![CDATA[6月29日，地平线正式发布全场景辅助驾驶系统HSD V2.0版本。作为HSD发布以来最大规模的OTA升级，V2.0版本包含6大维度进化、18项新增功能及25项体<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/30/5f7e8202606301257016058.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/172626</link>
+            <guid isPermaLink="false">xchuxing:1:172626</guid>
+            <pubDate>Tue, 30 Jun 2026 04:57:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 222期：静态体验比亚迪大唐 EV]]></title>
             <description><![CDATA[市面上已经有非常多的大六座 SUV，但比亚迪品牌一直没有推出同级车型。腾势虽然有 N9 和 N8L 两款大车，但说实话，毕竟品牌定位在那，价格不会太低。所以对于<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/26/fffa7202606262021416653.jpg">]]></description>
@@ -81,13 +88,6 @@
             <link>https://www.xchuxing.com/video/25372</link>
             <guid isPermaLink="false">xchuxing:2:25372</guid>
             <pubDate>Sun, 28 Jun 2026 15:19:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国自动驾驶系统全球技术法规正式发布]]></title>
-            <description><![CDATA[日前，联合国世界车辆法规协调组织（UN/WP.29）第 199 次全体会议在瑞士日内瓦召开。会上，由中国、欧盟、英国、美国、加拿大和日本共同牵头制定的联合国自动<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/28/629ec2026062818413748.png">]]></description>
-            <link>https://www.xchuxing.com/article/172538</link>
-            <guid isPermaLink="false">xchuxing:1:172538</guid>
-            <pubDate>Sun, 28 Jun 2026 10:44:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
