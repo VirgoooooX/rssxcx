@@ -4,10 +4,21 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 14:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 16:42:22 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 400期：大个动态体验比亚迪大唐 EV]]></title>
+            <description><![CDATA[市面上已经有非常多的大六座 SUV，但比亚迪品牌一直没有推出同级车型。腾势虽然有 N9 和 N8L 两款大车，但说实话，毕竟品牌定位在那，价格不会太低。
+
+所以对于认可比亚迪品牌的消费者来说，二十到三十万价位，是非常需要一款大型 SUV 的。
+
+那么这一次，我们来体验的就是比亚迪推出的旗舰 SUV，大唐 EV。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/01/dc7c4202607012216321631.png">]]></description>
+            <link>https://www.xchuxing.com/video/25447</link>
+            <guid isPermaLink="false">xchuxing:2:25447</guid>
+            <pubDate>Wed, 01 Jul 2026 16:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[交付 30,895 辆 理想汽车公布 6 月交付数据]]></title>
             <description><![CDATA[7 月 1 日，理想汽车公布 2026 年 6 月交付数据。2026 年 6 月，理想汽车交付新车 30,895 辆。截至 2026 年 6 月 30 日，理想<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/01/012e320260701210539901.jpg">]]></description>
@@ -77,13 +88,6 @@
             <link>https://www.xchuxing.com/article/172646</link>
             <guid isPermaLink="false">xchuxing:1:172646</guid>
             <pubDate>Tue, 30 Jun 2026 13:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[将于 7 月开启交付 岚图泰山 X8 纯电版正式下线]]></title>
-            <description><![CDATA[6 月 30 日，我们从官方渠道获悉，岚图泰山 X8 纯电版在云峰工厂正式下线。岚图泰山 X8 纯电版此前已完成上市，共推出 2 款配置，售价分别为 33.99<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/30/9a949202606302039225974.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172645</link>
-            <guid isPermaLink="false">xchuxing:1:172645</guid>
-            <pubDate>Tue, 30 Jun 2026 12:46:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
