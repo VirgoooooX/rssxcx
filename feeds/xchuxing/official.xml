@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 23:59:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 04:11:17 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 399期：小鹏 MONA L03：为年轻人造一台好看的 SUV]]></title>
+            <description><![CDATA[听说这台车叫“广州蒙娜丽莎”？ 来看看怎么个事~<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/01/39039202607010835463687.png">]]></description>
+            <link>https://www.xchuxing.com/video/25436</link>
+            <guid isPermaLink="false">xchuxing:2:25436</guid>
+            <pubDate>Wed, 01 Jul 2026 02:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行图文详解 223期：为年轻血液而生 静态体验小鹏 MONA L03]]></title>
+            <description><![CDATA[小鹏 MONA M03 凭借鲜明的年轻化定位收获市场认可后，系列首款 SUV 车型 MONA L03 正式登场。L03 带来全新设计语言的同时，也为 MONA<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/29/df0cf202606291439268144.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/172361</link>
+            <guid isPermaLink="false">xchuxing:1:172361</guid>
+            <pubDate>Wed, 01 Jul 2026 02:00:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OTA 速览｜座舱体验再升级 腾势 N8L V1.3.0 核心升级汇总]]></title>
             <description><![CDATA[本次腾势 N8L 迎来了新一代的 OTA 升级，其中包含十九项新增以及十三项优化，主要包括座舱体验以及智能交互体验。接下来随着我们的步伐，来看看腾势 N8L 这<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/27/1a68d202605270941502955.png">]]></description>
@@ -70,20 +84,6 @@
             <link>https://www.xchuxing.com/article/172590</link>
             <guid isPermaLink="false">xchuxing:1:172590</guid>
             <pubDate>Mon, 29 Jun 2026 11:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球首发 宝马 iX5 将于 6 月 30 日正式亮相]]></title>
-            <description><![CDATA[据官方消息，6 月 30 日，第五代宝马 X5（代号 G65）将迎来全球首发，宝马品牌首款纯电中大型 SUV——iX5 将同步正式亮相。动力方面，首发的 iX5<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/29/fe224202606291752597626.png">]]></description>
-            <link>https://www.xchuxing.com/article/172578</link>
-            <guid isPermaLink="false">xchuxing:1:172578</guid>
-            <pubDate>Mon, 29 Jun 2026 08:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比亚迪、奔驰同时追投 Momenta 正式启动招股]]></title>
-            <description><![CDATA[6 月 29 日，即将登陆港交所的 Momenta 正式启动招股，并同步披露 14 家基石投资者完整名单，梅赛德斯 - 奔驰与比亚迪两大全球头部车企位列其中，合<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/29/e5535202606291534156292.png">]]></description>
-            <link>https://www.xchuxing.com/article/172574</link>
-            <guid isPermaLink="false">xchuxing:1:172574</guid>
-            <pubDate>Mon, 29 Jun 2026 07:40:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
