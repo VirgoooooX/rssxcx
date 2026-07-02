@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 14:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 16:44:41 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX 车机体验 5期：深度体验 大众 ID.ERA 9X 车机]]></title>
+            <description><![CDATA[XCX-Test 车机实测迎来第 5 期，这一期，让我们来看看大众的纯电旗舰 SUV—— ID.ERA 9X 的车机智能化又会给我们带来什么样的惊喜呢？系好安全<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/27/ae999202606271617313207.png">]]></description>
+            <link>https://www.xchuxing.com/article/172420</link>
+            <guid isPermaLink="false">xchuxing:1:172420</guid>
+            <pubDate>Thu, 02 Jul 2026 16:01:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【投票】你会选小鹏MONA L03哪个配置？]]></title>
             <description><![CDATA[小鹏MONA L03的配置都出来了，你会怎么选择？纯电还是增程？来一起投个票吧！<br><br>[投票选项] 525 Max 纯电14.38万元<br><br>[投票选项] 625 Max 纯电15.38万元<br><br>[投票选项] 1330 Max 超级增程14.98万元<br><br>[投票选项] 525 Ultra SE 纯电15.58万元<br><br>[投票选项] 625 Ultra SE 纯电16.58万元<br><br>[投票选项] 1330 Ultra SE 超级增程16.18万元]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.xchuxing.com/article/172701</link>
             <guid isPermaLink="false">xchuxing:1:172701</guid>
             <pubDate>Wed, 01 Jul 2026 13:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大众安徽6月销量再攀新高 多重权益持续释放市场动能]]></title>
-            <description><![CDATA[【2026年7月1日，合肥】2026年6月，大众安徽整车销量持续攀升，同比增长120%，具体交付量达到2423辆，实现突破性增长。全国线下门店客流、试驾量保持高<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/01/22cc2202607012029454377.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172697</link>
-            <guid isPermaLink="false">xchuxing:1:172697</guid>
-            <pubDate>Wed, 01 Jul 2026 12:30:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
