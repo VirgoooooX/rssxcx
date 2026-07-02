@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 02:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 06:22:28 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[共五款全新颜色 FREELANDER 神行者 8 全新车色曝光]]></title>
+            <description><![CDATA[7 月 2 日，FREELANDER 神行者正式发布神行者 8 五款全新外观车色：流光银（高亮）、峡湾蓝、溢彩铜、极夜黑、云顶白。而首发限定版则是拥有热力金柠、<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/02/fcccf202607021125126094.png">]]></description>
+            <link>https://www.xchuxing.com/article/172725</link>
+            <guid isPermaLink="false">xchuxing:1:172725</guid>
+            <pubDate>Thu, 02 Jul 2026 03:23:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[限时权益价 17.98 万元 红旗全新一代天工 08 开启预售]]></title>
             <description><![CDATA[近日，红旗全新一代天工 08 开启预售，670 Max 版车型限时权益价 17.98 万元。权益方面，全新一代天工 08 可享置换补贴礼、金融贴息礼、终身智行礼<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/02/e80f720260702091905721.png">]]></description>
@@ -81,13 +88,6 @@
             <link>https://www.xchuxing.com/article/172361</link>
             <guid isPermaLink="false">xchuxing:1:172361</guid>
             <pubDate>Wed, 01 Jul 2026 02:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OTA 速览｜座舱体验再升级 腾势 N8L V1.3.0 核心升级汇总]]></title>
-            <description><![CDATA[本次腾势 N8L 迎来了新一代的 OTA 升级，其中包含十九项新增以及十三项优化，主要包括座舱体验以及智能交互体验。接下来随着我们的步伐，来看看腾势 N8L 这<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/05/27/1a68d202605270941502955.png">]]></description>
-            <link>https://www.xchuxing.com/article/170396</link>
-            <guid isPermaLink="false">xchuxing:1:170396</guid>
-            <pubDate>Tue, 30 Jun 2026 16:00:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
