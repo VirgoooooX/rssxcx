@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 23:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 02:29:46 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[限时权益价 17.98 万元 红旗全新一代天工 08 开启预售]]></title>
+            <description><![CDATA[近日，红旗全新一代天工 08 开启预售，670 Max 版车型限时权益价 17.98 万元。权益方面，全新一代天工 08 可享置换补贴礼、金融贴息礼、终身智行礼<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/02/e80f720260702091905721.png">]]></description>
+            <link>https://www.xchuxing.com/article/172719</link>
+            <guid isPermaLink="false">xchuxing:1:172719</guid>
+            <pubDate>Thu, 02 Jul 2026 01:31:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 400期：大个动态体验比亚迪大唐 EV]]></title>
             <description><![CDATA[市面上已经有非常多的大六座 SUV，但比亚迪品牌一直没有推出同级车型。腾势虽然有 N9 和 N8L 两款大车，但说实话，毕竟品牌定位在那，价格不会太低。
@@ -81,13 +88,6 @@
             <link>https://www.xchuxing.com/article/170396</link>
             <guid isPermaLink="false">xchuxing:1:170396</guid>
             <pubDate>Tue, 30 Jun 2026 16:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[整车售价 83.8 万元起 蔚来 ET9 地平线特别版「翠林染金」上市]]></title>
-            <description><![CDATA[6 月 30 日， 蔚来 ET9 地平线特别版全新主题「翠林染金」上市，整车售价 83.8 万元起，全球限量 99 台，采用 BaaS 电池租用方式购买，售价<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/06/30/4d5c1202606302055365475.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172646</link>
-            <guid isPermaLink="false">xchuxing:1:172646</guid>
-            <pubDate>Tue, 30 Jun 2026 13:07:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
