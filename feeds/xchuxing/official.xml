@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 06:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 09:39:34 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 402期：上汽奥迪E7X导购分析！无quattro不奥迪？]]></title>
+            <description><![CDATA[我们许多同事对上汽奥迪E7X这台车评价很高，有说E7X是最好开的纯电SUV，也有评价这台车是最潮流的奥迪。那这期视频，我们来分析看看这台E7X应该怎么选。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/03/af9772026070315441772.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/25511</link>
+            <guid isPermaLink="false">xchuxing:2:25511</guid>
+            <pubDate>Fri, 03 Jul 2026 08:08:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX 深度体验 36期：旗舰9系同台，深度体验感受如何？]]></title>
             <description><![CDATA[魏牌V9X是长城汽车创始人魏总打造了6年的旗舰9系！这一次我们就来体验一下这台9系到底有哪些不同，凭什么能称得上当代的旗舰9系。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/03/6d386202607031036232415.jpg">]]></description>
@@ -89,17 +96,6 @@
             <link>https://www.xchuxing.com/article/172719</link>
             <guid isPermaLink="false">xchuxing:1:172719</guid>
             <pubDate>Thu, 02 Jul 2026 01:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 400期：大个动态体验比亚迪大唐 EV]]></title>
-            <description><![CDATA[市面上已经有非常多的大六座 SUV，但比亚迪品牌一直没有推出同级车型。腾势虽然有 N9 和 N8L 两款大车，但说实话，毕竟品牌定位在那，价格不会太低。
-
-所以对于认可比亚迪品牌的消费者来说，二十到三十万价位，是非常需要一款大型 SUV 的。
-
-那么这一次，我们来体验的就是比亚迪推出的旗舰 SUV，大唐 EV。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/01/dc7c4202607012216321631.png">]]></description>
-            <link>https://www.xchuxing.com/video/25447</link>
-            <guid isPermaLink="false">xchuxing:2:25447</guid>
-            <pubDate>Wed, 01 Jul 2026 16:01:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
