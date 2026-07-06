@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 23:58:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 03:39:08 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 404期：静态体验 MG 07]]></title>
+            <description><![CDATA[作为 MG 品牌今年最重磅的战略车型，MG 07 将于 8 月初正式开启预售。预售前夕，今天这条视频，我们就先来好好静态体验一下这台新车。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/06/e0bc5202607060034317838.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/25585</link>
+            <guid isPermaLink="false">xchuxing:2:25585</guid>
+            <pubDate>Mon, 06 Jul 2026 01:00:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 225期：静态体验全新坦克 300 Hi4-Z]]></title>
             <description><![CDATA[经典就得有传承，像牧马人，这么多年外观也基本就那样，一看就知道是牧马人。而这一次的全新坦克 300 Hi4-Z，也延续了此前的内外饰设计，让大家一看就知道，这还<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/01/b81fb202607012030596252.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/172763</link>
             <guid isPermaLink="false">xchuxing:1:172763</guid>
             <pubDate>Sat, 04 Jul 2026 03:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8 月初上市 阿维塔 07L 将于 7 月中旬开启预售]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，阿维塔 07L 将于 7 月中旬开启预售，随后在 8 月初上市。值得一提的是，现款在售阿维塔 07 将迎来版型调整，双车将共同销售。外<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/04/bb19720260704104402469.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172824</link>
-            <guid isPermaLink="false">xchuxing:1:172824</guid>
-            <pubDate>Sat, 04 Jul 2026 03:12:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
