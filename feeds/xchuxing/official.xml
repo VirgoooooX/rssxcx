@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 03:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 08:11:10 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[7月市面上可选的3种能源形式，你会选择哪种？]]></title>
+            <description><![CDATA[[投票选项] 130度电池纯电闪充<br><br>[投票选项] 100度电池换电<br><br>[投票选项] 70度电池5C增程<br><br>[投票选项] 其它｜评论区补充]]></description>
+            <link>https://www.xchuxing.com/vote/2241</link>
+            <guid isPermaLink="false">xchuxing:7:2241</guid>
+            <pubDate>Mon, 06 Jul 2026 07:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾势N8L 闪充版全球首批交付，既见证了闪充速度，又见证了腾势速度]]></title>
+            <description><![CDATA[6月24日，腾势N8L 闪充版全球首批交付仪式在比亚迪总部举行，李慧总亲自交付首批闪充车型，这次上市即交付，既见证了闪充速度，又见证了腾势速度<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/06/55ee2202607061431224286.png">]]></description>
+            <link>https://www.xchuxing.com/video/25594</link>
+            <guid isPermaLink="false">xchuxing:2:25594</guid>
+            <pubDate>Mon, 06 Jul 2026 06:34:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 404期：静态体验 MG 07]]></title>
             <description><![CDATA[作为 MG 品牌今年最重磅的战略车型，MG 07 将于 8 月初正式开启预售。预售前夕，今天这条视频，我们就先来好好静态体验一下这台新车。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/06/e0bc5202607060034317838.jpg">]]></description>
@@ -70,20 +84,6 @@
             <link>https://www.xchuxing.com/article/172745</link>
             <guid isPermaLink="false">xchuxing:1:172745</guid>
             <pubDate>Sat, 04 Jul 2026 11:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 14.38 万元起 小鹏 MONA L03 将于 7 月 16 日上市]]></title>
-            <description><![CDATA[日前，我们从官方渠道获悉，小鹏 MONA L03 将于 7 月 16 日正式上市。新车此前已开启预售，纯电版共推出 4 款配置，预售区间 14.38-16.58<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/04/acaa52026070411241949.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172826</link>
-            <guid isPermaLink="false">xchuxing:1:172826</guid>
-            <pubDate>Sat, 04 Jul 2026 03:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 224期：双子星焕新升级 静态体验新款零跑 B 系列]]></title>
-            <description><![CDATA[零跑凭借高性价比打法在积累了口碑后，零跑 B 系列双子星迎来了完整焕新升级。新款 B01 与 B10 延续轿车+ SUV 的双车矩阵，核心配置与整车质感同步优化<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/04/93af0202607041033159000.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172763</link>
-            <guid isPermaLink="false">xchuxing:1:172763</guid>
-            <pubDate>Sat, 04 Jul 2026 03:23:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
