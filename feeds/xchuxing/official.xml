@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 15:59:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 18:01:22 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX 辅助驾驶体验 20期：体验领克 10 「千里浩瀚 H5」城区 NOA]]></title>
+            <description><![CDATA[随着领克 10 的上市，很多用户对其驾驶和操控能力都赞不绝口。在智驾方面也没有「偏科」——全系标配激光雷达，高配版本搭载算力 700TOPS 的 Thor 芯片<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/07/adbd0202607071639195238.png">]]></description>
+            <link>https://www.xchuxing.com/article/172895</link>
+            <guid isPermaLink="false">xchuxing:1:172895</guid>
+            <pubDate>Tue, 07 Jul 2026 16:00:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MG 07 将于 7 月 29 日开启预售]]></title>
             <description><![CDATA[从官方获悉，MG 07 将于 7 月 29 日开启预售，该车基于上汽全新一代新能源平台打造，是在 15-20 万区间为年轻人打造的第一台个性新能源轿跑。MG 0<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/06/0852e202607062331312063.jpg">]]></description>
@@ -81,13 +88,6 @@
             <link>https://www.xchuxing.com/article/172852</link>
             <guid isPermaLink="false">xchuxing:1:172852</guid>
             <pubDate>Sun, 05 Jul 2026 03:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全系标配华为乾崑智驾 ADS 5 奕境 X9 将于三季度内完成上市]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，奕境 X9 将于三季度内开启预售并完成上市以及交付。值得一提的是，奕境 X9 将全系标配华为乾崑智驾 ADS 5、896 线双光路图像<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/05/ef694202607051111081295.png">]]></description>
-            <link>https://www.xchuxing.com/article/172850</link>
-            <guid isPermaLink="false">xchuxing:1:172850</guid>
-            <pubDate>Sun, 05 Jul 2026 03:16:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
