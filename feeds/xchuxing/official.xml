@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 23:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 01:52:29 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[奔驰小 G 预计 7 月 13 日发布]]></title>
+            <description><![CDATA[日前，有消息称奔驰小 G 预计在 7 月 13 日发布，新车不再由德国生产制造，将在匈牙利工厂投产，于 2027 年开启量产。为了匹配这款新车型的生产，奔驰正斥<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/08/8ff0c202607080754164170.png">]]></description>
+            <link>https://www.xchuxing.com/article/172948</link>
+            <guid isPermaLink="false">xchuxing:1:172948</guid>
+            <pubDate>Tue, 07 Jul 2026 23:56:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[小米汽车全新系列定名 SkyNomad]]></title>
             <description><![CDATA[日前，小米公布了全新系列的命名，全新系列叫 SkyNomad，一个关于空间和生活的新名字。新车极大概率将在本月申报中亮相，并有望与月底举行技术发布会。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/08/f40e4202607080735368394.jpg">]]></description>
@@ -74,20 +81,6 @@
             <link>https://www.xchuxing.com/video/25585</link>
             <guid isPermaLink="false">xchuxing:2:25585</guid>
             <pubDate>Mon, 06 Jul 2026 01:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 225期：静态体验全新坦克 300 Hi4-Z]]></title>
-            <description><![CDATA[经典就得有传承，像牧马人，这么多年外观也基本就那样，一看就知道是牧马人。而这一次的全新坦克 300 Hi4-Z，也延续了此前的内外饰设计，让大家一看就知道，这还<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/01/b81fb202607012030596252.png">]]></description>
-            <link>https://www.xchuxing.com/article/172679</link>
-            <guid isPermaLink="false">xchuxing:1:172679</guid>
-            <pubDate>Sun, 05 Jul 2026 16:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行情报局 86期：一文了解启境 GX7 现阶段所有信息]]></title>
-            <description><![CDATA[在启境 GT7 上市发布会的尾声，当全场目光还停留在 20.99 万元的起售价时，启境品牌第二款车型——GX7 也迎来了首秀。作为启境产品矩阵中的首款 SUV<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/02/60791202607022241122150.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172664</link>
-            <guid isPermaLink="false">xchuxing:1:172664</guid>
-            <pubDate>Sun, 05 Jul 2026 15:12:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
