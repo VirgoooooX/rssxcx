@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jul 2026 23:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 01:07:26 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 407期：动态体验蔚来 ES8 大五座版]]></title>
+            <description><![CDATA[之前的视频里，阿迪已经带大家静态体验过蔚来 ES8 大五座版，本期视频咱们就把它开上路，看看它的动态表现到底怎么样。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/08/184f0202607082346473745.png">]]></description>
+            <link>https://www.xchuxing.com/video/25659</link>
+            <guid isPermaLink="false">xchuxing:2:25659</guid>
+            <pubDate>Thu, 09 Jul 2026 01:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 406期：维圈圈动态试驾零跑全新 B01/B10 双子星车型]]></title>
             <description><![CDATA[零跑全新 B10 和 B01 在动态表现上有何不同，哪台更加值得选择？一条视频带你看懂。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/08/79e49202607082352261334.jpg">]]></description>
@@ -63,13 +70,6 @@
             <link>https://www.xchuxing.com/article/172895</link>
             <guid isPermaLink="false">xchuxing:1:172895</guid>
             <pubDate>Tue, 07 Jul 2026 16:00:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MG 07 将于 7 月 29 日开启预售]]></title>
-            <description><![CDATA[从官方获悉，MG 07 将于 7 月 29 日开启预售，该车基于上汽全新一代新能源平台打造，是在 15-20 万区间为年轻人打造的第一台个性新能源轿跑。MG 0<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/06/0852e202607062331312063.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172912</link>
-            <guid isPermaLink="false">xchuxing:1:172912</guid>
-            <pubDate>Mon, 06 Jul 2026 15:34:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
