@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 22:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 23:43:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -84,13 +84,6 @@
             <link>https://www.xchuxing.com/article/172989</link>
             <guid isPermaLink="false">xchuxing:1:172989</guid>
             <pubDate>Wed, 08 Jul 2026 14:14:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中配售价 33.98 万 奔驰纯电 GLC 公布价格信息]]></title>
-            <description><![CDATA[日前，奔驰公布了纯电 GLC 的价格信息，共推出三款车型，其中中配车型公布正式售价，是 33.98 万。入门版和顶配则是预售价，分别为 29.99 万和 38.<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/08/f57ea202607082130372781.png">]]></description>
-            <link>https://www.xchuxing.com/article/172987</link>
-            <guid isPermaLink="false">xchuxing:1:172987</guid>
-            <pubDate>Wed, 08 Jul 2026 13:40:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
