@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 23:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 02:04:13 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 408期：DCC和独立悬架升级体验怎么样？动态体验MONA L03！]]></title>
+            <description><![CDATA[这次 MONA L03 升级了全新的底盘，我们也做了一次深度试驾体验，实际开起来怎么样？视频和大家详细聊聊！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/10/afb1d202607100938316067.png">]]></description>
+            <link>https://www.xchuxing.com/video/25684</link>
+            <guid isPermaLink="false">xchuxing:2:25684</guid>
+            <pubDate>Fri, 10 Jul 2026 02:00:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 38.28-42.28 万 蔚来 ES8 五座版上市]]></title>
             <description><![CDATA[日前，蔚来 ES8 五座版正式上市，新车共推出两款配置车型，售价区间为 38.28-42.28 万，BaaS 后的价格为 27.48-31.48 万。外观方面，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/09/a200b202607092354412693.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/video/25660</link>
             <guid isPermaLink="false">xchuxing:2:25660</guid>
             <pubDate>Wed, 08 Jul 2026 15:56:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[实测行驶超 2608km 吉利银河 A7 EM 刷新吉尼斯世界纪录]]></title>
-            <description><![CDATA[7 月 8 日，在权威纪录认证机构吉尼斯的公证下，吉利银河 A7 EM 以 2608.360km 的极限行驶里程，成功创造了“ 驾驶插电混动量产轿车满油满电零补<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/08/a901e202607082211429720.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172989</link>
-            <guid isPermaLink="false">xchuxing:1:172989</guid>
-            <pubDate>Wed, 08 Jul 2026 14:14:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
