@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 12:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 15:08:36 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 409期：斥资20万！我们给特斯拉车主租了50台YU7]]></title>
+            <description><![CDATA[特斯拉Model Y车主，开一周小米YU7，TA们会吐槽还是会点赞？为了印证这个问题，我们斥资20万！给特斯拉车主租了50台YU7，让他们免费体验一周.....活动已过半，让我们看看这半程的车主怎么说！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/10/29292202607102033263834.png">]]></description>
+            <link>https://www.xchuxing.com/video/25703</link>
+            <guid isPermaLink="false">xchuxing:2:25703</guid>
+            <pubDate>Fri, 10 Jul 2026 12:26:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图｜一图看懂岚图梦想家9核心亮点]]></title>
             <description><![CDATA[今天，岚图梦想家9正式公布核心参数信息，我们也做了一张亮点解析图，一起看看这款国产高端MPV又有哪些惊喜<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/10/8bb18202607101921021896.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/vote/2243</link>
             <guid isPermaLink="false">xchuxing:7:2243</guid>
             <pubDate>Thu, 09 Jul 2026 08:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[将于 7 月 16 日上市 理想发布新一代 L6 内饰官图]]></title>
-            <description><![CDATA[日前，理想发布新一代理想 L6内饰官图，整体设计看齐理想 L9。新车将于 7 月 16 日上市。 新一代理想 L6 延续 L9 的设计思路，换装全新样式的方向盘<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/09/68a77202607091210087553.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173014</link>
-            <guid isPermaLink="false">xchuxing:1:173014</guid>
-            <pubDate>Thu, 09 Jul 2026 04:14:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
