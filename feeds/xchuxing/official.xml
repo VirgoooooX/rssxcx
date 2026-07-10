@@ -4,10 +4,31 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 06:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 09:57:18 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[申报目录｜全系增程 小米N70、N90新车正式亮相]]></title>
+            <description><![CDATA[小米官方前两天正式发布了小米 SkyNomad 系列，中文名为小米澎程系列。今天小米澎程系列旗下的车型就正式登陆工信部目录，这一次小米汽车共申报了 4 款车型。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/09/4fb76202607091741293632.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/173034</link>
+            <guid isPermaLink="false">xchuxing:1:173034</guid>
+            <pubDate>Fri, 10 Jul 2026 09:53:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[限时售价 15.99 万起 日产 NX8 增程 260Pro 版正式上市]]></title>
+            <description><![CDATA[今日（2026 年 7 月 10 日），日产 NX8 增程 260Pro 正式上市，新车限时权益价为 15.99 万起。做为新增配置版型， 新增版本电池容量从之<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/10/9b750202607101555136482.png">]]></description>
+            <link>https://www.xchuxing.com/article/173073</link>
+            <guid isPermaLink="false">xchuxing:1:173073</guid>
+            <pubDate>Fri, 10 Jul 2026 07:55:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[将于 7 月 16 日上市 五菱星光 L 产品节奏曝光]]></title>
+            <description><![CDATA[近日，五菱正式官宣星光 L 将于 7 月 16 日正式上市，并首次公开新车座椅内饰的完整拆解细节。新车定位大六座插混 SUV。从官方曝光图可以看到，新车主驾将会<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/10/205a3202607101442115287.png">]]></description>
+            <link>https://www.xchuxing.com/article/173075</link>
+            <guid isPermaLink="false">xchuxing:1:173075</guid>
+            <pubDate>Fri, 10 Jul 2026 06:45:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 408期：DCC和独立悬架升级体验怎么样？动态体验MONA L03！]]></title>
             <description><![CDATA[这次 MONA L03 升级了全新的底盘，我们也做了一次深度试驾体验，实际开起来怎么样？视频和大家详细聊聊！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/10/afb1d202607100938316067.png">]]></description>
@@ -63,27 +84,6 @@
             <link>https://www.xchuxing.com/vote/2242</link>
             <guid isPermaLink="false">xchuxing:7:2242</guid>
             <pubDate>Thu, 09 Jul 2026 03:55:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[岚图旗舰 MPV 定名梦想家 9]]></title>
-            <description><![CDATA[日前，岚图汽车正式宣布，代号“岚图珠峰”的全新 MPV 命名“岚图梦想家 9”。新车将于下半年上市，锚定 50 万级旗舰市场。据年初产品规划，新车定位“50 万<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/09/3da7e202607091114434680.png">]]></description>
-            <link>https://www.xchuxing.com/article/173006</link>
-            <guid isPermaLink="false">xchuxing:1:173006</guid>
-            <pubDate>Thu, 09 Jul 2026 03:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 407期：动态体验蔚来 ES8 大五座版]]></title>
-            <description><![CDATA[之前的视频里，阿迪已经带大家静态体验过蔚来 ES8 大五座版，本期视频咱们就把它开上路，看看它的动态表现到底怎么样。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/08/184f0202607082346473745.png">]]></description>
-            <link>https://www.xchuxing.com/video/25659</link>
-            <guid isPermaLink="false">xchuxing:2:25659</guid>
-            <pubDate>Thu, 09 Jul 2026 01:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 406期：维圈圈动态试驾零跑全新 B01/B10 双子星车型]]></title>
-            <description><![CDATA[零跑全新 B10 和 B01 在动态表现上有何不同，哪台更加值得选择？一条视频带你看懂。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/08/79e49202607082352261334.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/25660</link>
-            <guid isPermaLink="false">xchuxing:2:25660</guid>
-            <pubDate>Wed, 08 Jul 2026 15:56:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
