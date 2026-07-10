@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 09:57:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 12:22:59 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行一图｜一图看懂岚图梦想家9核心亮点]]></title>
+            <description><![CDATA[今天，岚图梦想家9正式公布核心参数信息，我们也做了一张亮点解析图，一起看看这款国产高端MPV又有哪些惊喜<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/10/8bb18202607101921021896.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/173089</link>
+            <guid isPermaLink="false">xchuxing:1:173089</guid>
+            <pubDate>Fri, 10 Jul 2026 11:40:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[申报目录｜全系增程 小米N70、N90新车正式亮相]]></title>
             <description><![CDATA[小米官方前两天正式发布了小米 SkyNomad 系列，中文名为小米澎程系列。今天小米澎程系列旗下的车型就正式登陆工信部目录，这一次小米汽车共申报了 4 款车型。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/09/4fb76202607091741293632.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/173014</link>
             <guid isPermaLink="false">xchuxing:1:173014</guid>
             <pubDate>Thu, 09 Jul 2026 04:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[你觉得新一代理想L6的售价会比理想i6高吗？]]></title>
-            <description><![CDATA[[投票选项] 会<br><br>[投票选项] 不会<br><br>[投票选项] 其它｜评论区聊聊]]></description>
-            <link>https://www.xchuxing.com/vote/2242</link>
-            <guid isPermaLink="false">xchuxing:7:2242</guid>
-            <pubDate>Thu, 09 Jul 2026 03:55:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
