@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 04:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 07:07:30 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 410期：圆梦 20W 级纯电轿跑，谁才是你的专属答案]]></title>
+            <description><![CDATA[预算卡着野心，生活磨着热爱，曾以为的汽车驾控梦遥不可及，但时代从来不会辜负热爱驾驶的人。这期我们带来三台 20 万级「年轻人的第一台轿跑」小米SU7、领克10、尚界Z7，咱们深度体验一下，看看谁才是你的专属答案<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/11/1d18a20260711122544798.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/25718</link>
+            <guid isPermaLink="false">xchuxing:2:25718</guid>
+            <pubDate>Sat, 11 Jul 2026 05:18:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 5.98-7.98 万 纳米 01 智趣版上市]]></title>
             <description><![CDATA[日前，纳米 01 智趣版正式上市，新车共推出四款配置车型，售价区间为 5.98-7.98 万。外观方面，纳米 01 有着圆润灵动的车身曲面，搭配同级独有的零界无<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/11/4a321202607111129262500.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/173032</link>
             <guid isPermaLink="false">xchuxing:1:173032</guid>
             <pubDate>Thu, 09 Jul 2026 09:47:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 226期：静态体验阿维塔 07L]]></title>
-            <description><![CDATA[2026 年对阿维塔来说是不折不扣的产品大年。刚刚过去的上半年，新阿维塔 12 与阿维塔 06T 两款轿车先后登场，完成了品牌在轿车市场的布局补全；进入下半年，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/09/de947202607091026398434.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/172872</link>
-            <guid isPermaLink="false">xchuxing:1:172872</guid>
-            <pubDate>Thu, 09 Jul 2026 09:30:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
