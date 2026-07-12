@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 15:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 16:48:58 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 227期：新能源大 6 座新成员 动态体验东风奕派 M8]]></title>
+            <description><![CDATA[东风奕派 M8 正式亮相起，就凭借其优越的空间规格与智能配置，备受广大家庭用户与商务出行市场的广泛期待。同时，随着产品信息的逐步释放，让很多用户的关注焦点落到了<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/10/ba243202607102036231922.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/172927</link>
+            <guid isPermaLink="false">xchuxing:1:172927</guid>
+            <pubDate>Sun, 12 Jul 2026 16:00:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 411期：维圈圈动态试驾东风奕派 M8]]></title>
+            <description><![CDATA[如何把大六座做的好开？一起来瞅瞅~<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/12/a944a202607122247558178.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/25749</link>
+            <guid isPermaLink="false">xchuxing:2:25749</guid>
+            <pubDate>Sun, 12 Jul 2026 15:51:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[大众发布 ID.AURA T6 内饰官图]]></title>
             <description><![CDATA[日前，大众发布了 ID.AURA T6 的内饰官图。新车定位纯电中型 SUV，采用全新 CEA 电子电气架构。内饰方面，新车采用了极简设计风格，中控台采用了功能<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/12/b53fa202607122105338569.jpg">]]></description>
@@ -77,13 +91,6 @@
             <link>https://www.xchuxing.com/article/173075</link>
             <guid isPermaLink="false">xchuxing:1:173075</guid>
             <pubDate>Fri, 10 Jul 2026 06:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 408期：DCC和独立悬架升级体验怎么样？动态体验MONA L03！]]></title>
-            <description><![CDATA[这次 MONA L03 升级了全新的底盘，我们也做了一次深度试驾体验，实际开起来怎么样？视频和大家详细聊聊！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/10/afb1d202607100938316067.png">]]></description>
-            <link>https://www.xchuxing.com/video/25684</link>
-            <guid isPermaLink="false">xchuxing:2:25684</guid>
-            <pubDate>Fri, 10 Jul 2026 02:00:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
