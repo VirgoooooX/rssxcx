@@ -4,10 +4,21 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 14:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 16:07:57 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 413期：大个动态体验领克 07 GT]]></title>
+            <description><![CDATA[领克 07 GT 开完了，四驱的版本开起来的体验没得说。
+
+无论是带家人长途出行，还是深夜想去跑跑山。
+
+领克 07 GT 都能够胜任。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/14/a4206202607142135412597.png">]]></description>
+            <link>https://www.xchuxing.com/video/25805</link>
+            <guid isPermaLink="false">xchuxing:2:25805</guid>
+            <pubDate>Tue, 14 Jul 2026 16:01:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[日常用车中，蔚来全新 ES8 你最满意的三个产品点是什么？]]></title>
             <description><![CDATA[[投票选项] 超大前备舱<br><br>[投票选项] NOMI<br><br>[投票选项] 智能辅助驾驶<br><br>[投票选项] 零重力座椅<br><br>[投票选项] 一键隐私<br><br>[投票选项] 天琴 8.1.4.2 沉浸声系统<br><br>[投票选项] 二排电动小桌板<br><br>[投票选项] 其他，评论区说说]]></description>
@@ -84,13 +95,6 @@
             <link>https://www.xchuxing.com/article/173188</link>
             <guid isPermaLink="false">xchuxing:1:173188</guid>
             <pubDate>Sun, 12 Jul 2026 12:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[将于 9 月上市 长安启源发布 Q06 内饰官图]]></title>
-            <description><![CDATA[日前，长安启源官方发布了 Q06 的内饰官图。新车基于 SDA 天枢架构平台打造，外观采用了启源家族式的设计。内饰方面，新车采用了简约设计风格，中控台采用了阶梯<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/12/534b2202607122015491905.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173187</link>
-            <guid isPermaLink="false">xchuxing:1:173187</guid>
-            <pubDate>Sun, 12 Jul 2026 12:20:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
