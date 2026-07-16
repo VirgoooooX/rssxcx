@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 06:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 08:38:22 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行 x 小鹏MONA L03｜新车主专属限定提车礼包]]></title>
+            <description><![CDATA[新出行 × 小鹏MONA L03｜新车主专属提车福利！小鹏MONA L03 提车礼包活动已提前准备好~ 大家的L03显示多久可以交付呢？准备提车的鹏友们别忘了<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/16/f85f5202607161358193047.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/173416</link>
+            <guid isPermaLink="false">xchuxing:1:173416</guid>
+            <pubDate>Thu, 16 Jul 2026 06:49:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NIO Day 2026 申办候选三城，新出行的车友会给哪座城市投票～]]></title>
             <description><![CDATA[[投票选项] 哈尔滨<br><br>[投票选项] 武汉<br><br>[投票选项] 厦门]]></description>
@@ -89,13 +96,6 @@
             <link>https://www.xchuxing.com/article/173079</link>
             <guid isPermaLink="false">xchuxing:1:173079</guid>
             <pubDate>Mon, 13 Jul 2026 14:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今天带你看看新时代大众长啥样？]]></title>
-            <description><![CDATA[今天带你看看新时代大众长啥样？——ID.AURA T6用不大众的设计给你满意答案～<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/13/adca7202607132032467766.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/25776</link>
-            <guid isPermaLink="false">xchuxing:2:25776</guid>
-            <pubDate>Mon, 13 Jul 2026 12:36:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
