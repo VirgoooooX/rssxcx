@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 07:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 09:25:36 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 416期：对标宝马 X5！全新理想 L8 能否成为新时代五座标杆？]]></title>
+            <description><![CDATA[从 25 款 L9 开始，理想彻底跳出 “只讲舒适” 的固有标签，不再单纯聚焦家用舒适，全面注入运动驾控基因。这一次，我们集齐三台重磅车型：全新理想 L8 Ultra、L8 Livis，再加上燃油五座标杆宝马 X5。看看如何定义新时代的“公路之王”？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/17/a6a11202607171706361508.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/25894</link>
+            <guid isPermaLink="false">xchuxing:2:25894</guid>
+            <pubDate>Fri, 17 Jul 2026 09:08:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新一代理想L6正式发布，全国统一零售价24.98万元]]></title>
             <description><![CDATA[2026年7月16日，理想汽车正式发布全能四驱SUV——新一代理想L6。新一代理想L6全国统一零售价24.98万元，即日起开启定购，用户可在理想汽车全国零售中心<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/17/0dcab202607171419495410.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/173381</link>
             <guid isPermaLink="false">xchuxing:1:173381</guid>
             <pubDate>Thu, 16 Jul 2026 12:38:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行 x 小鹏MONA L03｜新车主专属限定提车礼包]]></title>
-            <description><![CDATA[新出行 × 小鹏MONA L03｜新车主专属提车福利！小鹏MONA L03 提车礼包活动已提前准备好~ 大家的L03显示多久可以交付呢？准备提车的鹏友们别忘了<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/16/f85f5202607161358193047.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173416</link>
-            <guid isPermaLink="false">xchuxing:1:173416</guid>
-            <pubDate>Thu, 16 Jul 2026 06:49:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
