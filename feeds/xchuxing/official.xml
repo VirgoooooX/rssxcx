@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 13:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 14:55:44 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 19.98 万元起 全新坦克 300 正式上市]]></title>
+            <description><![CDATA[7 月 19 日，全新坦克 300 正式上市，售价区间为 19.98-25.98 万元。新车共分为 5 个配置，分别是 Hi4-Z、Hi4-T、柴油版、征服者版<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/19/f5ae5202607192249457145.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/173630</link>
+            <guid isPermaLink="false">xchuxing:1:173630</guid>
+            <pubDate>Sun, 19 Jul 2026 14:49:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价 24.99 万起 阿维塔 07L 开启预售]]></title>
             <description><![CDATA[7 月 17 日，阿维塔 07L 正式开启预售，张凌赫成为阿维塔全球品牌代言人。新车共推出 2 个车型版本，其中 Max+ 纯电版预售价 24.99 万元，Ul<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/17/7bc22202607172209079138.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/25866</link>
             <guid isPermaLink="false">xchuxing:2:25866</guid>
             <pubDate>Thu, 16 Jul 2026 12:55:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 24.98 万元 新一代理想 L6 上市]]></title>
-            <description><![CDATA[7 月 16 日，新一代理想 L6 正式上市。新车仅推出 Ultra 一款配置，售价 24.98 万元。首销期权益方面，新一代理想 L6 将免费赠送前排双全尺寸<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/16/8709a202607161737042945.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173430</link>
-            <guid isPermaLink="false">xchuxing:1:173430</guid>
-            <pubDate>Thu, 16 Jul 2026 12:45:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
