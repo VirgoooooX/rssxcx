@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 14:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 16:16:22 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 233期：A 系列首款轿车 静态体验零跑 A05S]]></title>
+            <description><![CDATA[作为零跑首款都市灵动的 A 系列轿车，光是看到这个封面，都觉得它在颜值方面有很强的竞争力。但，买车不能只看好不好看，还要看实不实用，适不适合自己。本期静态体验，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/20/48f03202607201715429994.png">]]></description>
+            <link>https://www.xchuxing.com/article/173671</link>
+            <guid isPermaLink="false">xchuxing:1:173671</guid>
+            <pubDate>Tue, 21 Jul 2026 16:00:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10 月全球首发亮相 smart 精灵#2 量产版官方谍照发布]]></title>
             <description><![CDATA[日前，我们从官方渠道获取到一组 smart 精灵#2 量产版谍照。新车将于 2026 年 10 月 12 日开幕的巴黎车展上完成全球首发亮相，预计在 2026<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/21/ad461202607211808077272.jpg">]]></description>
@@ -77,15 +84,6 @@
             <link>https://www.xchuxing.com/article/173676</link>
             <guid isPermaLink="false">xchuxing:1:173676</guid>
             <pubDate>Mon, 20 Jul 2026 08:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 419期：极限道路体验华为乾崑 ADS 5]]></title>
-            <description><![CDATA[华为乾崑 ADS 5 即将正式推送，在推送前我们先体验了测试版。
-
-看看在深圳熟悉的道路上，华为乾崑 ADS 5 的体验如何。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/20/21f4d202607201542021613.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/25950</link>
-            <guid isPermaLink="false">xchuxing:2:25950</guid>
-            <pubDate>Mon, 20 Jul 2026 07:49:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
