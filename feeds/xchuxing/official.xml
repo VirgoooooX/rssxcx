@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 07:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 10:16:27 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[整车售价 13.33 万元 firefly 萤火虫「栖息地」上市]]></title>
+            <description><![CDATA[日前， firefly 萤火虫 halo 寻光系列首款车型「栖息地」正式上市。新车整车售价 13.33 万元，Baas 租电方案售价 9.33 万元。外观方面，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/21/cdfa0202607211801498686.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/173720</link>
+            <guid isPermaLink="false">xchuxing:1:173720</guid>
+            <pubDate>Tue, 21 Jul 2026 10:06:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[极氪9X 五座版和六座版你更倾向选择哪个？]]></title>
             <description><![CDATA[[投票选项] 极氪9X 五座版<br><br>[投票选项] 极氪9X 六座版<br><br>[投票选项] 其它｜评论区聊聊]]></description>
@@ -79,15 +86,6 @@
             <link>https://www.xchuxing.com/video/25941</link>
             <guid isPermaLink="false">xchuxing:2:25941</guid>
             <pubDate>Mon, 20 Jul 2026 02:17:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 417期：大个静态体验腾势 Z9S]]></title>
-            <description><![CDATA[腾势 Z 系列的的第四款车型，腾势 Z9S 来了。
-
-让我们通过本期视频，一起来先从静态了解一下腾势 Z9S。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/19/cfbdc202607192333261948.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/25934</link>
-            <guid isPermaLink="false">xchuxing:2:25934</guid>
-            <pubDate>Mon, 20 Jul 2026 02:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
