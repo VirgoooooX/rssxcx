@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 05:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 07:54:29 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[智驾迈入里程公开新时代 华为乾崑以公开重新定义信任标尺]]></title>
+            <description><![CDATA[7 月 20 日，华为乾崑智驾累计辅助驾驶里程突破 130 亿公里——这串不断跃升的数字，是中国智能网联汽车辅助驾驶规模化落地的生动写照。与此同时，L2 辅助驾<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/22/7b7c6202607221336389269.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/173748</link>
+            <guid isPermaLink="false">xchuxing:1:173748</guid>
+            <pubDate>Thu, 23 Jul 2026 05:37:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[本次乐道3.1.0版本更新，你最期待哪个功能？]]></title>
             <description><![CDATA[[投票选项] 人机共驾模式<br><br>[投票选项] 全场景领航辅助｜城区/高速辅助<br><br>[投票选项] 智能泊车辅助<br><br>[投票选项] 乐道APP OSD行程总结<br><br>[投票选项] 新增NIO Radio<br><br>[投票选项] 新增自定义锁车提示音<br><br>[投票选项] 即时看娃影像优化<br><br>[投票选项] 其他功能，评论区说说]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/vote/2250</link>
             <guid isPermaLink="false">xchuxing:7:2250</guid>
             <pubDate>Tue, 21 Jul 2026 03:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 422期：静态体验极氪9X五座版]]></title>
-            <description><![CDATA[极氪9X 旗舰大五座来了，本期视频我们就来看看极氪在 9X 上带来了一款怎样的旗舰五座 SUV，二排和后备箱又有哪些变化。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/20/f6364202607202153023490.png">]]></description>
-            <link>https://www.xchuxing.com/video/25966</link>
-            <guid isPermaLink="false">xchuxing:2:25966</guid>
-            <pubDate>Tue, 21 Jul 2026 02:00:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
