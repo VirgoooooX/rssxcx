@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 14:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 16:20:29 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[探店 135期：预计 6-8 周交付？探店新一代理想 L6]]></title>
+            <description><![CDATA[作为 25 万级家用 SUV 市场的现象级车型，理想 L6 上市两年累计交付近 40 万台，热度始终居高不下。不久前新一代理想 L6 正式上市，目前已开启首批车<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/23/b966b202607231732557800.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/173791</link>
+            <guid isPermaLink="false">xchuxing:1:173791</guid>
+            <pubDate>Thu, 23 Jul 2026 15:25:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[限时权益价 16.98-20.98 万元 东风奕派 M8 上市]]></title>
             <description><![CDATA[7 月 23 日，东风奕派 M8 正式上市。新车共推出 5 款配置，官方指导价 17.98-21.98 万元，限时超级置换价 16.98-20.98 万元。权益<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/23/29e6e202607232130342512.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/173777</link>
             <guid isPermaLink="false">xchuxing:1:173777</guid>
             <pubDate>Wed, 22 Jul 2026 12:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 233期：A 系列首款轿车 静态体验零跑 A05S]]></title>
-            <description><![CDATA[作为零跑首款都市灵动的 A 系列轿车，光是看到这个封面，都觉得它在颜值方面有很强的竞争力。但，买车不能只看好不好看，还要看实不实用，适不适合自己。本期静态体验，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/20/48f03202607201715429994.png">]]></description>
-            <link>https://www.xchuxing.com/article/173671</link>
-            <guid isPermaLink="false">xchuxing:1:173671</guid>
-            <pubDate>Tue, 21 Jul 2026 16:00:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
