@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 01:57:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 05:22:47 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[本次乐道3.1.0版本更新，你最期待哪个功能？]]></title>
+            <description><![CDATA[[投票选项] 人机共驾模式<br><br>[投票选项] 全场景领航辅助｜城区/高速辅助<br><br>[投票选项] 智能泊车辅助<br><br>[投票选项] 乐道APP OSD行程总结<br><br>[投票选项] 新增NIO Radio<br><br>[投票选项] 新增自定义锁车提示音<br><br>[投票选项] 即时看娃影像优化<br><br>[投票选项] 其他功能，评论区说说]]></description>
+            <link>https://www.xchuxing.com/vote/2251</link>
+            <guid isPermaLink="false">xchuxing:7:2251</guid>
+            <pubDate>Thu, 23 Jul 2026 03:35:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 234期：静态体验全新理想 L8]]></title>
             <description><![CDATA[之前的理想 L7 跟 L8 之间的关系，就是在几乎同一尺寸下，五座和六座布局不同。而全新理想 L8，是在理想品牌重新梳理 L 系列产品线后推出的车型。作为一款原<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/09/5123b202607091513131191.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/25966</link>
             <guid isPermaLink="false">xchuxing:2:25966</guid>
             <pubDate>Tue, 21 Jul 2026 02:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 421期：世界模型和强化学习带来哪些升级？地平线HSD 2.0最全实测]]></title>
-            <description><![CDATA[地平线HSD 2.0最全实测！这次和大家聊聊HSD 2.0到底带来了哪些升级？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/20/f9376202607202336379023.png">]]></description>
-            <link>https://www.xchuxing.com/video/25963</link>
-            <guid isPermaLink="false">xchuxing:2:25963</guid>
-            <pubDate>Mon, 20 Jul 2026 15:41:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
