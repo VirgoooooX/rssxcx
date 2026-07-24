@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 11:58:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 13:46:46 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 424期：静态体验吉利银河战舰700]]></title>
+            <description><![CDATA[静态体验吉利银河第一款方盒子硬派越野——吉利银河战舰700，一起看看都有哪些细节。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/23/f237b202607232255339521.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/26085</link>
+            <guid isPermaLink="false">xchuxing:2:26085</guid>
+            <pubDate>Fri, 24 Jul 2026 12:30:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价 30.99 万 岚图追光 S 开启预售]]></title>
             <description><![CDATA[日前，岚图追光 S 开启预售，目前仅推出一款配置车型，预售价为 30.99 万。外观方面，新车整体延续了岚图家族式设计风格，星环式贯穿灯组搭配中央可发光的岚图品<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/24/95bd8202607241648137295.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/173779</link>
             <guid isPermaLink="false">xchuxing:1:173779</guid>
             <pubDate>Wed, 22 Jul 2026 13:18:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 12.38 万元起 小鹏 MONA L03 开启首批交付]]></title>
-            <description><![CDATA[7 月 22 日，小鹏 MONA L03 正式开启首批车主交付，全国大批量交付也将于 8 月全面提速。售价方面，纯电版共推出 6 款配置，售价区间 12.38-<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/22/54297202607222100305502.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173778</link>
-            <guid isPermaLink="false">xchuxing:1:173778</guid>
-            <pubDate>Wed, 22 Jul 2026 13:02:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
