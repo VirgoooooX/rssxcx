@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 13:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 15:20:26 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[吉利银河战舰 700 全球首秀]]></title>
+            <description><![CDATA[日前，吉利银河战舰 700 全球首秀在杭州启幕，以「刚柔并济」的中国设计智慧、百万级质感，全面展示其性能之上的质感进化，让中国越野以中华气度闪耀世界。作为吉利首<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/24/09f51202607242242305322.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/173889</link>
+            <guid isPermaLink="false">xchuxing:1:173889</guid>
+            <pubDate>Fri, 24 Jul 2026 14:44:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 424期：静态体验吉利银河战舰700]]></title>
             <description><![CDATA[静态体验吉利银河第一款方盒子硬派越野——吉利银河战舰700，一起看看都有哪些细节。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/23/f237b202607232255339521.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/26024</link>
             <guid isPermaLink="false">xchuxing:2:26024</guid>
             <pubDate>Wed, 22 Jul 2026 13:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[最快将于 2027 年下半年交付 L3 级自动驾驶能力 大众中国携手地平线深化 AI 合作]]></title>
-            <description><![CDATA[日前，我们从官方渠道获悉，大众汽车集团（中国）携手地平线深化 AI 基座大模型合作，酷睿程获白盒授权，L3/L4 全栈自研全面提速。 官方表示，酷睿程将通过白盒<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/22/48c70202607222106167940.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173779</link>
-            <guid isPermaLink="false">xchuxing:1:173779</guid>
-            <pubDate>Wed, 22 Jul 2026 13:18:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
