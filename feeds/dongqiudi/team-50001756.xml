@@ -4,9 +4,18 @@
         <description><![CDATA[巴塞罗那 的最新相关新闻，来源：懂球帝。]]></description>
         <link>https://www.dongqiudi.com/team/50001756</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 16:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 17:55:08 GMT</lastBuildDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[佩蒂特：我喜欢戈登，但我觉得他的技术能力还不足以在巴萨立足]]></title>
+            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/C6/17/280x210/crop/-/rBXRDGpmRS-ART34AAGRYSrKWOQ722.jpg" alt="" /></p>]]></description>
+            <link>https://m.dongqiudi.com/article/6084414.html</link>
+            <guid isPermaLink="false">dongqiudi:team:50001756:6084414</guid>
+            <category><![CDATA[足球]]></category>
+            <category><![CDATA[西甲]]></category>
+            <pubDate>Sun, 26 Jul 2026 17:42:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[奥尔莫：世界杯夺冠不易，多少强队小组赛未出线或早早出局]]></title>
             <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/C5/D0/280x210/crop/-/rBXRn2pmLmaAXJGrAAFPXwEfbYU825.jpg" alt="" /></p>]]></description>
@@ -99,15 +108,6 @@
             <category><![CDATA[英超]]></category>
             <category><![CDATA[西甲]]></category>
             <pubDate>Sun, 26 Jul 2026 12:21:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[佩德里：到办州了]]></title>
-            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/C4/FB/280x210/crop/-/rBXRn2pl3sqAInVpAAZFp45nX4s066.jpg" alt="" /></p>]]></description>
-            <link>https://m.dongqiudi.com/article/6082732.html</link>
-            <guid isPermaLink="false">dongqiudi:team:50001756:6082732</guid>
-            <category><![CDATA[足球]]></category>
-            <category><![CDATA[西甲]]></category>
-            <pubDate>Sun, 26 Jul 2026 10:21:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
