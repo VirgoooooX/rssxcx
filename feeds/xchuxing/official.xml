@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 01:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 04:51:54 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[小米澎程，它来咯～]]></title>
+            <description><![CDATA[扒一扒这次的小米新车有什么惊喜点呢？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/26/7a5e4202607260937019975.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/26119</link>
+            <guid isPermaLink="false">xchuxing:2:26119</guid>
+            <pubDate>Sun, 26 Jul 2026 01:38:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7 月 30 日下线 FREELANDER 神行者 8 将于 8 月 10 日开启预售]]></title>
             <description><![CDATA[日前，我们从官方渠道获悉，FREELANDER 神行者 8 将于 7 月 30 日在常熟奇瑞捷豹路虎工厂正式下线，并于 8 月 10 日开启预售。 外观方面，神<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/25/cabd4202607251000061553.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/173819</link>
             <guid isPermaLink="false">xchuxing:1:173819</guid>
             <pubDate>Thu, 23 Jul 2026 13:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上市权益价 14.58-19.68 万元 领克 07 GT 上市]]></title>
-            <description><![CDATA[7 月 23 日，领克 07 GT 正式上市。新车共推出 4 款配置，官方指导价 15.78-20.88 万元，上市限时价 14.58-19.68 万元。上市权<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/23/7dfbd202607232007341633.png">]]></description>
-            <link>https://www.xchuxing.com/article/173817</link>
-            <guid isPermaLink="false">xchuxing:1:173817</guid>
-            <pubDate>Thu, 23 Jul 2026 12:11:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
