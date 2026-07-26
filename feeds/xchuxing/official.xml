@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 09:51:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 11:13:36 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[限时售价 10.69-12.69 万元 奇瑞风云 A9 上市]]></title>
+            <description><![CDATA[日前，奇瑞风云 A9 正式上市，新车共推出 3 款配置，上市指导价 10.99-12.99 万元，限时超级置换价 10.69-12.69 万元。权益方面，奇瑞风<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/26/13878202607261907525308.png">]]></description>
+            <link>https://www.xchuxing.com/article/173937</link>
+            <guid isPermaLink="false">xchuxing:1:173937</guid>
+            <pubDate>Sun, 26 Jul 2026 11:12:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[小米澎程，它来咯～]]></title>
             <description><![CDATA[扒一扒这次的小米新车有什么惊喜点呢？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/26/7a5e4202607260937019975.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/173824</link>
             <guid isPermaLink="false">xchuxing:1:173824</guid>
             <pubDate>Thu, 23 Jul 2026 13:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[补贴价 12.98-17.58 万元起 2027 款传祺向往 S7 PHEV 上市]]></title>
-            <description><![CDATA[日前，2027 款传祺向往 S7 PHEV 正式上市。新车共推出 4 款配置，市场指导价 14.98-19.98 万元，补贴价 12.98-17.58 万元。上<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/23/ac1a6202607232024318271.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173819</link>
-            <guid isPermaLink="false">xchuxing:1:173819</guid>
-            <pubDate>Thu, 23 Jul 2026 13:20:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
