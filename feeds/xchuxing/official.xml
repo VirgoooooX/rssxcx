@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 15:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 16:49:26 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX 续航体验 81期：全新理想 L8 纯电续航、油耗及充电测试]]></title>
+            <description><![CDATA[理想 L 系列在今年迎来了全面升级，特别是 L9 和 L8，在发动机和三电方面都有提升。电池容量来到了 72.7kWh，带来了超过 400km 的 CLTC 工<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/16/242d7202607162213027559.png">]]></description>
+            <link>https://www.xchuxing.com/article/173448</link>
+            <guid isPermaLink="false">xchuxing:1:173448</guid>
+            <pubDate>Sun, 26 Jul 2026 16:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[搭载新世代电驱技术 全新宝马 iX3 长轴距版将于 8 月开启预售]]></title>
             <description><![CDATA[今日，我们从官方渠道获悉，全新宝马 iX3 长轴距版将于 8 月开启的成都车展上正式开启预售。外观方面，新世代 BMW iX3 长轴距版采用“一眼宝马”运动美学<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/26/99fd4202607261922436844.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/video/26085</link>
             <guid isPermaLink="false">xchuxing:2:26085</guid>
             <pubDate>Fri, 24 Jul 2026 12:30:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 30.99 万 岚图追光 S 开启预售]]></title>
-            <description><![CDATA[日前，岚图追光 S 开启预售，目前仅推出一款配置车型，预售价为 30.99 万。外观方面，新车整体延续了岚图家族式设计风格，星环式贯穿灯组搭配中央可发光的岚图品<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/24/95bd8202607241648137295.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173867</link>
-            <guid isPermaLink="false">xchuxing:1:173867</guid>
-            <pubDate>Fri, 24 Jul 2026 08:51:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
