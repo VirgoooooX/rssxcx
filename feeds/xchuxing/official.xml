@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 05:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 08:51:31 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[大家觉得谁才是奕境 X9 最直接的竞争对手？]]></title>
+            <description><![CDATA[[投票选项] 问界 M9<br><br>[投票选项] 理想 L9<br><br>[投票选项] 蔚来 ES9<br><br>[投票选项] 极氪 9X<br><br>[投票选项] 其他，评论区说说]]></description>
+            <link>https://www.xchuxing.com/vote/2252</link>
+            <guid isPermaLink="false">xchuxing:7:2252</guid>
+            <pubDate>Mon, 27 Jul 2026 07:28:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX 续航体验 81期：全新理想 L8 纯电续航、油耗及充电测试]]></title>
             <description><![CDATA[理想 L 系列在今年迎来了全面升级，特别是 L9 和 L8，在发动机和三电方面都有提升。电池容量来到了 72.7kWh，带来了超过 400km 的 CLTC 工<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/16/242d7202607162213027559.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/video/26085</link>
             <guid isPermaLink="false">xchuxing:2:26085</guid>
             <pubDate>Fri, 24 Jul 2026 12:30:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 30.99 万 岚图追光 S 开启预售]]></title>
-            <description><![CDATA[日前，岚图追光 S 开启预售，目前仅推出一款配置车型，预售价为 30.99 万。外观方面，新车整体延续了岚图家族式设计风格，星环式贯穿灯组搭配中央可发光的岚图品<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/24/95bd8202607241648137295.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173867</link>
-            <guid isPermaLink="false">xchuxing:1:173867</guid>
-            <pubDate>Fri, 24 Jul 2026 08:51:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
