@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 08:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 12:12:11 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[小米澎程它来啦，这个造型你喜欢吗？]]></title>
+            <description><![CDATA[小米澎程，主打灵活大空间的增程SUV，你的诗和远方，它帮你实现了！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/27/94ae0202607271808594348.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/26154</link>
+            <guid isPermaLink="false">xchuxing:2:26154</guid>
+            <pubDate>Mon, 27 Jul 2026 10:09:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[什么？理想MEGA内饰改款曝光了？这我得好好瞅瞅?～]]></title>
+            <description><![CDATA[改款后的理想MEGA内饰有没有戳到你的点呢？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/27/4d661202607271740381167.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/26152</link>
+            <guid isPermaLink="false">xchuxing:2:26152</guid>
+            <pubDate>Mon, 27 Jul 2026 09:41:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[大家觉得谁才是奕境 X9 最直接的竞争对手？]]></title>
             <description><![CDATA[[投票选项] 问界 M9<br><br>[投票选项] 理想 L9<br><br>[投票选项] 蔚来 ES9<br><br>[投票选项] 极氪 9X<br><br>[投票选项] 其他，评论区说说]]></description>
@@ -70,20 +84,6 @@
             <link>https://www.xchuxing.com/article/173897</link>
             <guid isPermaLink="false">xchuxing:1:173897</guid>
             <pubDate>Sat, 25 Jul 2026 01:27:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[吉利银河战舰 700 全球首秀]]></title>
-            <description><![CDATA[日前，吉利银河战舰 700 全球首秀在杭州启幕，以「刚柔并济」的中国设计智慧、百万级质感，全面展示其性能之上的质感进化，让中国越野以中华气度闪耀世界。作为吉利首<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/24/09f51202607242242305322.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173889</link>
-            <guid isPermaLink="false">xchuxing:1:173889</guid>
-            <pubDate>Fri, 24 Jul 2026 14:44:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 424期：静态体验吉利银河战舰700]]></title>
-            <description><![CDATA[静态体验吉利银河第一款方盒子硬派越野——吉利银河战舰700，一起看看都有哪些细节。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/23/f237b202607232255339521.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/26085</link>
-            <guid isPermaLink="false">xchuxing:2:26085</guid>
-            <pubDate>Fri, 24 Jul 2026 12:30:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
