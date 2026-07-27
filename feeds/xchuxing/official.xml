@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 01:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 05:03:23 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -35,13 +35,6 @@
             <link>https://www.xchuxing.com/article/173937</link>
             <guid isPermaLink="false">xchuxing:1:173937</guid>
             <pubDate>Sun, 26 Jul 2026 11:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米澎程，它来咯～]]></title>
-            <description><![CDATA[扒一扒这次的小米新车有什么惊喜点呢？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/26/7a5e4202607260937019975.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/26119</link>
-            <guid isPermaLink="false">xchuxing:2:26119</guid>
-            <pubDate>Sun, 26 Jul 2026 01:38:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7 月 30 日下线 FREELANDER 神行者 8 将于 8 月 10 日开启预售]]></title>
@@ -84,6 +77,13 @@
             <link>https://www.xchuxing.com/video/26085</link>
             <guid isPermaLink="false">xchuxing:2:26085</guid>
             <pubDate>Fri, 24 Jul 2026 12:30:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[预售价 30.99 万 岚图追光 S 开启预售]]></title>
+            <description><![CDATA[日前，岚图追光 S 开启预售，目前仅推出一款配置车型，预售价为 30.99 万。外观方面，新车整体延续了岚图家族式设计风格，星环式贯穿灯组搭配中央可发光的岚图品<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/24/95bd8202607241648137295.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/173867</link>
+            <guid isPermaLink="false">xchuxing:1:173867</guid>
+            <pubDate>Fri, 24 Jul 2026 08:51:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
