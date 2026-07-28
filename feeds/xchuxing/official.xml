@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 01:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 04:56:18 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[动态体验零跑A系列最新力作A05，这续航你给几分？]]></title>
+            <description><![CDATA[抢先实测零跑A05，城市+快速路混跑，续航达成率出乎意料。到底是“数据漂亮”还是“真能跑”？动态体验下，底盘质感怎么样？一条视频告诉你。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/28/2b430202607281124539826.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/26174</link>
+            <guid isPermaLink="false">xchuxing:2:26174</guid>
+            <pubDate>Tue, 28 Jul 2026 03:26:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[有望 8 月上市 零跑 A05 开启盲订]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，零跑 A05 已开启盲订，99 元下订即可享 5000 元专属能量积分盲订权益。在上市节奏方面，目前有消息称新车将于 8 月正式上市。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/28/4b6e7202607280924187902.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/173937</link>
             <guid isPermaLink="false">xchuxing:1:173937</guid>
             <pubDate>Sun, 26 Jul 2026 11:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 月 30 日下线 FREELANDER 神行者 8 将于 8 月 10 日开启预售]]></title>
-            <description><![CDATA[日前，我们从官方渠道获悉，FREELANDER 神行者 8 将于 7 月 30 日在常熟奇瑞捷豹路虎工厂正式下线，并于 8 月 10 日开启预售。 外观方面，神<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/25/cabd4202607251000061553.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173901</link>
-            <guid isPermaLink="false">xchuxing:1:173901</guid>
-            <pubDate>Sat, 25 Jul 2026 02:00:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
