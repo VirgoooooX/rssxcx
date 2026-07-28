@@ -4,10 +4,27 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 07:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 10:25:23 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 425期：日产NX8对比本田CR-V：重新定义15-20万家用SUV选择标准]]></title>
+            <description><![CDATA[开惯燃油车总嫌油费肉疼，想换新能源又怕续航虚、保养坑？
+今天把东风日产NX8增程260Pro和家用老牌标杆本田CR-V拉出来硬碰硬，空间、舒适配置、底盘质感、长期用车成本全维度实测。
+从燃油稳妥到增程全能，15-20万级家用SUV的标准，早就该刷新了。
+你会选经典燃油，还是一步到位选能城能野的增程？评论区聊聊～<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/28/8b672202607281806517113.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/26186</link>
+            <guid isPermaLink="false">xchuxing:2:26186</guid>
+            <pubDate>Tue, 28 Jul 2026 10:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行社区的乐道车友，你们用车的主要场景是哪些～（多选）]]></title>
+            <description><![CDATA[[投票选项] 自己上下班通勤<br><br>[投票选项] 接送小孩上下学<br><br>[投票选项] 与家人一起长途出行<br><br>[投票选项] 与家人一起短途出行<br><br>[投票选项] 与朋友自驾出游<br><br>[投票选项] 户外露营<br><br>[投票选项] 自驾回老家<br><br>[投票选项] 其他，评论区说说]]></description>
+            <link>https://www.xchuxing.com/vote/2253</link>
+            <guid isPermaLink="false">xchuxing:7:2253</guid>
+            <pubDate>Tue, 28 Jul 2026 08:12:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[动态体验零跑A系列最新力作A05，这续航你给几分？]]></title>
             <description><![CDATA[抢先实测零跑A05，城市+快速路混跑，续航达成率出乎意料。到底是“数据漂亮”还是“真能跑”？动态体验下，底盘质感怎么样？一条视频告诉你。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/28/2b430202607281124539826.jpg">]]></description>
@@ -77,20 +94,6 @@
             <link>https://www.xchuxing.com/article/173939</link>
             <guid isPermaLink="false">xchuxing:1:173939</guid>
             <pubDate>Sun, 26 Jul 2026 11:24:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[有望 9 月上市 奕境 X9 将于 8 月开启预售]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，奕境 X9 将于 8 月开启预售，并有望在 9 月正式上市。值得一提的是，新车将全系首批搭载华为乾崑 ADS 5 MAX。外观方面，奕<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/26/1d0aa202607261919429572.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173938</link>
-            <guid isPermaLink="false">xchuxing:1:173938</guid>
-            <pubDate>Sun, 26 Jul 2026 11:20:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[限时售价 10.69-12.69 万元 奇瑞风云 A9 上市]]></title>
-            <description><![CDATA[日前，奇瑞风云 A9 正式上市，新车共推出 3 款配置，上市指导价 10.99-12.99 万元，限时超级置换价 10.69-12.69 万元。权益方面，奇瑞风<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/26/13878202607261907525308.png">]]></description>
-            <link>https://www.xchuxing.com/article/173937</link>
-            <guid isPermaLink="false">xchuxing:1:173937</guid>
-            <pubDate>Sun, 26 Jul 2026 11:12:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
