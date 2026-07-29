@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 23:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 01:48:28 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[约合人民币 8.9 万元起 比亚迪 RACCO 在日本上市]]></title>
+            <description><![CDATA[近日，比亚迪海獭（RACCO）正式在日本市场上市，共推出 3 款配置，当地售价 214.5-249.7 万日元（约合人民币 8.9-10.33 万元）。 新车是<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/29/59f54202607290910587987.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/174038</link>
+            <guid isPermaLink="false">xchuxing:1:174038</guid>
+            <pubDate>Wed, 29 Jul 2026 01:22:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2026 年 8 月重磅新车上市规划汇总]]></title>
             <description><![CDATA[步入 2026 年 8 月，作为 “金九银十” 传统销售旺季的前置蓄力窗口，各大车企纷纷携重磅新品集中登场，提前打响下半年的市场卡位战。本期文章，我们就来盘点<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/28/010c2202607281752066963.png">]]></description>
@@ -87,13 +94,6 @@
             <link>https://www.xchuxing.com/article/173988</link>
             <guid isPermaLink="false">xchuxing:1:173988</guid>
             <pubDate>Mon, 27 Jul 2026 14:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奇瑞风云 T7 将于近期开启小订]]></title>
-            <description><![CDATA[从奇瑞风云官方获悉，奇瑞风云 T7 将于近期开启小订。该车已于此前完成工信部申报，采用纯电驱动，全系续航超过 600km。外观方面，新车采用全新的设计风格，封闭<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/27/b4ebf202607272215459020.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173987</link>
-            <guid isPermaLink="false">xchuxing:1:173987</guid>
-            <pubDate>Mon, 27 Jul 2026 14:17:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
