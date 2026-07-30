@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 04:49:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 07:28:12 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[岚图发布中国首款全地形智能底盘“虎踞”]]></title>
+            <description><![CDATA[7 月 29 日，岚图泰山系列成功完成渡阴山全地形穿越挑战，以全程零故障、稳姿态的表现，展现出扎实的全地形实力。活动现场，中国首款全地形智能底盘正式命名“岚图虎<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/30/7d252202607301434048955.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/174100</link>
+            <guid isPermaLink="false">xchuxing:1:174100</guid>
+            <pubDate>Thu, 30 Jul 2026 06:36:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[今晚开启小订 小米澎程 N90 展车到店]]></title>
             <description><![CDATA[7 月 30 日，我们从官方渠道获悉，小米澎程 N90 展车已陆续到达全国门店，将覆盖全国 146 城 499 家门店。有消息称，小米澎程 N90 将于今晚的技<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/30/2d25b202607301212122364.jpg">]]></description>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/article/173996</link>
             <guid isPermaLink="false">xchuxing:1:173996</guid>
             <pubDate>Tue, 28 Jul 2026 15:10:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[保时捷将于 2035 年前再裁 5000 人]]></title>
-            <description><![CDATA[据路透社报道，德国豪华汽车制造商保时捷在 7 月 27 日表示，根据管理层与劳工代表达成的第二轮重组方案，公司将在 2035 年前再裁减 5000 个工作岗位。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/28/df1a2202607282212398967.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174028</link>
-            <guid isPermaLink="false">xchuxing:1:174028</guid>
-            <pubDate>Tue, 28 Jul 2026 14:14:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
