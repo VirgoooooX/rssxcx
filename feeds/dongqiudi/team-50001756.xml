@@ -4,9 +4,17 @@
         <description><![CDATA[巴塞罗那 的最新相关新闻，来源：懂球帝。]]></description>
         <link>https://www.dongqiudi.com/team/50001756</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 18:49:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 20:14:21 GMT</lastBuildDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[半场战报：巴萨1-1伯明翰，普里斯克破门，哈姆扎点射扳平]]></title>
+            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/D6/F3/280x210/crop/-/rBXRn2ps9yiAOwFiABJKxyM7hr4028.jpg" alt="" /></p>]]></description>
+            <link>https://m.dongqiudi.com/article/6105942.html</link>
+            <guid isPermaLink="false">dongqiudi:team:50001756:6105942</guid>
+            <category><![CDATA[足球]]></category>
+            <pubDate>Fri, 31 Jul 2026 19:33:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[官方：巴萨签下布鲁日小将比西武；据悉转会费850万欧元]]></title>
             <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/D6/DC/280x210/crop/-/rBXRDGps6zqALQ92AAD_bVMoFog494.jpg" alt="" /></p>]]></description>
@@ -83,15 +91,6 @@
             <category><![CDATA[足球]]></category>
             <category><![CDATA[西甲]]></category>
             <pubDate>Fri, 31 Jul 2026 12:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[此前因心律失常入院，拉波尔塔：我已经出院，回家啦！]]></title>
-            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/D5/DF/280x210/crop/-/rBXRDGpsf-2AIf4oAACiqFgC3u4860.jpg" alt="" /></p>]]></description>
-            <link>https://m.dongqiudi.com/article/6103991.html</link>
-            <guid isPermaLink="false">dongqiudi:team:50001756:6103991</guid>
-            <category><![CDATA[足球]]></category>
-            <category><![CDATA[西甲]]></category>
-            <pubDate>Fri, 31 Jul 2026 10:59:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
