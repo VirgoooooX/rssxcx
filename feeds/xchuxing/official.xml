@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 08:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 11:21:47 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 428期：全新一代问界 M9 ADS 5 辅助驾驶体验]]></title>
+            <description><![CDATA[升级到 ADS5 后，全新一代问界M9 辅助驾驶表现如何？本期视频就从我日常出行路线和场景来和大家聊一聊。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/31/5c733202607311425414200.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/26287</link>
+            <guid isPermaLink="false">xchuxing:2:26287</guid>
+            <pubDate>Fri, 31 Jul 2026 09:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[探店 136期：双车开启小订 探店小米澎程 Skynomad]]></title>
             <description><![CDATA[小米技术发布会当晚，澎程系列 N70、N90 同步开启小订。目前仅公布了两款顶配车型的预售价与核心技术，完整配置阶梯、购车细则尚未完全公开。同时，小米澎程 N7<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/31/70f7b202607311552105740.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/174057</link>
             <guid isPermaLink="false">xchuxing:1:174057</guid>
             <pubDate>Thu, 30 Jul 2026 11:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一汽-大众 ID. AURA T6：一台"最懂你"的大众是怎样炼成的]]></title>
-            <description><![CDATA[在当下的新能源汽车市场，用户正陷入一种无形的“参数焦虑”：比芯片制程、比屏幕尺寸、比辅助驾驶能力，仿佛数字越大，车辆价值就越高。可当热度褪去，回归日复一日的家用<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/30/8bb14202607301734342718.png">]]></description>
-            <link>https://www.xchuxing.com/article/174113</link>
-            <guid isPermaLink="false">xchuxing:1:174113</guid>
-            <pubDate>Thu, 30 Jul 2026 11:42:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
