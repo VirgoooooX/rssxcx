@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 11:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 12:31:55 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 19.79 万 红旗天工 08 上市]]></title>
+            <description><![CDATA[日前，新款红旗天工 08 670 Max 正式上市，新车售价为 19.79 万元，限时权益价 17.99 万元。外观方面，整体延续了老款车型的设计风格，前脸依旧<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/01/87a5e202608011948357700.png">]]></description>
+            <link>https://www.xchuxing.com/article/174245</link>
+            <guid isPermaLink="false">xchuxing:1:174245</guid>
+            <pubDate>Sat, 01 Aug 2026 11:46:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 429期：合资车机的翻身仗？深度体验三车智能车机]]></title>
             <description><![CDATA[长久以来，行业和消费者心里都有一个根深蒂固的固有印象，合资车型，过去很长一段时间都摆脱不了车机反应迟钝、功能简陋、迭代缓慢的车机标签，和新势力的车机体验存在一定的差距。近两年我们发现合资品牌的智能化体系正在发生颠覆性蜕变，其中也包括一汽-大众，这一期我们用一个视频和大家聊聊合资车机带来了哪些新的变化和惊喜？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/01/6667b202608011709142710.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/174012</link>
             <guid isPermaLink="false">xchuxing:1:174012</guid>
             <pubDate>Thu, 30 Jul 2026 13:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 236期：可变座舱的新解法 静态体验小米澎程 N90 Max]]></title>
-            <description><![CDATA[小米澎程想必大家并不陌生，作为小米入局增程品类的首款 SUV 产品，澎程车系从申报阶段就一口气申报了四款车型。其中，定位旗舰的澎程 N90 Max，以近 5 米<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/27/dd357202607271143012935.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/173750</link>
-            <guid isPermaLink="false">xchuxing:1:173750</guid>
-            <pubDate>Thu, 30 Jul 2026 13:02:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
