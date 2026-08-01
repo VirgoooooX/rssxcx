@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 23:54:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 01:59:26 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[零跑正式登陆印尼市场]]></title>
+            <description><![CDATA[从官方获悉，零跑携 B10 及 C10 两款全球车型，亮相 2026 印尼国际车展（GIIAS 2026），并正式宣布登陆印尼市场。此次，零跑导入印尼的两款车型<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/01/7b25d202608010953242683.png">]]></description>
+            <link>https://www.xchuxing.com/article/174218</link>
+            <guid isPermaLink="false">xchuxing:1:174218</guid>
+            <pubDate>Sat, 01 Aug 2026 01:54:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[神行者 8 首台量产车下线]]></title>
+            <description><![CDATA[日前，神行者品牌首款量产车型神行者 8 在奇瑞捷豹路虎常熟工厂正式下线，并将于 8 月 10 日开启预售。神行者 8 的下线标志着 FREELANDER 神行者<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/01/255a2202608010947466294.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/174217</link>
+            <guid isPermaLink="false">xchuxing:1:174217</guid>
+            <pubDate>Sat, 01 Aug 2026 01:49:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 428期：全新一代问界 M9 ADS 5 辅助驾驶体验]]></title>
             <description><![CDATA[升级到 ADS5 后，全新一代问界M9 辅助驾驶表现如何？本期视频就从我日常出行路线和场景来和大家聊一聊。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/07/31/5c733202607311425414200.jpg">]]></description>
@@ -77,20 +91,6 @@
             <link>https://www.xchuxing.com/video/26268</link>
             <guid isPermaLink="false">xchuxing:2:26268</guid>
             <pubDate>Thu, 30 Jul 2026 13:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[你最喜欢小米澎程哪款外观颜色？]]></title>
-            <description><![CDATA[[投票选项] 远山青<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/07/30/9fb52202607301959411699.jpg"><br><br>[投票选项] 蝴蝶谷蓝<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/07/30/10d06202607301959535965.jpg"><br><br>[投票选项] 火山灰<br><img src="https://s1.xchuxing.com/xchuxing/vote/2026/07/30/b3b5b202607302000083481.jpg">]]></description>
-            <link>https://www.xchuxing.com/vote/2254</link>
-            <guid isPermaLink="false">xchuxing:7:2254</guid>
-            <pubDate>Thu, 30 Jul 2026 12:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[昆仑平台亮相 一文看懂小米汽车技术发布会]]></title>
-            <description><![CDATA[增程技术还能玩出什么新高度？小米给你带来答案。在小米汽车技术发布会上，小米昆仑平台正式对外亮相，这套面向中大型增程 SUV 打造的全域技术架构，从空间布局、动力<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/30/b956d202607301713261538.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174057</link>
-            <guid isPermaLink="false">xchuxing:1:174057</guid>
-            <pubDate>Thu, 30 Jul 2026 11:47:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
