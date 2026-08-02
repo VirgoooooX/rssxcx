@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 15:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 16:49:28 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 430期：MONA L03进入欧洲 小鹏VLA 2.0会面对哪些考验？]]></title>
+            <description><![CDATA[小鹏VLA 2.0进入欧洲市场会面对哪些考验？欧洲场景和我们国内到底有哪些差异？这次一个视频和大家全面聊聊VLA 2.0进入欧洲市场的机会和挑战。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/02/2a2f320260802203104418.png">]]></description>
+            <link>https://www.xchuxing.com/video/26361</link>
+            <guid isPermaLink="false">xchuxing:2:26361</guid>
+            <pubDate>Sun, 02 Aug 2026 15:55:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[智界 RX 将于 8 月开启小订]]></title>
             <description><![CDATA[从官方获悉，智界 RX 将于 8 月开启小订，更多产品信息、配置版本及权益内容也将陆续公布。此前，智界 RX 已在工信部进行申报。动力方面，新车将提供单电机和双<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/02/57204202608021613302240.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/174137</link>
             <guid isPermaLink="false">xchuxing:1:174137</guid>
             <pubDate>Fri, 31 Jul 2026 02:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行情报局 87期：一文了解奕境 X9 现阶段所有信息]]></title>
-            <description><![CDATA[步入 2026 年下半年，高端六座增程 SUV 赛道竞争愈发激烈，由东风与华为乾崑深度共创打造的全新品牌奕境，将会带来旗下首款旗舰车型——奕境 X9。 伴随着新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/30/76b42202607301554401225.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174054</link>
-            <guid isPermaLink="false">xchuxing:1:174054</guid>
-            <pubDate>Thu, 30 Jul 2026 15:33:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
