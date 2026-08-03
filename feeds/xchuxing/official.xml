@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 01:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 04:57:16 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[升级 800V 平台 全新一代 smart 精灵 1 号将于 8 月 6 日上市]]></title>
+            <description><![CDATA[近日，我们从官方渠道获悉， 全新一代 smart 精灵 1 号将于 8 月 6 日正式上市。目前首批展车已抵达全国 77 城门店。外观方面，全新一代 smart<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/03/66a80202608030922395384.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/174305</link>
+            <guid isPermaLink="false">xchuxing:1:174305</guid>
+            <pubDate>Mon, 03 Aug 2026 01:23:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 430期：静态体验比亚迪 2027 款海豹06]]></title>
             <description><![CDATA[最新的三电系统、更大的尺寸以及更新的造型，更新后的比亚迪 2027 款海豹 06 实力如何？本期视频就来和大家聊一聊。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/02/28e67202608022236386836.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/174155</link>
             <guid isPermaLink="false">xchuxing:1:174155</guid>
             <pubDate>Fri, 31 Jul 2026 07:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MG 07预售媒体群访深度解读：一场“技术平权”的阳谋]]></title>
-            <description><![CDATA[7月29日晚，杭州，MG 07以12.59万元至16.59万元的预售价登场。预售20小时，小订突破2.1万台，较MG4同期翻倍。上汽乘用车副总经理张亮在群访中直<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/31/5f3fc202607311032293043.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174140</link>
-            <guid isPermaLink="false">xchuxing:1:174140</guid>
-            <pubDate>Fri, 31 Jul 2026 02:33:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
