@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 23:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 01:04:04 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 430期：静态体验比亚迪 2027 款海豹06]]></title>
+            <description><![CDATA[最新的三电系统、更大的尺寸以及更新的造型，更新后的比亚迪 2027 款海豹 06 实力如何？本期视频就来和大家聊一聊。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/02/28e67202608022236386836.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/26359</link>
+            <guid isPermaLink="false">xchuxing:2:26359</guid>
+            <pubDate>Mon, 03 Aug 2026 01:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 430期：MONA L03进入欧洲 小鹏VLA 2.0会面对哪些考验？]]></title>
             <description><![CDATA[小鹏VLA 2.0进入欧洲市场会面对哪些考验？欧洲场景和我们国内到底有哪些差异？这次一个视频和大家全面聊聊VLA 2.0进入欧洲市场的机会和挑战。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/02/2a2f320260802203104418.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/174140</link>
             <guid isPermaLink="false">xchuxing:1:174140</guid>
             <pubDate>Fri, 31 Jul 2026 02:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MG 07预售发布会 媒体群访速记]]></title>
-            <description><![CDATA[时间：2026年7月29日地点：浙江杭州出席 领导：上汽乘用车副总经理、上汽乘用车销售公司总经理   张亮上汽集团首席专家、研发总院总设计师兼上汽英国技术中心总<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/07/31/f7bd3202607311018239777.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174137</link>
-            <guid isPermaLink="false">xchuxing:1:174137</guid>
-            <pubDate>Fri, 31 Jul 2026 02:20:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
