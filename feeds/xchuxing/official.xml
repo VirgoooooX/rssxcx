@@ -4,7 +4,7 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 14:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 16:44:45 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
@@ -84,13 +84,6 @@
             <link>https://www.xchuxing.com/article/174218</link>
             <guid isPermaLink="false">xchuxing:1:174218</guid>
             <pubDate>Sat, 01 Aug 2026 01:54:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[神行者 8 首台量产车下线]]></title>
-            <description><![CDATA[日前，神行者品牌首款量产车型神行者 8 在奇瑞捷豹路虎常熟工厂正式下线，并将于 8 月 10 日开启预售。神行者 8 的下线标志着 FREELANDER 神行者<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/01/255a2202608010947466294.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174217</link>
-            <guid isPermaLink="false">xchuxing:1:174217</guid>
-            <pubDate>Sat, 01 Aug 2026 01:49:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
