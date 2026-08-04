@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 02:54:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 05:40:03 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[你认为小鹏G9L是更具性价比的小鹏GX吗？]]></title>
+            <description><![CDATA[小鹏G9L今天公布了内饰图和部分配置信息，小鹏官方定义G9L和GX为“旗舰双王”。区别于一台是大五座，一台是大六座。那你认为小鹏G9L是更具性价比的小鹏GX吗？一起来投个票吧！<br><br>[投票选项] 是的，G9L是更有性价比的GX<br><br>[投票选项] 不是，G9L性价比不如GX<br><br>[投票选项] 这两台车不能这样比较，我的看法是...丨来评论区聊聊]]></description>
+            <link>https://www.xchuxing.com/vote/2255</link>
+            <guid isPermaLink="false">xchuxing:7:2255</guid>
+            <pubDate>Tue, 04 Aug 2026 04:07:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[已开启盲订 零跑 A05 将于 8 月 10 日上市]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，零跑 A05 将于 8 月 10 日正式上市。新车此前已开启盲订，99 元下订即可享 5000 元专属能量积分盲订权益。外观方面，零跑<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/04/d1aeb202608040944114336.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/174245</link>
             <guid isPermaLink="false">xchuxing:1:174245</guid>
             <pubDate>Sat, 01 Aug 2026 11:46:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 429期：合资车机的翻身仗？深度体验三车智能车机]]></title>
-            <description><![CDATA[长久以来，行业和消费者心里都有一个根深蒂固的固有印象，合资车型，过去很长一段时间都摆脱不了车机反应迟钝、功能简陋、迭代缓慢的车机标签，和新势力的车机体验存在一定的差距。近两年我们发现合资品牌的智能化体系正在发生颠覆性蜕变，其中也包括一汽-大众，这一期我们用一个视频和大家聊聊合资车机带来了哪些新的变化和惊喜？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/01/6667b202608011709142710.png">]]></description>
-            <link>https://www.xchuxing.com/video/26325</link>
-            <guid isPermaLink="false">xchuxing:2:26325</guid>
-            <pubDate>Sat, 01 Aug 2026 09:19:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
