@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 08:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 11:00:57 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[长快讯｜ 首部强制规范出台 L3/L4 车型强制国标落地]]></title>
+            <description><![CDATA[8 月 4 日，由工信部组织制定的，国内自动驾驶领域首部顶层强制安全规范 GB 44721—2026 强制性国家标准发布。该标准全称为《智能网联汽车自动驾驶系统<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/04/09458202608041816091354.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/174394</link>
+            <guid isPermaLink="false">xchuxing:1:174394</guid>
+            <pubDate>Tue, 04 Aug 2026 10:15:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【社区投票】你认为小鹏G9L是更具性价比的小鹏GX吗？]]></title>
             <description><![CDATA[小鹏G9L今天公布了内饰图和部分配置信息，小鹏官方定义G9L和GX为“旗舰双王”。区别于一台是大五座，一台是大六座。那你认为小鹏G9L是更具性价比的小鹏GX吗？一起来投个票吧！<br><br>[投票选项] 是的，G9L是更有性价比的GX<br><br>[投票选项] 不是，G9L性价比不如GX<br><br>[投票选项] 这两台车不能这样比较，我的看法是...丨来评论区聊聊]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/174273</link>
             <guid isPermaLink="false">xchuxing:1:174273</guid>
             <pubDate>Sun, 02 Aug 2026 07:59:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 19.79 万 红旗天工 08 上市]]></title>
-            <description><![CDATA[日前，新款红旗天工 08 670 Max 正式上市，新车售价为 19.79 万元，限时权益价 17.99 万元。外观方面，整体延续了老款车型的设计风格，前脸依旧<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/01/87a5e202608011948357700.png">]]></description>
-            <link>https://www.xchuxing.com/article/174245</link>
-            <guid isPermaLink="false">xchuxing:1:174245</guid>
-            <pubDate>Sat, 01 Aug 2026 11:46:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
