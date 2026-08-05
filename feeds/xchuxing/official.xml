@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 12:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 14:43:25 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 20.98-23.18 万元 长城 H10 正式上市]]></title>
+            <description><![CDATA[8 月 5 日，长城 H10 正式上市，新车售价 20.98-23.18 万元，共推出四款车型配置。外观方面， 长城 H10 采用方鼎美学硬派方盒子前脸，搭配半<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/05/7e416202608052126189039.jpeg">]]></description>
+            <link>https://www.xchuxing.com/article/174392</link>
+            <guid isPermaLink="false">xchuxing:1:174392</guid>
+            <pubDate>Wed, 05 Aug 2026 13:31:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价 18.49-22.19 万元 别克至境 L7 纯电版开启预售]]></title>
             <description><![CDATA[8 月 5 日，别克至境 L7 纯电版开启预售，新车预售价 18.49-22.19 万元，共推出三款车型配置。外观方面，至境 L7 车型均采用了 100% 的原<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/05/54dd0202608051936581713.jpeg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/vote/2255</link>
             <guid isPermaLink="false">xchuxing:7:2255</guid>
             <pubDate>Tue, 04 Aug 2026 04:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[已开启盲订 零跑 A05 将于 8 月 10 日上市]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，零跑 A05 将于 8 月 10 日正式上市。新车此前已开启盲订，99 元下订即可享 5000 元专属能量积分盲订权益。外观方面，零跑<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/04/d1aeb202608040944114336.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174365</link>
-            <guid isPermaLink="false">xchuxing:1:174365</guid>
-            <pubDate>Tue, 04 Aug 2026 01:45:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
