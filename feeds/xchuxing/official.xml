@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 14:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 16:26:28 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX 辅助驾驶体验 22期：双图灵芯片加持 小鹏 MONA L03 勇闯惠州老城区]]></title>
+            <description><![CDATA[对于入门价位的智驾，不少人都抱有「能用但不好用」的刻板印象。但作为辅助驾驶的头部，小鹏汽车偏要用 MONA L03 击碎这份偏见——凭借它采用的纯视觉技术路线、<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/05/ddc9a20260805091025579.png">]]></description>
+            <link>https://www.xchuxing.com/article/174039</link>
+            <guid isPermaLink="false">xchuxing:1:174039</guid>
+            <pubDate>Wed, 05 Aug 2026 16:00:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 20.98-23.18 万元 长城 H10 正式上市]]></title>
             <description><![CDATA[8 月 5 日，长城 H10 正式上市，新车售价 20.98-23.18 万元，共推出四款车型配置。外观方面， 长城 H10 采用方鼎美学硬派方盒子前脸，搭配半<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/05/7e416202608052126189039.jpeg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/174394</link>
             <guid isPermaLink="false">xchuxing:1:174394</guid>
             <pubDate>Tue, 04 Aug 2026 10:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【社区投票】你认为小鹏G9L是更具性价比的小鹏GX吗？]]></title>
-            <description><![CDATA[小鹏G9L今天公布了内饰图和部分配置信息，小鹏官方定义G9L和GX为“旗舰双王”。区别于一台是大五座，一台是大六座。那你认为小鹏G9L是更具性价比的小鹏GX吗？一起来投个票吧！<br><br>[投票选项] 是的，G9L是更有性价比的GX<br><br>[投票选项] 不是，G9L性价比不如GX<br><br>[投票选项] 这两台车不能这样比较，我的看法是...丨来评论区聊聊]]></description>
-            <link>https://www.xchuxing.com/vote/2255</link>
-            <guid isPermaLink="false">xchuxing:7:2255</guid>
-            <pubDate>Tue, 04 Aug 2026 04:07:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
