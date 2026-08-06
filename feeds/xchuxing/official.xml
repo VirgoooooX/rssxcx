@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 04:57:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 07:36:29 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 431期：静态体验享界 G9]]></title>
+            <description><![CDATA[鸿蒙智行首款科技豪华硬派 SUV——享界 G9 静态体验视频来了，本期视频就来和大家聊一聊享界 G9 外观、内饰以及之前没有提到的细节。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/05/0c2ed202608051204414547.png">]]></description>
+            <link>https://www.xchuxing.com/video/26424</link>
+            <guid isPermaLink="false">xchuxing:2:26424</guid>
+            <pubDate>Thu, 06 Aug 2026 05:30:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[16.99万起，别克至境L7：合资首款800V，全系没有“丐版”]]></title>
             <description><![CDATA[8月5日晚，在上汽通用合资公司成立30周年也是上汽通用续约仪式当天，一台再启新篇的车型:别克至境L7纯电开启预售。国补后16.99万起。这个价格放在2026年的<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/06/cbc37202608061002057568.jpg">]]></description>
@@ -24,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[新出行图文详解 238期：静态体验理想 i8 后驱长续航版]]></title>
-            <description><![CDATA[千呼万唤始出来！ 一年前，理想 i8 「听劝」统一了配置。一年后，再次「听劝」，对 i8 进行了一次改款。没错，后驱版理想 i8，它来了。除了后驱版的改动，还带<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/06/9b3c3202608060914496854.png">]]></description>
+            <description><![CDATA[千呼万唤始出来！ 一年前，理想 i8 「听劝」统一了配置。一年后，再次「听劝」，对 i8 进行了一次改款。没错，后驱版理想 i8，它来了。除了后驱版的改动，还带<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/06/cba16202608061534539581.png">]]></description>
             <link>https://www.xchuxing.com/article/174378</link>
             <guid isPermaLink="false">xchuxing:1:174378</guid>
             <pubDate>Thu, 06 Aug 2026 02:33:05 GMT</pubDate>
@@ -90,13 +97,6 @@ CLTC 续航也来到了 780km。
             <link>https://www.xchuxing.com/video/26438</link>
             <guid isPermaLink="false">xchuxing:2:26438</guid>
             <pubDate>Wed, 05 Aug 2026 10:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 43.98-55.98 万起 享界 G9 开启预售]]></title>
-            <description><![CDATA[8 月 5 日，享界 G9 正式开启预售。新车共推出 Max+、Ultra 和 Ultra+ 3 款配置，预售价区间 43.98-55.98 万元起。权益方面，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/05/8f9c8202608051628066365.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/174417</link>
-            <guid isPermaLink="false">xchuxing:1:174417</guid>
-            <pubDate>Wed, 05 Aug 2026 08:34:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
