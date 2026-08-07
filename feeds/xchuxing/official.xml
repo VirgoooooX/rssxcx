@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 00:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 03:23:50 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[没有停产计划 魏牌计划于四季度推出蓝山全新产品]]></title>
+            <description><![CDATA[日前，我们从官方渠道获悉，魏牌蓝山没有停产，也没有停产规划。此外，魏牌蓝山将于今年第四季度推出全新产品，官方表示这款新品将是 SUV 品类的创新突破之作。目前，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/07/7a27e20260807091306259.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/174476</link>
+            <guid isPermaLink="false">xchuxing:1:174476</guid>
+            <pubDate>Fri, 07 Aug 2026 01:22:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[探店 137期：8 月 8 日开放内饰？探店奕境 X9]]></title>
             <description><![CDATA[在近期的 9 系旗舰 SUV 市场中，东风与华为乾崑联合打造的奕境 X9 收获了不少关注。尽管新车尚未正式开启预售，官方也仅释放了部分核心配置信息，已经有不少消<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/06/f48e3202608062248337048.jpg">]]></description>
@@ -90,13 +97,6 @@ CLTC 续航也来到了 780km。
             <link>https://www.xchuxing.com/article/174438</link>
             <guid isPermaLink="false">xchuxing:1:174438</guid>
             <pubDate>Thu, 06 Aug 2026 01:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 433期：动态试驾尊界V800]]></title>
-            <description><![CDATA[售价 76.6 万起的尊界V800 动态表现如何？云水天青版本又有哪些不一样？本期视频就来和大家聊一聊。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/06/8c6cd202608060907017302.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/26453</link>
-            <guid isPermaLink="false">xchuxing:2:26453</guid>
-            <pubDate>Thu, 06 Aug 2026 01:11:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
