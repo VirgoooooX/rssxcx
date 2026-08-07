@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 14:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 15:44:47 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[蔚来第4,000座换电站落成暨第五代换电站投入运营]]></title>
+            <description><![CDATA[2026年8月7日，蔚来第4,000座换电站暨首座第五代换电站在福建泉州侨乡体育馆落成，同日，蔚来首批第五代换电站在北京、上海、广州、苏州、合肥、成都、泉州七座<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/07/c5f89202608072307044360.png">]]></description>
+            <link>https://www.xchuxing.com/article/174522</link>
+            <guid isPermaLink="false">xchuxing:1:174522</guid>
+            <pubDate>Fri, 07 Aug 2026 15:11:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[长快讯｜小蓝灯被叫停 一场车企创新与空白标准的碰撞]]></title>
             <description><![CDATA[近日，辅助驾驶外置 “小蓝灯” 禁用消息在行业传开，工信部第 410 批开始新申报车型将不再允许搭载该装置。辅助驾驶小蓝灯是布置在后视镜、车尾等处的蓝色指示灯，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/07/81b6a202608071655196242.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/26484</link>
             <guid isPermaLink="false">xchuxing:2:26484</guid>
             <pubDate>Fri, 07 Aug 2026 06:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[申报目录 | 纯电/插混双动力 比亚迪海豹 07 登录申报目录]]></title>
-            <description><![CDATA[在工信部第 410 批申报目录当中，我们发现了比亚迪海豹 07 的身影，新车将提供纯电以及插混两种能源形式。纯电插混外观方面，新款比亚迪海豹 07 延续海洋网最<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/07/fb3a1202608071402497887.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174490</link>
-            <guid isPermaLink="false">xchuxing:1:174490</guid>
-            <pubDate>Fri, 07 Aug 2026 06:13:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
