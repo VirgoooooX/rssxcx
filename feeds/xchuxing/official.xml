@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 11:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 12:28:32 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 22.99-27.99 万元 阿维塔 07L 正式上市]]></title>
+            <description><![CDATA[8 月 8 日，阿维塔 07L 正式上市，新车售价 22.99-27.99 万元，限时权益价全系减 1 万元。其它权益方面，阿维塔车主可享 1 万元置换补贴，并<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/08/4c547202608082011469271.jpeg">]]></description>
+            <link>https://www.xchuxing.com/article/174558</link>
+            <guid isPermaLink="false">xchuxing:1:174558</guid>
+            <pubDate>Sat, 08 Aug 2026 12:12:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[零跑 A10 第 10 万台量产车下线]]></title>
             <description><![CDATA[日前，零跑汽车宣布旗下小型纯电 SUV——零跑 A10 第 10万 台量产车正式下线，此时距离该车型上市 135 天。这一速度刷新了零跑品牌自身十万台下线的最快<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/08/63863202608081233419276.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/174494</link>
             <guid isPermaLink="false">xchuxing:1:174494</guid>
             <pubDate>Fri, 07 Aug 2026 06:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[申报目录 |  全新车系首款车型 埃安 Ray 7 登录申报目录]]></title>
-            <description><![CDATA[在工信部第 410 批申报目录当中，我们发现了埃安 Ray 7 的身影。值得一提的是，Ray 系列是埃安发布的全新车型，Ray 7 则是该系列的首款车型。外观方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/07/baece202608071430098322.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174493</link>
-            <guid isPermaLink="false">xchuxing:1:174493</guid>
-            <pubDate>Fri, 07 Aug 2026 06:37:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
