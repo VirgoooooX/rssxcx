@@ -4,9 +4,19 @@
         <description><![CDATA[巴塞罗那 的最新相关新闻，来源：懂球帝。]]></description>
         <link>https://www.dongqiudi.com/team/50001756</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 04:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 05:41:09 GMT</lastBuildDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[TA：阿劳霍为利物浦解燃眉之急，解决了阵容明显问题]]></title>
+            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/F4/8F/280x210/crop/-/rBXRn2p4B_WAUZHyAAJZvbVI6ic657.jpg" alt="" /></p>]]></description>
+            <link>https://m.dongqiudi.com/article/6145708.html</link>
+            <guid isPermaLink="false">dongqiudi:team:50001756:6145708</guid>
+            <category><![CDATA[足球]]></category>
+            <category><![CDATA[英超]]></category>
+            <category><![CDATA[西甲]]></category>
+            <pubDate>Sun, 09 Aug 2026 04:59:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[世体：西蒙尼表态后巴萨未改计划，小蜘蛛仍是中锋首选]]></title>
             <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/F4/87/280x210/crop/-/rBXRn2p4BEGAMaNJAAMV1ugVnBk869.jpg" alt="" /></p>]]></description>
@@ -35,20 +45,6 @@
             <category><![CDATA[足球]]></category>
             <category><![CDATA[西甲]]></category>
             <pubDate>Sun, 09 Aug 2026 01:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[视频集锦：巴塞罗那1-0诺丁汉森林]]></title>
-            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/F3/E1/280x210/crop/-/rBXRDGp3xOGAc0JhAAHxMXlsUdU608.png" alt="" /></p>]]></description>
-            <link>https://m.dongqiudi.com/article/6145030.html</link>
-            <guid isPermaLink="false">dongqiudi:team:50001756:6145030</guid>
-            <pubDate>Sun, 09 Aug 2026 00:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[视频集锦：巴塞罗那0-1乌迪内斯]]></title>
-            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/F3/E0/280x210/crop/-/rBXRDGp3xDKAMj6GAAHxMXlsUdU142.png" alt="" /></p>]]></description>
-            <link>https://m.dongqiudi.com/article/6145025.html</link>
-            <guid isPermaLink="false">dongqiudi:team:50001756:6145025</guid>
-            <pubDate>Sun, 09 Aug 2026 00:05:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
