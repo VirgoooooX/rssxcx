@@ -4,7 +4,7 @@
         <description><![CDATA[巴塞罗那 的最新相关新闻，来源：懂球帝。]]></description>
         <link>https://www.dongqiudi.com/team/50001756</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 09:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 10:05:33 GMT</lastBuildDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>30</ttl>
         <item>
@@ -16,6 +16,18 @@
             <category><![CDATA[英超]]></category>
             <category><![CDATA[西甲]]></category>
             <pubDate>Sun, 09 Aug 2026 09:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[昆滕-廷贝尔：我是巴萨和梅西的球迷；经常看尤里恩的比赛]]></title>
+            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/F5/15/280x210/crop/-/rBXRDGp4PNqAEKjCAADVRrYz_-A755.jpg" alt="" /></p>]]></description>
+            <link>https://m.dongqiudi.com/article/6146343.html</link>
+            <guid isPermaLink="false">dongqiudi:team:50001756:6146343</guid>
+            <category><![CDATA[足球]]></category>
+            <category><![CDATA[英超]]></category>
+            <category><![CDATA[西甲]]></category>
+            <category><![CDATA[法甲]]></category>
+            <category><![CDATA[五洲]]></category>
+            <pubDate>Sun, 09 Aug 2026 08:48:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[罗梅罗：巴萨部分球员提前返回训练基地，加维已回来好几天]]></title>
@@ -115,16 +127,6 @@
             <category><![CDATA[西甲]]></category>
             <category><![CDATA[法甲]]></category>
             <pubDate>Sun, 09 Aug 2026 06:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[罗马诺：阿劳霍今天飞往默西塞德接受利物浦体检]]></title>
-            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/F4/C8/280x210/crop/-/rBXRDGp4GL6AXYATABbg6nw-iAs250.png" alt="" /></p>]]></description>
-            <link>https://m.dongqiudi.com/article/6145862.html</link>
-            <guid isPermaLink="false">dongqiudi:team:50001756:6145862</guid>
-            <category><![CDATA[足球]]></category>
-            <category><![CDATA[英超]]></category>
-            <category><![CDATA[西甲]]></category>
-            <pubDate>Sun, 09 Aug 2026 06:04:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
