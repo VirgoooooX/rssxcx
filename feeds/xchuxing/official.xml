@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 01:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 03:22:06 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 437期：豆包+Momenta R7 上车 家越07来了！]]></title>
+            <description><![CDATA[之前和大家拍了家越07概念车，现在我们已经看到了量产版车型，这也是目前第一款20万内搭载Momenta R7和豆包上车的车型，我们一起和大家聊聊！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/10/96016202608101038568941.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/26567</link>
+            <guid isPermaLink="false">xchuxing:2:26567</guid>
+            <pubDate>Mon, 10 Aug 2026 02:23:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 436期：架构决定上限 奕派M8 原生 ADS 5「Pro」带来哪些惊喜体验？]]></title>
             <description><![CDATA[ADS Pro 的进化比我们想象中要更快。这次我们在ADS 5 Pro的首发车型奕派M8上，来验证到底带来哪些升级？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/09/c07e3202608092338415318.png">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/174546</link>
             <guid isPermaLink="false">xchuxing:1:174546</guid>
             <pubDate>Sat, 08 Aug 2026 04:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来第4,000座换电站落成暨第五代换电站投入运营]]></title>
-            <description><![CDATA[2026年8月7日，蔚来第4,000座换电站暨首座第五代换电站在福建泉州侨乡体育馆落成，同日，蔚来首批第五代换电站在北京、上海、广州、苏州、合肥、成都、泉州七座<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/07/c5f89202608072307044360.png">]]></description>
-            <link>https://www.xchuxing.com/article/174522</link>
-            <guid isPermaLink="false">xchuxing:1:174522</guid>
-            <pubDate>Fri, 07 Aug 2026 15:11:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
