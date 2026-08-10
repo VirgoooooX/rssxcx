@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 12:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 14:14:05 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[8 月内开启预售 奕境 X9 座舱正式发布]]></title>
+            <description><![CDATA[8 月 10 日，奕境 X9 座舱正式发布，将首批搭载鸿蒙座舱 Harmony Space 6。在上市节奏方面，奕境 X9 将于 8 月内正式开启预售。内饰设计<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/10/f4fb92026081021333918.png">]]></description>
+            <link>https://www.xchuxing.com/article/174633</link>
+            <guid isPermaLink="false">xchuxing:1:174633</guid>
+            <pubDate>Mon, 10 Aug 2026 13:42:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图 236期：200位蔚来ES8车主调研报告，真实反馈前备舱的使用体验]]></title>
             <description><![CDATA[近期，新出行在蔚来ES8社区发起了一份ES8前备舱相关的调研，有200多名ES8车主参与进来，根据调研报告可以看出：1、97.12%的车主每周使用蔚来ES8前备<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/10/a84a5202608101841309216.jpg">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/174586</link>
             <guid isPermaLink="false">xchuxing:1:174586</guid>
             <pubDate>Sun, 09 Aug 2026 07:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[smart精灵一号 交个朋友吧～]]></title>
-            <description><![CDATA[这次开着精灵一号在大连城溜达了一圈，它的智驾简直太夯了，离开它，谁把我当小孩{:暗中观察02:}<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/09/7a5fd202608091438368768.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/26544</link>
-            <guid isPermaLink="false">xchuxing:2:26544</guid>
-            <pubDate>Sun, 09 Aug 2026 06:39:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
