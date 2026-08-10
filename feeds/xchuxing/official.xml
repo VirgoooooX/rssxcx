@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 10:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 11:47:02 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行一图 236期：200位蔚来ES8车主调研报告，真实反馈前备舱的使用体验]]></title>
+            <description><![CDATA[近期，新出行在蔚来ES8社区发起了一份ES8前备舱相关的调研，有200多名ES8车主参与进来，根据调研报告可以看出：1、97.12%的车主每周使用蔚来ES8前备<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/10/a84a5202608101841309216.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/174622</link>
+            <guid isPermaLink="false">xchuxing:1:174622</guid>
+            <pubDate>Mon, 10 Aug 2026 11:18:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[定位紧凑型 SUV 奇瑞风云 T7 将于 8 月 12 日开启预售]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，奇瑞风云 T7 将于 8 月 12 日开启预售，新车定位纯电动紧凑型 SUV。外观方面，奇瑞风云 T7 采用风云家族式造型设计，整体的<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/10/9c14c202608101409473295.jpg">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/video/26544</link>
             <guid isPermaLink="false">xchuxing:2:26544</guid>
             <pubDate>Sun, 09 Aug 2026 06:39:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[捷达首款纯电轿车M6线下亮相 联和茶百道限时快闪店]]></title>
-            <description><![CDATA[8月7日，捷达首款纯电轿车M6亮相成都春熙路，同时，捷达品牌联合本土茶饮品牌茶百道打造的“捷达M6×茶百道 成都限时尝鲜店”正式开张，活动将持续3天。新车作为捷<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/09/d67ff202608091433133395.png">]]></description>
-            <link>https://www.xchuxing.com/article/174584</link>
-            <guid isPermaLink="false">xchuxing:1:174584</guid>
-            <pubDate>Sun, 09 Aug 2026 06:35:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
