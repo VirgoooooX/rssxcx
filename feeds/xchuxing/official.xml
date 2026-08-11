@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 05:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 06:50:52 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 239期：静态体验上汽大众 ID. ERA 5S]]></title>
+            <description><![CDATA[作为上汽大众 ID.ERA 系列的首款轿车，同时也是 ID. ERA序列第二款车型，ID. ERA 5S 一经亮相便成为合资插混市场的关注焦点之一。 面对愈发内<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/11/17faa20260811100816687.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/173432</link>
+            <guid isPermaLink="false">xchuxing:1:173432</guid>
+            <pubDate>Tue, 11 Aug 2026 06:03:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 438期：别当成G9加长版！静态体验小鹏G9L]]></title>
             <description><![CDATA[很多人都觉得小鹏 G9L 只是 G9 简单拉长的加长版，事实是这样吗？这期一条视频和大家讲透小鹏 G9L ，也和大家拆解小鹏G9L背后整套延伸的产品布局和思考...<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/11/22c8920260811084547758.png">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/174590</link>
             <guid isPermaLink="false">xchuxing:1:174590</guid>
             <pubDate>Sun, 09 Aug 2026 09:28:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车将从中国出口别克新能源车型]]></title>
-            <description><![CDATA[据外媒报道，通用汽车与上汽集团已将双方在中国的合资企业合作期限延长 20 年。根据该协议，上汽通用计划于今年 10 月起向海外市场出口别克品牌新能源车，首款出口<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/09/dc018202608091558326258.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174589</link>
-            <guid isPermaLink="false">xchuxing:1:174589</guid>
-            <pubDate>Sun, 09 Aug 2026 08:02:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
