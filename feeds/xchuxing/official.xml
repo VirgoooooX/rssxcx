@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 10:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 11:11:27 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 6.39-9.09 万元 零跑 A05 上市]]></title>
+            <description><![CDATA[8 月 11 日，零跑 A05 正式上市。新车共推出 5 款配置，售价区间 6.39-9.09 万元。权益方面，零跑 A05 可享选装礼、缤纷礼、复购礼等多重权<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/11/0897b202608111908404063.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/174678</link>
+            <guid isPermaLink="false">xchuxing:1:174678</guid>
+            <pubDate>Tue, 11 Aug 2026 11:10:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[限时权益价 11.59-14.59 万元 上汽大众 ID. ERA 5S 开启预售]]></title>
             <description><![CDATA[8 月 11 日，上汽大众 ID. ERA 5S 正式开启预售。新车共推出 4 款配置，限时权益价 11.59-14.59 万元。预售权益上，上汽大众 ID.<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/11/9b734202608111752353592.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/26567</link>
             <guid isPermaLink="false">xchuxing:2:26567</guid>
             <pubDate>Mon, 10 Aug 2026 02:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 436期：架构决定上限 奕派M8 原生 ADS 5「Pro」带来哪些惊喜体验？]]></title>
-            <description><![CDATA[ADS Pro 的进化比我们想象中要更快。这次我们在ADS 5 Pro的首发车型奕派M8上，来验证到底带来哪些升级？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/09/c07e3202608092338415318.png">]]></description>
-            <link>https://www.xchuxing.com/video/26558</link>
-            <guid isPermaLink="false">xchuxing:2:26558</guid>
-            <pubDate>Sun, 09 Aug 2026 15:54:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
