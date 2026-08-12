@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 23:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 01:10:06 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[深圳蔚来首座第五代换电站它来啦～]]></title>
+            <description><![CDATA[这次的五代和四代又有什么不一样呢，我们来细扒一下～<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/12/eca87202608120842563909.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/26631</link>
+            <guid isPermaLink="false">xchuxing:2:26631</guid>
+            <pubDate>Wed, 12 Aug 2026 00:44:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 9.99-15.59 万元 比亚迪 2027 款海豹 06 上市]]></title>
             <description><![CDATA[8 月 11 日，比亚迪 2027 款海豹 06 上市。EV 版共推出 6 款配置，售价区间 10.99-15.59 万元；DM-i 版推出 6 款配置，售价区<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/11/d18fe202608112053278416.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/174622</link>
             <guid isPermaLink="false">xchuxing:1:174622</guid>
             <pubDate>Mon, 10 Aug 2026 11:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[定位紧凑型 SUV 奇瑞风云 T7 将于 8 月 12 日开启预售]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，奇瑞风云 T7 将于 8 月 12 日开启预售，新车定位纯电动紧凑型 SUV。外观方面，奇瑞风云 T7 采用风云家族式造型设计，整体的<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/10/9c14c202608101409473295.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174614</link>
-            <guid isPermaLink="false">xchuxing:1:174614</guid>
-            <pubDate>Mon, 10 Aug 2026 06:42:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
