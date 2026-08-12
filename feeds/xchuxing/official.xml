@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 10:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 11:39:17 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 442期：告别外挂式AI 荣威家越与豆包上车终极猜想！]]></title>
+            <description><![CDATA[豆包首次上车！这次豆包会在车机上带来什么，和其他普通车企上大模型到底有哪些不同？为什么这次豆包会和荣威合作？这次和大家聊聊我们的猜想...<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/12/aff1d202608121911068308.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/26647</link>
+            <guid isPermaLink="false">xchuxing:2:26647</guid>
+            <pubDate>Wed, 12 Aug 2026 11:13:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 441期：蔚来深圳首座第五代换电站它来啦]]></title>
             <description><![CDATA[蔚来深圳首座第五代换电站它来啦，咱们来浅聊一下它跟第四代有什么不同{:狗头02:}<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/12/6dcfd202608121515435753.png">]]></description>
@@ -85,13 +92,6 @@
             <link>https://www.xchuxing.com/article/173432</link>
             <guid isPermaLink="false">xchuxing:1:173432</guid>
             <pubDate>Tue, 11 Aug 2026 06:03:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 438期：别当成G9加长版！静态体验小鹏G9L]]></title>
-            <description><![CDATA[很多人都觉得小鹏 G9L 只是 G9 简单拉长的加长版，事实是这样吗？这期一条视频和大家讲透小鹏 G9L ，也和大家拆解小鹏G9L背后整套延伸的产品布局和思考...<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/11/22c8920260811084547758.png">]]></description>
-            <link>https://www.xchuxing.com/video/26597</link>
-            <guid isPermaLink="false">xchuxing:2:26597</guid>
-            <pubDate>Tue, 11 Aug 2026 02:01:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
