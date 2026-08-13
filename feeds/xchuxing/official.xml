@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 15:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 16:23:40 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX 续航体验 82期：阿维塔 07L 纯电续航及充电测试]]></title>
+            <description><![CDATA[阿维塔 07L 是一款为家庭打造的大五座 SUV，说明这款车型也要承担起跑长途的需求。那么对于这样一款搭载 89.33kWh 电池包的车型，具体能跑多远？充电有<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/11/aa58b202608110900423426.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/174642</link>
+            <guid isPermaLink="false">xchuxing:1:174642</guid>
+            <pubDate>Thu, 13 Aug 2026 16:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[首发诚意价 18.18-22.18 万 全新红旗 H7 开启预售]]></title>
             <description><![CDATA[8 月 13 日，全新红旗 H7 开启预售。新车共推出 3 款配置，官方指导价 19.18-23.18 万，首发诚意价 18.18-22.18 万。权益方面，全<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/13/c1a81202608132058442342.jpg">]]></description>
@@ -88,13 +95,6 @@ FREELANDER 神行者首款车型神行者 8，8 月 14 日正式开启预售；�
             <link>https://www.xchuxing.com/article/174809</link>
             <guid isPermaLink="false">xchuxing:1:174809</guid>
             <pubDate>Wed, 12 Aug 2026 12:18:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 442期：告别外挂式AI 荣威家越与豆包上车终极猜想！]]></title>
-            <description><![CDATA[豆包首次上车！这次豆包会在车机上带来什么，和其他普通车企上大模型到底有哪些不同？为什么这次豆包会和荣威合作？这次和大家聊聊我们的猜想...<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/12/aff1d202608121911068308.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/26647</link>
-            <guid isPermaLink="false">xchuxing:2:26647</guid>
-            <pubDate>Wed, 12 Aug 2026 11:13:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
