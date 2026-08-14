@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 18:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 19:25:29 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新车开箱：抢先体验魏牌V8X豪华家庭版]]></title>
+            <description><![CDATA[作为一台大五座，它性能不牺牲家用，智能不玩虚的，质感不装样子，真正能装下一家人的诗和远方。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/15/a217b202608150217532202.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/26723</link>
+            <guid isPermaLink="false">xchuxing:2:26723</guid>
+            <pubDate>Fri, 14 Aug 2026 18:18:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价 33.99-45.99 万元 FREELANDER 神行者 8 开启预售]]></title>
             <description><![CDATA[8 月 14 日，FREELANDER 神行者 8 正式开启预售。首发限定版售价 45.99 万元，限量 1000 台；大六座版共推出 3 款配置，预售价 34<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/14/587ba202608142245333152.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/174872</link>
             <guid isPermaLink="false">xchuxing:1:174872</guid>
             <pubDate>Thu, 13 Aug 2026 08:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 444期：让你放心，也让你舒心 魏牌高山7 SUV版的川西打开方式]]></title>
-            <description><![CDATA[魏牌高山7 SUV版这台MPV有点不一样，我开着它去了趟川西，全程体验非常棒，能提供MPV的舒适性，又有SUV的通过性，哪怕走一个小时搓板路也扛得住。适配旅途中的各种场景，它不是停在风景前的车，是真正能带你走进风景里的车。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/13/4290120260813110543340.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/26666</link>
-            <guid isPermaLink="false">xchuxing:2:26666</guid>
-            <pubDate>Thu, 13 Aug 2026 03:09:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
