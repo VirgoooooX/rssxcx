@@ -4,9 +4,17 @@
         <description><![CDATA[巴塞罗那 的最新相关新闻，来源：懂球帝。]]></description>
         <link>https://www.dongqiudi.com/team/50001756</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 16:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 16:47:34 GMT</lastBuildDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[巴萨5-2巴塞尔，比西武两分钟两球，亚马尔、阿德耶米传射]]></title>
+            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/0D/49/280x210/crop/-/rBXRDGqB5H-AdrDUAAQbPDVXI70502.jpg" alt="" /></p>]]></description>
+            <link>https://m.dongqiudi.com/article/6184373.html</link>
+            <guid isPermaLink="false">dongqiudi:team:50001756:6184373</guid>
+            <category><![CDATA[足球]]></category>
+            <pubDate>Sun, 16 Aug 2026 16:26:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[沙特媒体：坎塞洛将转会巴萨，将放弃在沙特的部分薪水]]></title>
             <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/0D/25/280x210/crop/-/rBXRDGqB15KAT0DqAAKpeCFQ10M919.jpg" alt="" /></p>]]></description>
@@ -43,15 +51,6 @@
             <category><![CDATA[足球]]></category>
             <category><![CDATA[西甲]]></category>
             <pubDate>Sun, 16 Aug 2026 13:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[外媒对比亚马尔和梅西巴萨同期数据：前者表现更好]]></title>
-            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/0C/A4/280x210/crop/-/rBXRn2qBrFuAGumWAAJPy2fposc687.jpg" alt="" /></p>]]></description>
-            <link>https://m.dongqiudi.com/article/6183028.html</link>
-            <guid isPermaLink="false">dongqiudi:team:50001756:6183028</guid>
-            <category><![CDATA[足球]]></category>
-            <category><![CDATA[西甲]]></category>
-            <pubDate>Sun, 16 Aug 2026 12:26:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
