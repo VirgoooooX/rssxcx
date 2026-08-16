@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 00:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 02:16:16 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 447期：维圈圈动态试驾岚图追光S]]></title>
+            <description><![CDATA[什么叫原汁原味的 FUV ？岚图追光S给你答案<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/15/aec2c202608151601388530.png">]]></description>
+            <link>https://www.xchuxing.com/video/26748</link>
+            <guid isPermaLink="false">xchuxing:2:26748</guid>
+            <pubDate>Sun, 16 Aug 2026 01:02:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[首搭鸿蒙座舱 6  奕境 X9 将于 8 月 18 日开启预售]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，奕境 X9 将于 8 月 18 日正式开启预售。新车是东风与华为乾崑深度联合打造的首款旗舰 SUV，将首批搭载鸿蒙座舱 6 以及 AD<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/15/e888e20260815103858286.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/174642</link>
             <guid isPermaLink="false">xchuxing:1:174642</guid>
             <pubDate>Thu, 13 Aug 2026 16:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[首发诚意价 18.18-22.18 万 全新红旗 H7 开启预售]]></title>
-            <description><![CDATA[8 月 13 日，全新红旗 H7 开启预售。新车共推出 3 款配置，官方指导价 19.18-23.18 万，首发诚意价 18.18-22.18 万。权益方面，全<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/13/c1a81202608132058442342.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174889</link>
-            <guid isPermaLink="false">xchuxing:1:174889</guid>
-            <pubDate>Thu, 13 Aug 2026 13:03:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
