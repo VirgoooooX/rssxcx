@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 16:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 16:51:57 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 450期：有哪些新的惊喜？MONA L05 无伪图曝光！]]></title>
+            <description><![CDATA[这次 MONA L05 带来了新的无伪图，和大家聊聊 L05！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/18/d6970202608180024139054.png">]]></description>
+            <link>https://www.xchuxing.com/video/26801</link>
+            <guid isPermaLink="false">xchuxing:2:26801</guid>
+            <pubDate>Mon, 17 Aug 2026 16:25:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[特斯拉最早将于 8 月推出重新设计的 Roadster]]></title>
             <description><![CDATA[据《The Information》报道，特斯拉计划最快于本月发布重新设计的 Roadster。报道称，发布活动可能包括一款限量版 Roadster 的演示。这<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/17/6f82a202608172238288796.jpg">]]></description>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/video/26748</link>
             <guid isPermaLink="false">xchuxing:2:26748</guid>
             <pubDate>Sun, 16 Aug 2026 01:02:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[首搭鸿蒙座舱 6  奕境 X9 将于 8 月 18 日开启预售]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，奕境 X9 将于 8 月 18 日正式开启预售。新车是东风与华为乾崑深度联合打造的首款旗舰 SUV，将首批搭载鸿蒙座舱 6 以及 AD<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/15/e888e20260815103858286.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174940</link>
-            <guid isPermaLink="false">xchuxing:1:174940</guid>
-            <pubDate>Sat, 15 Aug 2026 02:38:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
