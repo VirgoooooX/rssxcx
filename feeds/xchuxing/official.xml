@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 14:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 14:53:00 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[特斯拉最早将于 8 月推出重新设计的 Roadster]]></title>
+            <description><![CDATA[据《The Information》报道，特斯拉计划最快于本月发布重新设计的 Roadster。报道称，发布活动可能包括一款限量版 Roadster 的演示。这<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/17/6f82a202608172238288796.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175063</link>
+            <guid isPermaLink="false">xchuxing:1:175063</guid>
+            <pubDate>Mon, 17 Aug 2026 14:40:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[吉利汽车 2026 年上半年收入超 1700 亿元]]></title>
             <description><![CDATA[8 月 17 日，吉利汽车控股有限公司（ 0175.HK ，以下简称 “ 吉利汽车 ” ）发布 2026 年中期业绩，上半年公司总营收达 1736 亿元，同比增<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/17/b8057202608171935314874.jpg">]]></description>
@@ -79,20 +86,6 @@
             <link>https://www.xchuxing.com/article/174940</link>
             <guid isPermaLink="false">xchuxing:1:174940</guid>
             <pubDate>Sat, 15 Aug 2026 02:38:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 11.59 万元起 上汽大众 ID. ERA 5S 将于 8 月 21 日上市]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，上汽大众 ID. ERA 5S 将于 8 月 21 日上市。新车共推出 4 款配置，限时权益价 11.59-14.59 万元。 外观方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/15/8e821202608151032048697.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174939</link>
-            <guid isPermaLink="false">xchuxing:1:174939</guid>
-            <pubDate>Sat, 15 Aug 2026 02:32:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 43.98 万元起 享界 G9 将于 8 月 20 日上市]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，享界 G9 将于 8 月 20 日上市。新车此前已开启预售，推出 Max+、Ultra 和 Ultra+ 3 款配置，预售价区间 43<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/15/7179b202608151026018079.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/174938</link>
-            <guid isPermaLink="false">xchuxing:1:174938</guid>
-            <pubDate>Sat, 15 Aug 2026 02:28:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
