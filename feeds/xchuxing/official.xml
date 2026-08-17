@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 11:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 11:47:17 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[吉利汽车 2026 年上半年收入超 1700 亿元]]></title>
+            <description><![CDATA[8 月 17 日，吉利汽车控股有限公司（ 0175.HK ，以下简称 “ 吉利汽车 ” ）发布 2026 年中期业绩，上半年公司总营收达 1736 亿元，同比增<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/17/b8057202608171935314874.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175023</link>
+            <guid isPermaLink="false">xchuxing:1:175023</guid>
+            <pubDate>Mon, 17 Aug 2026 11:37:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[智驾报告｜重庆2小时深度体验凯迪拉克XT5 x Momenta R7]]></title>
             <description><![CDATA[这次阿平同学先帮各位社区朋友，在8D魔幻城市重庆，2小时深度体验全新凯迪拉克XT5 PHEV x Momenta R7世界模型辅助驾驶，三点式掉头、窄路会车、人车混杂闹市路段穿行、主辅路汇入汇出、窄路突发路遇行人等等，全程实景深度体验感受。
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/174938</link>
             <guid isPermaLink="false">xchuxing:1:174938</guid>
             <pubDate>Sat, 15 Aug 2026 02:28:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 446期：静态体验比亚迪海洋网海狮08]]></title>
-            <description><![CDATA[比亚迪海洋网第一款大六座 SUV 乘坐空间如何？零重力座椅乘坐舒适性如何？本期视频我们就来聊聊比亚迪海洋网的 8 系旗舰 SUV——海狮 08。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/14/9d1dc202608142311531974.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/26720</link>
-            <guid isPermaLink="false">xchuxing:2:26720</guid>
-            <pubDate>Sat, 15 Aug 2026 02:00:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
