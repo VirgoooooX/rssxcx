@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 17:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 17:50:55 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX 续航体验 83期：]]></title>
+            <description><![CDATA[今天和飞机先生一起参加了吉利银河TT200公里＋的续航实测挑战，一趟下来还是惊艳不少~<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/19/c11fa20260819011133579.png">]]></description>
+            <link>https://www.xchuxing.com/video/26825</link>
+            <guid isPermaLink="false">xchuxing:2:26825</guid>
+            <pubDate>Tue, 18 Aug 2026 17:22:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 19.58-22.58 万 方程豹钛 7 DM 长续航版上市]]></title>
             <description><![CDATA[日前，方程豹钛 7 DM 长续航版上市，新车共推出两款配置车型，售价区间为 19.58-22.58 万。外观方面，方程豹钛 7 通过简洁的几何线条构建出如同宇宙<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/19/5523c202608190001596114.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/26784</link>
             <guid isPermaLink="false">xchuxing:2:26784</guid>
             <pubDate>Mon, 17 Aug 2026 08:45:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 449期：静态体验问界 M9 Ultimate]]></title>
-            <description><![CDATA[问界 M9 Ultimate 静态体验内容来了，我对这台车空间的评价是：“这百变空间就是问界的 MPV 啊”。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/17/595b5202608171145491854.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/26772</link>
-            <guid isPermaLink="false">xchuxing:2:26772</guid>
-            <pubDate>Mon, 17 Aug 2026 03:51:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
