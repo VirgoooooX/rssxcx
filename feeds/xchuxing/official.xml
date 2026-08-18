@@ -4,10 +4,20 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 02:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 03:14:03 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[试驾日记｜重庆巫山试驾凯迪拉克XT5 PHEV]]></title>
+            <description><![CDATA[本次主要是在重庆巫山及周边山路试驾凯迪拉克XT5 PHEV。海拔落差1000多千米，涵盖乡村道路、鹅卵石非铺装里面、挂壁公路以及盘山公路等等。
+
+
+先帮社区朋友们，全方位感受这台综合功率365kw、四驱以及蜂鸟底盘加持的凯迪拉克XT5 PHEV。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/18/ea1e2202608181025162088.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/26804</link>
+            <guid isPermaLink="false">xchuxing:2:26804</guid>
+            <pubDate>Tue, 18 Aug 2026 02:52:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 450期：有哪些新的惊喜？MONA L05 无伪图曝光！]]></title>
             <description><![CDATA[这次 MONA L05 带来了新的无伪图，和大家聊聊 L05！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/18/d6970202608180024139054.png">]]></description>
@@ -79,13 +89,6 @@
             <link>https://www.xchuxing.com/article/174959</link>
             <guid isPermaLink="false">xchuxing:1:174959</guid>
             <pubDate>Sun, 16 Aug 2026 02:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 447期：维圈圈动态试驾岚图追光S]]></title>
-            <description><![CDATA[什么叫原汁原味的 FUV ？岚图追光S给你答案<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/15/aec2c202608151601388530.png">]]></description>
-            <link>https://www.xchuxing.com/video/26748</link>
-            <guid isPermaLink="false">xchuxing:2:26748</guid>
-            <pubDate>Sun, 16 Aug 2026 01:02:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
