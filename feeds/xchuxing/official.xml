@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 13:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 14:03:43 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[星海 V6 量产下线]]></title>
+            <description><![CDATA[从官方获悉，星海 V6 首台华为乾崑智驾 ADS 5 SE 量产车，于 8 月 18 日在东风柳汽乘用车总装车间正式下线。星海 V6 由东风风行与华为合作推出，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/19/dddee202608192200508341.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175177</link>
+            <guid isPermaLink="false">xchuxing:1:175177</guid>
+            <pubDate>Wed, 19 Aug 2026 14:02:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[奕境 X9 开启预售，你会选哪个版本？]]></title>
             <description><![CDATA[[投票选项] 增程Max长续航版｜29.98万<br><br>[投票选项] 增程四驱Ultra+长续航版｜33.98万<br><br>[投票选项] 增程四驱Ultra+旗舰长续航版｜37.98万<br><br>[投票选项] 看投票结果用，评论区一起畅聊]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/video/26825</link>
             <guid isPermaLink="false">xchuxing:2:26825</guid>
             <pubDate>Tue, 18 Aug 2026 17:22:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 19.58-22.58 万 方程豹钛 7 DM 长续航版上市]]></title>
-            <description><![CDATA[日前，方程豹钛 7 DM 长续航版上市，新车共推出两款配置车型，售价区间为 19.58-22.58 万。外观方面，方程豹钛 7 通过简洁的几何线条构建出如同宇宙<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/19/5523c202608190001596114.png">]]></description>
-            <link>https://www.xchuxing.com/article/175132</link>
-            <guid isPermaLink="false">xchuxing:1:175132</guid>
-            <pubDate>Tue, 18 Aug 2026 16:12:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
