@@ -4,9 +4,21 @@
         <description><![CDATA[巴塞罗那 的最新相关新闻，来源：懂球帝。]]></description>
         <link>https://www.dongqiudi.com/team/50001756</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 22:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 23:14:32 GMT</lastBuildDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[早报：有人敢买就有人敢卖？]]></title>
+            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/18/C5/280x210/crop/-/rBXRDGqGMvaAakI-AAVp0gxe5Xo670.jpg" alt="" /></p>]]></description>
+            <link>https://m.dongqiudi.com/article/6200813.html</link>
+            <guid isPermaLink="false">dongqiudi:team:50001756:6200813</guid>
+            <category><![CDATA[足球]]></category>
+            <category><![CDATA[英超]]></category>
+            <category><![CDATA[意甲]]></category>
+            <category><![CDATA[西甲]]></category>
+            <category><![CDATA[中超]]></category>
+            <pubDate>Wed, 19 Aug 2026 23:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[哈姆扎：萨拉赫经常联系我，他是所有埃及人的榜样]]></title>
             <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/18/A8/280x210/crop/-/rBXRn2qGLayADJT-AAHYdYx6uKI839.jpg" alt="" /></p>]]></description>
@@ -44,6 +56,7 @@
             <guid isPermaLink="false">dongqiudi:team:50001756:6199300</guid>
             <category><![CDATA[足球]]></category>
             <category><![CDATA[西甲]]></category>
+            <category><![CDATA[法甲]]></category>
             <pubDate>Wed, 19 Aug 2026 22:12:59 GMT</pubDate>
         </item>
         <item>
@@ -190,24 +203,6 @@
             <category><![CDATA[意甲]]></category>
             <category><![CDATA[西甲]]></category>
             <pubDate>Wed, 19 Aug 2026 19:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迪马济奥：国米将劳塔罗视为非卖品，也没有收到巴萨的报价]]></title>
-            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/18/37/280x210/crop/-/rBXRDGqF_buAELKvAAHhBP0OPj0739.jpg" alt="" /></p>]]></description>
-            <link>https://m.dongqiudi.com/article/6200205.html</link>
-            <guid isPermaLink="false">dongqiudi:team:50001756:6200205</guid>
-            <category><![CDATA[足球]]></category>
-            <category><![CDATA[意甲]]></category>
-            <category><![CDATA[西甲]]></category>
-            <pubDate>Wed, 19 Aug 2026 19:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[半场战报：巴萨2-0开罗国民，拉菲尼亚点射，哈姆扎弑旧主]]></title>
-            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/18/2C/280x210/crop/-/rBXRDGqF-qmAGRuRAAMfRSFA0iA331.jpg" alt="" /></p>]]></description>
-            <link>https://m.dongqiudi.com/article/6200178.html</link>
-            <guid isPermaLink="false">dongqiudi:team:50001756:6200178</guid>
-            <category><![CDATA[足球]]></category>
-            <pubDate>Wed, 19 Aug 2026 18:55:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
