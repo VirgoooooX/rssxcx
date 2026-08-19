@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 09:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 09:55:56 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[奕境 X9 开启预售，你会选哪个版本？]]></title>
+            <description><![CDATA[[投票选项] 增程Max长续航版｜29.98万<br><br>[投票选项] 增程四驱Ultra+长续航版｜33.98万<br><br>[投票选项] 增程四驱Ultra+旗舰长续航版｜37.98万<br><br>[投票选项] 看投票结果用，评论区一起畅聊]]></description>
+            <link>https://www.xchuxing.com/vote/2258</link>
+            <guid isPermaLink="false">xchuxing:7:2258</guid>
+            <pubDate>Wed, 19 Aug 2026 09:31:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[别克至境L7纯电版：满配，才是起点]]></title>
             <description><![CDATA[三个月前，别克至境L7纯电版第一次出现在公众视野时，舆论场的反应很直接：车不错，配置很顶，就看价格了。8月5日，上汽与通用签署战略续约协议当晚，至境L7纯电版开<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/19/90a2a20260819164959532.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/175132</link>
             <guid isPermaLink="false">xchuxing:1:175132</guid>
             <pubDate>Tue, 18 Aug 2026 16:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 29.98-37.98 万 奕境 X9 开启预售]]></title>
-            <description><![CDATA[日前，奕境 X9 开启预售，新车共推出三款配置车型，预售价区间为 29.98-37.98 万。外观层面，奕境 X9 依托经纬流光设计美学打造，前脸采用封闭式格栅<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/18/e34f1202608182351203675.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/175129</link>
-            <guid isPermaLink="false">xchuxing:1:175129</guid>
-            <pubDate>Tue, 18 Aug 2026 15:55:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
