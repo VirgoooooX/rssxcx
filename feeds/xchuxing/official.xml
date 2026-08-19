@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 14:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 14:59:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[地平线征程 6B 再次斩获千万套级别订单]]></title>
+            <description><![CDATA[据博世官方消息，其基于地平线征程 6B 芯片研发的第四代多功能摄像头（MPC4）已斩获大规模量产定点。截至目前，该平台定点已覆盖 40 余款车型、整体订单规模达<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/19/94f97202608192205494108.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175179</link>
+            <guid isPermaLink="false">xchuxing:1:175179</guid>
+            <pubDate>Wed, 19 Aug 2026 14:07:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小马智行二季度 Robotaxi 收入同比暴增 691.2%]]></title>
+            <description><![CDATA[日前，小马智行公布 2026 年第二季度财报及中期业绩。二季度 Robotaxi 业务收入同比大增 691.2%，营收占比首次升至三分之一，成为拉动业绩增长的重<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/19/cbf0a202608192203248301.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175178</link>
+            <guid isPermaLink="false">xchuxing:1:175178</guid>
+            <pubDate>Wed, 19 Aug 2026 14:04:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[星海 V6 量产下线]]></title>
             <description><![CDATA[从官方获悉，星海 V6 首台华为乾崑智驾 ADS 5 SE 量产车，于 8 月 18 日在东风柳汽乘用车总装车间正式下线。星海 V6 由东风风行与华为合作推出，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/19/dddee202608192200508341.jpg">]]></description>
@@ -70,20 +84,6 @@
             <link>https://www.xchuxing.com/video/26827</link>
             <guid isPermaLink="false">xchuxing:2:26827</guid>
             <pubDate>Wed, 19 Aug 2026 02:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 452期：动态体验奕境 X9]]></title>
-            <description><![CDATA[奕境 X9 已于 8 月 18 日正式开启预售，预售价格区间为 29.98-37.98 万元。此前我们已经带大家做过非常详尽的静态体验，今天这期视频，我们就把它开上路，实际感受它的动态行驶质感与辅助驾驶系统的表现。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/18/eea47202608182355593999.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/26826</link>
-            <guid isPermaLink="false">xchuxing:2:26826</guid>
-            <pubDate>Wed, 19 Aug 2026 01:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 451期：800V 是噱头吗？银河TT续航实测来了]]></title>
-            <description><![CDATA[银河TT的真实续航表现如何？800V在日常使用上是不是真的有优势？这次我们来到泉州，和大家实测一下银河TT的续航真实水平...<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/19/dba5b202608190813498824.png">]]></description>
-            <link>https://www.xchuxing.com/video/26825</link>
-            <guid isPermaLink="false">xchuxing:2:26825</guid>
-            <pubDate>Tue, 18 Aug 2026 17:22:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
