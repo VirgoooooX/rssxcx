@@ -4,9 +4,17 @@
         <description><![CDATA[巴塞罗那 的最新相关新闻，来源：懂球帝。]]></description>
         <link>https://www.dongqiudi.com/team/50001756</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 18:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 19:00:03 GMT</lastBuildDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[半场战报：巴萨2-0开罗国民，拉菲尼亚点射，哈姆扎弑旧主]]></title>
+            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/18/2C/280x210/crop/-/rBXRDGqF-qmAGRuRAAMfRSFA0iA331.jpg" alt="" /></p>]]></description>
+            <link>https://m.dongqiudi.com/article/6200178.html</link>
+            <guid isPermaLink="false">dongqiudi:team:50001756:6200178</guid>
+            <category><![CDATA[足球]]></category>
+            <pubDate>Wed, 19 Aug 2026 18:55:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[塞尔电台：巴萨放弃阿尔瓦雷斯，劳塔罗成锋线引援头号目标]]></title>
             <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/18/07/280x210/crop/-/rBXRn2qF8niAEqbVAAEwaU7XcFs489.jpg" alt="" /></p>]]></description>
@@ -62,28 +70,6 @@
             <category><![CDATA[西甲]]></category>
             <category><![CDATA[五洲]]></category>
             <pubDate>Wed, 19 Aug 2026 17:22:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马雷斯卡：罗德里是顶级球员，但我认为他离队是双赢的结果]]></title>
-            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/17/DB/280x210/crop/-/rBXRDGqF3vKARtIWAAHn1yBApow112.jpg" alt="" /></p>]]></description>
-            <link>https://m.dongqiudi.com/article/6199702.html</link>
-            <guid isPermaLink="false">dongqiudi:team:50001756:6199702</guid>
-            <category><![CDATA[足球]]></category>
-            <category><![CDATA[英超]]></category>
-            <category><![CDATA[西甲]]></category>
-            <pubDate>Wed, 19 Aug 2026 16:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科贝：国米不想卖劳塔罗但德科会尝试；哲凯赖什每天都在自荐]]></title>
-            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/17/D5/280x210/crop/-/rBXRDGqF3HWAftcxAAFXqyyENXE152.jpg" alt="" /></p>]]></description>
-            <link>https://m.dongqiudi.com/article/6199653.html</link>
-            <guid isPermaLink="false">dongqiudi:team:50001756:6199653</guid>
-            <category><![CDATA[足球]]></category>
-            <category><![CDATA[英超]]></category>
-            <category><![CDATA[意甲]]></category>
-            <category><![CDATA[西甲]]></category>
-            <category><![CDATA[五洲]]></category>
-            <pubDate>Wed, 19 Aug 2026 16:40:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
