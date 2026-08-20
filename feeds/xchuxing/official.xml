@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 09:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 10:24:58 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预售价 29.98-35.98 万起 智界 RX 开启预售]]></title>
+            <description><![CDATA[日前，智界 RX 开启预售，舱内激光版预售价 29.98 万起，L3 级自动驾驶架构的版本预售价 35.98 万起。外观方面，智界 RX 相比传统 SUV 较为<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/20/a7bcd202608201753067336.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175248</link>
+            <guid isPermaLink="false">xchuxing:1:175248</guid>
+            <pubDate>Thu, 20 Aug 2026 09:57:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[谁说mpv只能当奶爸车？]]></title>
             <description><![CDATA[这台小鹏X9黑武士专治“油腻”！
@@ -88,13 +95,6 @@
             <link>https://www.xchuxing.com/article/175178</link>
             <guid isPermaLink="false">xchuxing:1:175178</guid>
             <pubDate>Wed, 19 Aug 2026 14:04:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[星海 V6 量产下线]]></title>
-            <description><![CDATA[从官方获悉，星海 V6 首台华为乾崑智驾 ADS 5 SE 量产车，于 8 月 18 日在东风柳汽乘用车总装车间正式下线。星海 V6 由东风风行与华为合作推出，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/19/dddee202608192200508341.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/175177</link>
-            <guid isPermaLink="false">xchuxing:1:175177</guid>
-            <pubDate>Wed, 19 Aug 2026 14:02:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
