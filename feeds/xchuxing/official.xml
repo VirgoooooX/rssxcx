@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 09:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 09:58:03 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[2026 成都车展｜限时权益价 22.68万起 魏牌 V8X 开启交付]]></title>
+            <description><![CDATA[8 月 21 日，魏牌 V8X 在成都车展上正式开启交付。魏牌 V8X 在 8 月 14 日正式上市，其中运动版共推出 2 款配置，售价分别为 22.68 万元<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/21/ce8d2202608211743192923.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175358</link>
+            <guid isPermaLink="false">xchuxing:1:175358</guid>
+            <pubDate>Fri, 21 Aug 2026 09:44:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[宝马iX3的车机屏幕，你的喜欢程度如何（5分满分）]]></title>
             <description><![CDATA[[投票选项] 5分<br><br>[投票选项] 4分<br><br>[投票选项] 3分<br><br>[投票选项] 2分<br><br>[投票选项] 1分<br><br>[投票选项] 其它｜评论区交流]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/175301</link>
             <guid isPermaLink="false">xchuxing:1:175301</guid>
             <pubDate>Fri, 21 Aug 2026 05:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 成都车展 | 预售价 24.99-29.99 万元 比亚迪大汉 EV 开启预售]]></title>
-            <description><![CDATA[在 2026 成都车展上，比亚迪大汉 EV 正式开启预售。新车共推出 3 款配置，预售价 24.99-29.99 万元。预售权益方面，目前比亚迪大汉 EV 可享<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/21/868f4202608211135201979.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/175288</link>
-            <guid isPermaLink="false">xchuxing:1:175288</guid>
-            <pubDate>Fri, 21 Aug 2026 05:43:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
