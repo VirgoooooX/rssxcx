@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 07:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 08:28:27 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[2026 成都车展｜智己发布 “NEXT·2028” 战略 全新一代 LS6 定档 9 月发布]]></title>
+            <description><![CDATA[8 月 21 日，智己汽车在成都车展发布全新产品战略 ——“NEXT・2028” 计划。发布会同步官宣，作为 “NEXT・2028” 战略的重磅落地车型，全新一<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/21/5b3a2202608211604231172.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175339</link>
+            <guid isPermaLink="false">xchuxing:1:175339</guid>
+            <pubDate>Fri, 21 Aug 2026 08:23:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2026 成都车展｜限时优惠价 19.68 万元起 全新深蓝 G318 正式上市]]></title>
             <description><![CDATA[8 月 21 日，全新深蓝 G318 在成都车展正式上市。 新车一共推出三款四驱版本车型，官方指导价区间 19.98‑23.98 万元，上市限时优惠后售价为 1<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/21/108ad202608211441166120.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/175295</link>
             <guid isPermaLink="false">xchuxing:1:175295</guid>
             <pubDate>Fri, 21 Aug 2026 05:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 458期：前备箱也能冰可乐 静态体验领克 20]]></title>
-            <description><![CDATA[去掉一个「z」，带来许多升级！听说全新一代领克 20 前备箱也能冰可乐了？让我们看看怎么回事！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/20/71b40202608201638269423.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/26920</link>
-            <guid isPermaLink="false">xchuxing:2:26920</guid>
-            <pubDate>Fri, 21 Aug 2026 04:19:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
