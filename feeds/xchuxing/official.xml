@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 08:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 09:07:03 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[宝马iX3的车机屏幕，你的喜欢程度如何（5分满分）]]></title>
+            <description><![CDATA[[投票选项] 5分<br><br>[投票选项] 4分<br><br>[投票选项] 3分<br><br>[投票选项] 2分<br><br>[投票选项] 1分<br><br>[投票选项] 其它｜评论区交流]]></description>
+            <link>https://www.xchuxing.com/vote/2262</link>
+            <guid isPermaLink="false">xchuxing:7:2262</guid>
+            <pubDate>Fri, 21 Aug 2026 08:38:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2026 成都车展｜智己发布 “NEXT·2028” 战略 全新一代 LS6 定档 9 月发布]]></title>
             <description><![CDATA[8 月 21 日，智己汽车在成都车展发布全新产品战略 ——“NEXT・2028” 计划。发布会同步官宣，作为 “NEXT・2028” 战略的重磅落地车型，全新一<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/21/5b3a2202608211604231172.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/article/175288</link>
             <guid isPermaLink="false">xchuxing:1:175288</guid>
             <pubDate>Fri, 21 Aug 2026 05:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 成都车展｜限时臻享价 30.98 万元 奥迪 E7X 先锋 quattro 热爱版正式上市]]></title>
-            <description><![CDATA[8 月 21 日，奥迪 E7X 先锋 quattro 热爱版在成都车展正式上市。价格方面，限时臻享价 30.98 万元，叠加权益价 29.78 万元。热爱版将搭<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/21/cb45f202608211336456822.png">]]></description>
-            <link>https://www.xchuxing.com/article/175295</link>
-            <guid isPermaLink="false">xchuxing:1:175295</guid>
-            <pubDate>Fri, 21 Aug 2026 05:36:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
