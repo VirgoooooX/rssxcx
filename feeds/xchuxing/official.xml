@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 17:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 18:16:01 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[理想OTA9.1，终于等到你！]]></title>
+            <description><![CDATA[理想这次的升级也太全面了吧，我最喜欢的莫过于……<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/24/385fa202608240130584630.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/27000</link>
+            <guid isPermaLink="false">xchuxing:2:27000</guid>
+            <pubDate>Sun, 23 Aug 2026 17:43:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX 续航体验 83期：沃尔沃 EX90 纯电续航及充电测试]]></title>
             <description><![CDATA[合资品牌中，沃尔沃的纯电化已经比较完整，EX 和 ES 系列都有车型推出。车辆无论是外观还是内饰设计，都是典型的北欧风格。那么在续航和充电方面，沃尔沃 EX90<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/23/c1690202608232235137063.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/175398</link>
             <guid isPermaLink="false">xchuxing:1:175398</guid>
             <pubDate>Fri, 21 Aug 2026 13:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 成都车展｜纵横 F700 亮相成都车展]]></title>
-            <description><![CDATA[作为全领域豪华越野皮卡，纵横 F700 跳出传统皮卡“工具属性”的固有边界，拥有大容积货箱、59 处原厂拓展锚点、3.5 吨级正规牵引资质与 6.6kW 移动电<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/21/5bdc0202608212135551413.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/175397</link>
-            <guid isPermaLink="false">xchuxing:1:175397</guid>
-            <pubDate>Fri, 21 Aug 2026 13:38:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
