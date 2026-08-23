@@ -4,9 +4,18 @@
         <description><![CDATA[巴塞罗那 的最新相关新闻，来源：懂球帝。]]></description>
         <link>https://www.dongqiudi.com/team/50001756</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 15:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 15:43:35 GMT</lastBuildDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>30</ttl>
+        <item>
+            <title><![CDATA[记者：阿尔瓦雷斯态度很糟，队友都不舒服]]></title>
+            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/25/CF/280x210/crop/-/rBXRDGqLDiqAVi1DAADzF4b-BM8752.jpg" alt="" /></p>]]></description>
+            <link>https://m.dongqiudi.com/article/6221648.html</link>
+            <guid isPermaLink="false">dongqiudi:team:50001756:6221648</guid>
+            <category><![CDATA[足球]]></category>
+            <category><![CDATA[西甲]]></category>
+            <pubDate>Sun, 23 Aug 2026 15:21:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[马竞赛前主持人宣读名单时，阿尔瓦雷斯被现场球迷狂嘘]]></title>
             <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/25/C1/280x210/crop/-/rBXRn2qLDN-AaDMOAAC0cznAZ28723.jpg" alt="" /></p>]]></description>
@@ -142,16 +151,6 @@
             <category><![CDATA[足球]]></category>
             <category><![CDATA[五洲]]></category>
             <pubDate>Sun, 23 Aug 2026 11:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迪马济奥：巴萨正与葡体就伊纳西奥的转会进行谈判]]></title>
-            <description><![CDATA[<p><img src="https://bdimg7.qunliao.info/fastdfs8/M00/25/2C/280x210/crop/-/rBXRn2qK2AKAOI6pAAIW4jw1wQU695.jpg" alt="" /></p>]]></description>
-            <link>https://m.dongqiudi.com/article/6220442.html</link>
-            <guid isPermaLink="false">dongqiudi:team:50001756:6220442</guid>
-            <category><![CDATA[足球]]></category>
-            <category><![CDATA[西甲]]></category>
-            <category><![CDATA[五洲]]></category>
-            <pubDate>Sun, 23 Aug 2026 11:23:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
