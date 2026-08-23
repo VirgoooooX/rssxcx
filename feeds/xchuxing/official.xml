@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 10:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 10:47:14 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[2026 成都车展｜iCAR×VEKii 维鲸联名 V27 共创版「天启」亮相成都车展]]></title>
+            <description><![CDATA[在 2026 成都车展上，iCAR 带来了与 VEKii 维鲸联名的 V27 共创车型，此次实拍的是名为「天启」的版本。新车以原生力量为核心锚点，开辟复古潮玩的<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/23/db9fe202608231625053500.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175503</link>
+            <guid isPermaLink="false">xchuxing:1:175503</guid>
+            <pubDate>Sun, 23 Aug 2026 10:24:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[智界RX锚定35万级SUV高价值坐标，赢在上最高"智能/价格"比]]></title>
             <description><![CDATA[29.98万元起预售价格一出，智界RX的讨论热度迅速攀升。29.98万元与35.98万元两个档位，分别对应不同价值取向的å用户需求。万元小订权益的价值不在于赠送<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/23/1fa65202608231316054908.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/175395</link>
             <guid isPermaLink="false">xchuxing:1:175395</guid>
             <pubDate>Fri, 21 Aug 2026 13:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 成都车展｜猛士 X700 亮相成都车展]]></title>
-            <description><![CDATA[8 月 21 日，第二十九届成都国际汽车展览会正式开幕，猛士汽车携全系车型登陆 4 号馆，全新 X 系列首款车型——猛士 X700 正式迎来全球首秀。新车定位豪<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/21/1932e202608212047516514.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/175390</link>
-            <guid isPermaLink="false">xchuxing:1:175390</guid>
-            <pubDate>Fri, 21 Aug 2026 12:51:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
