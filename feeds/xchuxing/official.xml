@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 07:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 08:09:48 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[2026 成都车展｜全系标配 800V 全新领克 20 亮相]]></title>
+            <description><![CDATA[8 月 21 日，全新领克 20 在成都车展中亮相，新车聚焦智能、驾趣、精致三大核心维度，为都市用户打造精致潮流出行新选择。全新领克 20 定位“精致驾趣纯电<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/24/d593a202608241554589166.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175533</link>
+            <guid isPermaLink="false">xchuxing:1:175533</guid>
+            <pubDate>Mon, 24 Aug 2026 08:00:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[定位纯电中型 SUV  一汽-大众 ID.AURA T6 将于 8 月 28 日开启预售]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，一汽-大众 ID.AURA T6 将于 8 月 28 日正式开启预售。新车此前已开启盲订，99 元下定直接抵扣 2000 元购车款。外<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/24/a8d34202608241019072299.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/26952</link>
             <guid isPermaLink="false">xchuxing:2:26952</guid>
             <pubDate>Fri, 21 Aug 2026 16:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 成都车展｜iCAR V25 亮相成都车展]]></title>
-            <description><![CDATA[iCAR V25 于成都国际车展迎来全球首秀，作为面向年轻用户打造的智能时尚 SUV，V25 以黄金尺寸、顶级智驾、满配体验，满足先锋玩家对个性审美、实用空间、<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/21/bf37f202608212153149737.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/175399</link>
-            <guid isPermaLink="false">xchuxing:1:175399</guid>
-            <pubDate>Fri, 21 Aug 2026 13:58:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
