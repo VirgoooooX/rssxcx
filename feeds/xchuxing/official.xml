@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 15:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 16:04:23 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行十问十答 | 十个问题带你更详细了解奕境 X9]]></title>
+            <description><![CDATA[奕境 X9 已于 8 月 18 日正式开启预售，全系共推出 3 款配置，预售价 29.99-37.99 万元。预售开启 24 小时，订单量就突破了 21245<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/20/4b9b2202608201528064247.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175161</link>
+            <guid isPermaLink="false">xchuxing:1:175161</guid>
+            <pubDate>Mon, 24 Aug 2026 15:40:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[营收 197.4 亿元 小鹏集团发布 2026 Q2 财报]]></title>
             <description><![CDATA[8 月 24 日，小鹏发布2026年第二季度未经审计财务业绩。报告期内，小鹏集团总收入 197.4 亿元，同比增长 8.0%，环比增长 51.5%；毛利率 20<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/24/3f5e3202608242131386485.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/26955</link>
             <guid isPermaLink="false">xchuxing:2:26955</guid>
             <pubDate>Fri, 21 Aug 2026 16:34:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 461期：静态体验比亚迪大汉]]></title>
-            <description><![CDATA[预售价 24.99万-29.99 万，比亚迪王朝网大汉在成都车展上正式开启预售，做为王朝网的旗舰轿车，这台车不仅有最长 1008km 续航，还有各种丰富配置，本期视频就来和大家聊一聊。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/22/d38f7202608220027114067.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/26954</link>
-            <guid isPermaLink="false">xchuxing:2:26954</guid>
-            <pubDate>Fri, 21 Aug 2026 16:34:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
