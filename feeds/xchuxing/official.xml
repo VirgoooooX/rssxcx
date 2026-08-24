@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 10:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 11:00:06 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[8.99万起、城市NOA下放11万级，上汽大众ID. ERA 5S要在家轿市场掀桌子了]]></title>
+            <description><![CDATA[当国内混动家轿市场陷入堆配置拼低价的内卷，合资品牌想要站稳脚跟，不能只靠品牌光环，必须拿出实打实的技术下放与品质诚意。在2026成都车展的上汽大众展台，ID.<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/24/742f0202608241807592422.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175548</link>
+            <guid isPermaLink="false">xchuxing:1:175548</guid>
+            <pubDate>Mon, 24 Aug 2026 10:43:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2026 成都车展｜全系标配 800V 全新领克 20 亮相]]></title>
             <description><![CDATA[8 月 21 日，全新领克 20 在成都车展中亮相，新车聚焦智能、驾趣、精致三大核心维度，为都市用户打造精致潮流出行新选择。全新领克 20 定位“精致驾趣纯电<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/24/d593a202608241554589166.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/26953</link>
             <guid isPermaLink="false">xchuxing:2:26953</guid>
             <pubDate>Fri, 21 Aug 2026 16:29:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 459期：静态体验启境 GX7 自带大床的车型]]></title>
-            <description><![CDATA[启境第二款产品——启境 GX7 正式亮相本次成都车展，做为启境第二款产品，新车定位为阔五座，而且还自带大床，本期视频就和大家聊一聊。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/22/907a0202608220023036634.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/26952</link>
-            <guid isPermaLink="false">xchuxing:2:26952</guid>
-            <pubDate>Fri, 21 Aug 2026 16:29:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
