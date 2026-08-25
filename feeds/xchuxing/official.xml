@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 08:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 09:25:27 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[自动驾驶功能溢价6万你会支付吗]]></title>
+            <description><![CDATA[智界RX开启预售，L3架构版本直接比普通版贵6万，这个差价，相信会让很多人陷入纠结。想邀请大家投票看看，也给大家做一个参考。你们会如何选择呢？也欢迎在评论区聊聊你们的看法~<br><br>[投票选项] 会（整车硬件预埋+OTA升级潜力）<br><br>[投票选项] 不会（价格还是偏高）]]></description>
+            <link>https://www.xchuxing.com/vote/2264</link>
+            <guid isPermaLink="false">xchuxing:7:2264</guid>
+            <pubDate>Tue, 25 Aug 2026 08:52:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[有些路，值得用十年去走，有些远方，值得一群人用一台好车去抵达]]></title>
             <description><![CDATA[本次2026成都车展上有数十场发布会，让我印象最深刻的还是零跑汽车展台。零跑汽车以一场别开生面的“用户远征”脱颖而出，“零跑在世界屋脊”的远征行动正式开启。这是<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/25/d4708202608251332161137.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/175503</link>
             <guid isPermaLink="false">xchuxing:1:175503</guid>
             <pubDate>Sun, 23 Aug 2026 10:24:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智界RX锚定35万级SUV高价值坐标，赢在上最高"智能/价格"比]]></title>
-            <description><![CDATA[29.98万元起预售价格一出，智界RX的讨论热度迅速攀升。29.98万元与35.98万元两个档位，分别对应不同价值取向的å用户需求。万元小订权益的价值不在于赠送<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/23/1fa65202608231316054908.png">]]></description>
-            <link>https://www.xchuxing.com/article/175494</link>
-            <guid isPermaLink="false">xchuxing:1:175494</guid>
-            <pubDate>Sun, 23 Aug 2026 05:18:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
