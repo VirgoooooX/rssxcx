@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 05:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 05:55:13 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[有些路，值得用十年去走，有些远方，值得一群人用一台好车去抵达]]></title>
+            <description><![CDATA[本次2026成都车展上有数十场发布会，让我印象最深刻的还是零跑汽车展台。零跑汽车以一场别开生面的“用户远征”脱颖而出，“零跑在世界屋脊”的远征行动正式开启。这是<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/25/d4708202608251332161137.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175598</link>
+            <guid isPermaLink="false">xchuxing:1:175598</guid>
+            <pubDate>Tue, 25 Aug 2026 05:38:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[蔚来智驾负责人任少卿创立独立 AI 公司，蔚来战略投资，你怎么看？]]></title>
             <description><![CDATA[[投票选项] 好事，更利于 AI 技术做大做强，反哺蔚来智驾<br><br>[投票选项] 有顾虑，身兼两职精力被分散，担心影响蔚来智驾迭代速度<br><br>[投票选项] 中性看待，看后续实际落地成果<br><br>[投票选项] 看投票结果用，其他想法评论区说说]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/175494</link>
             <guid isPermaLink="false">xchuxing:1:175494</guid>
             <pubDate>Sun, 23 Aug 2026 05:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 33.99 万元起 神行者 8 正式亮相成都车展]]></title>
-            <description><![CDATA[8 月 21 日， FREELANDER 神行者品牌首款车型神行者 8 正式亮相成都车展。 新车定位豪华科技全地形 SUV ， 预售价 33.99 万元起。目前<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/22/78b6c202608222342335202.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/175472</link>
-            <guid isPermaLink="false">xchuxing:1:175472</guid>
-            <pubDate>Sat, 22 Aug 2026 15:42:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
