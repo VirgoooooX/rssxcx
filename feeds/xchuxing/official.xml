@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 15:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 16:06:07 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[OTA 速览｜全场景实用性进化 理想 OTA 9.1 核心升级汇总]]></title>
+            <description><![CDATA[本次新一代理想 L6、L8、L9 迎来重磅 OTA 9.1 版本升级，其中包含三十一项新增以及十项优化，主要覆盖辅助驾驶、座舱交互等维度。接下来随着我们的步伐，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/24/b58ac202608241017542624.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175195</link>
+            <guid isPermaLink="false">xchuxing:1:175195</guid>
+            <pubDate>Tue, 25 Aug 2026 16:00:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 24.98-34.98 万元 北汽泰钽700 正式上市]]></title>
             <description><![CDATA[8 月 25 日，北汽泰钽 700 正式上市，新车售价 24.98-34.98 万元，共推出三款车型配置。新车前脸延续北京越野家族基因并做豪华化升级，采用加宽五<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/25/50add202608252223056570.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/27000</link>
             <guid isPermaLink="false">xchuxing:2:27000</guid>
             <pubDate>Sun, 23 Aug 2026 17:43:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCX 续航体验 83期：沃尔沃 EX90 纯电续航及充电测试]]></title>
-            <description><![CDATA[合资品牌中，沃尔沃的纯电化已经比较完整，EX 和 ES 系列都有车型推出。车辆无论是外观还是内饰设计，都是典型的北欧风格。那么在续航和充电方面，沃尔沃 EX90<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/23/c1690202608232235137063.png">]]></description>
-            <link>https://www.xchuxing.com/article/175507</link>
-            <guid isPermaLink="false">xchuxing:1:175507</guid>
-            <pubDate>Sun, 23 Aug 2026 16:54:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
