@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 02:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 03:24:00 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[蔚来智驾负责人任少卿创立独立 AI 公司，蔚来战略投资，你怎么看？]]></title>
+            <description><![CDATA[[投票选项] 好事，更利于 AI 技术做大做强，反哺蔚来智驾<br><br>[投票选项] 有顾虑，身兼两职精力被分散，担心影响蔚来智驾迭代速度<br><br>[投票选项] 中性看待，看后续实际落地成果<br><br>[投票选项] 看投票结果用，其他想法评论区说说]]></description>
+            <link>https://www.xchuxing.com/vote/2263</link>
+            <guid isPermaLink="false">xchuxing:7:2263</guid>
+            <pubDate>Tue, 25 Aug 2026 02:51:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[限时一口价 8.58 万 埃安 UT 530 宁德版上市]]></title>
+            <description><![CDATA[日前，埃安 UT 530 宁德版正式上市，官方指导价 8.68 万元，限时一口价 8.58 万元。权益方面， 埃安 UT 530 宁德版可享限时现金抵扣礼、智行<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/25/1387f202608251014126549.png">]]></description>
+            <link>https://www.xchuxing.com/article/175588</link>
+            <guid isPermaLink="false">xchuxing:1:175588</guid>
+            <pubDate>Tue, 25 Aug 2026 02:22:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行十问十答 | 十个问题带你更详细了解奕境 X9]]></title>
             <description><![CDATA[奕境 X9 已于 8 月 18 日正式开启预售，全系共推出 3 款配置，预售价 29.99-37.99 万元。预售开启 24 小时，订单量就突破了 21245<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/20/4b9b2202608201528064247.jpg">]]></description>
@@ -77,20 +91,6 @@
             <link>https://www.xchuxing.com/article/175472</link>
             <guid isPermaLink="false">xchuxing:1:175472</guid>
             <pubDate>Sat, 22 Aug 2026 15:42:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 463期：鸿蒙智行目前有多少种激光雷达方案？]]></title>
-            <description><![CDATA[鸿蒙智行目前到底有多少种激光雷达方案？一个视频带你全面了解...<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/22/c37f5202608220036179005.png">]]></description>
-            <link>https://www.xchuxing.com/video/26957</link>
-            <guid isPermaLink="false">xchuxing:2:26957</guid>
-            <pubDate>Fri, 21 Aug 2026 16:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 462期：静态体验享界V8]]></title>
-            <description><![CDATA[鸿蒙智行第四款 MPV——享界 V8 正式亮相本届成都车展，新车定位为高端家用 MPV，这次静态体验就和大家聊聊享界是如何用 9 系标准来打造这台 8 系 MPV 的。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/22/09dcf202608220029402642.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/26955</link>
-            <guid isPermaLink="false">xchuxing:2:26955</guid>
-            <pubDate>Fri, 21 Aug 2026 16:34:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
