@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 05:57:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 06:40:48 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新一代理想MEGA的内饰，你认为会对MEGA的售价带来多大影响？]]></title>
+            <description><![CDATA[9.2就要迎来新一代理想MEGA的上市，今天也亮相了新一代理想MEGA的新内饰，看完这套内饰，你觉得会给MEGA的售价带来多大的影响呢？<br><br>[投票选项] 会明显拉高售价，性价比下降<br><br>[投票选项] 小幅涨价，这套内饰值得加钱<br><br>[投票选项] 属于车型标配，不该额外加价<br><br>[投票选项] 只做顶配选装，低配应该保留普通座椅版本<br><br>[投票选项] 无所谓，看重内饰就上顶配]]></description>
+            <link>https://www.xchuxing.com/vote/2265</link>
+            <guid isPermaLink="false">xchuxing:7:2265</guid>
+            <pubDate>Wed, 26 Aug 2026 06:12:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 465期：最全内饰解读！理想新一代MEGA来了！]]></title>
             <description><![CDATA[上次看完新一代 MEGA，我冒出一个很强烈的想法：MEGA 不应该只做一台车，它理应演化成一个完整的产品系列。这次我用一个最全内饰解读视频，带大家把全新 MEGA 聊透...<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/26/09cb1202608261308353396.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/175533</link>
             <guid isPermaLink="false">xchuxing:1:175533</guid>
             <pubDate>Mon, 24 Aug 2026 08:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[定位纯电中型 SUV  一汽-大众 ID.AURA T6 将于 8 月 28 日开启预售]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，一汽-大众 ID.AURA T6 将于 8 月 28 日正式开启预售。新车此前已开启盲订，99 元下定直接抵扣 2000 元购车款。外<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/24/a8d34202608241019072299.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/175513</link>
-            <guid isPermaLink="false">xchuxing:1:175513</guid>
-            <pubDate>Mon, 24 Aug 2026 02:46:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
