@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 04:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 05:25:00 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 465期：最全内饰解读！理想新一代MEGA来了！]]></title>
+            <description><![CDATA[上次看完新一代 MEGA，我冒出一个很强烈的想法：MEGA 不应该只做一台车，它理应演化成一个完整的产品系列。这次我用一个最全内饰解读视频，带大家把全新 MEGA 聊透...<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/26/09cb1202608261308353396.png">]]></description>
+            <link>https://www.xchuxing.com/video/27092</link>
+            <guid isPermaLink="false">xchuxing:2:27092</guid>
+            <pubDate>Wed, 26 Aug 2026 05:14:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OTA 速览｜全场景实用性进化 理想 OTA 9.1 核心升级汇总]]></title>
             <description><![CDATA[本次新一代理想 L6、L8、L9 迎来重磅 OTA 9.1 版本升级，其中包含三十一项新增以及十项优化，主要覆盖辅助驾驶、座舱交互等维度。接下来随着我们的步伐，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/24/b58ac202608241017542624.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/175513</link>
             <guid isPermaLink="false">xchuxing:1:175513</guid>
             <pubDate>Mon, 24 Aug 2026 02:46:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[理想OTA9.1，终于等到你！]]></title>
-            <description><![CDATA[理想这次的升级也太全面了吧，我最喜欢的莫过于……<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/24/385fa202608240130584630.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/27000</link>
-            <guid isPermaLink="false">xchuxing:2:27000</guid>
-            <pubDate>Sun, 23 Aug 2026 17:43:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
