@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Aug 2026 23:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 04:14:07 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 469期：体验鸿蒙智行ADS 增强版辅助驾驶]]></title>
+            <description><![CDATA[本期视频和大家聊一聊鸿蒙智行搭载的共光路舱内激光雷达版。前段时间在成都体验了下，直白的总结就是 ADS 增强版甚至优于部分友商头顶激光雷达的 Max版本。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/29/b619a202608291035373716.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/27207</link>
+            <guid isPermaLink="false">xchuxing:2:27207</guid>
+            <pubDate>Sat, 29 Aug 2026 03:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[对话赵永坡：在流量至上的时代，魏牌选择"肉埋在饭里"]]></title>
             <description><![CDATA[新势力选手在各自的细分赛道里不断加码，传统豪华品牌的价格持续下探，合资品牌加速电动化转型，整个赛道从蓝海快速滑向红海，新品扎堆上市、配置表越拉越长，用户反而越来<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/28/76b3f202608281657006740.jpeg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/video/27127</link>
             <guid isPermaLink="false">xchuxing:2:27127</guid>
             <pubDate>Thu, 27 Aug 2026 04:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏第三颗芯片点亮后，你会推荐买哪个版本？]]></title>
-            <description><![CDATA[[投票选项] 标配的Max<br><br>[投票选项] +1.2万上Ultra SE<br><br>[投票选项] +2万上Ultra]]></description>
-            <link>https://www.xchuxing.com/vote/2266</link>
-            <guid isPermaLink="false">xchuxing:7:2266</guid>
-            <pubDate>Thu, 27 Aug 2026 02:57:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
