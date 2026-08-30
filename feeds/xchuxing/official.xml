@@ -4,10 +4,21 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 23:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 02:38:17 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 470期：小鹏二代VLA的低时延到底是什么？]]></title>
+            <description><![CDATA[接上一期聊到的二代 VLA，全新架构会给实际用车带来哪些真实改变，大家可以看看这条视频。
+
+它的核心升级，不在于单点功能迭代，而是整套底层架构与场景理解能力的质变。这也是整个行业非常明确的发展方向：智驾正在从体验驱动，转向场景能力驱动。
+
+架构能力变强，并不代表用户立刻就能感受到直观的 “爽感”，但它的价值会藏在细节里，更强的长时序规划、更快的实时响应，会渗透到每一次行驶决策里。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/30/c1e51202608300912264726.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/27237</link>
+            <guid isPermaLink="false">xchuxing:2:27237</guid>
+            <pubDate>Sun, 30 Aug 2026 01:12:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[启境 GX7 将于 9 月 7 日开启预售]]></title>
             <description><![CDATA[日前，从官方渠道获悉，启境 GX7 将于 9 月 7 日开启预售，并将于年内正式上市。外观方面，启境 GX7 传承家族美学设计逻辑，下压的车头轮廓配合机盖上几道<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/29/151c3202608291524283898.png">]]></description>
@@ -77,13 +88,6 @@
             <link>https://www.xchuxing.com/video/27178</link>
             <guid isPermaLink="false">xchuxing:2:27178</guid>
             <pubDate>Fri, 28 Aug 2026 02:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCX 深度体验 37期：纯粹的驾驶质感 深度体验沃尔沃 EX90]]></title>
-            <description><![CDATA[从高阶辅助驾驶到多联屏座舱，各个品牌把新潮配置卷得层出不穷。试多了国产新能源汽车，反倒会想念传统豪华品牌那种沉稳扎实的调校质感。这次，不体验辅助驾驶，不享受舒适<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/27/ab823202608272152504495.png">]]></description>
-            <link>https://www.xchuxing.com/article/175657</link>
-            <guid isPermaLink="false">xchuxing:1:175657</guid>
-            <pubDate>Thu, 27 Aug 2026 16:01:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
