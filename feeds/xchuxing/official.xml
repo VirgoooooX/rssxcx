@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 08:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 14:08:05 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[宝马集团全球纯电动汽车交付量突破 200 万辆]]></title>
+            <description><![CDATA[日前，据官方消息，自 2013 年末首款宝马 i3 上市销售以来，公司已向全球客户累计交付 200 万辆纯电动汽车。 若计入插电混动车型，至今宝马集团在全球范围<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/30/02ba6202608301916155111.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/175840</link>
+            <guid isPermaLink="false">xchuxing:1:175840</guid>
+            <pubDate>Sun, 30 Aug 2026 11:17:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[净亏损收窄 52% 莲花集团发布 2026 上半年财报]]></title>
             <description><![CDATA[莲花集团公布截至2026年6月30日的上半年未经审计财务业绩。财报显示，上半年全球累计交付3904辆，同比增长39%；总营收2.68亿美元（约合18.06亿元人<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/28/31f4e202608281829158293.png">]]></description>
@@ -81,13 +88,6 @@
             <link>https://www.xchuxing.com/article/175734</link>
             <guid isPermaLink="false">xchuxing:1:175734</guid>
             <pubDate>Fri, 28 Aug 2026 08:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 12.18-14.38 万元 长城欧拉 5 GT 纯电版/运动款纯电版正式上市]]></title>
-            <description><![CDATA[8 月 28 日，长城欧拉 5 GT /运动款正式上市，其中 GT 纯电版售价 12.98-14.38 万元，运动款纯电版售价 12.18-13.58 万元。-<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/28/6b6c7202608281550134310.png">]]></description>
-            <link>https://www.xchuxing.com/article/175754</link>
-            <guid isPermaLink="false">xchuxing:1:175754</guid>
-            <pubDate>Fri, 28 Aug 2026 07:51:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
