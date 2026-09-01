@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Aug 2026 21:57:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 00:58:05 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX 辅助驾驶体验 24期：跻身第一梯队 一汽-大众 ID.AURA T6 实测对比 6 系新势力]]></title>
+            <description><![CDATA[一汽-大众 ID.AURA T6 对比 6 系新势力，从各个细分场景和这三台车型来一场全维度的对比实测，验证这款合资新品车型的智能辅助驾驶的真实水准。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/31/a502f202608311139416492.png">]]></description>
+            <link>https://www.xchuxing.com/video/27270</link>
+            <guid isPermaLink="false">xchuxing:2:27270</guid>
+            <pubDate>Tue, 01 Sep 2026 00:56:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 245期： 静态体验吉利银河战舰 700]]></title>
             <description><![CDATA[作为吉利的首款方盒子车型，战舰 700 拿出了足够的实力，三电方面就用上了最顶的 2.0T 发动机加三电机的组合。电池包也足够大，除了能够满足越野需求外。对于城<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/27/02cb9202608271653126289.png">]]></description>
@@ -81,13 +88,6 @@
             <link>https://www.xchuxing.com/article/175738</link>
             <guid isPermaLink="false">xchuxing:1:175738</guid>
             <pubDate>Mon, 31 Aug 2026 02:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 471期：伟健体验理想新一代MEGA Home版]]></title>
-            <description><![CDATA[这是新一代理想MEGA Home版，把很多此前MEGA车主的用户痛点都解决了，包括后轮转向、线控转向、800V主动防倾杆等......<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/31/ca66420260831085936752.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/27261</link>
-            <guid isPermaLink="false">xchuxing:2:27261</guid>
-            <pubDate>Mon, 31 Aug 2026 02:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
