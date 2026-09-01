@@ -4,10 +4,31 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 11:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 15:47:56 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[10 月 12 日全球首发 smart 精灵#2 将于 11 月中旬上市]]></title>
+            <description><![CDATA[日前，我们从官方渠道获悉，smart 精灵#2 将于 11 月中旬上市。根据此前的消息来看，新车将于 10 月 12 日的巴黎车展上迎来全球亮相。外观方面，sm<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/01/816b2202609012136013542.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/176035</link>
+            <guid isPermaLink="false">xchuxing:1:176035</guid>
+            <pubDate>Tue, 01 Sep 2026 13:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交付新车 39,107 台 小鹏集团公布 8 月交付成绩]]></title>
+            <description><![CDATA[9 月 1 日，小鹏集团公布 2026 年 8 月交付成绩。8 月，小鹏集团共交付新车 39107 台，同比增长 4%。截至 8 月 31 日，新科技旗舰小鹏<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/01/b22ee202609011956291774.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/176028</link>
+            <guid isPermaLink="false">xchuxing:1:176028</guid>
+            <pubDate>Tue, 01 Sep 2026 11:58:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交付 37,679 辆 理想公布 8 月交付数据]]></title>
+            <description><![CDATA[9 月 1 日，理想汽车公布 2026 年 8 月交付数据。2026 年 8 月，理想汽车交付新车 37,679 辆。截至 2026 年 8 月 31日，理想汽<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/01/ecae6202609011952508300.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/176025</link>
+            <guid isPermaLink="false">xchuxing:1:176025</guid>
+            <pubDate>Tue, 01 Sep 2026 11:54:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[经营利润 2.1 亿元 蔚来发布 2026 年第二季度财报]]></title>
             <description><![CDATA[9 月 1 日，蔚来发布 2026 年二季度财报。二季度实现经营利润 2.1 亿元，连续三个季度盈利。二季度总营收 321.4 亿元，同比增长 69.1%。毛利<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/01/66993202609011944091677.png">]]></description>
@@ -63,29 +84,6 @@
             <link>https://www.xchuxing.com/article/175916</link>
             <guid isPermaLink="false">xchuxing:1:175916</guid>
             <pubDate>Mon, 31 Aug 2026 14:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 92.8 万元起 莲花 ELETRE 900 GOLD 上市]]></title>
-            <description><![CDATA[8 月 31 日，莲花 ELETRE 900 GOLD 正式上市，售价 92.8 万元起。上市权益方面，莲花 ELETRE 900 GOLD 可享 5000 元<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/31/10b55202608312153285188.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/175903</link>
-            <guid isPermaLink="false">xchuxing:1:175903</guid>
-            <pubDate>Mon, 31 Aug 2026 13:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[限时优惠价 7.68-8.68 万元 极狐贝塔 T1 550km 长续航版上市]]></title>
-            <description><![CDATA[8 月 31 日，极狐贝塔 T1 550km 长续航版正式上市。新车共推出 2 款配置，限时优惠价分别为 7.68 万元和 8.68 万元。权益方面，极狐贝塔<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/08/31/aa8aa202608312024236164.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/175906</link>
-            <guid isPermaLink="false">xchuxing:1:175906</guid>
-            <pubDate>Mon, 31 Aug 2026 12:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 472期：全场景倒车来了！全网首发开箱元戎IO 4.0]]></title>
-            <description><![CDATA[之前在美国，我们上手 FSD 印象最深刻的场景就是把倒车嵌入进行车里，它不是一个能力或者场景的延伸，而是和行车规划一起纳入到整个行驶环境中，它没有边界，也不需要固定的触发极致，至于到底是谁来指挥倒车，这一切都是模型决定。
-
-这也是今天我们想和大家分享的内容，倒车的能力，从“泊车倒车”到 “根据场景理解触发倒车”，从写规则倒车到模型一体化行泊，这之间到底有多大差异？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/08/31/6197b202608311759051877.png">]]></description>
-            <link>https://www.xchuxing.com/video/27288</link>
-            <guid isPermaLink="false">xchuxing:2:27288</guid>
-            <pubDate>Mon, 31 Aug 2026 10:01:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
