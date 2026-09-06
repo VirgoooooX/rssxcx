@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 12:59:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 16:01:09 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行帮你选 25期：目前有哪些支持座椅旋转的车型？]]></title>
+            <description><![CDATA[小米澎程 N70 与 N90 将于 9 月 7 日晚正式同台上市。作为小米澎程系列的两款重磅 SUV，它们除了增程动力与越级空间之外，支持旋转的座椅也成为了不少<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/06/c4f1c202609062024272212.png">]]></description>
+            <link>https://www.xchuxing.com/article/176063</link>
+            <guid isPermaLink="false">xchuxing:1:176063</guid>
+            <pubDate>Sun, 06 Sep 2026 15:37:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[计划 2029 财年起应用于下一代 SDV 车型 日产汽车与本田签署联合开发协议]]></title>
             <description><![CDATA[近日，日产汽车公司与本田技研工业株式会社已签署联合开发协议，双方将对构成下一代软件定义汽车核心的多个电子控制单元进行标准化，同时也包括在这些 ECU 上运行的车<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/06/3281d202609060943352704.jpg">]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.xchuxing.com/video/27431</link>
             <guid isPermaLink="false">xchuxing:2:27431</guid>
             <pubDate>Sat, 05 Sep 2026 00:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[抢订价 14.79-18.99 万元 长安启源 Q06 开启预售]]></title>
-            <description><![CDATA[9 月 4 日，长安启源 Q06 正式开启预售。增程版共推出 2 款配置，抢订价分别为 15.79 万元和 16.99 万元；纯电版共推出 7 款配置，抢订价<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/04/45906202609042127413502.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/176234</link>
-            <guid isPermaLink="false">xchuxing:1:176234</guid>
-            <pubDate>Fri, 04 Sep 2026 13:07:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
