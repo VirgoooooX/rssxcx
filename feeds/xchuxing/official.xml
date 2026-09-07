@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 20:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 22:54:46 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 483期：都 2026 了 萤火虫车机依旧「能打」？]]></title>
+            <description><![CDATA[听说十万块钱小车的车机，只有萤火虫和其它？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/07/679ff202609071535079326.png">]]></description>
+            <link>https://www.xchuxing.com/video/27488</link>
+            <guid isPermaLink="false">xchuxing:2:27488</guid>
+            <pubDate>Mon, 07 Sep 2026 21:23:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[智勇双全 忠于自由限时权益价259,900元起 凯迪拉克全新XT5 PHEV上市]]></title>
             <description><![CDATA[（2026年9月7日）今日，凯迪拉克“2026秋季艺术大赏”于贺兰山下盛大启幕，伴随着骏马奔腾的雄浑意象与歌剧《图兰朵》的恢弘乐章，为自由而生的全路况超级辅助驾<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/07/3dcab202609072226447131.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/176276</link>
             <guid isPermaLink="false">xchuxing:1:176276</guid>
             <pubDate>Sun, 06 Sep 2026 01:29:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 29.98 万元起 奕境 X9 将于 9 月下旬上市]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，奕境 X9 将于 9 月下旬完成上市。新车此前已开启预售，共推出 3 款配置，预售价 29.98-37.98 万元。同时，奕境 X9<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/06/10f2e202609060911169041.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/176275</link>
-            <guid isPermaLink="false">xchuxing:1:176275</guid>
-            <pubDate>Sun, 06 Sep 2026 01:15:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
