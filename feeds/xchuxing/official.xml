@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 00:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 05:28:33 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 485期：全系标配H5！动态体验全新领克20]]></title>
+            <description><![CDATA[这次全新领克20带来了很多惊喜，特别是新的底盘风格、800V平台还有最为重要的全新标配 H5，这次我们用一个视频和大家聊聊！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/08/deecf20260908113923714.png">]]></description>
+            <link>https://www.xchuxing.com/video/27498</link>
+            <guid isPermaLink="false">xchuxing:2:27498</guid>
+            <pubDate>Tue, 08 Sep 2026 03:40:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[预算20‑24万，你更偏向增程无里程焦虑，还是可换电纯电？]]></title>
+            <description><![CDATA[[投票选项] 小米澎程N70，增程无焦虑，喜欢座舱可变玩法<br><br>[投票选项] 乐道L60，看重换电、900V、BaaS低门槛<br><br>[投票选项] 都不考虑，评论区留言你感兴趣的车型]]></description>
+            <link>https://www.xchuxing.com/vote/2273</link>
+            <guid isPermaLink="false">xchuxing:7:2273</guid>
+            <pubDate>Tue, 08 Sep 2026 03:31:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[五座 or 七座？小米澎程 N70 和 N90 哪台更适合你？]]></title>
             <description><![CDATA[面对小米澎程的双子星，很多人在选车的时候犯了难——N70 和 N90 ，到底买哪台？两台车看起来差不多，售价（Max 版本）差了 3 万，核心区别就一个——大五<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/05/78d3c202609050933527316.png">]]></description>
@@ -77,20 +91,6 @@
             <link>https://www.xchuxing.com/vote/2271</link>
             <guid isPermaLink="false">xchuxing:7:2271</guid>
             <pubDate>Mon, 07 Sep 2026 07:29:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行帮你选 25期：目前有哪些支持座椅旋转的车型？]]></title>
-            <description><![CDATA[小米澎程 N70 与 N90 将于 9 月 7 日晚正式同台上市。作为小米澎程系列的两款重磅 SUV，它们除了增程动力与越级空间之外，支持旋转的座椅也成为了不少<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/06/c4f1c202609062024272212.png">]]></description>
-            <link>https://www.xchuxing.com/article/176063</link>
-            <guid isPermaLink="false">xchuxing:1:176063</guid>
-            <pubDate>Sun, 06 Sep 2026 15:37:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[计划 2029 财年起应用于下一代 SDV 车型 日产汽车与本田签署联合开发协议]]></title>
-            <description><![CDATA[近日，日产汽车公司与本田技研工业株式会社已签署联合开发协议，双方将对构成下一代软件定义汽车核心的多个电子控制单元进行标准化，同时也包括在这些 ECU 上运行的车<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/06/3281d202609060943352704.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/176278</link>
-            <guid isPermaLink="false">xchuxing:1:176278</guid>
-            <pubDate>Sun, 06 Sep 2026 01:53:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
