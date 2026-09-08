@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 14:07:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 17:58:17 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 489期：伟健体验沃尔沃EX90]]></title>
+            <description><![CDATA[这期视频伟健带你了解沃尔沃EX90，你将会收获5个你不曾知道的秘密。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/08/c2cb8202609082343116004.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/27511</link>
+            <guid isPermaLink="false">xchuxing:2:27511</guid>
+            <pubDate>Tue, 08 Sep 2026 15:44:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[申报目录 | 理想 i6 登录工信部申报目录]]></title>
             <description><![CDATA[在第 411 批申报目录中，我们看到了新款理想 i6 的申报信息。外观方面最明显的变化，就是门把手位置，变成了半隐藏式的设计。配置方面主要多了固态激光雷达的选装<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/08/34306202609082149594866.jpg">]]></description>
@@ -83,20 +90,6 @@
             <link>https://www.xchuxing.com/video/27416</link>
             <guid isPermaLink="false">xchuxing:2:27416</guid>
             <pubDate>Tue, 08 Sep 2026 06:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 485期：全系标配H5！动态体验全新领克20]]></title>
-            <description><![CDATA[这次全新领克20带来了很多惊喜，特别是新的底盘风格、800V平台还有最为重要的全新标配 H5，这次我们用一个视频和大家聊聊！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/08/deecf20260908113923714.png">]]></description>
-            <link>https://www.xchuxing.com/video/27498</link>
-            <guid isPermaLink="false">xchuxing:2:27498</guid>
-            <pubDate>Tue, 08 Sep 2026 03:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预算20‑24万，你更偏向增程无里程焦虑，还是可换电纯电？]]></title>
-            <description><![CDATA[[投票选项] 小米澎程N70，增程无焦虑，喜欢座舱可变玩法<br><br>[投票选项] 乐道L60，看重换电、900V、BaaS低门槛<br><br>[投票选项] 都不考虑，评论区留言你感兴趣的车型]]></description>
-            <link>https://www.xchuxing.com/vote/2273</link>
-            <guid isPermaLink="false">xchuxing:7:2273</guid>
-            <pubDate>Tue, 08 Sep 2026 03:31:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
