@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 15:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 18:57:01 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 490期：全面解读理想i9新内饰]]></title>
+            <description><![CDATA[这次和大家聊聊理想i9全新内饰！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/10/bbd58202609100017156413.png">]]></description>
+            <link>https://www.xchuxing.com/video/27527</link>
+            <guid isPermaLink="false">xchuxing:2:27527</guid>
+            <pubDate>Wed, 09 Sep 2026 16:18:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[赵长江称智界V9未来五年不过时，连续2个月销冠50万级市场量价齐飞]]></title>
             <description><![CDATA[智界V9连续两个月蝉联MPV全品类销量冠军，上市三个月累计交付突破两万台，成交均价逼近五十万元。这一成绩在长期被合资品牌主导的高端MPV市场引发连锁反应。智界汽<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/09/1b6f6202609091949131832.jpg">]]></description>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/article/176055</link>
             <guid isPermaLink="false">xchuxing:1:176055</guid>
             <pubDate>Tue, 08 Sep 2026 06:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 487期：小米澎程N70 Max续航/油耗/充电全网首测]]></title>
-            <description><![CDATA[我们拿到小米N70 Max第一时间后就对这台车进行了纯电续航、亏电油耗、充电的测试。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/07/63b67202609072149122007.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/27482</link>
-            <guid isPermaLink="false">xchuxing:2:27482</guid>
-            <pubDate>Tue, 08 Sep 2026 06:01:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
