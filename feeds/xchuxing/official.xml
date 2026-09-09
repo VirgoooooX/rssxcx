@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 11:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 15:36:56 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[赵长江称智界V9未来五年不过时，连续2个月销冠50万级市场量价齐飞]]></title>
+            <description><![CDATA[智界V9连续两个月蝉联MPV全品类销量冠军，上市三个月累计交付突破两万台，成交均价逼近五十万元。这一成绩在长期被合资品牌主导的高端MPV市场引发连锁反应。智界汽<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/09/1b6f6202609091949131832.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/176423</link>
+            <guid isPermaLink="false">xchuxing:1:176423</guid>
+            <pubDate>Wed, 09 Sep 2026 11:55:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行智驾共创体验 ｜2026款小鹏P7+单图灵Max智驾]]></title>
             <description><![CDATA[近期小鹏汽车官宣第二代VLA Lite蒸馏版将于9月份开启首批推送，回应了不少Max车型车主对于智能辅助驾驶的期待。新出行联合小鹏汽车开启2026款小鹏P7+单<br><img src="https://s3.xchuxing.com/xchuxing/article/2026/09/09/d6c07202609091359284603.jpe">]]></description>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/video/27482</link>
             <guid isPermaLink="false">xchuxing:2:27482</guid>
             <pubDate>Tue, 08 Sep 2026 06:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 486期：小米澎程N70 Max空间最详细解读]]></title>
-            <description><![CDATA[这应该是有关小米澎程N70 Max车内空间最详细的解读视频.....<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/07/8a098202609072007393094.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/27479</link>
-            <guid isPermaLink="false">xchuxing:2:27479</guid>
-            <pubDate>Tue, 08 Sep 2026 06:01:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
