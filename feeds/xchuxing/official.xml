@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 01:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 06:12:39 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行智驾共创体验 ｜2026款小鹏P7+单图灵Max智驾]]></title>
+            <description><![CDATA[近期小鹏汽车官宣第二代VLA Lite蒸馏版将于9月份开启首批推送，回应了不少Max车型车主对于智能辅助驾驶的期待。新出行联合小鹏汽车开启2026款小鹏P7+单<br><img src="https://s3.xchuxing.com/xchuxing/article/2026/09/09/d6c07202609091359284603.jpe">]]></description>
+            <link>https://www.xchuxing.com/article/217</link>
+            <guid isPermaLink="false">xchuxing:25:217</guid>
+            <pubDate>Wed, 09 Sep 2026 06:00:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[你觉得26款理想i6 月销量会有多少]]></title>
+            <description><![CDATA[26款理想i6昨晚上了工信部，其中提到有半隐藏式门把手、固态激光雷达的选装、单电机版本的功率为250kW、双电机版本的前电机功率为150kW加后250kW，对于新i6的一系列升级，你觉得届时月销量会有多少呢？<br><br>[投票选项] 月销20000以上<br><br>[投票选项] 月销16000以上<br><br>[投票选项] 月销13000以上<br><br>[投票选项] 月销10000以上<br><br>[投票选项] 月销16000以下]]></description>
+            <link>https://www.xchuxing.com/vote/2274</link>
+            <guid isPermaLink="false">xchuxing:7:2274</guid>
+            <pubDate>Wed, 09 Sep 2026 01:31:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 489期：伟健体验沃尔沃EX90]]></title>
             <description><![CDATA[这期视频伟健带你了解沃尔沃EX90，你将会收获5个你不曾知道的秘密。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/08/c2cb8202609082343116004.jpg">]]></description>
@@ -72,24 +86,6 @@
             <link>https://www.xchuxing.com/video/27479</link>
             <guid isPermaLink="false">xchuxing:2:27479</guid>
             <pubDate>Tue, 08 Sep 2026 06:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCX 续航体验 84期：小米澎程 N70 Max 纯电续航、油耗及充电测试]]></title>
-            <description><![CDATA[这可能是小米澎程 N70 全网首测！我们将带来纯高速的纯电极限续航测试、百公里亏电油耗测试以及充电测试，看看小米的首款增程车的实际表现如何。一、测试车型及测试方<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/07/ebbb2202609071358254859.png">]]></description>
-            <link>https://www.xchuxing.com/article/175995</link>
-            <guid isPermaLink="false">xchuxing:1:175995</guid>
-            <pubDate>Tue, 08 Sep 2026 06:00:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 480期：大个静态体验小米澎程 N70]]></title>
-            <description><![CDATA[小米要么不出手，一出手就是两台增程一起发布。
-
-那本期视频，我们先来了解一下 N70 的空间表现。
-
-毕竟我之前没见过实车，所以这次来车就好好看看 N70 的空间到底有多大！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/04/ec3ab202609041728426579.png">]]></description>
-            <link>https://www.xchuxing.com/video/27416</link>
-            <guid isPermaLink="false">xchuxing:2:27416</guid>
-            <pubDate>Tue, 08 Sep 2026 06:00:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
