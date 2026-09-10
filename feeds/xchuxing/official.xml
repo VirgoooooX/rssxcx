@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 01:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 06:12:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[第十九期招募试电员 | 浩瀚能源邀你来体验]]></title>
+            <description><![CDATA[中秋+国庆双假叠加，直接解锁超长待机豪华长假！还在愁电车长途出游补能麻烦，想出门又被续航焦虑捆住脚步？给自己安排一个满电小长长长长长假，开电车冲云南森林、318<br><img src="https://s3.xchuxing.com/xchuxing/article/2026/09/09/550c1202609091148118012.png">]]></description>
+            <link>https://www.xchuxing.com/article/216</link>
+            <guid isPermaLink="false">xchuxing:25:216</guid>
+            <pubDate>Thu, 10 Sep 2026 02:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 490期：全面解读理想i9新内饰]]></title>
             <description><![CDATA[这次和大家聊聊理想i9全新内饰！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/10/bbd58202609100017156413.png">]]></description>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/video/27504</link>
             <guid isPermaLink="false">xchuxing:2:27504</guid>
             <pubDate>Tue, 08 Sep 2026 07:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCX 深度体验 38期：能装能坐能躺 深度体验小米澎程 N70]]></title>
-            <description><![CDATA[小米澎程亮相之后，一直都是大家十分关注的车型。纯平地台、超长滑轨、对坐模式、成床模式，这些似乎在 MPV 上才能见到玩法，被小米一股脑塞进了一台接进五米的 SU<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/08/91b80202609081351118713.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/176055</link>
-            <guid isPermaLink="false">xchuxing:1:176055</guid>
-            <pubDate>Tue, 08 Sep 2026 06:01:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
