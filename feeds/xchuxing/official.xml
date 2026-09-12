@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Sep 2026 11:00:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 14:15:25 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 36.9 万 特斯拉 Model Y 高性能全轮驱动版上市]]></title>
+            <description><![CDATA[日前，特斯拉 Model Y 高性能全轮驱动版正式上市，共一款配置车型，售价 36.9 万。 外观方面，新车采用了全新的空气动力学外观设计，例如使用了低风阻前后<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/12/0d3ee202609122033501235.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/176625</link>
+            <guid isPermaLink="false">xchuxing:1:176625</guid>
+            <pubDate>Sat, 12 Sep 2026 12:39:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[测不出问题才是最大风险？新出行探访宁德时代品质开放月]]></title>
             <description><![CDATA[昨天，我代表新出行参加了宁德时代的品质全球开放月活动。在这个行业里待久了，听过太多关于“安全”和“品质”的宏大叙事，但宁德时代测试验证部部长苏育专的一番话，却着<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/12/869f520260912121809827.jpg">]]></description>
@@ -94,13 +101,6 @@
             <link>https://www.xchuxing.com/article/216</link>
             <guid isPermaLink="false">xchuxing:25:216</guid>
             <pubDate>Thu, 10 Sep 2026 02:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 490期：全面解读理想i9新内饰]]></title>
-            <description><![CDATA[这次和大家聊聊理想i9全新内饰！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/10/bbd58202609100017156413.png">]]></description>
-            <link>https://www.xchuxing.com/video/27527</link>
-            <guid isPermaLink="false">xchuxing:2:27527</guid>
-            <pubDate>Wed, 09 Sep 2026 16:18:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
