@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 11:56:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 16:03:24 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 10.36-13.48 万元 2027 款埃安 i60 正式上市]]></title>
+            <description><![CDATA[9 月 15 日，2027 款埃安 i60 正式上市，新款售价 10.36-13.48 万元，共推出 7 款车型配置。外观方面，i60 的设计语言明显不同于现在<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/15/6f1a5202609152102364918.jpeg">]]></description>
+            <link>https://www.xchuxing.com/article/176825</link>
+            <guid isPermaLink="false">xchuxing:1:176825</guid>
+            <pubDate>Tue, 15 Sep 2026 13:05:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价19.98-38.98 万元 银河战舰 700 正式开启预售]]></title>
             <description><![CDATA[9 月 15 日，银河战舰 700 正式开启预售，新车预售价19.98-38.98 万元，共推出 6 款车型配置。外观设计上，战舰 700 是标准的方盒子造型。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/15/f4ebe202609151401473702.jpg">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/176666</link>
             <guid isPermaLink="false">xchuxing:1:176666</guid>
             <pubDate>Sun, 13 Sep 2026 16:35:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉新一代 Roadster 将于 10 月 1 日亮相]]></title>
-            <description><![CDATA[日前，特斯拉宣布新一代 Roadster 将于 10 月 1 日亮相，特斯拉官网已上线专属倒计时页面，届时或将重点展示搭载 SpaceX 冷气推进系统的限量版本<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/14/a2dbc202609140031379664.png">]]></description>
-            <link>https://www.xchuxing.com/article/176665</link>
-            <guid isPermaLink="false">xchuxing:1:176665</guid>
-            <pubDate>Sun, 13 Sep 2026 16:33:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
