@@ -4,10 +4,26 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 06:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 11:56:18 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[预售价19.98-38.98 万元 银河战舰 700 正式开启预售]]></title>
+            <description><![CDATA[9 月 15 日，银河战舰 700 正式开启预售，新车预售价19.98-38.98 万元，共推出 6 款车型配置。外观设计上，战舰 700 是标准的方盒子造型。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/15/f4ebe202609151401473702.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/176774</link>
+            <guid isPermaLink="false">xchuxing:1:176774</guid>
+            <pubDate>Tue, 15 Sep 2026 10:31:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[理想自研电池和宁德时代电池，你更倾向于哪个？]]></title>
+            <description><![CDATA[理想i9 本周开启交付，从9月到10月底，交付的是宁德时代5C三元锂电池，也会在订购界面清晰标注。
+10月底开始，切换为理想自研5C三元锂电池。
+你们会更倾向于选择哪种电池呢？<br><br>[投票选项] 理想自研5C三元锂电池<br><br>[投票选项] 宁德时代5C三元锂电池]]></description>
+            <link>https://www.xchuxing.com/vote/2278</link>
+            <guid isPermaLink="false">xchuxing:7:2278</guid>
+            <pubDate>Tue, 15 Sep 2026 08:04:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[你觉得问界产品后续是否应该进鸿蒙智行/华为综合门店？]]></title>
             <description><![CDATA[[投票选项] 应该<br><br>[投票选项] 不应该<br><br>[投票选项] 无所谓<br><br>[投票选项] 其它｜评论区交流]]></description>
@@ -77,20 +93,6 @@
             <link>https://www.xchuxing.com/article/176665</link>
             <guid isPermaLink="false">xchuxing:1:176665</guid>
             <pubDate>Sun, 13 Sep 2026 16:33:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宝马 i7 首次在印度投产]]></title>
-            <description><![CDATA[日前，宝马正式在印度钦奈工厂投产 i7 纯电旗舰轿车，这也让印度成为继德国之后，第二个下线这款旗舰电动轿车的国家。在此之前，宝马 i7 仅在德国丁格芬工厂独家生<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/14/b4ba9202609140029415450.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/176664</link>
-            <guid isPermaLink="false">xchuxing:1:176664</guid>
-            <pubDate>Sun, 13 Sep 2026 16:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现代汽车将于 2029 年推出自研辅助驾驶系统]]></title>
-            <description><![CDATA[日前，现代汽车集团对外公布最新自动驾驶技术路线，其自研 Atria AI 高级辅助驾驶系统量产装车时间延后至 2029 年下半年，较此前定下的 2027 年底目<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/14/751d0202609140026472782.png">]]></description>
-            <link>https://www.xchuxing.com/article/176663</link>
-            <guid isPermaLink="false">xchuxing:1:176663</guid>
-            <pubDate>Sun, 13 Sep 2026 16:28:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
