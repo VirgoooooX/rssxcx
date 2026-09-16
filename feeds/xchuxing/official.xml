@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 00:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 05:30:25 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 495期：伟健试驾理想i9 Home，是熟悉的理想味道]]></title>
+            <description><![CDATA[带有线控转向、后轮转向的理想9系，开起来什么感觉？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/16/deae8202609160938266384.png">]]></description>
+            <link>https://www.xchuxing.com/video/27696</link>
+            <guid isPermaLink="false">xchuxing:2:27696</guid>
+            <pubDate>Wed, 16 Sep 2026 02:00:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 10.36-13.48 万元 2027 款埃安 i60 正式上市]]></title>
             <description><![CDATA[9 月 15 日，2027 款埃安 i60 正式上市，新款售价 10.36-13.48 万元，共推出 7 款车型配置。外观方面，i60 的设计语言明显不同于现在<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/15/6f1a5202609152102364918.jpeg">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/176671</link>
             <guid isPermaLink="false">xchuxing:1:176671</guid>
             <pubDate>Mon, 14 Sep 2026 01:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AION UT 正式登陆英国]]></title>
-            <description><![CDATA[日前，埃安汽车官宣，全新纯电掀背车 AION UT 正式在英国开售。这也是埃安继 AION V 之后，在英国市场落下第二子。AION 英国合资公司总经理 Jon<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/14/4ac37202609140034089963.png">]]></description>
-            <link>https://www.xchuxing.com/article/176666</link>
-            <guid isPermaLink="false">xchuxing:1:176666</guid>
-            <pubDate>Sun, 13 Sep 2026 16:35:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
