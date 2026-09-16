@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 15:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 18:58:40 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[探店 140期：2 个月左右能交车？探店小米澎程 N70 与 N90]]></title>
+            <description><![CDATA[小米澎程系列自 9 月 7 日正式上市以来，N70 与 N90 两款车型精准覆盖 20-30 万级家用 SUV 市场，分别主打大五座高性价比与七座全能空间体验，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/16/0ba79202609161453077661.png">]]></description>
+            <link>https://www.xchuxing.com/article/176744</link>
+            <guid isPermaLink="false">xchuxing:1:176744</guid>
+            <pubDate>Wed, 16 Sep 2026 15:42:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[一套架构＋三大核心技术＋多项储备，零跑技术日展示 11 年全域自研底气]]></title>
             <description><![CDATA[9 月 16 日 ， 以 " 底气 " 为主题的 2026 零跑技术日举行。 这是零跑汽车成立 11 年来全域自 研、 深度自制实力的一次集中呈现：现场发布一<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/16/ab763202609162135101625.jpg">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/176883</link>
             <guid isPermaLink="false">xchuxing:1:176883</guid>
             <pubDate>Wed, 16 Sep 2026 09:44:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[提车必得｜理想i9 新出行·提车礼包]]></title>
-            <description><![CDATA[新出行已建立「新出行- 理想i9车主群」，欢迎大家扫码添加@小马 进群！新出行作为中国领先的新能源车垂直媒体 ，在这里你不仅能参与各种【车主专属有奖活动】，还可<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/16/5498b202609161630478078.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/176545</link>
-            <guid isPermaLink="false">xchuxing:1:176545</guid>
-            <pubDate>Wed, 16 Sep 2026 09:00:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
