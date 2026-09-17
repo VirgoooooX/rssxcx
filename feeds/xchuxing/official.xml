@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 04:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 09:33:18 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[埃安i60，Ok每一面。]]></title>
+            <description><![CDATA[一台家用车也被带到测试场拉练，用几个测试让你更直观的感受埃安i60的“用心造”，作为10-15w级别的车型，是很OK了。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/17/3b747202609171724541854.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/27752</link>
+            <guid isPermaLink="false">xchuxing:2:27752</guid>
+            <pubDate>Thu, 17 Sep 2026 09:26:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 497期：重新定义“阔五座” 动态体验启境GX7]]></title>
             <description><![CDATA[这次动态体验和大家聊聊启境 GX7 ，今年“阔折”是一个非常热的词，GX7 也是一个名副其实的“阔折大五座”，GX7动态开起来怎么样？后排折叠成床怎么用？好不好用？这次我们把GX7开起来，和大家聊聊！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/17/5cf0d202609171038415595.jpg">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/176869</link>
             <guid isPermaLink="false">xchuxing:1:176869</guid>
             <pubDate>Wed, 16 Sep 2026 12:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9 月 16 日上市 一文看懂 全新理想 i9 产品发布会]]></title>
-            <description><![CDATA[9 月 16 日晚 7 点半，全新理想 i9 产品发布会正式举办。定位新形态家庭旗舰 SUV 的全新理想 i9 将在发布会上正式上市，本期文章就让我们一起来看看<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/16/c5645202609161923177401.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/176876</link>
-            <guid isPermaLink="false">xchuxing:1:176876</guid>
-            <pubDate>Wed, 16 Sep 2026 12:30:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
