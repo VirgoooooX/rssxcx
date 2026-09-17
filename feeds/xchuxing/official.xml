@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 23:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 04:09:51 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 497期：重新定义“阔五座” 动态体验启境GX7]]></title>
+            <description><![CDATA[这次动态体验和大家聊聊启境 GX7 ，今年“阔折”是一个非常热的词，GX7 也是一个名副其实的“阔折大五座”，GX7动态开起来怎么样？后排折叠成床怎么用？好不好用？这次我们把GX7开起来，和大家聊聊！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/17/5cf0d202609171038415595.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/27739</link>
+            <guid isPermaLink="false">xchuxing:2:27739</guid>
+            <pubDate>Thu, 17 Sep 2026 03:14:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏G9L发了最新的宣传物料，依次提到了：空间、舒适、操控、智能、安全、三电。如果你此刻持币待购，你最关注的是什么？]]></title>
+            <description><![CDATA[[投票选项] 空间<br><br>[投票选项] 舒适<br><br>[投票选项] 操控<br><br>[投票选项] 智能<br><br>[投票选项] 安全<br><br>[投票选项] 三电<br><br>[投票选项] 其它｜评论区交流]]></description>
+            <link>https://www.xchuxing.com/vote/2280</link>
+            <guid isPermaLink="false">xchuxing:7:2280</guid>
+            <pubDate>Thu, 17 Sep 2026 02:36:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[探店 140期：2 个月左右能交车？探店小米澎程 N70 与 N90]]></title>
             <description><![CDATA[小米澎程系列自 9 月 7 日正式上市以来，N70 与 N90 两款车型精准覆盖 20-30 万级家用 SUV 市场，分别主打大五座高性价比与七座全能空间体验，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/16/0ba79202609161453077661.png">]]></description>
@@ -79,20 +93,6 @@
             <link>https://www.xchuxing.com/article/176876</link>
             <guid isPermaLink="false">xchuxing:1:176876</guid>
             <pubDate>Wed, 16 Sep 2026 12:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 496期：零跑自研世界模型实测！全域自研最后一块拼图]]></title>
-            <description><![CDATA[零跑世界模型是什么？真实体验到底怎么样？这次我们用一个视频带大家全面看懂！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/16/70f75202609161947154223.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/27716</link>
-            <guid isPermaLink="false">xchuxing:2:27716</guid>
-            <pubDate>Wed, 16 Sep 2026 12:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HSD V2.1 即将推出 地平线第 1500 万颗征程芯片将搭载于大众 ID. AURA T6]]></title>
-            <description><![CDATA[9 月 15 日，地平线创始人兼 CEO 余凯博士在上海临港地平线科技园举办的“ 地平线智驾芯片量产突破 1500 万见证仪式” 中宣布，第 1500 万颗征程<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/16/db19c202609161737083159.png">]]></description>
-            <link>https://www.xchuxing.com/article/176883</link>
-            <guid isPermaLink="false">xchuxing:1:176883</guid>
-            <pubDate>Wed, 16 Sep 2026 09:44:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
