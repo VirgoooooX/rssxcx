@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 11:59:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 15:34:20 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[比亚迪计划在欧洲布局 3 座整车厂与 1 座电池厂]]></title>
+            <description><![CDATA[据外媒报道，比亚迪欧洲顾问、前菲亚特克莱斯勒高管Alfredo Altavilla日前在活动上表示，比亚迪计划在欧洲建设四座工厂，其中三座整车组装厂，一座电池工<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/19/c0319202609192150347861.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/177044</link>
+            <guid isPermaLink="false">xchuxing:1:177044</guid>
+            <pubDate>Sat, 19 Sep 2026 13:51:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[一汽-大众 ID.AURA T6 将于 9 月 20 日上市]]></title>
             <description><![CDATA[日前，从官方获得消息，一汽-大众 ID.AURA T6 将于 9 月 20 日上市，新车此前已经开启预售，预售价 13.59-16.99 万元。外观方面，一汽-<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/19/c3fef202609191351154095.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/176920</link>
             <guid isPermaLink="false">xchuxing:1:176920</guid>
             <pubDate>Thu, 17 Sep 2026 02:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏G9L发了最新的宣传物料，依次提到了：空间、舒适、操控、智能、安全、三电。如果你此刻持币待购，你最关注的是什么？]]></title>
-            <description><![CDATA[[投票选项] 空间<br><br>[投票选项] 舒适<br><br>[投票选项] 操控<br><br>[投票选项] 智能<br><br>[投票选项] 安全<br><br>[投票选项] 三电<br><br>[投票选项] 其它｜评论区交流]]></description>
-            <link>https://www.xchuxing.com/vote/2280</link>
-            <guid isPermaLink="false">xchuxing:7:2280</guid>
-            <pubDate>Thu, 17 Sep 2026 02:36:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
