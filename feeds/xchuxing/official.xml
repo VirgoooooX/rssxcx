@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Sep 2026 14:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 17:32:45 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[探店 141期：问界不在鸿蒙卖了？新出行实地探访给你答案]]></title>
+            <description><![CDATA[9 月 15 日，鸿蒙智行宣布问界的产品设计、品牌营销等五大环节，由华为主导调整为赛力斯主导、华为终端参与赋能。消息一出，"问界变问境"" 华为放手 " 等说法<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/20/8102a20260920172945661.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/177073</link>
+            <guid isPermaLink="false">xchuxing:1:177073</guid>
+            <pubDate>Sun, 20 Sep 2026 16:00:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 12.99-16.69 万元 一汽-大众 ID.AURA T6 正式上市]]></title>
             <description><![CDATA[9 月 20 日，一汽-大众 ID.AURA T6 正式上市，新车售价 12.99-16.69 万元，共推出 4 款车型版本。外观方面，一汽-大众 ID.AUR<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/20/6d97f202609201707256087.jpeg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/177004</link>
             <guid isPermaLink="false">xchuxing:1:177004</guid>
             <pubDate>Fri, 18 Sep 2026 06:33:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行帮你选 27期：小鹏 G9L 真的是「同级无对手」吗？]]></title>
-            <description><![CDATA[9 月 17 日，小鹏 G9L 正式上市， 其中纯电版限时售价 23.18-30.98 万元，增程版本限时售价 24.98-29.98 万元。 看完整场发布会，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/17/1bb43202609172217271822.png">]]></description>
-            <link>https://www.xchuxing.com/article/176958</link>
-            <guid isPermaLink="false">xchuxing:1:176958</guid>
-            <pubDate>Fri, 18 Sep 2026 03:02:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
