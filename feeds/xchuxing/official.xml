@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Sep 2026 05:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 10:19:57 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 12.99-16.69 万元 一汽-大众 ID.AURA T6 正式上市]]></title>
+            <description><![CDATA[9 月 20 日，一汽-大众 ID.AURA T6 正式上市，新车售价 12.99-16.69 万元，共推出 4 款车型版本。外观方面，一汽-大众 ID.AUR<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/20/6d97f202609201707256087.jpeg">]]></description>
+            <link>https://www.xchuxing.com/article/177077</link>
+            <guid isPermaLink="false">xchuxing:1:177077</guid>
+            <pubDate>Sun, 20 Sep 2026 09:08:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[70%用户因驾趣增购，智界RX新增81度电池版本开启预订适配不同需求]]></title>
             <description><![CDATA[9月20日，智界汽车执行董事及执行副总裁赵长江在微博宣布，智界RX将新增81度电池版本，包含Max与Ultra两个版型。智界RX开启试驾后，小订用户中约七成为增<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/20/3380f202609201031504000.png">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/article/176958</link>
             <guid isPermaLink="false">xchuxing:1:176958</guid>
             <pubDate>Fri, 18 Sep 2026 03:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[限时权益价 23.18-30.98 万元 小鹏 G9L 正式上市]]></title>
-            <description><![CDATA[9 月 17 日，小鹏 G9L 正式上市，其中纯电版限时售价 23.18-30.98 万元，增程版本限时售价 24.98-29.98 万元。外观方面， 小鹏 G<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/17/d0833202609171949338330.png">]]></description>
-            <link>https://www.xchuxing.com/article/176980</link>
-            <guid isPermaLink="false">xchuxing:1:176980</guid>
-            <pubDate>Thu, 17 Sep 2026 13:07:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
