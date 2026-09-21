@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 17:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 21:11:33 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX 续航体验 86期：零跑 D99 纯电续航、油耗及充电测试]]></title>
+            <description><![CDATA[我们很少测 MPV 车型的续航，主要还是纯电的产品居多，并且也很少有纯家用需求去购买 MPV 车型。但零跑 D99 除了有纯电车型外，还有大电池的增程车型。家庭<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/18/a6dcc202609181850007127.png">]]></description>
+            <link>https://www.xchuxing.com/article/176928</link>
+            <guid isPermaLink="false">xchuxing:1:176928</guid>
+            <pubDate>Mon, 21 Sep 2026 18:11:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[限时权益价 16.99-19.99 万元 红旗天工 07 开启预售]]></title>
             <description><![CDATA[9 月 21 日，红旗天工 07 正式开启预售，新车共推出 3 款配置，预售价 18.99-21.99 万元，限时权益价 16.99-19.99 万元。外观方面<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/21/3f866202609212036097804.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/177035</link>
             <guid isPermaLink="false">xchuxing:1:177035</guid>
             <pubDate>Sat, 19 Sep 2026 05:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沃尔沃计划到 2030 年末推出 13 款全新车型]]></title>
-            <description><![CDATA[日前，沃尔沃发布战略规划，计划到 2030 年末共计向全球推出 13 款全新车型，其中沃尔沃亚太将推出 6 款新车。此外，沃尔沃将推出一款概念车，预览下一代车型<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/19/f45c4202609191348025769.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/177034</link>
-            <guid isPermaLink="false">xchuxing:1:177034</guid>
-            <pubDate>Sat, 19 Sep 2026 05:49:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
