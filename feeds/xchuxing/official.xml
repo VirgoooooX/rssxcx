@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 00:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 05:41:43 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[余承东官宣智界发布会，“鸿蒙智行最好开的车”智界RX即将登场]]></title>
+            <description><![CDATA[9月21日，余承东正式官宣智界RX上市定档9月28日，同时直面市场关于智界RX会不会是一台小众性能车的讨论，他给出的判断很清晰，操控乐趣不该只是少数玩家的专属，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/21/ea3fe202609211020394759.png">]]></description>
+            <link>https://www.xchuxing.com/article/177105</link>
+            <guid isPermaLink="false">xchuxing:1:177105</guid>
+            <pubDate>Mon, 21 Sep 2026 02:24:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[探店 141期：问界不在鸿蒙卖了？新出行实地探访给你答案]]></title>
             <description><![CDATA[9 月 15 日，鸿蒙智行宣布问界的产品设计、品牌营销等五大环节，由华为主导调整为赛力斯主导、华为终端参与赋能。消息一出，"问界变问境"" 华为放手 " 等说法<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/20/8102a20260920172945661.jpg">]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.xchuxing.com/vote/2281</link>
             <guid isPermaLink="false">xchuxing:7:2281</guid>
             <pubDate>Fri, 18 Sep 2026 08:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 24.99 万元起 启境 GX7 将于 9 月 23 日上市]]></title>
-            <description><![CDATA[日前，我们从官方渠道获悉，启境 GX7 将于 9 月 23 日正式上市。新车此前已开启预售，共推出 3 款配置，预售价 24.99-31.19 万元。外观方面，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/18/65ebc202609181431127362.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/177004</link>
-            <guid isPermaLink="false">xchuxing:1:177004</guid>
-            <pubDate>Fri, 18 Sep 2026 06:33:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
