@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 12:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 17:23:34 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[全新第四代博越 L 正式上市，上市限时价 9.29 万起！销量 + 产品力双料冠军]]></title>
+            <description><![CDATA[9 月 24 日 ， 全新第四代博越 L 在中国运城·鹳雀楼焕新上市。新车共推出 9 个版型，覆 盖不同场景用户需求：全新第四代博越 L i-HEV 系列上市限<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/25/4e5dd202609252101594442.jpeg">]]></description>
+            <link>https://www.xchuxing.com/article/177519</link>
+            <guid isPermaLink="false">xchuxing:1:177519</guid>
+            <pubDate>Fri, 25 Sep 2026 13:02:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 501期：最高2.2兆瓦？吉利智充真实体验到底怎么样]]></title>
             <description><![CDATA[峰值 2.2 兆瓦，吉利智充是纸面参数还是真的快？实地实测告诉你答案...<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/25/9f0f7202609251734245598.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/vote/2282</link>
             <guid isPermaLink="false">xchuxing:7:2282</guid>
             <pubDate>Thu, 24 Sep 2026 08:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 198.8 万元起 宾利托卡尔全球首发]]></title>
-            <description><![CDATA[9 月 24 日，宾利品牌旗下首款纯电 SUV——托卡尔全球首发，同时公布了在华厂商建议零售价（不含零售环节中税费及付费选配）为 198.8 万元人民币起。宾利<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/24/627c4202609241511496639.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/177451</link>
-            <guid isPermaLink="false">xchuxing:1:177451</guid>
-            <pubDate>Thu, 24 Sep 2026 07:28:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
