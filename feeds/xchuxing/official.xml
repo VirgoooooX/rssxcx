@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Sep 2026 07:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 13:10:44 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[问界新 M8 将于 9 月 30 日开启预售]]></title>
+            <description><![CDATA[问界汽车今日宣布，问界新 M8 全系标配面向 L3 级自动驾驶的架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，并将于 9 月 30 日正式<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/27/da4f4202609271717533490.png">]]></description>
+            <link>https://www.xchuxing.com/article/177564</link>
+            <guid isPermaLink="false">xchuxing:1:177564</guid>
+            <pubDate>Sun, 27 Sep 2026 09:23:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[非晶合金电驱实现量产 广汽+中科院东莞材料所签署战略合作协议]]></title>
             <description><![CDATA[广汽集团近日与中国科学院东莞材料科学与技术研究所正式签署战略合作协议，双方聚焦非晶材料在汽车电驱系统中的关键技术开展联合攻关，打通从实验室到生产线的成果转化“最<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/27/edaac20260927145441564.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/177496</link>
             <guid isPermaLink="false">xchuxing:1:177496</guid>
             <pubDate>Fri, 25 Sep 2026 01:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行帮你选 28期：应对芯片紧缺难题 华境 S 四款新配置差异详解]]></title>
-            <description><![CDATA[华境 S 自上市以来销量一路走高，累计交付已突破 2.5 万台，在 15-20 万级大六座插混 SUV 市场的市场认可度是相当高。但就在热销的势头下，受行业车规<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/20/ea9e2202609200914199240.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/176798</link>
-            <guid isPermaLink="false">xchuxing:1:176798</guid>
-            <pubDate>Thu, 24 Sep 2026 15:50:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
