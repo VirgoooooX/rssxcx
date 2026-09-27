@@ -4,10 +4,19 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Sep 2026 13:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 17:52:08 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 502期：超 3000km 深度体验大众 ID. ERA 9X]]></title>
+            <description><![CDATA[3000 多公里开下来，大众 ID. ERA 9X 真的是一款非常不错的 SUV。
+
+除了能够给到你足够好的驾驶体验和乘坐体验外，在车辆的使用成本上，支持加注 92 号汽油也可以有效降低。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/27/726dd202609272333519736.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/28021</link>
+            <guid isPermaLink="false">xchuxing:2:28021</guid>
+            <pubDate>Sun, 27 Sep 2026 16:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[问界新 M8 将于 9 月 30 日开启预售]]></title>
             <description><![CDATA[问界汽车今日宣布，问界新 M8 全系标配面向 L3 级自动驾驶的架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，并将于 9 月 30 日正式<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/27/da4f4202609271717533490.png">]]></description>
@@ -84,13 +93,6 @@
             <link>https://www.xchuxing.com/article/177497</link>
             <guid isPermaLink="false">xchuxing:1:177497</guid>
             <pubDate>Fri, 25 Sep 2026 01:52:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高压蓄电池可能出现热过载 路虎召回部分卫士插混版]]></title>
-            <description><![CDATA[日前，捷豹路虎（宁波）贸易有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。召回编号 S<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/25/fdcf2202609250943085407.png">]]></description>
-            <link>https://www.xchuxing.com/article/177496</link>
-            <guid isPermaLink="false">xchuxing:1:177496</guid>
-            <pubDate>Fri, 25 Sep 2026 01:46:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
