@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 15:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 20:04:55 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行帮你选 29期：奕境 X9 四款配置差异详解]]></title>
+            <description><![CDATA[9 月 24 日，奕境 X9 终于迎来正式上市。新车共推出 4 款配置，官方指导价为 28.98-36.98 万元，叠加上市限时权益后，实际入手价格 27.98<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/29/5f0dc202609292152478141.png">]]></description>
+            <link>https://www.xchuxing.com/article/177586</link>
+            <guid isPermaLink="false">xchuxing:1:177586</guid>
+            <pubDate>Tue, 29 Sep 2026 15:54:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[售价 10.99-13.99 万 现代艾尼氪 V 上市]]></title>
+            <description><![CDATA[日前，现代艾尼氪 V 正式上市，新车共推出五款配置车型，价格区间为 10.99-13.99 万。限时权益价为 9.99-13.19 万。 艾尼氪 V 采用了全新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/29/f0ca5202609292321363430.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/177715</link>
+            <guid isPermaLink="false">xchuxing:1:177715</guid>
+            <pubDate>Tue, 29 Sep 2026 15:26:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 247期：静态体验方程豹钛 9]]></title>
             <description><![CDATA[方程豹的产品线已经逐渐丰富，在推出轿车系列后，钛系列的旗舰车型钛 9 也迎来了静态的完整亮相。这一次，就让我们通过本篇文章，来详细的看看钛 9 在静态方面的配置<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/20/aa2a2202609202203197068.png">]]></description>
@@ -81,20 +95,6 @@
             <link>https://www.xchuxing.com/article/177597</link>
             <guid isPermaLink="false">xchuxing:1:177597</guid>
             <pubDate>Mon, 28 Sep 2026 06:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全新吉利银河E5，A级精品小车]]></title>
-            <description><![CDATA[不到12w，全域800V+6C超充，12分钟10%-80%，主流公桩高效补能，快还不挑桩。千里浩瀚H5智驾，城区NOA、环岛、复杂路口轻松过，300+场景泊车，新手也从容。原生后置后驱+后五连杆+CCD，全路况更稳更舒适。智舱、安全、外观同样亮眼升级。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/09/28/8131f202609281116051513.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/28039</link>
-            <guid isPermaLink="false">xchuxing:2:28039</guid>
-            <pubDate>Mon, 28 Sep 2026 03:17:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[各位蔚乐萤车主朋友，你们之前充电多还是换电多？]]></title>
-            <description><![CDATA[[投票选项] 换电多<br><br>[投票选项] 充电多<br><br>[投票选项] 其它｜评论区交流]]></description>
-            <link>https://www.xchuxing.com/vote/2284</link>
-            <guid isPermaLink="false">xchuxing:7:2284</guid>
-            <pubDate>Mon, 28 Sep 2026 02:06:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
