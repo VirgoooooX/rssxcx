@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 23:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 03:09:19 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[共推出四款配置 大众 ID. ERA 8X 正式开启预订]]></title>
+            <description><![CDATA[日前，大众 ID. ERA 8X 正式开启预定。新车共推出 Pro、Max、Max 长续航、Ultra 长续航四款配置。Pro 版入门即标配 Momenta R<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/30/384db202609300910487945.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/177724</link>
+            <guid isPermaLink="false">xchuxing:1:177724</guid>
+            <pubDate>Wed, 30 Sep 2026 01:21:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行帮你选 29期：奕境 X9 四款配置差异详解]]></title>
             <description><![CDATA[9 月 24 日，奕境 X9 终于迎来正式上市。新车共推出 4 款配置，官方指导价为 28.98-36.98 万元，叠加上市限时权益后，实际入手价格 27.98<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/29/5f0dc202609292152478141.png">]]></description>
@@ -88,13 +95,6 @@
             <link>https://www.xchuxing.com/video/28048</link>
             <guid isPermaLink="false">xchuxing:2:28048</guid>
             <pubDate>Mon, 28 Sep 2026 06:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[双节狂欢 上汽奥迪推出限时四重礼遇]]></title>
-            <description><![CDATA[2026 年 9 月 26 日，上海 – 时值中秋、国庆双节来临之际，上汽奥迪推出限时四重专属购车礼遇，以诚意福利与广大用户共庆佳节，让更多消费者切身感受新时代<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/28/7f175202609281428573570.png">]]></description>
-            <link>https://www.xchuxing.com/article/177597</link>
-            <guid isPermaLink="false">xchuxing:1:177597</guid>
-            <pubDate>Mon, 28 Sep 2026 06:32:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
