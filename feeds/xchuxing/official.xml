@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Oct 2026 13:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 19:09:43 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[2026 新出行 APP 十佳开屏图]]></title>
+            <description><![CDATA[从 2021 年开始，新出行 APP 正式上线开屏图功能，自此已经陪伴我们走过了五个年头。除了新出行同学们的官方出品以外，也有不少用户积极参与了新出行 APP<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/29/4da0b202609291519002305.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/177690</link>
+            <guid isPermaLink="false">xchuxing:1:177690</guid>
+            <pubDate>Thu, 01 Oct 2026 16:00:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[交付新车 13025 辆 岚图汽车公布 9 月交付成绩]]></title>
             <description><![CDATA[2026 年 10 月 1 日，岚图汽车公布 9 月交付成绩，9 月交付新车 13025 辆。9 月，岚图汽车新增 9 家岚图空间店和 9 家全功能用户中心，覆<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/01/a786820261001170222791.jpg">]]></description>
@@ -85,13 +92,6 @@
             <link>https://www.xchuxing.com/article/177777</link>
             <guid isPermaLink="false">xchuxing:1:177777</guid>
             <pubDate>Thu, 01 Oct 2026 01:43:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[销量 30185 辆 深蓝汽车公布 9 月销量]]></title>
-            <description><![CDATA[2026 年 10 月 1 日，深蓝汽车公布 9 月全球销量，9 月全球销量为 30185 辆，1-9 月全球累计销量 252213辆。目前，深蓝汽车已经完成了<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/01/4972e202610010930584900.png">]]></description>
-            <link>https://www.xchuxing.com/article/177775</link>
-            <guid isPermaLink="false">xchuxing:1:177775</guid>
-            <pubDate>Thu, 01 Oct 2026 01:31:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
