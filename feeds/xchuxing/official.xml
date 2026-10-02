@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Oct 2026 15:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 20:01:10 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[国庆节特辑 | 三个关键词 编辑们聊聊近期感受过最惊喜的新车]]></title>
+            <description><![CDATA[又到了一年一度的国庆假期，先祝各位小伙伴节日快乐，出门一路绿灯、充电不用排队！ 今年的新车多到让人眼花缭乱，新车一台接一台，试驾排得比国庆档期还满。恰逢国庆特辑<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/02/ec781202610021226255069.png">]]></description>
+            <link>https://www.xchuxing.com/article/177762</link>
+            <guid isPermaLink="false">xchuxing:1:177762</guid>
+            <pubDate>Fri, 02 Oct 2026 15:28:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[电池供应受限 Stellantis 将暂停法国工厂部分生产]]></title>
             <description><![CDATA[据外媒报道，Stellantis表示，由于大容量动力电池供应短缺，同时需要控制经销商库存，公司计划于 10 月暂停法国部分工厂的生产。Stellantis表示，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/02/0033f202610022202538028.png">]]></description>
@@ -84,14 +91,6 @@
             <link>https://www.xchuxing.com/article/177809</link>
             <guid isPermaLink="false">xchuxing:1:177809</guid>
             <pubDate>Thu, 01 Oct 2026 05:07:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 508期：东风奕派M8丨把舒适做出“越级感”的大六座]]></title>
-            <description><![CDATA[衡量一台家用六座车舒服与否，标准可以很简单：它有没有公平地对待每一排。
-当东风奕派 把双头等舱座椅、天鹅绒软包阳光房、全置换新风系统....不声不响装进奕派M8，你就明白这台20万的车，为什么敢说自己有30万的舒适体验。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/01/41f73202610011019137168.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/28162</link>
-            <guid isPermaLink="false">xchuxing:2:28162</guid>
-            <pubDate>Thu, 01 Oct 2026 04:51:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
