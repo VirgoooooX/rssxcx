@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Oct 2026 09:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 14:22:35 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[同比增长 21.91% 昊铂埃安 BU 公布 9 月销量数据]]></title>
+            <description><![CDATA[10 月 1 日，据官方发布，昊铂埃安 BU 2026 年 9 月销量 35,494 辆，同比增长 21.91%。其中，AION i60 9 月订单突破 2 万<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/03/1730f202610031141351209.png">]]></description>
+            <link>https://www.xchuxing.com/article/177918</link>
+            <guid isPermaLink="false">xchuxing:1:177918</guid>
+            <pubDate>Sat, 03 Oct 2026 12:43:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[单月销售创年内新高 比亚迪公布 9 月销量数据]]></title>
             <description><![CDATA[10 月 1 日，据官方发布，比亚迪 2026 年 9 月销售 463,561 辆，创年内新高。其中乘用车销售 456,713 辆，乘用车及皮卡海外销售 179<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/03/c7840202610031124255274.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/177863</link>
             <guid isPermaLink="false">xchuxing:1:177863</guid>
             <pubDate>Thu, 01 Oct 2026 09:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交付 37490 辆 鸿蒙智行公布 9 月交付成绩]]></title>
-            <description><![CDATA[2026 年 10 月 1 日，鸿蒙智行公布 9 月交付成绩，9 月交付新车 37490 辆，全系累计交付 156 万辆。随着国庆假期的到来，鸿蒙智行国庆OTA<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/01/2c2a9202610011641395249.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/177860</link>
-            <guid isPermaLink="false">xchuxing:1:177860</guid>
-            <pubDate>Thu, 01 Oct 2026 08:42:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
