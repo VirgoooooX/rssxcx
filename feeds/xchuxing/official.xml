@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Oct 2026 12:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 17:12:03 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX 续航体验 87期：2026 年 1-9 月 XCX 续航体验汇总]]></title>
+            <description><![CDATA[2026 年 1-9 月，我一共对 15 款车型进行了续航测试，其中有 5 款是纯电车型，另外 10 款则是插混车型。从 2026 年开始，插混车型的电池度数越<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/02/8e471202610021302558865.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/177898</link>
+            <guid isPermaLink="false">xchuxing:1:177898</guid>
+            <pubDate>Sun, 04 Oct 2026 16:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[交付 48.6 万辆 特斯拉发布三季度销量数据]]></title>
             <description><![CDATA[近日，特斯拉发布 2026 年第三季度全球生产与交付报告。数据显示，本季度特斯拉全球共生产纯电动车超 46.4 万辆，环比增长 2.7%，交付量超 48.6 万<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/04/4ac4d202610041344294698.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/177904</link>
             <guid isPermaLink="false">xchuxing:1:177904</guid>
             <pubDate>Fri, 02 Oct 2026 14:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[经营压力加剧 沃尔沃在全球范围内暂停白领岗位招聘]]></title>
-            <description><![CDATA[据外媒报道，沃尔沃汽车已在全球范围内暂停白领岗位招聘，并开始收紧外部支出。此举正值沃尔沃面临中国和美国等主要市场需求走弱之际。目前，沃尔沃汽车全球约有 2 万名<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/02/10c19202610022150091452.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/177903</link>
-            <guid isPermaLink="false">xchuxing:1:177903</guid>
-            <pubDate>Fri, 02 Oct 2026 13:54:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
