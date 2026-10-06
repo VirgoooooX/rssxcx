@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Oct 2026 13:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 19:14:30 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 509期：小车换电时代来了！萤火虫五代站实测]]></title>
+            <description><![CDATA[五代站最光环的不止给萤火虫换电，更重要的还有它的兼容性，这次我们以小虫子为例，和大家聊聊蔚来五代站！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/06/dba4b202610061625365600.png">]]></description>
+            <link>https://www.xchuxing.com/video/28276</link>
+            <guid isPermaLink="false">xchuxing:2:28276</guid>
+            <pubDate>Tue, 06 Oct 2026 15:25:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[全系标配 Momenta R7 世界模型 上汽大众 ID.ERA 8X 将于 10 月 12 日上市]]></title>
             <description><![CDATA[日前，我们从官方渠道获悉，上汽大众 ID.ERA 8X 将于 10 月 12 日上市。新车此前已开启预订，共推出 4 款配置，暂未公布预售价。大众 ID. ER<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/06/66b94202610061152484783.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/177898</link>
             <guid isPermaLink="false">xchuxing:1:177898</guid>
             <pubDate>Sun, 04 Oct 2026 16:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交付 48.6 万辆 特斯拉发布三季度销量数据]]></title>
-            <description><![CDATA[近日，特斯拉发布 2026 年第三季度全球生产与交付报告。数据显示，本季度特斯拉全球共生产纯电动车超 46.4 万辆，环比增长 2.7%，交付量超 48.6 万<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/04/4ac4d202610041344294698.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/177932</link>
-            <guid isPermaLink="false">xchuxing:1:177932</guid>
-            <pubDate>Sun, 04 Oct 2026 05:45:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
