@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 02:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 09:33:47 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[定位四门奢华GT  捷豹Type 01 全球首发]]></title>
+            <description><![CDATA[近日，捷豹全新纯电车型 Type 01全球首发，新车定位四门奢华GT，将于 2027 年 2 月份开启预订，预计 2027 年年中开启交付。做为一台纯电车型，新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/07/ab1d9202610071705049572.jpeg">]]></description>
+            <link>https://www.xchuxing.com/article/178017</link>
+            <guid isPermaLink="false">xchuxing:1:178017</guid>
+            <pubDate>Wed, 07 Oct 2026 09:07:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 509期：小车换电时代来了！萤火虫五代站实测]]></title>
             <description><![CDATA[五代站最光环的不止给萤火虫换电，更重要的还有它的兼容性，这次我们以小虫子为例，和大家聊聊蔚来五代站！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/06/dba4b202610061625365600.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/177976</link>
             <guid isPermaLink="false">xchuxing:1:177976</guid>
             <pubDate>Mon, 05 Oct 2026 09:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCX 续航体验 87期：2026 年 1-9 月 XCX 续航体验汇总]]></title>
-            <description><![CDATA[2026 年 1-9 月，我一共对 15 款车型进行了续航测试，其中有 5 款是纯电车型，另外 10 款则是插混车型。从 2026 年开始，插混车型的电池度数越<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/02/8e471202610021302558865.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/177898</link>
-            <guid isPermaLink="false">xchuxing:1:177898</guid>
-            <pubDate>Sun, 04 Oct 2026 16:01:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
