@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 09:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 17:06:40 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX 辅助驾驶体验 26期：蒸馏版城区挑战！深度体验小鹏 VLA 2.0 Lite]]></title>
+            <description><![CDATA[小鹏 VLA 2.0 Lite 在 9 月 22 日开始正式推送。在之前，我们跑了三个城市，邀请了三位 P7+ Max 单图灵车主，让他们抢先感受第二代 VLA<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/30/336ed202609302351105391.png">]]></description>
+            <link>https://www.xchuxing.com/article/177324</link>
+            <guid isPermaLink="false">xchuxing:1:177324</guid>
+            <pubDate>Wed, 07 Oct 2026 16:01:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[定位四门奢华GT  捷豹Type 01 全球首发]]></title>
             <description><![CDATA[近日，捷豹全新纯电车型 Type 01全球首发，新车定位四门奢华GT，将于 2027 年 2 月份开启预订，预计 2027 年年中开启交付。做为一台纯电车型，新<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/07/ab1d9202610071705049572.jpeg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/177977</link>
             <guid isPermaLink="false">xchuxing:1:177977</guid>
             <pubDate>Mon, 05 Oct 2026 11:23:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[强化产品创新 七部门出台 “十五五” 新型电池产业规划]]></title>
-            <description><![CDATA[工信部等七部门发布《新型电池产业发展 “十五五” 规划》，将加快全链条创新发展列为首要重点任务，着力丰富高端电池产品供给，推进新型电池产品创新。规划明确，要构建<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/05/7122e202610051732543334.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/177976</link>
-            <guid isPermaLink="false">xchuxing:1:177976</guid>
-            <pubDate>Mon, 05 Oct 2026 09:33:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
