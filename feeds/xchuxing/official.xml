@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 22:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 02:07:28 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[首批体验小鹏Robotaxi&全新小程序：小鹏YOYO]]></title>
+            <description><![CDATA[这次体验了小鹏全新的Robotaxi打车小程序：小鹏YoYo，全流程下来体验如何？ 9分钟视频帮助你全方面快速了解...<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/07/53445202610072344306569.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/28293</link>
+            <guid isPermaLink="false">xchuxing:2:28293</guid>
+            <pubDate>Thu, 08 Oct 2026 01:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX 辅助驾驶体验 26期：蒸馏版城区挑战！深度体验小鹏 VLA 2.0 Lite]]></title>
             <description><![CDATA[小鹏 VLA 2.0 Lite 在 9 月 22 日开始正式推送。在之前，我们跑了三个城市，邀请了三位 P7+ Max 单图灵车主，让他们抢先感受第二代 VLA<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/30/336ed202609302351105391.png">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/177987</link>
             <guid isPermaLink="false">xchuxing:1:177987</guid>
             <pubDate>Mon, 05 Oct 2026 14:45:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[电动化战略迎来转向 奔驰多款车型将取消 2027 款]]></title>
-            <description><![CDATA[据外媒 Car and Driver 援引奔驰官方消息，EQE 轿车及其 AMG 版本、AMG S 63 E PERFORMANCE、迈巴赫 EQS 680 S<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/05/e2eaf20261005192238702.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/177977</link>
-            <guid isPermaLink="false">xchuxing:1:177977</guid>
-            <pubDate>Mon, 05 Oct 2026 11:23:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
