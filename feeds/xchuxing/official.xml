@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 21:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 01:34:34 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 511期：谁能拒绝一台原厂黑武士？小鹏P7+新套装来了]]></title>
+            <description><![CDATA[谁能拒绝一台原厂黑武士？这次P7+迎来一款全新套装，和大家聊聊有哪些新变化！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/09/c4728202610090852503515.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/28324</link>
+            <guid isPermaLink="false">xchuxing:2:28324</guid>
+            <pubDate>Fri, 09 Oct 2026 01:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 510期：深度体验问界 M6]]></title>
+            <description><![CDATA[这一次我们拿到了搭载共光路舱内激光雷达版本的问界 M6，通过实测来看一看这套配置的问界 M6 表现到底怎么样。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/09/d0301202610090743253328.png">]]></description>
+            <link>https://www.xchuxing.com/video/28321</link>
+            <guid isPermaLink="false">xchuxing:2:28321</guid>
+            <pubDate>Thu, 08 Oct 2026 23:45:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX 车机体验 6期：深度体验 firefly 萤火虫 紫菀 2.0.0 车机]]></title>
             <description><![CDATA[XCX-Test 车机实测又和大家见面了。这一期我们把目光投向一台不太一样的小车——蔚来 firefly 萤火虫。上市以来，萤火虫凭借独特的设计和不错的配置攒了<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/21/f9291202609211503459768.jpg">]]></description>
@@ -77,20 +91,6 @@
             <link>https://www.xchuxing.com/article/177995</link>
             <guid isPermaLink="false">xchuxing:1:177995</guid>
             <pubDate>Tue, 06 Oct 2026 03:45:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预售价 24.99 万元起 比亚迪大汉将于 10 月 13 日上市]]></title>
-            <description><![CDATA[近日，我们从官方渠道获悉，比亚迪大汉将于 10 月 13 日正式上市。大汉 EV 此前已开启预售，共推出 3 款配置，预售价 24.99-29.99 万元。外观<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/06/a2b52202610061131116582.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/177994</link>
-            <guid isPermaLink="false">xchuxing:1:177994</guid>
-            <pubDate>Tue, 06 Oct 2026 03:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推出 7 款车型 宝马 2027 年中国市场新车规划曝光]]></title>
-            <description><![CDATA[近日，宝马在资本市场日上发布了有关于 2027 年中国市场新车规划。宝马在 2027 年将推出 i3 长轴距版、i7、iX5 等多款车型。2027 年第一季度，<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/06/2e072202610061050107567.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/177993</link>
-            <guid isPermaLink="false">xchuxing:1:177993</guid>
-            <pubDate>Tue, 06 Oct 2026 03:03:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
