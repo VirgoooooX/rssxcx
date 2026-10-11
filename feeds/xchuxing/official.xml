@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 13:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 18:12:38 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX 续航体验 88期：方程豹方程 S 纯电续航及充电测试]]></title>
+            <description><![CDATA[比亚迪第二代刀片电池推出后，我们一直没有测过续航和充电方面的具体表现。所以借着这一次方程 S 刚好来了公司，我们来实测一下，看看第二代刀片电池在续航和充电方面的<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/05/6a42c202610052037064802.png">]]></description>
+            <link>https://www.xchuxing.com/article/177984</link>
+            <guid isPermaLink="false">xchuxing:1:177984</guid>
+            <pubDate>Sun, 11 Oct 2026 16:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 515期：自驾 3400km 后和大家聊一聊理想 L8 Ultra]]></title>
+            <description><![CDATA[初代理想 L 系列车主自驾全新一代理想 L8 Ultra 跑了 3400km 后和大家深度聊一聊，看看升级后有哪些优点，又有哪些可以优化的点。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/11/fe509202610112307293133.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/28422</link>
+            <guid isPermaLink="false">xchuxing:2:28422</guid>
+            <pubDate>Sun, 11 Oct 2026 16:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[定位旗舰车型 阿维塔 T09 正式亮相]]></title>
             <description><![CDATA[10 月 11 日，阿维塔 T09 正式亮相， 该车型是阿维塔高端旗舰序列的开山之作，并且将于明日正式登陆巴黎车展。外观方面，摒弃传统格栅的平⾯化装饰思路，以品<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/11/a5ece202610112002317594.jpeg">]]></description>
@@ -88,24 +102,6 @@
             <link>https://www.xchuxing.com/vote/2292</link>
             <guid isPermaLink="false">xchuxing:7:2292</guid>
             <pubDate>Sat, 10 Oct 2026 07:28:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 514期：和产品线孙玮颢一起聊聊理想新 i6]]></title>
-            <description><![CDATA[这应该是全网最详i6解读内容！
-
-因为这次和i6产品线玮颢一起，和大家聊聊新i6。
-
-他同时负责了理想L8和L9Livis，所以在整个理想新产品线中有很多理解，这次也聊到很多i6背后产品细节！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/10/3c752202610100913205139.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/28365</link>
-            <guid isPermaLink="false">xchuxing:2:28365</guid>
-            <pubDate>Sat, 10 Oct 2026 04:04:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 513期：静态体验 2026 款理想 i6]]></title>
-            <description><![CDATA[2026 款理想 i6 静态体验内容来了，本期视频就和大家快速的聊一聊 2026 款理想 i6 都升级了什么？升级后还有槽点吗？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/10/017d2202610100944246405.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/28356</link>
-            <guid isPermaLink="false">xchuxing:2:28356</guid>
-            <pubDate>Sat, 10 Oct 2026 04:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
