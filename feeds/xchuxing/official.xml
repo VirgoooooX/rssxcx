@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 23:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 02:01:08 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 250期：静态体验 2027 款坦克 500]]></title>
+            <description><![CDATA[27 款坦克 500 这次最大的变化，主要是在内饰和智驾。内饰上能够看到，增加了副驾屏。而在智驾方面，体验上最明显的就是支持语音控制，能够更好的解放双手（方向盘<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/09/30/3a2f8202609302250262304.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/177768</link>
+            <guid isPermaLink="false">xchuxing:1:177768</guid>
+            <pubDate>Wed, 14 Oct 2026 02:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 23.59-27.59 万元 比亚迪大汉 EV 上市]]></title>
             <description><![CDATA[10 月 13 日，比亚迪大汉 EV 正式上市。新车共推出 3 款配置，售价区间 23.59-27.59 万元。权益上，比亚迪大汉可享交付等待礼、尊享闪充礼、尊<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/13/12885202610132046088647.jpg">]]></description>
@@ -85,13 +92,6 @@
             <link>https://www.xchuxing.com/article/178116</link>
             <guid isPermaLink="false">xchuxing:1:178116</guid>
             <pubDate>Mon, 12 Oct 2026 15:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 巴黎车展 | 法国版本售价约合人民币 56.09 万元 小鹏 G9L 在欧洲上市]]></title>
-            <description><![CDATA[10 月 12 日，小鹏 G9L 在欧洲正式上市，并同步公布多国的起售价。售价上，法国 74990 欧元、德国 74600 欧元、比利时 74990 欧元、奥地<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/12/8137e202610121943394158.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/178293</link>
-            <guid isPermaLink="false">xchuxing:1:178293</guid>
-            <pubDate>Mon, 12 Oct 2026 11:57:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
