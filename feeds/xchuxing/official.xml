@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 00:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 04:55:37 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 522期：大五座新王 静态体验 MONA L05]]></title>
+            <description><![CDATA[这期视频我们拆解 MONA L05 背后的产品哲学。同样是 MONA 家族，L03 与 L05 究竟是怎样的错位定位？一台主打年轻个性，一台面向家庭多用途，两者该怎么选？不止是多一台新车，未来 MONA 产品矩阵也会不断丰富，MONA 也有了更大的野心。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/15/c4cdf202610150912539088.png">]]></description>
+            <link>https://www.xchuxing.com/video/28512</link>
+            <guid isPermaLink="false">xchuxing:2:28512</guid>
+            <pubDate>Thu, 15 Oct 2026 02:00:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[探店 142期：售价保持不变？ 探店 2026 款理想 i6]]></title>
             <description><![CDATA[原计划于 9 月底开启预定的 2026 款理想 i6，在充分收集市场与用户反馈后，将正式上市时间调整至 10 月 28 日。伴随着国内上市节点的敲定，2026<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/14/08b71202610141555293721.png">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/178363</link>
             <guid isPermaLink="false">xchuxing:1:178363</guid>
             <pubDate>Tue, 13 Oct 2026 11:49:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纯电/增程双动力 小鹏 MONA L05 将于 10 月 15 日开启预售]]></title>
-            <description><![CDATA[10 月 13 日，我们从官方渠道获悉，小鹏 MONA L05 将于 10 月 15 日迎来中国首秀并同步开启预售。外观方面，小鹏 L05 整体的造型依旧延续<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/13/22f60202610131925132060.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/178362</link>
-            <guid isPermaLink="false">xchuxing:1:178362</guid>
-            <pubDate>Tue, 13 Oct 2026 11:42:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
