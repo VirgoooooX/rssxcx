@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 23:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 01:17:42 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 526期：巴黎专题（3）｜新MEGA背后有哪些故事？对话理想产品经理嘉禾]]></title>
+            <description><![CDATA[嘉禾，既是新 MEGA 的产品经理，也是一位四代同堂的真实用户。从打磨迭代到市场表现，新 MEGA 背后有哪些故事？真实成绩到底如何？面向全球市场，出海计划又会如何落地？这次快采我们采访了嘉禾，深度拆解这台理想家庭旗舰 MPV...<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/18/cc76a202610180744009593.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/28622</link>
+            <guid isPermaLink="false">xchuxing:2:28622</guid>
+            <pubDate>Sat, 17 Oct 2026 23:48:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[极致驾控超乎想象—埃安Ray7]]></title>
             <description><![CDATA[静态看Ray7，只觉得它好看、想坐。
@@ -90,13 +97,6 @@
             <link>https://www.xchuxing.com/video/28560</link>
             <guid isPermaLink="false">xchuxing:2:28560</guid>
             <pubDate>Fri, 16 Oct 2026 09:56:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[申报目录｜纯电/插混齐发 全新汉登录申报目录]]></title>
-            <description><![CDATA[在工信部第 412 批申报目录当中，我们发现了全新汉的身影。新车共申报了三款纯电版本以及一款插电混动版本，其中纯电双电机版系统综合最大功率达到 520kW。外观<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/16/9b84a202610161748521783.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/178539</link>
-            <guid isPermaLink="false">xchuxing:1:178539</guid>
-            <pubDate>Fri, 16 Oct 2026 09:52:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
