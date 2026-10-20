@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 00:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 05:33:53 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 528期：华为+红旗顶配双旗舰！动态试驾全新一代红旗H9]]></title>
+            <description><![CDATA[目前40万级同步搭载华为ADS 5 Ultra 同时定位超过 5.2 的轿车车型并不多，而今年红旗围绕H9开始也展开了全新的产品序列，从造型设计、底盘、全新智能化标准再到架构本身都迎来一次大的升级，实际表现怎么样？红旗新产品序列又带来哪些新的体验？我们视频和大家聊聊！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/20/39637202610200833288896.png">]]></description>
+            <link>https://www.xchuxing.com/video/28678</link>
+            <guid isPermaLink="false">xchuxing:2:28678</guid>
+            <pubDate>Tue, 20 Oct 2026 00:51:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行帮你选 30期：20-30 万纯电旅行及猎装车怎么选？]]></title>
             <description><![CDATA[曾几何时，旅行车在国内市场还是小众情怀的代名词，可选车型少，价格偏高。但随着新能源市场的全面爆发，在 20-30 万这个主流消费区间里，旅行车乃至猎装车的选项突<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/18/caacd202610182239513667.png">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/article/178628</link>
             <guid isPermaLink="false">xchuxing:1:178628</guid>
             <pubDate>Sun, 18 Oct 2026 05:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2027 年初陆续开启交付 梅赛德斯 AMG GT SUV 亮相]]></title>
-            <description><![CDATA[近日，梅赛德斯-AMG 正式发布了全新车型——AMG GT SUV。新车是 AMG 独立运营以来推出的首款原生纯电高性能 SUV，将于 2027 年初在全球市场<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/18/fa3f9202610181212172708.jpeg">]]></description>
-            <link>https://www.xchuxing.com/article/178627</link>
-            <guid isPermaLink="false">xchuxing:1:178627</guid>
-            <pubDate>Sun, 18 Oct 2026 04:48:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
