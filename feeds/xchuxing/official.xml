@@ -4,12 +4,19 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 22:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 01:08:39 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[新出行视频 529期：中国出海的另一种新范式 对话雷诺中国董事长苏伟铭]]></title>
+            <title><![CDATA[新出行视频 529期：一镜到底聊一聊问界新M8 都升级了什么？]]></title>
+            <description><![CDATA[改款投入超 15 亿人民币，问界新M8 这次改款都带来了哪些升级？本期视频就和大家聊一聊问界新 M8 这次都升级了什么。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/20/8b05a202610200955096344.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/28708</link>
+            <guid isPermaLink="false">xchuxing:2:28708</guid>
+            <pubDate>Tue, 20 Oct 2026 23:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 529期：中国出海的新范式 对话雷诺中国董事长苏伟铭]]></title>
             <description><![CDATA[国内车企都在整车出口、自建海外渠道的时候，还有一条完全不同的出海路径正在成型。我们对话雷诺中国董事长苏伟铭，聊这套中国技术生态 + 海外百年车企网络的共生模式，看看雷诺是怎么放下传统合资的思路，转而拥抱中国整个新能源生态？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/20/c3869202610202321088154.jpg">]]></description>
             <link>https://www.xchuxing.com/video/28705</link>
             <guid isPermaLink="false">xchuxing:2:28705</guid>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/video/28654</link>
             <guid isPermaLink="false">xchuxing:2:28654</guid>
             <pubDate>Mon, 19 Oct 2026 01:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行图文详解 252期：静态体验比亚迪第三代唐]]></title>
-            <description><![CDATA[从 15 年的第一代唐，到 26 年的第三代唐，比亚迪唐系列已经发展了十一年。这十一年中，销量暴增主要来自于唐 DM-i 的版本，毕竟是真省油。而这一次第三代唐<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/14/3dc42202610141733288847.png">]]></description>
-            <link>https://www.xchuxing.com/article/178418</link>
-            <guid isPermaLink="false">xchuxing:1:178418</guid>
-            <pubDate>Mon, 19 Oct 2026 01:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
