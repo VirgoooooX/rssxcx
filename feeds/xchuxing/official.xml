@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 01:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 06:12:15 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行一图 239期：更旗舰的家 一图看懂问界 新M8]]></title>
+            <description><![CDATA[改款总投入超 15 亿人民币，问界新M8 本次升级带来了什么？新出行一图带你一图看懂问界新 M8 都升级了什么。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/21/550712026102113461839.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/178835</link>
+            <guid isPermaLink="false">xchuxing:1:178835</guid>
+            <pubDate>Wed, 21 Oct 2026 05:46:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 529期：一镜到底聊一聊问界新M8 都升级了什么？]]></title>
             <description><![CDATA[改款投入超 15 亿人民币，问界新M8 这次改款都带来了哪些升级？本期视频就和大家聊一聊问界新 M8 这次都升级了什么。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/20/8b05a202610200955096344.jpg">]]></description>
@@ -86,13 +93,6 @@
             <link>https://www.xchuxing.com/video/28656</link>
             <guid isPermaLink="false">xchuxing:2:28656</guid>
             <pubDate>Mon, 19 Oct 2026 01:46:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 527期：维圈圈静态体验比亚迪第三代唐]]></title>
-            <description><![CDATA[比亚迪第三代唐到底有哪些不同，一个视频带你看懂！<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/19/a2e09202610190900184392.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/28654</link>
-            <guid isPermaLink="false">xchuxing:2:28654</guid>
-            <pubDate>Mon, 19 Oct 2026 01:21:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
