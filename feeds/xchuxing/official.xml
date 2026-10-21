@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 06:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 12:07:02 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[你觉得自动驾驶应该跳过L3么]]></title>
+            <description><![CDATA[[投票选项] 应该<br><br>[投票选项] 不应该<br><br>[投票选项] 无所谓｜评论区交流]]></description>
+            <link>https://www.xchuxing.com/vote/2297</link>
+            <guid isPermaLink="false">xchuxing:7:2297</guid>
+            <pubDate>Wed, 21 Oct 2026 10:42:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行一图 239期：更旗舰的家 一图看懂问界 新M8]]></title>
             <description><![CDATA[改款总投入超 15 亿人民币，问界新M8 本次升级带来了什么？新出行一图带你一图看懂问界新 M8 都升级了什么。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/21/550712026102113461839.jpg">]]></description>
@@ -30,8 +37,8 @@
             <pubDate>Tue, 20 Oct 2026 16:06:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[售价 9.99-6.59 万 比亚迪第二代海鸥正式上市]]></title>
-            <description><![CDATA[日前，比亚迪第二代海鸥正式上市，新车共推出五款配置车型，售价区间为 9.99-6.59 万，超级置换价区间为 9.69-6.29 万。外观方面，第二代海鸥延续“<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/20/856eb202610202249486372.jpg">]]></description>
+            <title><![CDATA[售价 6.59-9.99万 比亚迪第二代海鸥正式上市]]></title>
+            <description><![CDATA[日前，比亚迪第二代海鸥正式上市，新车共推出五款配置车型，售价区间为 6.59-9.99 万，超级置换价区间为 6.29 万- 9.69 万。外观方面，第二代海鸥<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/20/856eb202610202249486372.jpg">]]></description>
             <link>https://www.xchuxing.com/article/178807</link>
             <guid isPermaLink="false">xchuxing:1:178807</guid>
             <pubDate>Tue, 20 Oct 2026 14:52:48 GMT</pubDate>
@@ -84,15 +91,6 @@
             <link>https://www.xchuxing.com/article/178663</link>
             <guid isPermaLink="false">xchuxing:1:178663</guid>
             <pubDate>Mon, 19 Oct 2026 03:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大个静态体验比亚迪第三代唐]]></title>
-            <description><![CDATA[第三代唐，尺寸大了，空间大了，配置高了。
-
-那我作为第一代车主，肯定要来好好看看车，看看第三代唐的体验到底如何。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/19/d7f80202610190941016801.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/28656</link>
-            <guid isPermaLink="false">xchuxing:2:28656</guid>
-            <pubDate>Mon, 19 Oct 2026 01:46:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
