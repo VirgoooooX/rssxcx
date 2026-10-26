@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 11:55:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 18:01:49 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 538期：新款蔚来ET5T信息汇总]]></title>
+            <description><![CDATA[结合新出行蔚来 ET5T 铁粉群的信息以及网上的一些谍照图，给各位汇总了一期有关新款ET5T的视频。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/26/e788f202610262259262873.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/28880</link>
+            <guid isPermaLink="false">xchuxing:2:28880</guid>
+            <pubDate>Mon, 26 Oct 2026 15:04:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 537期：带你了解享界V8 在三排安全上的做法]]></title>
             <description><![CDATA[三排后风挡安全气囊？享界V8 针对三排安全问题给出了什么解法？静态体验时看到了安全展具，拍个小视频带大家看一看。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/26/0185120261026144343574.jpg">]]></description>
@@ -79,13 +86,6 @@
             <link>https://www.xchuxing.com/article/179031</link>
             <guid isPermaLink="false">xchuxing:1:179031</guid>
             <pubDate>Sun, 25 Oct 2026 03:49:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[将于 10 月 27 日上市 比亚迪发布第三代秦 PLUS 官图]]></title>
-            <description><![CDATA[从官方获悉，比亚迪第三代秦 PLUS 将于 10 月 27 日上市，新车在尺寸上进行了加大，并且配备了激光雷达等高阶辅助驾驶硬件。外观方面，车辆采用全新设计语言<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/25/a4b0320261025111114367.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/179030</link>
-            <guid isPermaLink="false">xchuxing:1:179030</guid>
-            <pubDate>Sun, 25 Oct 2026 03:27:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
