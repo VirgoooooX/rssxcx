@@ -4,10 +4,28 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 13:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 18:47:32 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XCX 车机体验 7期：深度体验 icar V25 车机]]></title>
+            <description><![CDATA[XCX-Test 车机实测迎来第 7 期，本期车机体验，我们来体验 icar V25，看看这台全地形都表现优秀的硬派方盒子，在车机智能化上提交的答卷分数是多少嗯<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/21/1afdf202610210933201600.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/178693</link>
+            <guid isPermaLink="false">xchuxing:1:178693</guid>
+            <pubDate>Tue, 27 Oct 2026 16:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行视频 539期：大个动态体验 smart #2]]></title>
+            <description><![CDATA[一款精致的两门小车，除了城市代步外，在高速也得有一定的可靠性，毕竟还是需要承担一点跨市出行的需求。
+
+那 #2 在 60kW 配备电机的硬件下，也能够给到 140km/h 的极速体验，并且当你在高速开到 120km/h 的时速下，车辆也不会出现不稳定的情况。
+
+可以说是一款相当好开的两门小车。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/26/36d93202610261740128060.png">]]></description>
+            <link>https://www.xchuxing.com/video/28868</link>
+            <guid isPermaLink="false">xchuxing:2:28868</guid>
+            <pubDate>Tue, 27 Oct 2026 16:01:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[树立方盒子全新标准 魏牌二代蓝山全球首秀]]></title>
             <description><![CDATA[10 月 27 日，魏牌二代蓝山全球首秀开启。二代蓝山围绕设计、智能、性能三大维度，回应“魏牌为什么做豪华方盒子、方盒子凭什么定义豪华、全面革新为何还叫蓝山”用<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/27/0d2f9202610271953068871.jpg">]]></description>
@@ -77,20 +95,6 @@
             <link>https://www.xchuxing.com/article/178753</link>
             <guid isPermaLink="false">xchuxing:1:178753</guid>
             <pubDate>Sun, 25 Oct 2026 16:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 21.98-27.98 万 猛士 X700 上市]]></title>
-            <description><![CDATA[日前，猛士 X700 正式上市，新车共推出了四款配置车型，售价区间为 21.98-27.98 万，限时焕新价为 20.98-26.98 万。外观采用全新的设计风<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/25/0300a202610252316342115.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/179052</link>
-            <guid isPermaLink="false">xchuxing:1:179052</guid>
-            <pubDate>Sun, 25 Oct 2026 15:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[售价 34.98-42.98 万 红旗 G919 上市]]></title>
-            <description><![CDATA[日前，红旗 G919 正式上市，新车共推出三款配置车型，售价区间为 34.98-42.98 万。外观方面，红旗 G919 采用东方礼制美学设计，车头采用高山飞瀑<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/25/1c391202610252309435278.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/179051</link>
-            <guid isPermaLink="false">xchuxing:1:179051</guid>
-            <pubDate>Sun, 25 Oct 2026 15:12:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
