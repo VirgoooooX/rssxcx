@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 21:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 01:27:13 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 542期：巴黎专题（6）海外底盘会有哪些差异？海外试驾理想Li 6]]></title>
+            <description><![CDATA[这次视频解密了，我们这次在海外开了理想i6！来看看底盘上会有哪些差异？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/30/dd6e6202610300103534420.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/28999</link>
+            <guid isPermaLink="false">xchuxing:2:28999</guid>
+            <pubDate>Thu, 29 Oct 2026 22:21:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 540期：大个动态体验零跑 D99]]></title>
             <description><![CDATA[在借车回来之前，我是真没想到零跑 D99 的动态表现会这么惊喜。
@@ -88,13 +95,6 @@
             <link>https://www.xchuxing.com/article/179233</link>
             <guid isPermaLink="false">xchuxing:1:179233</guid>
             <pubDate>Wed, 28 Oct 2026 12:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 541期：维圈圈静态体验一汽-大众 ID.AURA L5]]></title>
-            <description><![CDATA[听说一汽-大众，又来了一台年轻化设计的选手？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/10/28/5dfd7202610281729074238.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/28938</link>
-            <guid isPermaLink="false">xchuxing:2:28938</guid>
-            <pubDate>Wed, 28 Oct 2026 09:35:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
