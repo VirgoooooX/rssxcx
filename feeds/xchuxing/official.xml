@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 09:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 15:25:30 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[搭载新一代内燃机 马自达计划明年推出 CX-5 混动版]]></title>
+            <description><![CDATA[据外媒报道，马自达计划于 2027 年推出 CX-5 混合动力版本。该车型将搭载由马自达自主研发的全新混合动力系统。2027 款 CX-5 混合动力版的动力系统<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/31/12225202610311437239992.png">]]></description>
+            <link>https://www.xchuxing.com/article/179433</link>
+            <guid isPermaLink="false">xchuxing:1:179433</guid>
+            <pubDate>Sat, 31 Oct 2026 14:01:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2027 年推出自动驾驶出租车 丰田汽车与 Waymo 扩大合作]]></title>
             <description><![CDATA[据外媒报道，丰田汽车与 Waymo 宣布扩大自动驾驶领域合作，计划于 2027 年在日本使用丰田 bZ4X 启动完全自动驾驶出租车的初期运行。该服务计划采用无驾<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/31/a685e20261031143254488.png">]]></description>
@@ -94,13 +101,6 @@
             <link>https://www.xchuxing.com/article/179334</link>
             <guid isPermaLink="false">xchuxing:1:179334</guid>
             <pubDate>Thu, 29 Oct 2026 15:28:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[问界新 M8 将于 11 月 13 日正式上市]]></title>
-            <description><![CDATA[日前，据官方消息，问界新 M8 将于 11 月 13 日正式上市，试驾车将于 10 月 30 日陆续抵达门店。 此前问界新 M8 开启预售，新车预售价 38.9<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/29/08fd3202610292244341838.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/179348</link>
-            <guid isPermaLink="false">xchuxing:1:179348</guid>
-            <pubDate>Thu, 29 Oct 2026 14:46:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
