@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 01:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 08:27:28 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[通用汽车计划 2028 年推出 L3 自动驾驶功能]]></title>
+            <description><![CDATA[据外媒报道，通用汽车计划在 2028 年推出 L3 级自动驾驶功能，不采用纯视觉硬件方案。通用汽车首席产品官 Sterling Anderson 表示，其增强版<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/01/6dc99202611011207456044.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/179472</link>
+            <guid isPermaLink="false">xchuxing:1:179472</guid>
+            <pubDate>Sun, 01 Nov 2026 04:08:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[搭载新一代内燃机 马自达计划明年推出 CX-5 混动版]]></title>
             <description><![CDATA[据外媒报道，马自达计划于 2027 年推出 CX-5 混合动力版本。该车型将搭载由马自达自主研发的全新混合动力系统。2027 款 CX-5 混合动力版的动力系统<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/31/12225202610311437239992.png">]]></description>
@@ -94,13 +101,6 @@
             <link>https://www.xchuxing.com/video/28930</link>
             <guid isPermaLink="false">xchuxing:2:28930</guid>
             <pubDate>Thu, 29 Oct 2026 16:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行帮你选 33期：入门就很香？小鹏 MONA L05 配置拆解]]></title>
-            <description><![CDATA[10 月 29 日，小鹏 MONA L05 正式上市。其中纯电版共推出 4 款配置，限时权益价 13.98-17.18 万元；超级增程版共推出 2 款配置，限时<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/10/27/9c2db202610271631585059.png">]]></description>
-            <link>https://www.xchuxing.com/article/179334</link>
-            <guid isPermaLink="false">xchuxing:1:179334</guid>
-            <pubDate>Thu, 29 Oct 2026 15:28:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
