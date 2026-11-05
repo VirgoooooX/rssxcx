@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 23:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 03:34:37 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 547期：静态体验2027款极氪 7X]]></title>
+            <description><![CDATA[2027款极氪 7X 都升级了什么？升级后的体验又如何？本期视频就和大家聊一聊 2027 款极氪 7X 的升级点以及升级后的体验。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/04/a26a4202611041624094174.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/29201</link>
+            <guid isPermaLink="false">xchuxing:2:29201</guid>
+            <pubDate>Thu, 05 Nov 2026 02:30:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新出行图文详解 260期：静态体验 2027 款极氪 7X]]></title>
+            <description><![CDATA[2026 年 9 月，极氪汽车发布了 2027 款极氪 7X 产品更新预告，本次产品预告提到 2027 款极氪 7X 将新增外观颜色以及 85kWh 金砖电池。<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/03/31c1a202611031455594049.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/179607</link>
+            <guid isPermaLink="false">xchuxing:1:179607</guid>
+            <pubDate>Thu, 05 Nov 2026 02:30:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 545期：大个静态体验特斯拉 Cybercab]]></title>
             <description><![CDATA[没有方向盘、没有各种踏板的真全自动驾驶 Cybercab，终于巡展到深圳了。
@@ -81,20 +95,6 @@
             <link>https://www.xchuxing.com/article/179666</link>
             <guid isPermaLink="false">xchuxing:1:179666</guid>
             <pubDate>Wed, 04 Nov 2026 02:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[定位中大型轿车 别克 ELECTRA GS正式申报]]></title>
-            <description><![CDATA[信部最新一批新车公示中，上汽通用别克 ELECTRA GS 正式曝光申报信息，这台挂 GS 运动标识的轿跑，没有采用纯电路线，而是采用插混系统，支持外接充电。外<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/04/7d76020261104100557653.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/179664</link>
-            <guid isPermaLink="false">xchuxing:1:179664</guid>
-            <pubDate>Wed, 04 Nov 2026 02:07:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 年 11 月重磅新车上市规划汇总]]></title>
-            <description><![CDATA[进入 11 月，国内新能源市场依旧保持密集上新节奏，多款高关注度车型集中迎来上市，覆盖轿车、SUV 等不同品类。本期文章，我们就来盘点 11 月正式上市以及开启<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/03/f3757202611031649584400.png">]]></description>
-            <link>https://www.xchuxing.com/article/179514</link>
-            <guid isPermaLink="false">xchuxing:1:179514</guid>
-            <pubDate>Tue, 03 Nov 2026 15:47:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
