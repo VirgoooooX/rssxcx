@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 13:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 18:24:10 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 261期：静态体验仰望鼎曜]]></title>
+            <description><![CDATA[作为比亚迪旗下高端新能源品牌，仰望始终以颠覆性技术打造顶级产品矩阵，先后覆盖硬派越野、性能超跑与豪华轿车多个细分赛道。在完成越野与超跑赛道的布局后，仰望正式将产<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/07/5a1cf20261107234029859.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/179827</link>
+            <guid isPermaLink="false">xchuxing:1:179827</guid>
+            <pubDate>Sat, 07 Nov 2026 15:37:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[采用 5 座布局 腾势 N8 将于 11 月 12 日上市]]></title>
             <description><![CDATA[近日，我们从官方渠道获悉，腾势 N8 将于 11 月 12 日正式上市。新车采用五座布局，将于六座布局的腾势 N8L 行程差异化布局。需要注意的是，新车先期将提<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/07/2898720261107105651161.jpg">]]></description>
@@ -81,13 +88,6 @@
             <link>https://www.xchuxing.com/article/179796</link>
             <guid isPermaLink="false">xchuxing:1:179796</guid>
             <pubDate>Fri, 06 Nov 2026 06:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 548期：动态试驾享界V8 辅助驾驶/驾驶控和能耗表现如何？]]></title>
-            <description><![CDATA[在静态体验时，我说了享界V8 就是一台 9 系旗舰 MPV，但动态表现又如何呢？能不能做到买 MPV 送司机？开起来又如何？能耗又如何？本期视频就和大家聊一聊。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/06/35a38202611061238091109.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/29240</link>
-            <guid isPermaLink="false">xchuxing:2:29240</guid>
-            <pubDate>Fri, 06 Nov 2026 06:00:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
