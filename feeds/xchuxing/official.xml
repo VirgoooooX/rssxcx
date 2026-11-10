@@ -4,10 +4,23 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Nov 2026 03:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 11:57:33 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 550期：全网首测｜东风日产 NX7 纯电真实续航实测来了！]]></title>
+            <description><![CDATA[全网首测｜今天大V们评测完NX7的极限能耗，这期视频我们是直接上难度。
+
+我们这次途径城区、快速、高速路、国道再到县道乡道，我们规划了一条 300+ 公里的广东东部沿海公路，通过这次更复杂的环境来看看 NX7 这次 40.9 度大电池，最逼近真实的能耗水平...
+
+因为保密协议，这次先和大家分享 1min 版，把成绩先剧透了！
+
+#20万内插混首选东风日产NX7##东风日产NX7续航达成率1XX%#<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/10/da618202611101703303701.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/29350</link>
+            <guid isPermaLink="false">xchuxing:2:29350</guid>
+            <pubDate>Tue, 10 Nov 2026 09:04:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[预售价 28.98-32.98 万 魏牌二代蓝山开启预售]]></title>
             <description><![CDATA[日前，魏牌二代蓝山开启预售，新车共推出四款配置车型，预售价区间为 28.98-32.98 万；五座版的预售价格为 28.98-30.98 万，六座版的预售价格为<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/10/33029202611100004213251.png">]]></description>
@@ -77,13 +90,6 @@
             <link>https://www.xchuxing.com/article/179824</link>
             <guid isPermaLink="false">xchuxing:1:179824</guid>
             <pubDate>Sat, 07 Nov 2026 02:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[限时权益价 8.88 万元 全新吉利星愿 STAR 限定系列上市]]></title>
-            <description><![CDATA[11 月 6 日，全新吉利星愿 STAR 限定系列上市，共推出 STAR Ace 以及 STAR Chill 两款配置，上市指导价均为 9.18 万元，限时权益<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/06/07b46202611062214212511.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/179817</link>
-            <guid isPermaLink="false">xchuxing:1:179817</guid>
-            <pubDate>Fri, 06 Nov 2026 14:31:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
