@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Nov 2026 02:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 10:28:59 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[限时焕新价 12.69-17.19 万元 北汽星钽 5X 正式上市]]></title>
+            <description><![CDATA[11 月 12 日，北京越野“超大空间智慧越级 SUV” ——北汽星钽 5X 正式上市，推出插电混动与纯电共7款配置版型，限时焕新价 12.69-17.19 万<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/12/1b29a202611121709407730.png">]]></description>
+            <link>https://www.xchuxing.com/article/180122</link>
+            <guid isPermaLink="false">xchuxing:1:180122</guid>
+            <pubDate>Thu, 12 Nov 2026 09:11:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCX 车机体验 8期：深度体验 小鹏 MONA L05 车机]]></title>
             <description><![CDATA[作为 MONA 系列的首款大五座 SUV，小鹏 MONA L05 把不少原本只属于旗舰车型的智能配置下放到了十几万元的价位，其中最值得关注的，就是搭载天玑 AI<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/11/ae07c202611111013277743.jpg">]]></description>
@@ -84,19 +91,6 @@
             <link>https://www.xchuxing.com/article/179920</link>
             <guid isPermaLink="false">xchuxing:1:179920</guid>
             <pubDate>Tue, 10 Nov 2026 12:30:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 550期：全网首测｜东风日产 NX7 纯电真实续航实测来了！]]></title>
-            <description><![CDATA[全网首测｜今天大V们评测完NX7的极限能耗，这期视频我们是直接上难度。
-
-我们这次途径城区、快速、高速路、国道再到县道乡道，我们规划了一条 300+ 公里的广东东部沿海公路，通过这次更复杂的环境来看看 NX7 这次 40.9 度大电池，最逼近真实的能耗水平...
-
-因为保密协议，这次先和大家分享 1min 版，把成绩先剧透了！
-
-#20万内插混首选东风日产NX7##东风日产NX7续航达成率1XX%#<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/10/da618202611101703303701.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/29350</link>
-            <guid isPermaLink="false">xchuxing:2:29350</guid>
-            <pubDate>Tue, 10 Nov 2026 09:04:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
