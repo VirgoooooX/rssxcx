@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Nov 2026 18:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 23:47:12 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[逃离城市奔赴山野——埃安Ray7上山]]></title>
+            <description><![CDATA[从静态看车到测试场挑战，再到如今的上路实测，这台埃安Ray7无论是颜值、设计，还是操控、智能化，都给了我很多惊喜。逃离城市，奔赴山野，这次我们来到莫干山，开着这台车，用贴近日常周末出行的路况，真实感受它在实际道路上智驾、人驾的表现。Ray7现已上市，上市限时价11.47万起。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/13/6e3bf202611130404487371.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/29419</link>
+            <guid isPermaLink="false">xchuxing:2:29419</guid>
+            <pubDate>Thu, 12 Nov 2026 20:06:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[售价 12.38-15.38 万 埃安 Ray 7 正式上市]]></title>
             <description><![CDATA[日前，埃安 Ray 7 正式上市，新策划共推出五款配置车型，售价区间为 12.38-15.38 万，限时价区间为 11.47-14.47 万。外观方面，埃安 R<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/12/30357202611122347395835.jpg">]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.xchuxing.com/article/180067</link>
             <guid isPermaLink="false">xchuxing:1:180067</guid>
             <pubDate>Wed, 11 Nov 2026 06:54:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大众中国转让国轩高科 5.30% 股权]]></title>
-            <description><![CDATA[根据国轩高科此前披露的进展公告，合肥市国资委已批复同意合肥市建设投资有限公司受让大众汽车（中国）投资有限公司持有的 5.30% 股权。本次转让涉及 96,180<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/11/1f1e520261111001013795.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/180043</link>
-            <guid isPermaLink="false">xchuxing:1:180043</guid>
-            <pubDate>Tue, 10 Nov 2026 16:12:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
