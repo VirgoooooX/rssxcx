@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Nov 2026 00:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 07:13:15 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[售价 5.2 万起 极狐贝塔 T1/S3 换电双子星正式上市]]></title>
+            <description><![CDATA[11 月 13 日，极狐贝塔 S3 激光换电版正式上市，目前新车共 7 个配置。其中换电版 4 个配置，限时补贴价 5.83-7.88 万元；充电版 3 个配置<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/14/c2f41202611141012088799.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/180248</link>
+            <guid isPermaLink="false">xchuxing:1:180248</guid>
+            <pubDate>Sat, 14 Nov 2026 02:49:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[埃安Ray7超预期——正式上市发布]]></title>
             <description><![CDATA[13万买大5米702公里激光雷达后驱轿车，埃安Ray7正式上市，11.47万起。运动和舒适都兼顾得很好，喜欢运动最求高性能，EMB版本绝对是不二选择；兼顾家庭使用更节能可以看看EHB版本。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/14/aa1c8202611140026326913.jpg">]]></description>
@@ -85,13 +92,6 @@
             <link>https://www.xchuxing.com/article/180172</link>
             <guid isPermaLink="false">xchuxing:1:180172</guid>
             <pubDate>Fri, 13 Nov 2026 03:04:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[逃离城市奔赴山野——埃安Ray7上山]]></title>
-            <description><![CDATA[从静态看车到测试场挑战，再到如今的上路实测，这台埃安Ray7无论是颜值、设计，还是操控、智能化，都给了我很多惊喜。逃离城市，奔赴山野，这次我们来到莫干山，开着这台车，用贴近日常周末出行的路况，真实感受它在实际道路上智驾、人驾的表现。Ray7现已上市，上市限时价11.47万起。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/13/6e3bf202611130404487371.jpg">]]></description>
-            <link>https://www.xchuxing.com/video/29419</link>
-            <guid isPermaLink="false">xchuxing:2:29419</guid>
-            <pubDate>Thu, 12 Nov 2026 20:06:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
