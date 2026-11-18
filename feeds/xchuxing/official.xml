@@ -4,10 +4,24 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 10:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 18:56:12 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行图文详解 267期：穿梭自如的大五座 静态体验全新一代智己 LS6]]></title>
+            <description><![CDATA[在 20 万级大五座纯电 SUV 里，智己 LS6 一直是个有话题度的选手。当大家习惯把功夫花在冰箱、彩电、大沙发这些看得见的地方，全新一代智己 LS6 却选了<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/16/9523e202611161707507799.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/180332</link>
+            <guid isPermaLink="false">xchuxing:1:180332</guid>
+            <pubDate>Wed, 18 Nov 2026 16:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Momenta 与 Uber 联合启动德国 Robotaxi 试运营]]></title>
+            <description><![CDATA[日前，Momenta 与 Uber 联合在德国慕尼黑启动 Robotaxi 试运营。这是 Uber 首次在德国通过其 App 向乘客提供自动驾驶出行体验，双方计<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/18/2347f202611182137012508.png">]]></description>
+            <link>https://www.xchuxing.com/article/180453</link>
+            <guid isPermaLink="false">xchuxing:1:180453</guid>
+            <pubDate>Wed, 18 Nov 2026 13:39:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[蔚来能否实现连续四个季度盈利？]]></title>
             <description><![CDATA[蔚来公司将于12月1日公布三季度财报，晚上8：00举行财报电话会议。
@@ -82,20 +96,6 @@
             <link>https://www.xchuxing.com/article/180372</link>
             <guid isPermaLink="false">xchuxing:1:180372</guid>
             <pubDate>Tue, 17 Nov 2026 06:25:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 556期：补齐大五座旗舰拼图！静态体验吉利银河M8]]></title>
-            <description><![CDATA[这次吉利银河迎来一款全新单品，吉林银河M8！在大六座旗舰之后，吉利银河迅速补齐另一块大五座旗舰拼图，这次银河又会带来哪些新思考？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/17/11bfb202611170908302387.png">]]></description>
-            <link>https://www.xchuxing.com/video/29565</link>
-            <guid isPermaLink="false">xchuxing:2:29565</guid>
-            <pubDate>Tue, 17 Nov 2026 01:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新出行视频 555期：维圈圈动态试驾零跑全新 Lafa5]]></title>
-            <description><![CDATA[听说零跑 Lafa5 迎来了一次全新进化？<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/16/66c02202611161735194270.png">]]></description>
-            <link>https://www.xchuxing.com/video/29564</link>
-            <guid isPermaLink="false">xchuxing:2:29564</guid>
-            <pubDate>Mon, 16 Nov 2026 16:13:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
