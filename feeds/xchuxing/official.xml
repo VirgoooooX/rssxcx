@@ -4,10 +4,25 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Nov 2026 00:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 08:11:26 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[宁德时代电池交付砍半，你认为核心原因是？]]></title>
+            <description><![CDATA[据《21 汽车・一见 Auto》消息：理想i6原定8000个电池包订单，宁德时代仅交付4000个，交付缺口过半，业内评价这属于重大供应失误。这件事，你们怎么看呢？<br><br>[投票选项] 确实产能紧张，宁德时代排产资源不足<br><br>[投票选项] 商业博弈，优先保障更高利润客户<br><br>[投票选项] 双方前期商务、份额协议埋下矛盾<br><br>[投票选项] 信息不足，暂时无法判断]]></description>
+            <link>https://www.xchuxing.com/vote/2306</link>
+            <guid isPermaLink="false">xchuxing:7:2306</guid>
+            <pubDate>Thu, 19 Nov 2026 07:35:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[安全是造车的底线——领克超纲安全公开课]]></title>
+            <description><![CDATA[小时候，听过老师的一句话：这道题超纲了，不用做“。回到讨论”速成车”的当下，安全一定是最低底线。
+      跟着我来到领克汽车超纲安全公开课，看看领克是怎么把实战里的验证过的极限经验，沉淀成企业标准，用更多的超纲、冗余给消费者带来安心。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/19/ac879202611191242043849.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/29640</link>
+            <guid isPermaLink="false">xchuxing:2:29640</guid>
+            <pubDate>Thu, 19 Nov 2026 04:42:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 267期：穿梭自如的大五座 静态体验全新一代智己 LS6]]></title>
             <description><![CDATA[在 20 万级大五座纯电 SUV 里，智己 LS6 一直是个有话题度的选手。当大家习惯把功夫花在冰箱、彩电、大沙发这些看得见的地方，全新一代智己 LS6 却选了<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/16/9523e202611161707507799.jpg">]]></description>
@@ -82,20 +97,6 @@
             <link>https://www.xchuxing.com/video/29588</link>
             <guid isPermaLink="false">xchuxing:2:29588</guid>
             <pubDate>Tue, 17 Nov 2026 10:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[享界 V8 开启 120km/h L3 跨城高速路测]]></title>
-            <description><![CDATA[享界汽车宣布，旗下首款 MPV 享界 V8 开启全国首个 120km/h L3 自动驾驶跨城高速路测，测试范围由单城拓展至跨城。此次路测以全链路 8 大冗余设计<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/17/e9c6820261117142943530.png">]]></description>
-            <link>https://www.xchuxing.com/article/180374</link>
-            <guid isPermaLink="false">xchuxing:1:180374</guid>
-            <pubDate>Tue, 17 Nov 2026 06:31:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[受工信部委托 中汽协启动车企供应商账款支付年度评估]]></title>
-            <description><![CDATA[日前，据中汽协官方消息， 受工业和信息化部委托，中汽协作为第三方机构对17家重点汽车企业供应商账期支付情况开展年度调研评估，一汽、上汽、比亚迪、理想、蔚来、小米<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/17/9acc9202611171423222665.png">]]></description>
-            <link>https://www.xchuxing.com/article/180372</link>
-            <guid isPermaLink="false">xchuxing:1:180372</guid>
-            <pubDate>Tue, 17 Nov 2026 06:25:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
