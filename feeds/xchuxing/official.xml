@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 13:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 21:37:47 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[岚图梦想家 9 右舵版正式发运东南亚市场]]></title>
+            <description><![CDATA[日前，岚图梦想家 9 右舵版发运仪式在岚图黄金工厂举行，此次发运的数量达到了数千台之多，并且将运往东南亚右舵市场进行销售。该车型在已于泰国同步上市，并将于 12<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/20/ea0e3202611202204156158.jpg">]]></description>
+            <link>https://www.xchuxing.com/article/180580</link>
+            <guid isPermaLink="false">xchuxing:1:180580</guid>
+            <pubDate>Fri, 20 Nov 2026 14:07:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[拓展欧洲业务 红旗或将与欧洲车企开展合作]]></title>
             <description><![CDATA[据外媒报道， 红旗正考虑在欧洲建立生产布局，并正在评估多家当地潜在合作伙伴，其中包括 Stellantis 和大众集团，但消息并未得到官方证实。目前，红旗已经进<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/20/f0adb202611201642401615.png">]]></description>
@@ -87,14 +94,6 @@
             <link>https://www.xchuxing.com/article/180453</link>
             <guid isPermaLink="false">xchuxing:1:180453</guid>
             <pubDate>Wed, 18 Nov 2026 13:39:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来能否实现连续四个季度盈利？]]></title>
-            <description><![CDATA[蔚来公司将于12月1日公布三季度财报，晚上8：00举行财报电话会议。
-目前蔚来已经达成连续 3 个季度盈利👍<br><br>[投票选项] 能<br><br>[投票选项] 不能<br><br>[投票选项] 看投票结果用，评论区一起聊聊]]></description>
-            <link>https://www.xchuxing.com/vote/2305</link>
-            <guid isPermaLink="false">xchuxing:7:2305</guid>
-            <pubDate>Wed, 18 Nov 2026 09:10:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
