@@ -4,10 +4,19 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 02:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 10:31:30 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[试驾新世代宝马iX3，智驾人驾都有“宝马味儿”？]]></title>
+            <description><![CDATA[一直在社区里看，都说新世代iX3，很强调“宝马味儿”。在时间有限的情况下，把宝马iX3开到县道、高速与山路三种不同特点路况，并从人驾和智驾的两个方面去感受。
+
+希望能帮助大家，快速找到理解新世代宝马iX3的“宝马味儿”<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/22/8d180202611221745334275.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/29807</link>
+            <guid isPermaLink="false">xchuxing:2:29807</guid>
+            <pubDate>Sun, 22 Nov 2026 09:53:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[南方电网与宁德时代签署战略合作框架协议]]></title>
             <description><![CDATA[日前，南方电网公司与宁德时代在广州签署战略合作框架协议， 根据协议，双方将围绕科技研发、零碳场景建设、储能生态、产业协同及国际业务展开合作，推进新型电力系统建设<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/21/cd74f202611212327562649.jpg">]]></description>
@@ -87,13 +96,6 @@
             <link>https://www.xchuxing.com/article/180485</link>
             <guid isPermaLink="false">xchuxing:1:180485</guid>
             <pubDate>Thu, 19 Nov 2026 13:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[限时价 11.98-14.98 万元 iCAR V25 正式上市]]></title>
-            <description><![CDATA[11 月 19 日，iCAR V25 正式上市，新车限时价 11.98-14.98 万元，共推出 4 款车型配置。外观方面，iCAR V25 采用家族未来经典设<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/19/f8bd2202611191618404124.jpg">]]></description>
-            <link>https://www.xchuxing.com/article/180479</link>
-            <guid isPermaLink="false">xchuxing:1:180479</guid>
-            <pubDate>Thu, 19 Nov 2026 12:25:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
