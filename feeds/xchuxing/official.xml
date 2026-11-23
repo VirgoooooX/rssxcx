@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 23:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 04:53:32 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[新出行视频 563期：一台中国纯电SUV，凭什么在汽车发源地赢得认可？]]></title>
+            <description><![CDATA[零跑在国内的辉煌成绩大家有目共睹，连续4个月交付破10万，势头相当强劲！但很多人不知道，零跑早已把战场铺到欧洲，这一次我们来到了汽车发源地德国，带大家探索零跑B10在欧洲市场的表现……<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/23/a840b202611231211587998.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/29837</link>
+            <guid isPermaLink="false">xchuxing:2:29837</guid>
+            <pubDate>Mon, 23 Nov 2026 04:23:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行图文详解 268期：静态体验智界 RX]]></title>
             <description><![CDATA[作为鸿蒙智行最运动的 SUV，智界 RX 无论是外观设计，还是内饰设计，都符合定位。那么在整体静态方面的表现，例如储物空间够不够用，乘坐空间够不够大。就让我们一<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/13/3ec99202611131658079519.png">]]></description>
@@ -87,13 +94,6 @@
             <link>https://www.xchuxing.com/article/180580</link>
             <guid isPermaLink="false">xchuxing:1:180580</guid>
             <pubDate>Fri, 20 Nov 2026 14:07:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拓展欧洲业务 红旗或将与欧洲车企开展合作]]></title>
-            <description><![CDATA[据外媒报道， 红旗正考虑在欧洲建立生产布局，并正在评估多家当地潜在合作伙伴，其中包括 Stellantis 和大众集团，但消息并未得到官方证实。目前，红旗已经进<br><img src="https://s1.xchuxing.com/xchuxing/article/2026/11/20/f0adb202611201642401615.png">]]></description>
-            <link>https://www.xchuxing.com/article/180548</link>
-            <guid isPermaLink="false">xchuxing:1:180548</guid>
-            <pubDate>Fri, 20 Nov 2026 08:46:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
