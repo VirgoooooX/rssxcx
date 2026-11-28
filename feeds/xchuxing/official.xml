@@ -4,10 +4,17 @@
         <description><![CDATA[新出行官方频道最新资讯]]></description>
         <link>https://www.xchuxing.com/official</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Nov 2026 11:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 19:00:58 GMT</lastBuildDate>
         <atom:link href="https://virgooooox.github.io/rssxcx/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[蔚乐萤三品牌同台聚首——广州车展抢先看]]></title>
+            <description><![CDATA[蔚来、乐道、萤火虫三个品牌首次同台聚首，一次性从租电不到8w的精致小车，看到近百万的旗舰豪华，很过瘾。尤其喜欢萤火虫的官方改装方案，充分表达个性，很爱。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/28/7fdb3202611282217187128.jpg">]]></description>
+            <link>https://www.xchuxing.com/video/30281</link>
+            <guid isPermaLink="false">xchuxing:2:30281</guid>
+            <pubDate>Sat, 28 Nov 2026 14:19:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新出行视频 579期：静态体验比亚迪海洋网海鲸]]></title>
             <description><![CDATA[2026 广州车展上，比亚迪海洋网正式带来了旗下首款 MPV 车型——比亚迪海鲸，新车基于下一代 MPV 专属平台开发，本期视频就和大家聊一聊。<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/28/f9175202611281602329920.jpg">]]></description>
@@ -85,13 +92,6 @@
             <link>https://www.xchuxing.com/video/30133</link>
             <guid isPermaLink="false">xchuxing:2:30133</guid>
             <pubDate>Fri, 27 Nov 2026 12:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 广州车展 | 静态实拍极狐阿尔法 S5]]></title>
-            <description><![CDATA[广州车展探馆：极狐展台<br><img src="https://s3.xchuxing.com/xchuxing/video/2026/11/27/4a491202611272006146170.png">]]></description>
-            <link>https://www.xchuxing.com/video/30132</link>
-            <guid isPermaLink="false">xchuxing:2:30132</guid>
-            <pubDate>Fri, 27 Nov 2026 12:07:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
